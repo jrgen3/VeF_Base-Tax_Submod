@@ -8,7 +8,7 @@ citysize = 9000
 culture = wallonian
 religion = catholic 
 hre = yes
-base_tax = 6
+base_tax = 3.5
 trade_goods = iron
 manpower = 1
 add_core = LUX
@@ -38,7 +38,7 @@ discovered_by = byzantine
 1600.1.1   = { manpower = 1.2 courthouse = yes }
 1620.1.1   = { trading_post = yes }
 1650.1.1   = { manpower = 1.2 fort3 = yes }
-1659.7.1   = { controller = FRA } # Maréchal Turenne takes control of Luxembourg
+1659.7.1   = { controller = FRA } # Marï¿½chal Turenne takes control of Luxembourg
 1659.10.28 = { controller = SPA } # Peace of the Pyrennees
 1665.9.17  = { add_core = FRA } # Louis XIV's father-in-law, Philip IV of Spain, dies
 1670.1.1   = { fort4 = yes }

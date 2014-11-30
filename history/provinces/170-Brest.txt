@@ -1,4 +1,4 @@
-# 170 Finistère - Principal cities: Brest
+# 170 Finistï¿½re - Principal cities: Brest
 # Manpower revision complete
 
 owner = BRI
@@ -8,7 +8,7 @@ citysize = 3500
 culture = breton
 religion = catholic
 hre = no
-base_tax = 2
+base_tax = 2.2
 trade_goods = naval_supplies
 manpower = 1.5
 add_core = BRI

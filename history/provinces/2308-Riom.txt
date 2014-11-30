@@ -8,7 +8,7 @@ citysize = 5500
 culture = cosmopolitan_french
 religion = catholic
 hre = no
-base_tax = 2
+base_tax = 2.3
 trade_goods = iron
 manpower = 2
 add_core = BOU
@@ -44,10 +44,10 @@ discovered_by = byzantine
 1639.1.1   = { unrest = 3 }
 1641.1.1   = { unrest = 0 }
 1650.1.1   = { manpower = 2.5 sheriffs_office = yes }
-1650.1.14  = { unrest = 7 } # Mazarin arrests the Princes Condé, Conti & Longueville, the beginning of the Second Fronde
+1650.1.14  = { unrest = 7 } # Mazarin arrests the Princes Condï¿½, Conti & Longueville, the beginning of the Second Fronde
 1650.3.1   = { revolt = { type = revolutionary_rebels size = 0 } unrest = 0 controller = REB } # Fronde rebels take control
 1651.4.1   = { revolt = {} controller = FRA } # An unstable peace is concluded
-1651.12.1  = { unrest = 7 } # Mazarin returns from exile, Condé sides with Spain, situation heats up again
+1651.12.1  = { unrest = 7 } # Mazarin returns from exile, Condï¿½ sides with Spain, situation heats up again
 1652.10.21 = { unrest = 0 } # The King is allowed to enter Paris again, Mazarin leaves France for good. Second Fronde over.
 1680.1.1   = { courthouse = yes }
 1700.1.1   = { manpower = 2.7 fort4 = yes }

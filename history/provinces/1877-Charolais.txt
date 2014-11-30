@@ -8,7 +8,7 @@ citysize = 3500
 culture = burgundian
 religion = catholic
 hre = no
-base_tax = 3
+base_tax = 2.8
 trade_goods = salt
 manpower = 2
 add_core = BUR
@@ -33,10 +33,10 @@ discovered_by = byzantine
 1600.1.1   = { manpower = 2.25 }
 1640.1.1   = { fort3 = yes }
 1650.1.1   = { manpower = 2.5 sheriffs_office = yes }
-1668.2.20  = { controller = FRA } # The Prince de Condé swiftly takes Franche-Comté in the War of Devolution
-1668.5.2   = { controller = SPA } # Treaty of Aachen: Franche-Comté returned to Spain
-1670.1.1   = { add_core = FRA } # Louis XIV lays claims through the Chambres de Réunion
-1674.9.1   = { controller = FRA } # France captures Franche-Comté 
+1668.2.20  = { controller = FRA } # The Prince de Condï¿½ swiftly takes Franche-Comtï¿½ in the War of Devolution
+1668.5.2   = { controller = SPA } # Treaty of Aachen: Franche-Comtï¿½ returned to Spain
+1670.1.1   = { add_core = FRA } # Louis XIV lays claims through the Chambres de Rï¿½union
+1674.9.1   = { controller = FRA } # France captures Franche-Comtï¿½ 
 1678.9.19  = { owner = FRA remove_core = SPA } # Treaty of Nijmegen (FRA-SPA)
 1685.1.1   = { fort4 = yes }
 1700.1.1   = { manpower = 2.7 }

@@ -1,14 +1,14 @@
-# 1879 - Alençon
+# 1879 - Alenï¿½on
 # Manpower revision complete
 
 owner = ALE
 controller = ALE
-capital = "Alençon"
+capital = "Alenï¿½on"
 citysize = 11000
 culture = cosmopolitan_french
 religion = catholic
 hre = no
-base_tax = 3
+base_tax = 2.3
 trade_goods = cloth
 manpower = 3
 add_core = ALE
@@ -28,9 +28,9 @@ discovered_by = byzantine
 1630.1.1   = { trading_post = yes }
 1640.1.1   = { fort3 = yes }
 1650.1.1   = { manpower = 3.5 sheriffs_office = yes }
-1650.1.14  = { unrest = 7 } # Mazarin arrests the Princes Condé, Conti & Longueville, the beginning of the Second Fronde
+1650.1.14  = { unrest = 7 } # Mazarin arrests the Princes Condï¿½, Conti & Longueville, the beginning of the Second Fronde
 1651.4.1   = { unrest = 4 } # An unstable peace is concluded
-1651.12.1  = { unrest = 7 } # Mazarin returns from exile, Condé sides with Spain, situation heats up again
+1651.12.1  = { unrest = 7 } # Mazarin returns from exile, Condï¿½ sides with Spain, situation heats up again
 1652.10.21 = { unrest = 0 } # The King is allowed to enter Paris again, Mazarin leaves France for good. Second Fronde over.
 1685.10.18 = { unrest = 8 } # Edict of Nantes revoked by Louis XIV
 1686.1.17  = { religion = catholic unrest = 0 } # Dragonnard campaign succesful, region back to catholicism

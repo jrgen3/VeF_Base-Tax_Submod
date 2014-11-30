@@ -8,7 +8,7 @@ citysize = 35500
 culture = wallonian
 religion = catholic
 hre = no
-base_tax = 3
+base_tax = 2.8
 trade_goods = cloth
 manpower = 2
 add_core = FLA
@@ -44,7 +44,7 @@ discovered_by = byzantine
 1610.1.1   = { capital = "Lille" } # Lille becomes more important than Arras
 1630.1.1   = { fort3 = yes }
 1635.1.1   = { controller = FRA } # French troops capture parts of the Southern Lowlands
-1648.1.30  = { controller = SPA } # Peace of Münster/Westphalia
+1648.1.30  = { controller = SPA } # Peace of Mï¿½nster/Westphalia
 1650.1.1   = { manpower = 2.5 add_core = FRA } # Chambers of Reunion
 1658.6.14  = { controller = FRA } # French troops capture most of the area
 1659.10.28 = { owner = FRA remove_core = SPA } # Peace of the Pyrenees

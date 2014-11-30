@@ -8,7 +8,7 @@ citysize = 40000
 culture = cosmopolitan_french
 religion = catholic
 hre = no
-base_tax = 3
+base_tax = 4
 trade_goods = silk
 manpower = 2
 add_core = DAU
@@ -30,7 +30,7 @@ discovered_by = byzantine
 1400.1.1   = { manpower = 1.4 }
 1420.5.21  = { owner = DAU controller = DAU } # Treaty of Troyes; moved forward a year for playability from bookmark
 1429.7.17  = { owner = FRA controller = FRA remove_core = DAU } # Charles VII crowned at Reims; restoration of France
-1446.9.27  = { revolt = { type = pretender_rebels size = 0 } controller = REB } # Dauphiné is ruled as a separate kingdom by Louis
+1446.9.27  = { revolt = { type = pretender_rebels size = 0 } controller = REB } # Dauphinï¿½ is ruled as a separate kingdom by Louis
 1461.7.22  = { revolt = {} controller = FRA } # Louis is proclaimed king of France
 1467.6.15  = { add_core = BUR } # Charles the Bold ascends to the throne and lays claims
 1477.1.5   = { remove_core = BUR } # Charles the Bold dies
@@ -49,10 +49,10 @@ discovered_by = byzantine
 1641.1.1   = { unrest = 3 }
 1644.1.1   = { unrest = 0 }
 1650.1.1   = { manpower = 3 }
-1650.1.14  = { unrest = 7 } # Mazarin arrests the Princes Condé, Conti & Longueville, the beginning of the Second Fronde
+1650.1.14  = { unrest = 7 } # Mazarin arrests the Princes Condï¿½, Conti & Longueville, the beginning of the Second Fronde
 1650.3.1   = { unrest = 0 revolt = { type = revolutionary_rebels size = 0 } controller = REB } # Fronde rebels take control
 1651.4.1   = { revolt = {} controller = FRA } # An unstable peace is concluded
-1651.12.1  = { unrest = 7 } # Mazarin returns from exile, Condé sides with Spain, situation heats up again
+1651.12.1  = { unrest = 7 } # Mazarin returns from exile, Condï¿½ sides with Spain, situation heats up again
 1652.10.21 = { unrest = 0 } # The King is allowed to enter Paris again, Mazarin leaves France for good. Second Fronde over.
 1670.1.1   = { tax_assessor = yes }
 1680.1.1   = { fort4 = yes }
