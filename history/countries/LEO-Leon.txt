@@ -1,0 +1,12 @@
+# Leon
+government = feudal_monarchy
+mercantilism = 0.00
+primary_culture = castillian
+add_accepted_culture = andalucian
+religion = catholic
+technology_group = western
+historical_friend = CAS
+historical_rival = GRA
+capital = 208 # Leon
+
+# Personal Union with Castille

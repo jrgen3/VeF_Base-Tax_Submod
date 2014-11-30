@@ -1,0 +1,59 @@
+#Country Name: Please seefilename.
+
+graphical_culture = africangfx
+
+color = { 30  131  162 }
+
+historical_idea_groups = {
+}
+
+historical_units = { 
+	sudanese_tech_cavalry_0_1
+	sudanese_tech_cavalry_12_1
+	sudanese_tech_cavalry_18_1
+	sudanese_tech_cavalry_24_1
+	sudanese_tech_cavalry_30_1
+	sudanese_tech_cavalry_6_1
+	sudanese_tech_infantry_0_1
+	sudanese_tech_infantry_12_1
+	sudanese_tech_infantry_18_1
+	sudanese_tech_infantry_24_1
+	sudanese_tech_infantry_30_1
+	sudanese_tech_infantry_36_1
+	sudanese_tech_infantry_6_1
+}
+
+
+
+
+monarch_names = {
+	"Ruhanga #0" = 20
+	"Nkya #0" = 20
+	"Kakama #0" = 20
+	"Bada #0" = 20
+	"Ngonzaki #0" = 20
+	"Isaza #0" = 20
+	"Labongo #0" = 20
+	"Ndahura #0" = 20
+	"Mulindwa #0" = 20
+	"Wamara #0" = 20
+	"Isingoma #0" = 20
+	"Omukama #0" = 20
+	"Kazana #0" = 20
+	"Nyaika #0" = 20 
+	"Kyebambe #0" = 20
+}
+
+leader_names = {
+	Ruhaga
+	Olimi
+	Kasunga
+	Kakende
+	Kabalega
+	Kasagama
+	Rukidi
+	Kaboyo
+}
+
+ship_names = {
+}

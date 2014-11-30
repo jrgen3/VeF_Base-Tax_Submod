@@ -1,0 +1,178 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 207  111  64 }
+
+historical_idea_groups = {
+	mercenary_ideas
+	mercantilist_ideas
+	economic_ideas
+	defensive_ideas
+	diplomatic_ideas
+	cultural_unity_ideas
+	quantity_ideas
+	gf1_ideas
+}
+
+historical_units = { 
+	western_artillery_15_1
+	western_artillery_22_1
+	western_artillery_29_1
+	western_artillery_35_1
+	western_artillery_40_1
+	western_artillery_44_1
+	western_artillery_48_1
+	western_artillery_52_1
+	western_artillery_55_1
+	western_artillery_55_2
+	western_artillery_8_1
+	western_cavalry_0_1
+	western_cavalry_0_2
+	western_cavalry_12_1
+	western_cavalry_12_2
+	western_cavalry_18_1
+	western_cavalry_23_1
+	western_cavalry_28_1
+	western_cavalry_33_1
+	western_cavalry_37_1
+	western_cavalry_37_2
+	western_cavalry_41_1
+	western_cavalry_41_2
+	western_cavalry_45_1
+	western_cavalry_45_2
+	western_cavalry_49_1
+	western_cavalry_49_2
+	western_cavalry_52_1
+	western_cavalry_52_2
+	western_cavalry_6_1
+	western_cavalry_6_2
+	western_infantry_0_1
+	western_infantry_0_2
+	western_infantry_12_1
+	western_infantry_12_2
+	western_infantry_16_1
+	western_infantry_16_2
+	western_infantry_20_1
+	western_infantry_20_2
+	western_infantry_23_1
+	western_infantry_23_2
+	western_infantry_26_1
+	western_infantry_26_2
+	western_infantry_29_1
+	western_infantry_29_2
+	western_infantry_32_1
+	western_infantry_32_2
+	western_infantry_35_1
+	western_infantry_35_2
+	western_infantry_38_1
+	western_infantry_38_2
+	western_infantry_41_1
+	western_infantry_41_2
+	western_infantry_44_1
+	western_infantry_44_2
+	western_infantry_47_1
+	western_infantry_47_2
+	western_infantry_49_1
+	western_infantry_49_2
+	western_infantry_4_1
+	western_infantry_4_2
+	western_infantry_51_1
+	western_infantry_51_2
+	western_infantry_53_1
+	western_infantry_53_2
+	western_infantry_55_1
+	western_infantry_55_2
+	western_infantry_8_1
+	western_infantry_8_2
+}
+
+
+
+
+
+monarch_names = {
+	"Charles #0" = 80
+	"François #0" = 40		
+	"Philippe #0" = 40
+	"Louis #3" = 20
+	"Pierre #1" = 20
+	"Engelbert #0" = 20
+	"Jacques #0" = 20
+	"Jean #0" = 20
+	"Julius #0" = 20
+	"Louis Julius #0" = 20
+	"Philippe Julian #0" = 20
+	"Philippe Julius #0" = 20
+	"Adolphe #0" = 10
+	"Fernand #0" = 10
+	"Frédéric #0" = 10
+	"Henriette #0" = -10
+	"Marie #0" = -10
+	"Guillaume #5" = 5
+	"Henri #0" = 5
+	"Thierry #0" = 5
+	"Robert #3" = 1
+	"Rénaud #2" = 1
+	"Guy #1" = 1
+	"Hervé #1" = 1
+	"Alexandre #0" = 0
+	"Armand #0" = 0
+	"Barthélémy #0" = 0
+	"Bernard #0" = 0
+	"Claude #0" = 0
+	"Denis #0" = 0
+	"Étienne #0" = 0
+	"Gaston #0" = 0
+	"Georges #0" = 0
+	"Jean-Baptiste #0" = 0
+	"Joseph #0" = 0
+	"Marc #0" = 0
+	"Maurice #0" = 0
+	"Michel #0" = 0
+	"Nicolas #0" = 0
+	"Pierre #0" = 0
+}
+
+ship_names = {
+	Brinon
+	"Cercy la Tour" Charité "Châtillon en Bazois" Chevenon Clamecy Corbigny Cossaye
+	Decize Dompierre Donzy Dornes
+	Fourchambault Fours Frasnay-Reugny
+	Garchy Goulanges Guérigny
+	Imphy
+	"La Machine" "Luthenay Uxeloup" Luzy
+	Magny-Cours Marzy Menou Montambert Moulins-Engilbert
+	Nevers
+	Pouilly Pouques Prémery
+	"Saint Aubin" "Saint Benin d'Azy" "Saint Eloi" "Saint Franchy" "Saint Germain" "St Gratien Savigny" "Saint Honoré" "Saint Imbert" "Sainte Marie" "St Malo en Donziers" "Saint Ouen" "Saint Parize en Viry" "St Pierre le Moutier" "Saint Révérien" "Saint Saulge"
+	Tannay
+	Vandenesse "Varennes-Vauzelle" "Varzy"
+}
+
+leader_names = {
+	d'Ailly d'Alixand "Andrault de Langeron" "Angrand d'Alleray" d'Anlazy d'Armes
+	"de Bélanger" "de Berthier" "de Bèze" "de Bonnay" "de Borniol" "de Bourgoing" "du Broc" 
+	"de Chabannes" "de Chassy" "de Chevenon"
+	"de Damas" "Des Prez"
+	"Eon de Beaumont" d'Estutt
+	"de la Ferté-Meun"
+	Gascoing "de Gonzague"
+	"de Husson"
+	d'Inteville
+	"de La Boulaye" "de La Buxières" "La Vaux"
+	"de Maulnoury" "de Maumigny" "de Mesgriny"
+	"de Norry"
+	"de Paris" Perreau
+	"de Remigny" "de Rouffignac" "Rousseau de Chamoy"
+	"de Saincy" "de Sainte Maure" "de Saint Verrain" "de Sandras" "de Serent"
+	Tenaille "de Toucy" "de Troussebois"
+	"Vaillant de Guélis" "de Vaux" "du Verne" "de Viau" "de Villars"
+}
+
+army_names = { 
+	 "Armée du Nivernais"  "Armée de La Ferté-Langeron"
+	 "Armée du Bazois" "Armée du Dionzais" "Armée du Corbigeois"
+	 "Armée du Charitois"
+	 "Armée de $PROVINCE$" 
+}

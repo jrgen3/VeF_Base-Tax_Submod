@@ -1,0 +1,147 @@
+#Country Name: Please see filename.
+
+
+graphical_culture = indiangfx
+
+
+color = { 10 94 17 }
+
+historical_idea_groups = {
+	intimidatory_ideas
+	offensive_ideas
+	religious_ideas
+	land_trade_ideas
+	quality_ideas
+	expansion_ideas
+	gf1_ideas
+	standing_army_ideas
+}
+
+historical_units = {
+	muslim_artillery_10_1
+	muslim_artillery_16_1
+	muslim_artillery_23_1
+	muslim_artillery_29_1
+	muslim_artillery_35_1
+	muslim_artillery_40_1
+	muslim_artillery_44_1
+	muslim_artillery_48_1
+	muslim_artillery_52_1
+	muslim_artillery_55_1
+	muslim_artillery_55_2
+	muslim_cavalry_0_1
+	muslim_cavalry_0_2
+	muslim_cavalry_12_1
+	muslim_cavalry_12_2
+	muslim_cavalry_18_1
+	muslim_cavalry_23_1
+	muslim_cavalry_28_1
+	muslim_cavalry_33_1
+	muslim_cavalry_37_1
+	muslim_cavalry_41_1
+	muslim_cavalry_41_2
+	muslim_cavalry_45_1
+	muslim_cavalry_45_2
+	muslim_cavalry_49_1
+	muslim_cavalry_49_2
+	muslim_cavalry_52_1
+	muslim_cavalry_52_2
+	muslim_cavalry_6_1
+	muslim_cavalry_6_2
+	muslim_infantry_0_1
+	muslim_infantry_0_2
+	muslim_infantry_12_1
+	muslim_infantry_12_2
+	muslim_infantry_16_1
+	muslim_infantry_16_2
+	muslim_infantry_20_1
+	muslim_infantry_20_2
+	muslim_infantry_23_1
+	muslim_infantry_23_2
+	muslim_infantry_26_1
+	muslim_infantry_26_2
+	muslim_infantry_29_1
+	muslim_infantry_29_2
+	muslim_infantry_32_1
+	muslim_infantry_32_2
+	muslim_infantry_35_1
+	muslim_infantry_35_2
+	muslim_infantry_38_1
+	muslim_infantry_38_2
+	muslim_infantry_41_1
+	muslim_infantry_41_2
+	muslim_infantry_44_1
+	muslim_infantry_44_2
+	muslim_infantry_47_1
+	muslim_infantry_47_2
+	muslim_infantry_49_1
+	muslim_infantry_49_2
+	muslim_infantry_4_1
+	muslim_infantry_4_2
+	muslim_infantry_51_1
+	muslim_infantry_51_2
+	muslim_infantry_53_1
+	muslim_infantry_53_2
+	muslim_infantry_55_1
+	muslim_infantry_55_2
+	muslim_infantry_8_1
+	muslim_infantry_8_2
+}
+
+
+historical_score = 600
+
+
+
+
+
+
+monarch_names = {
+	"Ardashir #3" = 20
+	"Shapur #3" = 20
+	"Bahram #5" = 30
+	"Narseh #0" = 10
+	"Hormizd #4" = 15
+	"Kavadh #2" = 10
+	"Yazdegerd #3" = 15
+	"Peroz #1" = 10
+	"Khosrau #2" = 10
+	"Djamasp #0" = 5
+	"Vistahm #0" = 5
+	"Boran #0" = 5
+}
+
+
+leader_names = {
+        Karens
+	Shabaraz
+        Suren
+	Shahin
+	Sharahplakan
+	Rhahzadh
+	Kardarigan
+}
+
+
+ship_names = {
+	Abathur "Adamn Kasia" "Aesma Daeva" Agas
+	Ahriman Ahura "Ahura Mazda" Ahurani Airyaman
+	"Aka Manah" Aladdin Allatum Amashaspan Ameratat
+	"Amesha Spentas" Anahita "Angra Mainyu" Anjuman
+	"Apam-natat" Apaosa Aredvi Arishtat Armaiti Arsaces
+	"Asha vahista" Asman "Asto Vidatu" "Astvat-Ereta"
+	Atar "Azi Dahaka" Baga Bahram Burijas Bushyasta Buyasta
+	Camros Daena Daevas Ahaka Dahhak Dena Dev Diwe Drug
+	Drvaspa Frashegird Fravashis Gandarewa "Gao-kerena"
+	Gayomard Gayomart "Geus-Tasan" "Geus-Urvan" Haoma
+	Haurvatat Humay Hvar Hvarekhshaeta Indar Indra Izha
+	Jamshid Jeh Karshipta Kavi Khara "Khshathra vairya"
+	Kundrav Mah Mahre Mahrianag Manu Manuchihir Mao 
+	Mashyane Mashye Menog Mithra Nairyosangha Nanghaithya
+	Neriosang Ormazd Peris Peshdadians Rapithwin Rashnu
+	Rustam Saurva Simurgh "Spenta Mainyu" Sraosa Srosh
+	Tawrich Thunaupa Tistrya Tushnamatay Vanant Vata
+	Verethragna "Vohu Manah" Vouruskasha Yam Yasht Yazata
+	Yezidi Yima Zal Zam "Zam-Armatay" Zarathustra Zarich
+	"Zend-Avesta" Zurvan
+}

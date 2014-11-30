@@ -1,0 +1,18 @@
+# Djenne
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = malinke
+religion = sunni
+technology_group = sudanese_tech
+capital = 549
+historical_rival = MAL
+
+1306.1.1 = {
+	monarch = {
+		name = "Timarkhan Traore"
+		dynasty = "Traore"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}

@@ -1,0 +1,125 @@
+#Country Name: Please see filename.
+
+graphical_culture = muslimgfx
+
+color = { 178  103  5 }
+
+historical_idea_groups = {
+	quantity_ideas
+	mercantilist_ideas
+	religious_ideas
+	offensive_ideas
+	diplomatic_ideas
+	cultural_unity_ideas
+	drafted_army_ideas
+	gf1_ideas
+}
+
+historical_units = { 
+	muslim_artillery_10_1
+	muslim_artillery_16_1
+	muslim_artillery_23_1
+	muslim_artillery_29_1
+	muslim_artillery_35_1
+	muslim_artillery_40_1
+	muslim_artillery_44_1
+	muslim_artillery_48_1
+	muslim_artillery_52_1
+	muslim_artillery_55_1
+	muslim_artillery_55_2
+	muslim_cavalry_0_1
+	muslim_cavalry_0_2
+	muslim_cavalry_12_1
+	muslim_cavalry_12_2
+	muslim_cavalry_18_1
+	muslim_cavalry_23_1
+	muslim_cavalry_28_1
+	muslim_cavalry_33_1
+	muslim_cavalry_37_1
+	muslim_cavalry_41_1
+	muslim_cavalry_41_2
+	muslim_cavalry_45_1
+	muslim_cavalry_45_2
+	muslim_cavalry_49_1
+	muslim_cavalry_49_2
+	muslim_cavalry_52_1
+	muslim_cavalry_52_2
+	muslim_cavalry_6_1
+	muslim_cavalry_6_2
+	muslim_infantry_0_1
+	muslim_infantry_0_2
+	muslim_infantry_12_1
+	muslim_infantry_12_2
+	muslim_infantry_16_1
+	muslim_infantry_16_2
+	muslim_infantry_20_1
+	muslim_infantry_20_2
+	muslim_infantry_23_1
+	muslim_infantry_23_2
+	muslim_infantry_26_1
+	muslim_infantry_26_2
+	muslim_infantry_29_1
+	muslim_infantry_29_2
+	muslim_infantry_32_1
+	muslim_infantry_32_2
+	muslim_infantry_35_1
+	muslim_infantry_35_2
+	muslim_infantry_38_1
+	muslim_infantry_38_2
+	muslim_infantry_41_1
+	muslim_infantry_41_2
+	muslim_infantry_44_1
+	muslim_infantry_44_2
+	muslim_infantry_47_1
+	muslim_infantry_47_2
+	muslim_infantry_49_1
+	muslim_infantry_49_2
+	muslim_infantry_4_1
+	muslim_infantry_4_2
+	muslim_infantry_51_1
+	muslim_infantry_51_2
+	muslim_infantry_53_1
+	muslim_infantry_53_2
+	muslim_infantry_55_1
+	muslim_infantry_55_2
+	muslim_infantry_8_1
+	muslim_infantry_8_2
+}
+
+
+
+
+monarch_names = {
+	"Muhammad #0" = 10
+	"Sadun #0" = 10
+	"Barrak #0" = 10
+	"'Ali #0" = 10
+	"Sulayman #0" = 10
+	"Urayir ibn Dudjayn #0" = 10
+	"Hamada #0" = 10
+	"Butaiyin #0" = 10
+	"Dudjayn #0" = 10
+	"Nadjim ibn Duhaynim #0" = 10
+	"Zayid #0" = 10
+	
+	"Ilham #0" = -1
+}
+
+leader_names = {
+	Anwar
+	Atef
+	Faraj
+	Saleh
+	Ismail
+	"Al-Karachi"
+	"Al-Muwalid"
+	Siham
+	Madari
+	Anwar
+}
+
+ship_names = {
+	"Al-Ahsa" Hofuf "Al-Khubar" "Al-Zahran" "Ad-Dammam"
+	"Al-Quatif" "Ra's Tannurah" "Al-Jubayl" "As-Saffaniyah"
+	"Ra's Al-Mish'ab" "An-Naqirah" Wabrah "Abu Ali"
+}

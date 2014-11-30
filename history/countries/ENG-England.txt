@@ -1,0 +1,851 @@
+# England
+government = feudal_monarchy
+mercantilism = 0.1
+technology_group = western
+primary_culture = english
+add_accepted_culture = gascon
+add_accepted_culture = normand
+religion = catholic
+capital = 236 # London
+historical_friend = POR
+historical_rival = FRA
+
+1303.1.1 = { add_country_modifier = { name = "hanseatic_league_member" duration = -1 } }
+
+1307.7.7 = {
+	monarch = {
+		name = "Edward II"
+		dynasty = "Plantagenet"
+		birth_date = 1284.4.25
+		adm = 0
+		dip = 0
+		mil = 0
+		leader = {
+			type = general
+			name = "Edward II"
+			fire = 0
+			shock = 0
+			manuever = 0
+			siege = 0
+		}
+	}
+}
+
+1312.11.13 = {
+	heir = {
+		name = "Edward"
+		monarch_name = "Edward III"
+		dynasty = "Plantagenet"
+		birth_date = 1312.11.13
+		death_date = 1377.6.21
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1327.2.1 = {
+	monarch = {
+		name = "Roger"
+		dynasty = "Mortimer"
+		birth_date = 1287.3.25
+#		death_date = 1330.11.29
+		adm = 2
+		dip = 1
+		mil = 4
+	}
+	heir = {
+		name = "Edmund"
+		monarch_name = "Edmund III"
+		dynasty = "Mortimer"
+		birth_date = 1302.9.20
+		death_date = 1331.12.16
+		claim = 50
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+1330.1.1 = {
+	monarch = {
+		name = "Edward III"
+		dynasty = "Plantagenet"
+		birth_date = 1312.11.13
+#		death_date = 1377.6.21
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1330.6.15 = {
+	heir = {
+		name = "Edward"
+		monarch_name = "Edward IV"
+		dynasty = "Plantagenet"
+		birth_date = 1330.6.15
+		death_date = 1376.6.8
+		claim = 100
+		adm = 1
+		dip = 2
+		mil = 5
+	}
+}
+
+1337.1.1 = { set_country_flag = 100war_claim_throne }
+
+1374.1.1 = { add_country_modifier = { name = "canterbury_tales"  duration = -1 } }
+
+1376.6.8 = {
+	heir = {
+		name = "Richard"
+		monarch_name = "Richard II"
+		dynasty = "Plantagenet"
+		birth_date = 1367.1.6
+		death_date = 1400.2.14
+		claim = 95
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+1377.6.21 = {
+	monarch = {
+		name = "Richard II"
+		dynasty = "Plantagenet"
+		birth_date = 1367.1.6
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+1380.1.1 = { 
+	leader = {	
+		name = "Robert Knolles"	
+		type = general	
+		rank = 2	
+		fire = 1	
+		shock = 3	
+		manuever = 3
+		siege = 1	
+		death_date = 1407.1.1 
+	} 
+}
+
+1382.1.1 = {
+	set_country_flag = wycliffe_teaching
+	set_country_flag = wycliffe_spared
+}
+
+1391.1.1 = { set_country_flag = lollard_event }
+
+1399.9.12 = {
+	monarch = {
+		name = "Henry IV"
+		dynasty = "Lancaster"
+		adm = 1
+		dip = 1
+		mil = 0
+	}
+}
+
+1399.9.12 = {
+	heir = {
+		name = "Henry"
+		monarch_name = "Henry V"
+		dynasty = "Lancaster"
+		birth_date = 1386.9.16
+		death_date = 1422.8.31
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 5
+		leader = {
+			name = "Henry V"
+			type = general
+			rank = 1
+			fire = 4
+			shock = 4
+			manuever = 5
+			siege = 1}
+	}
+}
+
+1400.1.1 = { set_country_flag = owain_welsh_revolt }
+
+1413.3.21 = {
+	monarch = {
+		name = "Henry V"
+		dynasty = "Lancaster"
+		adm = 2
+		dip = 2
+		mil = 5
+		leader = {
+			name = "Henry V"
+			type = general
+			rank = 1
+			fire = 4
+			shock = 4
+			manuever = 5
+			siege = 1 }
+	}
+}
+
+1414.1.1 = {
+	leader = {
+		name = "Richard de Beauchamp"
+		type = general
+		rank = 1
+		fire = 3
+		shock = 3
+		manuever = 4
+		siege = 0	
+		death_date = 1439.4.30
+	}
+}
+
+1414.2.1 = {
+	leader = {
+		name = "John Talbot"
+		type = general
+		rank = 1
+		fire = 2
+		shock = 4
+		manuever = 4
+		siege = 1
+		death_date = 1453.7.17
+	}
+}
+
+1418.1.1 = {
+	leader = {
+		name = "Thomas Lancaster"
+		type = general
+		rank = 1
+		fire = 2
+		shock = 2
+		manuever = 3
+		siege = 0
+		death_date = 1421.3.22
+	}
+}
+
+1421.12.6 = {
+	heir = {
+		name = "Henry"
+		monarch_name = "Henry VI"
+		dynasty = "Lancaster"
+		birth_date = 1421.12.6
+		death_date = 1471.5.21
+		claim = 95
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
+
+1422.8.31 = {
+	leader = {
+		name = "John Lancaster"
+		type = general
+		rank = 1
+		fire = 3
+		shock = 3
+		manuever = 4
+		siege = 0
+		death_date = 1435.9.14
+	}
+}
+
+1422.8.31 = {
+	monarch = {
+		name = "Henry VI"
+		dynasty = "Lancaster"
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
+
+1434.1.1 = {
+	leader = {
+		name = "Richard Neville"
+		type = general	rank = 5
+		fire = 3
+		shock = 3
+		manuever = 3
+		siege = 0
+		death_date = 1460.12.31
+	}
+}
+
+1435.1.1 = {
+	leader = {
+		name = "Richard Plantagenet"
+		type = general
+		rank = 1
+		fire = 2
+		shock = 4
+		manuever = 3
+		siege = 0
+		death_date = 1460.12.30
+	}
+}
+
+1435.1.1 = {
+	leader = {
+		name = "Henry Percy"
+		type = general
+		rank = 4
+		fire = 4
+		shock = 2
+		manuever = 3
+		siege = 0
+		death_date = 1455.5.22
+	}
+}
+
+1450.1.1 = {
+	leader = {
+		name = "John Mowbray"
+		type = general
+		rank = 1
+		fire = 2
+		shock = 3
+		manuever = 3
+		siege = 0
+		death_date = 1461.4.6
+	}
+}
+
+1453.1.1 = { clr_country_flag = 100war_claim_throne set_country_flag = 100war_over }
+
+1455.1.1 = {
+	leader = {
+		name = "Edmund Beaufort"
+		type = general
+		rank = 10
+		fire = 3
+		shock = 2
+		manuever = 2
+		siege = 0
+		death_date = 1471.5.6
+	}
+}
+
+1455.1.1 = {
+	leader = {
+		name = "John Clifford"
+		type = general
+		rank = 10
+		fire = 3
+		shock = 3
+		manuever = 2
+		siege = 0
+		death_date = 1461.3.29
+	}
+}
+
+1459.1.1 = { set_global_flag = war_of_the_roses }
+
+1461.6.28 = {
+	monarch = {
+		name = "Edward IV"
+		dynasty = "York"
+		adm = 3
+		dip = 2
+		mil = 4
+		leader = {
+			name = "Edward IV"
+			type = general
+			rank = 0
+			fire = 2
+			shock = 4
+			manuever = 4
+			siege = 0
+		}
+	}
+}
+
+1470.10.31 = {
+	monarch = {
+		name = "Henry VI"
+		dynasty = "Lancaster"
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
+
+1471.4.11 = {
+	leader = {
+		name = "Richard Plantagenet"
+		type = general
+		rank = 0
+		fire = 2
+		shock = 4
+		manuever = 4
+		siege = 1
+		death_date = 1483.4.9
+	}
+}
+
+1471.5.4 = {
+	monarch = {
+		name = "Edward IV"
+		dynasty = "York"
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+1471.5.4 = {
+	heir = {
+		name = "Edward"
+		monarch_name = "Edward V"
+		dynasty = "York"
+		birth_date = 1470.11.1
+		death_date = 1483.6.20
+		claim = 95
+		adm = 0
+		dip = 0
+		mil = 2
+	}
+}
+
+1475.8.29 = { remove_accepted_culture = gascon remove_accepted_culture = normand } # Treaty of Picquigny
+
+1483.4.18 = {
+	monarch = {
+		name = "Edward V"
+		dynasty = "York"
+		adm = 0
+		dip = 0
+		mil = 2
+	}
+}
+
+1483.4.18 = {
+	heir = {
+		name = "Richard"
+		monarch_name = "Richard III"	
+		dynasty = "York"
+		birth_date = 1452.10.2
+		death_date = 1485.8.22
+		claim = 95
+		adm = 1
+		mil = 3
+		dip = 4
+		leader = {
+			name = "Richard III"
+			type = general
+			rank = 0
+			fire = 2
+			shock = 5
+			manuever = 4
+			siege = 1
+		}
+	}
+}
+
+1483.6.20 = {
+	monarch = {
+		name = "Richard III"
+		dynasty = "York"
+		adm = 1
+		dip = 4
+		mil = 3
+		leader = {
+			name = "Richard III"
+			type = general
+			rank = 0
+			fire = 2
+			shock = 5
+			manuever = 4
+			siege = 1
+		}
+	}
+}
+
+1485.8.22 = {
+	set_global_flag = war_of_the_roses_ended
+	clr_global_flag = war_of_the_roses
+	monarch = {
+		name = "Henry VII"
+		dynasty = "Tudor"
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+}
+
+1491.6.28 = {
+	heir = {
+	    name = "Henry"
+	    monarch_name = "Henry VIII"
+	    dynasty = "Tudor"
+	    birth_date = 1491.6.28
+	    death_date = 1547.1.28
+	    claim = 95
+	    adm = 4
+	    dip = 4
+	    mil = 4
+	} 
+}
+
+1497.1.1 = {
+	leader = {
+		name = "John Cabot"
+		type = explorer
+		rank = 9
+		fire = 2
+		shock = 4
+		manuever = 5
+		siege = 0
+		death_date = 1499.7.2
+	}
+}
+
+1508.1.1 = {
+	leader = {
+		name = "Sebastian Cabot"
+		type = explorer
+		rank = 9
+		fire = 5
+		shock = 2
+		manuever = 4
+		siege = 0
+		death_date = 1557.2.8
+	}
+}
+
+1509.4.22 = {
+	government = absolute_monarchy
+	monarch = {
+		name = "Henry VIII"
+		dynasty = "Tudor"
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}
+
+
+1512.1.1 = {
+	leader = {
+		name = "Charles Brandon"
+		type = general
+		rank = 0
+		fire = 3
+		shock = 2
+		manuever = 2
+		siege = 0
+		death_date = 1545.8.24
+	}
+}
+
+1513.1.1 = {
+	leader = {
+		name = "Edward Howard"
+		type = admiral
+		rank = 0
+		fire = 2
+		shock = 3
+		manuever = 3
+		siege = 0
+		death_date = 1513.4.25
+	}
+}
+
+1534.1.1 = { 
+ 	religion = anglican
+	decision = suffragan_bishop_act
+}
+
+1535.1.1 = { decision = dissolution_of_the_monasteries }
+
+1537.3.1 = { set_country_flag = pilgrimage_of_grace }
+
+1537.10.12 = {
+	heir = {
+		name = "Edward"
+		monarch_name = "Edward VI"
+		dynasty = "Tudor"
+		birth_date = 1537.10.12
+		death_date = 1553.7.6
+		claim = 95
+		adm = 0
+		dip = 2
+		mil = 1
+	}
+}
+
+1547.1.28 = {
+	monarch = {
+		name = "Edward VI"
+		dynasty = "Tudor"
+		adm = 0
+		dip = 2
+		mil = 1
+	}
+}
+
+1549.1.1 = { decision = act_of_uniformity }
+
+1552.1.1 = {
+	leader = {
+		name = "Hugh Willoughby"
+		type = explorer
+		rank = 7
+		fire = 1
+		shock = 1
+		manuever = 3
+		siege = 0
+		death_date = 1554.10.19
+	}
+}
+
+1552.1.1 = {
+	leader = {
+		name = "Richard Chancellor"
+		type = explorer
+		rank = 10
+		fire = 1
+		shock = 1
+		manuever = 3
+		siege = 0
+		death_date = 1556.7.28
+	}
+}
+
+1553.1.1 = {
+	leader = {
+		name = "Martin Frobisher"
+		type = explorer
+		rank = 9
+		fire = 5
+		shock = 2
+		manuever = 4
+		siege = 0
+		death_date = 1594.11.22
+	}
+}
+
+1553.7.6 = {
+	monarch = {
+		name = "Jane I"
+		dynasty = "Grey"
+		adm = 3
+		dip = 1
+		mil = 2
+		female = yes
+	}
+}
+
+1553.7.19 = {
+	monarch = {
+		name = "Mary I"
+		dynasty = "Tudor"
+		adm = 1
+		dip = 1
+		mil = 0
+		female = yes
+	}
+}
+
+1553.7.19 = { religion = catholic } # Reinstate Papal power over Church of England
+
+1556.1.1 = {
+	leader = {
+		name = "William Fitzwilliam"
+		type = admiral
+		rank = 0
+		fire = 2
+		shock = 3
+		manuever = 3
+		siege = 0
+		death_date = 1599.2.6
+	}
+}
+
+1557.1.1 = {
+	# Calais, the last English possession in France, is lost
+	remove_accepted_culture = cosmopolitan_french
+	remove_accepted_culture = gascon
+}
+
+1558.1.1 = {
+	leader = {
+		name = "Edward Clinton"
+		type = admiral
+		rank = 0
+		fire = 2
+		shock = 3
+		manuever = 4
+		siege = 0
+		death_date = 1585.1.16
+	}
+}
+
+1558.11.17 = {
+	monarch = {
+		name = "Elizabeth I"
+		dynasty = "Tudor"
+		adm = 6
+		dip = 5
+		mil = 4
+		female = yes
+	}
+	religion = anglican
+}
+
+
+1566.6.19 = {
+	heir = {
+		name = "James"
+		monarch_name = "James I"
+		dynasty = "Stuart"
+		birth_date = 1566.6.19
+		death_date = 1625.3.27
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+}
+
+1577.1.1 = {
+	leader = {
+		name = "Humphrey Gilbert"
+		type = explorer	
+		rank = 8
+		fire = 2
+		shock = 1
+		manuever = 1
+		siege = 0
+		death_date = 1583.9.9
+	}
+}
+
+1577.1.1 = {
+	leader = {
+		name = "Francis Drake"
+		type = explorer	
+		rank = 1
+		fire = 5
+		shock = 5
+		manuever = 6
+		siege = 0
+		death_date = 1596.1.28
+	}
+}
+
+1580.1.1 = { decision = enlist_privateers }
+
+1580.1.1 = {
+	leader = {
+		name = "Walter Raleigh"
+		type = conquistador
+		rank = 14
+		fire = 4
+		shock = 4
+		manuever = 5
+		siege = 0
+		death_date = 1618.10.29
+	}
+}
+
+1584.1.1 = {
+	leader = {
+		name = "Robert Devereux"
+		type = conquistador
+		rank = 14
+		fire = 4
+		shock = 4
+		manuever = 5
+		siege = 0
+		death_date = 1601.2.25
+	}
+}
+
+1584.1.1 = {
+	leader = {
+		name = "William Cavendish"
+		type = explorer	
+		rank = 11
+		fire = 4
+		shock = 4
+		manuever = 5
+		siege = 0
+		death_date = 1626.3.3
+	}
+}
+
+1585.1.1 = {
+	leader = {
+		name = "Charles Howard"
+		type = admiral
+		rank = 0
+		fire = 3
+		shock = 3
+		manuever = 3
+		siege = 0
+		death_date = 1624.12.14
+	}
+}
+
+1585.1.1 = {
+	leader = {
+		name = "John Davis"
+		type = explorer
+		rank = 11
+		fire = 1
+		shock = 1
+		manuever = 3
+		siege = 0
+		death_date = 1594.11.22
+	}
+}
+
+1597.1.1 = {
+	leader = {
+		name = "Henry Hudson"
+		type = explorer
+		rank = 9
+		fire = 3
+		shock = 2
+		manuever = 5
+		siege = 0
+		death_date = 1611.6.17
+	}
+}
+
+1598.1.1 = { mercantilism = 0.1 } # The Canceling of Royal Monopolies
+
+1600.1.1 = {
+	leader = {
+		name = "John Smith"
+		type = conquistador
+		rank = 8
+		fire = 2
+		shock = 2
+		manuever = 6
+		siege = 0
+		death_date = 1617.7.11
+	}
+}
+
+1603.3.24 = {
+	monarch = {
+		name = "James I"
+		dynasty = "Stuart"
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+}

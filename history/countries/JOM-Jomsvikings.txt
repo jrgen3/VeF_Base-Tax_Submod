@@ -1,0 +1,7 @@
+# Jomsviking
+government = theocratic_government_norse_pagan_reformed
+mercantilism = 0.1
+technology_group = scandinavian_tech
+primary_culture = danish
+religion = norse_pagan_reformed
+capital = 12

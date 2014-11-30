@@ -1,0 +1,121 @@
+# Norway
+government = feudal_monarchy
+mercantilism = 0.1
+primary_culture = norwegian
+add_accepted_culture = icelandic
+add_accepted_culture = faroese
+add_accepted_culture = norn
+religion = catholic
+technology_group = scandinavian_tech
+historical_friend = DAN
+historical_friend = SCN
+capital = 17 #Akershus
+
+
+1299.7.15 = {
+	monarch = {
+		name = "Haakon V"
+		dynasty = "Magnusson"
+		birth_date = 1270.1.1
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1319.7.8 = {
+	monarch = {
+		name = "Magnus VII Eriksson"
+		dynasty = "Bjälbo"
+		birth_date = 1316.4.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1343.11.18 = {
+	monarch = {
+		name = "Magnus VII Eriksson"
+		dynasty = "Bjälbo"
+		regent = yes
+		birth_date = 1316.4.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+
+1355.8.1 = {
+	monarch = {
+		name = "Haakon VI Magnusson"
+		dynasty = "Bjälbo"
+		birth_date = 1340.1.1
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1360.1.1 = {
+	add_country_modifier = {
+		name = "hanseatic_league_member"
+		duration = -1
+	}
+}
+
+1380.9.10 = {
+    monarch = {
+        name = "Olav IV Haakonsson"
+        dynasty = "Bjälbo"
+        birth_date = 1370.12.1
+     	adm = 2
+		dip = 2
+		mil = 2
+    }
+}
+
+1436.1.1 = { 
+	leader = { 
+		name = "Amund Bolt"
+		type = general 
+		rank = 3 
+		fire = 1 
+		shock = 2 
+		manuever = 2 
+		siege = 0 
+		death_date = 1440.1.1 
+	} 
+}
+
+1520.1.1 = { 
+	leader = { 
+		name = "Olav Galle" 
+		type = general 
+		rank = 3 
+		fire = 1 
+		shock = 2 
+		manuever = 2 
+		siege = 0 
+		death_date = 1530.1.1 
+	} 
+}
+
+1521.1.1 = { leader = { name = "Engelbriktsson"         type = general rank = 2 fire = 1 shock = 1 manuever = 3 siege = 0 death_date = 1538.2.7 } }
+
+1537.1.1 = { religion = protestant } # Christian III decrees Lutheranism as State Church
+
+1670.2.10 = { government = absolute_monarchy }
+
+1775.1.1 = { remove_country_modifier = hanseatic_league_member }
+
+1814.2.16 = {
+ monarch = {
+  name = "Christian Frederik"
+  dynasty = "Oldenburg"
+  adm = 0
+  dip = 0
+  mil = 0
+ }
+}

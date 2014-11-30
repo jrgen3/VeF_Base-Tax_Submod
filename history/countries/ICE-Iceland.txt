@@ -1,0 +1,12 @@
+government = noble_republic
+mercantilism = 0.1
+primary_culture = icelandic
+religion = norse_pagan_reformed
+technology_group = scandinavian_tech
+historical_friend = NOR
+capital = 370 #Reykjavik
+
+1310.1.1 = { religion = catholic }
+1540.1.1 = { government = administrative_republic }
+
+1750.1.1 = { government = constitutional_republic }

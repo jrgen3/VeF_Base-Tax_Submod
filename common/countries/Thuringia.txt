@@ -1,0 +1,162 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 66  126  157}
+
+historical_idea_groups = {
+	intimidatory_ideas
+	quantity_ideas
+	economic_ideas
+	mercantilist_ideas
+	offensive_ideas
+	expansion_ideas
+	land_ideas
+	standing_army_ideas
+}
+
+historical_units = { 
+	western_artillery_15_1
+	western_artillery_22_1
+	western_artillery_29_1
+	western_artillery_35_1
+	western_artillery_40_1
+	western_artillery_44_1
+	western_artillery_48_1
+	western_artillery_52_1
+	western_artillery_55_1
+	western_artillery_55_2
+	western_artillery_8_1
+	western_cavalry_0_1
+	western_cavalry_0_2
+	western_cavalry_12_1
+	western_cavalry_12_2
+	western_cavalry_18_1
+	western_cavalry_23_1
+	western_cavalry_28_1
+	western_cavalry_33_1
+	western_cavalry_37_1
+	western_cavalry_37_2
+	western_cavalry_41_1
+	western_cavalry_41_2
+	western_cavalry_45_1
+	western_cavalry_45_2
+	western_cavalry_49_1
+	western_cavalry_49_2
+	western_cavalry_52_1
+	western_cavalry_52_2
+	western_cavalry_6_1
+	western_cavalry_6_2
+	western_infantry_0_1
+	western_infantry_0_2
+	western_infantry_12_1
+	western_infantry_12_2
+	western_infantry_16_1
+	western_infantry_16_2
+	western_infantry_20_1
+	western_infantry_20_2
+	western_infantry_23_1
+	western_infantry_23_2
+	western_infantry_26_1
+	western_infantry_26_2
+	western_infantry_29_1
+	western_infantry_29_2
+	western_infantry_32_1
+	western_infantry_32_2
+	western_infantry_35_1
+	western_infantry_35_2
+	western_infantry_38_1
+	western_infantry_38_2
+	western_infantry_41_1
+	western_infantry_41_2
+	western_infantry_44_1
+	western_infantry_44_2
+	western_infantry_47_1
+	western_infantry_47_2
+	western_infantry_49_1
+	western_infantry_49_2
+	western_infantry_4_1
+	western_infantry_4_2
+	western_infantry_51_1
+	western_infantry_51_2
+	western_infantry_53_1
+	western_infantry_53_2
+	western_infantry_55_1
+	western_infantry_55_2
+	western_infantry_8_1
+	western_infantry_8_2
+}
+
+
+
+
+
+monarch_names = {
+	"Johann Friedrich #0" = 40
+	"Wilhelm #3" = 20
+	"Friedrich #2" = 20
+	"Ernst #0" = 20
+	"Johann #0" = 20
+	"Johann Ernst #0" = 20
+	"Balthasar #0" = 20
+	"Friedrich Wilhelm #0" = 15
+	"Albrecht #4" = 10
+	"Wilhelm Ernst #0" = 10
+	"Wolfgang #0" = 10
+	"Adolf #0" = 0
+	"Alfred #0" = 0
+	"Andreas #0" = 0
+	"Anton #0" = 0
+	"Bruno #0" = 0
+	"Burkhard #0" = 0
+	"Christian #0" = 0
+	"Christoph #0" = 0
+	"Dietrich #0" = 0
+	"Ekkehardt #0" = 0
+	"Günther #0" = 0
+	"Harmann #0" = 0
+	"Helmfried #0" = 0
+	"Hermann #0" = 0
+	"Joachim #0" = 0
+	"Kajetan #0" = 0
+	"Konrad #0" = 0
+	"Lambert #0" = 0
+	"Lukas #0" = 0
+	"Marius #0" = 0
+	"Michael #0" = 0
+	"Otto #0" = 0
+	"Reimund #0" = 0
+	"Rudolf #0" = 0
+	"Thomas #0" = 0
+	"Ulrich #0" = 0
+	"Wenzel #0" = 0
+	"Wilfried #0" = 0
+	"Wolfram #0" = 0
+	
+	"Leonie #0" = -1
+	"Kathrin #0" = -1
+	"Hertha #0" = -1
+}
+
+leader_names = {
+	Söll Langheinrich Burgberg
+	Schmidt Bohn Möser Jauch
+	Bär Berndt Blochberger
+	Brosius Eisenschmid Hofmann
+	Gäbelein Grieser Grimm
+	Horn Meier Meisgeier Oswald
+	Rank Rauh Ritter Schilling
+	Schreuser Taut Brendelin 
+	Trögel Becher Eisenschmid 
+}
+
+ship_names = {
+	Marbod Katwalda "König Bisinus" "König Baderich"
+	"König Herminafried" "König Berthachar" "Herzog Radulf"
+	"Herzog Heden" "Markgraf Ekkehard I"
+	"Landgraf Hermann" "Heinrich Raspe"
+}
+
+army_names = {
+	"Armee von $PROVINCE$" 
+}

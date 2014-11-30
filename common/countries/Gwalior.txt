@@ -1,0 +1,94 @@
+#Country Name: See the Name of this File.
+
+graphical_culture = indiangfx
+
+color = { 153  237  145 }
+
+historical_idea_groups = {
+	quantity_ideas
+	spy_ideas
+	religious_ideas
+	defensive_ideas
+	mercantilist_ideas
+	cultural_unity_ideas
+	drafted_army_ideas
+	gf1_ideas
+}
+
+historical_units = { 
+	indian_artillery_16_1
+	indian_artillery_24_1
+	indian_artillery_32_1
+	indian_artillery_38_1
+	indian_artillery_42_1
+	indian_artillery_8_1
+	indian_cavalry_0_1
+	indian_cavalry_12_1
+	indian_cavalry_18_1
+	indian_cavalry_24_1
+	indian_cavalry_30_1
+	indian_cavalry_36_1
+	indian_cavalry_42_1
+	indian_cavalry_6_1
+	indian_infantry_0_1
+	indian_infantry_10_1
+	indian_infantry_15_1
+	indian_infantry_20_1
+	indian_infantry_25_1
+	indian_infantry_30_1
+	indian_infantry_35_1
+	indian_infantry_38_1
+	indian_infantry_41_1
+	indian_infantry_44_1
+	indian_infantry_5_1
+}
+
+
+
+
+monarch_names = {
+	"Beersingh Deo #1" = 20
+	"Pulkit #1" = 20
+	"Dungar Singh #1" = 20
+	"Man Singh #1" = 20
+	"Uddhharandev #1" = 20
+	"Vikramdev #1" = 20
+	"Ganapatidev #1" = 20
+	"Dugarendrasingh #1" = 20
+	"Kalyanmalla #1" = 20
+	"Baija Bai #0" = -10
+	"Chinkuraje #0" = -1
+	"Kamalaraje #0" = -1
+}
+
+leader_names = {
+	Singh
+	Datia
+	Mihir
+	Jasos
+	Bundela
+	Bais
+	Chattar
+	Minhas
+	Pakhral
+	Pundir
+	Naru
+	Saharan
+	Mori
+	Chauhan
+	Bhaal
+	Tomara
+	Chandela
+	Katoch
+	Jadon
+}
+
+ship_names = {
+	Betwa Devi Durga Ganga Gandak
+	Gayatri Ghagra Gomti Jalsena
+	"Kala Jahazi" Ken Lakshmi
+	"Lal Jahazi" Nausena "Nav ka Yudh"
+	"Nila Jahazi" Parvati Radha
+	Ramganga Ratri Sagar Sarasvati
+	Satlaj Sita Yamuna
+}

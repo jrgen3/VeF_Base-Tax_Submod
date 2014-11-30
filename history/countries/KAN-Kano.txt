@@ -1,0 +1,56 @@
+government = despotic_monarchy
+mercantilism = 0.2
+primary_culture = hausa
+religion = sunni
+technology_group = sudanese_tech
+capital = 1155
+
+1307.1.1 = {
+	monarch = {
+		name = "Tsamiya"
+		adm = 4
+		dip = 1
+		mil = 2
+	}
+	
+}
+
+1343.1.1 = {
+	monarch = {
+		name = "Usman Zamnagawa"
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+
+}
+
+1349.1.1 = {
+	monarch = {
+		name = "Yaji I"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+	
+}
+
+1385.1.1 = {
+	monarch = {
+		name = "Bugaya"
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+	
+}
+
+1390.1.1 = {
+	monarch = {
+		name = "Kanajeji"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+	
+}

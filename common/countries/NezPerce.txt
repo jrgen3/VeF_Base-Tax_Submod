@@ -1,0 +1,60 @@
+#Country Name: Please see filename.
+
+graphical_culture = northamericagfx
+
+color = { 198 123 29 }
+
+historical_idea_groups = {
+	quantity_ideas
+	mercantilist_ideas
+	economic_ideas
+	drafted_army_ideas
+	spy_ideas
+	cultural_unity_ideas
+	defensive_ideas
+	land_ideas
+}
+
+historical_units = { 
+	north_american_infantry_0_1
+	north_american_infantry_12_1
+	north_american_infantry_18_1
+	north_american_infantry_24_1
+	north_american_infantry_30_1
+	north_american_infantry_36_1
+	north_american_infantry_6_1
+}
+
+
+
+
+monarch_names = {
+	"Hal-hal-hoot-soot #0" = 20
+	"Tuekakas #0" = 20
+	"hinmatóoyalahtq'it #0" = 20
+	"’álok'at #0" = 20
+	"Allalimya Takanin #0" = 20
+	"Tipiyelehne Ka Awpo #0" = 20
+	"piyopyóot’alikt #0" = 20
+	"Peopeo Kiskiok Hihih #0" = 20
+	"Toohoolhoolzote #0" = 20
+	"He–Mene Mox Mox #0" = 20
+	"Chuslum Moxmox #0" = 20
+	"elelímyeté'qenin #0" = 20
+	"Wahchumyus #0" = 20
+	"Pahkatos Owyeen #0" = 20
+	"Koolkool Snehee #0" = 20
+	"Halalhot'suut #0" = 20
+	"Tamootsin #0" = 20
+}
+
+leader_names = {
+	"Five Wounds" "Yellow Bull" "Eagle from Light" "White Bird" "Lean Elk" "Poker Joe"
+	"Looking Glass" "Twisted Hair" "Red Owl" Rainbow "Wrapped in the Wind" "Bird Alighting"
+}
+
+ship_names = {
+	"Goshe" "Tij" "Biih" "Chaa" "Ba'cho" "Tsét'soyé" "Ndotkah" "Tulij" "Golizhi"
+	"Dahsziné" "Gah" "Na'iltsoh" "Itsa" "Gaagé" "Muh" "T'iish" "Tog" "Dl'ishtlohé"
+	"Gosnih" "Ya'ii" "Chinii" "Koh" "Tl'é'na'ai"
+}

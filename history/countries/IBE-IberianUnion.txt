@@ -1,0 +1,7 @@
+government = imperial_government
+mercantilism = 0.1
+primary_culture = castillian
+culture_group_union = iberian
+religion = catholic
+technology_group = western
+capital = 217 # Madrid

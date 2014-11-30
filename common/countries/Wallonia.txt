@@ -1,0 +1,158 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 215  64  59 }
+
+historical_idea_groups = {
+	quantity_ideas
+	free_trade_ideas
+	innovativeness_ideas
+	standing_army_ideas
+	spy_ideas
+	exploration_ideas
+	defensive_ideas
+	gf1_ideas
+}
+
+historical_units = { 
+	western_artillery_15_1
+	western_artillery_22_1
+	western_artillery_29_1
+	western_artillery_35_1
+	western_artillery_40_1
+	western_artillery_44_1
+	western_artillery_48_1
+	western_artillery_52_1
+	western_artillery_55_1
+	western_artillery_55_2
+	western_artillery_8_1
+	western_cavalry_0_1
+	western_cavalry_0_2
+	western_cavalry_12_1
+	western_cavalry_12_2
+	western_cavalry_18_1
+	western_cavalry_23_1
+	western_cavalry_28_1
+	western_cavalry_33_1
+	western_cavalry_37_1
+	western_cavalry_37_2
+	western_cavalry_41_1
+	western_cavalry_41_2
+	western_cavalry_45_1
+	western_cavalry_45_2
+	western_cavalry_49_1
+	western_cavalry_49_2
+	western_cavalry_52_1
+	western_cavalry_52_2
+	western_cavalry_6_1
+	western_cavalry_6_2
+	western_infantry_0_1
+	western_infantry_0_2
+	western_infantry_12_1
+	western_infantry_12_2
+	western_infantry_16_1
+	western_infantry_16_2
+	western_infantry_20_1
+	western_infantry_20_2
+	western_infantry_23_1
+	western_infantry_23_2
+	western_infantry_26_1
+	western_infantry_26_2
+	western_infantry_29_1
+	western_infantry_29_2
+	western_infantry_32_1
+	western_infantry_32_2
+	western_infantry_35_1
+	western_infantry_35_2
+	western_infantry_38_1
+	western_infantry_38_2
+	western_infantry_41_1
+	western_infantry_41_2
+	western_infantry_44_1
+	western_infantry_44_2
+	western_infantry_47_1
+	western_infantry_47_2
+	western_infantry_49_1
+	western_infantry_49_2
+	western_infantry_4_1
+	western_infantry_4_2
+	western_infantry_51_1
+	western_infantry_51_2
+	western_infantry_53_1
+	western_infantry_53_2
+	western_infantry_55_1
+	western_infantry_55_2
+	western_infantry_8_1
+	western_infantry_8_2
+}
+
+
+
+
+
+monarch_names = {
+	"Jean #0" = 50
+	"Charles #0" = 30
+	"Philippe #0" = 20
+	"Guy #0" = 20
+	"Gérard #0" = 20
+	"Guillaume #0" = 10
+	"André #0" = 10
+	"Henri #0" = 10
+	"Adolphe #0" = 0
+	"Alexandre #0" = 0
+	"Antoine #0" = 0
+	"Bernard #0" = 0
+	"Boudewijn #0" = 0
+	"Érard #0" = 0
+	"Eugène #0" = 0
+	"François #0" = 0
+	"François-Antoine #0" = 0
+	"François-Charles #0" = 0
+	"Gaspard #0" = 0
+	"Georges #0" = 0
+	"Jean-Claude #0" = 0
+	"Jean-Maurice #0" = 0
+	"Jessé #0" = 0
+	"Jéróme #0" = 0
+	"Joseph-Clément #0" = 0
+	"Jules #0" = 0
+	"Léon #0" = 0
+	"Louis #0" = 0
+	"Melchior #0" = 0
+	"Pierre #0" = 0
+	"Raphael #0" = 0
+	"Robert #0" = 0
+	"Théoduin #0" = 0
+	"Zénobe #0" = 0
+	"Zénon #0" = 0
+	
+	"Irena #0" = -1
+	"Jozefien #0" = -1
+	"Lysanne #0" = -1
+}
+
+leader_names = {
+	Aubry Bouchet Chauchet Digneffe Fabry
+	Gérard Hauzeur Henkart Josias Nannan
+	Bastin Bauduinet Bitha Cloet Colson
+	"de Cuire" "da Franquinet" "de Donnea" 
+	"de Finesse" "de Haxhe" "de Avesnes" "de Namur" 
+	"de Lacu" "de Spirlet" Galindez Haeck 
+	Lambermont Liderie Paulet Philippens Reul 
+	Reynier Vanhove "la Vignette" 
+}
+
+ship_names = {
+	"Reginar I" Sigard "Reginar II" Godfrey
+	"Reginar III" Richar Reginald "Godfrey II"
+	Herman Amalric Warin Arnulf "Baldvin I"
+	"Baldvin II"
+}
+
+army_names = {
+	"Armée del $PROVINCE$"  }
+
+fleet_names = {  "Escarde del $PROVINCE$" 
+	 }

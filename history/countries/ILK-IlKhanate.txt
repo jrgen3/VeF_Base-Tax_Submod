@@ -1,0 +1,37 @@
+#######################################
+# IlKhanate
+#######################################
+government = steppe_horde_hr
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = tartar
+religion = shiite
+capital = 414
+
+1100.1.1 = { 
+	add_country_modifier = { name = "silk_road_modifier" duration = -1 }
+	add_country_modifier = { name = "ilk_collapse" duration = -1 }
+	set_country_flag = never_restore_stability_on_death
+	set_country_flag = horde_collapse
+	add_stability = -2
+}
+
+1304.1.1 = {
+	monarch = {
+		name = "Oljaitu"
+		dynasty = "Ilkhanid"
+		adm = 3
+		dip = 2
+		mil = 5
+	}
+}
+
+1316.1.1 = {
+	monarch = {
+		name = "Abu Sa'id"
+		dynasty = "Ilkhanid"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}

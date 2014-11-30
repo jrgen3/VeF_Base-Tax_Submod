@@ -1,0 +1,93 @@
+# Tver
+government = rus_principality
+mercantilism = 0.1
+primary_culture = russian
+religion = orthodox
+technology_group = eastern
+capital = 294	# Tver
+
+
+1100.1.1 = { set_country_flag = golden_horde_tribute }
+
+1304.1.1 = {
+	monarch = {
+		name = "Mikhail I"
+		dynasty = "Rurikovich"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1318.1.1 = {
+	monarch = {
+		name = "Dmitry I"
+		dynasty = "Rurikovich"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+
+1326.1.1 = {
+	monarch = {
+		name = "Alexander I"
+		dynasty = "Rurikovich"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+
+1339.1.1 = {
+	monarch = {
+		name = "Konstantin I"
+		dynasty = "Rurikovich"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+
+1398.11.1 = {
+	monarch = {
+		name = "Mikhail II"
+		dynasty = "Rurikovich"
+		adm = 2
+		dip = 0
+		mil = 1
+	}
+}
+
+1425.11.1 = {
+	monarch = {
+		name = "Boris"
+		dynasty = "Rurikovich"
+		adm = 1
+		dip = 0
+		mil = 0
+	}
+}
+
+1461.2.10 = {
+	monarch = {
+		name = "Mikhail III"
+		dynasty = "Rurikovich"
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
+
+1485.9.13 = {
+	monarch = {
+		name = "Ivan II"
+		dynasty = "Rurikovich"
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}

@@ -1,0 +1,67 @@
+#Country Name: Please seefilename.
+
+graphical_culture = africangfx
+
+color = { 30  131  162 }
+
+historical_idea_groups = {
+}
+
+historical_units = { 
+	sub_saharan_cavalry_0_1
+	sub_saharan_cavalry_16_1
+	sub_saharan_cavalry_24_1
+	sub_saharan_cavalry_32_1
+	sub_saharan_cavalry_8_1
+	sub_saharan_infantry_0_1
+	sub_saharan_infantry_12_1
+	sub_saharan_infantry_18_1
+	sub_saharan_infantry_24_1
+	sub_saharan_infantry_30_1
+	sub_saharan_infantry_36_1
+	sub_saharan_infantry_6_1
+}
+
+
+
+
+monarch_names = {
+	"Eri #0" = 20
+	"Namoke #0" = 20
+	"Buife #0" = 20
+	"Omalo #0" = 20
+	"Jiofo #0" = 20
+	"Omalonyeso #0" = 20
+	"Anyamata #0" = 20
+	"Fenenu #0" = 20
+	"Agu #0" = 20
+	"Apia #0" = 20
+	"Ewenetem #0" = 20
+	"Enweleana #0" = 20
+	"Obalike #0" = 5
+	"Okpeta #0" = 5
+	"Nrijiofor #0" = 20
+}
+
+leader_names = {
+	Onodugo
+	Nkechi
+	Idozuka
+	Ugwuh
+	Wogo
+	Ugochukwu
+	Iwuoma
+	Ndukwe
+	Okoye
+	Nwaogu
+	Nnamani
+	Ngige
+	Mbakwe
+	Enwerem
+	Nzeribe
+	Ndibe
+	Okwei
+}
+
+ship_names = {
+}

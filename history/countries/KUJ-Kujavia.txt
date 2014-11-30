@@ -1,0 +1,30 @@
+government = duchy_government
+mercantilism = 0.1
+primary_culture = polish
+religion = catholic
+technology_group = eastern
+historical_friend = LIT
+historical_rival = POL
+capital = 2104 # Kujawy
+
+
+1302.1.1 = {
+	monarch = {
+		name = "Casimir II"
+		dynasty = "Piast"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+
+1347.1.1 = {
+	monarch = {
+		name = "Wladyslaw I"
+		dynasty = "Piast"
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+}

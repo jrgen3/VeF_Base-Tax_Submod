@@ -1,0 +1,8 @@
+government = despotic_monarchy
+mercantilism = 0.1
+technology_group = sudanese_tech
+primary_culture = oromo
+religion = sunni
+capital = XXX
+historical_rival = ETH
+historical_rival = ADA

@@ -1,0 +1,5 @@
+government = rus_principality
+primary_culture = russian
+religion = orthodox
+technology_group = eastern
+capital = 2083 # Uglich

@@ -1,0 +1,27 @@
+government = noble_republic
+mercantilism = 0.2
+primary_culture = tuscan
+religion = catholic
+technology_group = western
+capital = 115	# Pisa
+
+
+1200.1.1 = { set_country_flag = guelphs_ghibellines_active }
+1300.1.1 = {
+	monarch = {
+		name = "Pisan Republic"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1494.1.1 = {
+	monarch = {
+		name = "Simone Orlandi"
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+}
+1560.1.1 = { clr_country_flag = guelphs_ghibellines_active }

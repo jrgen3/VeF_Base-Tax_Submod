@@ -1,0 +1,154 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 61  136  66 }
+
+historical_idea_groups = {
+	mm1_ideas
+	quantity_ideas
+	economic_ideas
+	mercantilist_ideas
+	defensive_ideas
+	administrative_ideas
+	diplomatic_ideas
+	standing_army_ideas
+}
+
+historical_units = { 
+	western_artillery_15_1
+	western_artillery_22_1
+	western_artillery_29_1
+	western_artillery_35_1
+	western_artillery_40_1
+	western_artillery_44_1
+	western_artillery_48_1
+	western_artillery_52_1
+	western_artillery_55_1
+	western_artillery_55_2
+	western_artillery_8_1
+	western_cavalry_0_1
+	western_cavalry_0_2
+	western_cavalry_12_1
+	western_cavalry_12_2
+	western_cavalry_18_1
+	western_cavalry_23_1
+	western_cavalry_28_1
+	western_cavalry_33_1
+	western_cavalry_37_1
+	western_cavalry_37_2
+	western_cavalry_41_1
+	western_cavalry_41_2
+	western_cavalry_45_1
+	western_cavalry_45_2
+	western_cavalry_49_1
+	western_cavalry_49_2
+	western_cavalry_52_1
+	western_cavalry_52_2
+	western_cavalry_6_1
+	western_cavalry_6_2
+	western_infantry_0_1
+	western_infantry_0_2
+	western_infantry_12_1
+	western_infantry_12_2
+	western_infantry_16_1
+	western_infantry_16_2
+	western_infantry_20_1
+	western_infantry_20_2
+	western_infantry_23_1
+	western_infantry_23_2
+	western_infantry_26_1
+	western_infantry_26_2
+	western_infantry_29_1
+	western_infantry_29_2
+	western_infantry_32_1
+	western_infantry_32_2
+	western_infantry_35_1
+	western_infantry_35_2
+	western_infantry_38_1
+	western_infantry_38_2
+	western_infantry_41_1
+	western_infantry_41_2
+	western_infantry_44_1
+	western_infantry_44_2
+	western_infantry_47_1
+	western_infantry_47_2
+	western_infantry_49_1
+	western_infantry_49_2
+	western_infantry_4_1
+	western_infantry_4_2
+	western_infantry_51_1
+	western_infantry_51_2
+	western_infantry_53_1
+	western_infantry_53_2
+	western_infantry_55_1
+	western_infantry_55_2
+	western_infantry_8_1
+	western_infantry_8_2
+}
+
+
+
+
+
+monarch_names = {
+	"Boguslaw #9" = 100
+	"Barnim #10" = 20
+	"Ota #3" = 20
+	"Eryk #1" = 20
+	"Filip #1" = 20
+	"Franciszek #0" = 20
+	"Jan Fryderyk #0" = 20
+	"Wratislaw #5" = 20
+	"Georg #0" = 15
+	"Ulrich #0" = 15
+	"Kazimierz #5" = 10
+	"Ernest Ludwik #0" = 10
+	"Jan Ernest #0" = 10
+	"Albrecht #0" = 0
+	"Arnt #0" = 0
+	"August #0" = 0
+	"Bernhard #0" = 0
+	"Bodo #0" = 0
+	"Carl #0" = 0
+	"Emil #0" = 0
+	"Ernest #0" = 0
+	"Fritz #0" = 0
+	"Fryderyk #0" = 0
+	"Gerhard #0" = 0
+	"Gustav #0" = 0
+	"Harald #0" = 0
+	"Hendryk #0" = 0
+	"Herbert #0" = 0
+	"Hermann #0" = 0
+	"Jan #0" = 0
+	"Janusz #0" = 0
+	"Jochem #0" = 0
+	"Martin #0" = 0
+	"Maximiliam #0" = 0
+	"Paul #0" = 0
+	"Reinhold #0" = 0
+	"Richard #0" = 0
+	"Siegfried #0" = 0
+	"Walter #0" = 0
+	"Wilhelm #0" = 0
+	
+	"Gabriela #0" = -1
+	"Helena #0" = -1
+	"Janina #0" = -1
+}
+
+leader_names = {
+	"von Krockows" "von Lettows" "von Peglows"
+	"von Neustreliz" "von Prenzlau" "von Strelows"
+	"von Zitzewitzes" "von Szczecin" Witt Behm
+	Beyse Kurzmann Jürgens Stellmacher Heidmann
+	Grosch Krumtum Miercke Rähl Wessel Meuseling
+	"von Wolin" "von Wolgatz"
+}
+
+ship_names = {
+	Pommern "Herzog Kasimir" "Herzog Bogislaw"
+	"Stettin Herzog Barnim" Wismar Rostock
+	Stralsund Greifswald Demmin Anklam "Herzog Otto"
+}

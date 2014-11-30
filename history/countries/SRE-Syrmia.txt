@@ -1,0 +1,37 @@
+government = feudal_monarchy
+mercantilism = 0.1
+primary_culture = serbian
+add_accepted_culture = bosnian
+add_accepted_culture = hungarian
+add_accepted_culture = bulgarian
+religion = orthodox
+technology_group = eastern
+capital = 141 # Srbija
+
+historical_friend = HUN
+historical_friend = SER
+historical_rival = BUL
+historical_rival = BOS
+historical_rival = VDN
+
+1282.1.1 = {
+	monarch = {
+		name = "Stefan I"
+		dynasty = "Dragutin"
+		birth_date = 1253.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1316.10.29 = {
+	monarch = {
+		name = "Stefan Vladislav II"
+		dynasty = "Dragutin"
+		birth_date = 1285.1.1
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+}

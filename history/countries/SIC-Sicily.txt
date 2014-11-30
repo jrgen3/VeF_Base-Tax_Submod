@@ -1,0 +1,114 @@
+# Sicily
+government = feudal_monarchy
+mercantilism = 0.1
+technology_group = western
+religion = catholic
+primary_culture = sicilian
+capital = 125	# Palermo
+historical_rival = NAP
+historical_friend = ARA
+
+
+1296.12.11 = {
+	monarch = { 
+		name = "Frederico III"
+		dynasty = "d'Barcelona"
+		birth_date = 1272.12.13
+		dip = 3
+		mil = 4
+		adm = 4
+	}
+	set_country_flag = peace_of_caltabellotta
+}
+
+1304.1.1 = {
+	heir = {
+		name = "Pedro"
+		monarch_name = "Pedro II"
+		dynasty = "d'Barcelona"
+		birth_date = 1304.1.1
+		death_date = 1342.8.15
+		adm = 2
+		dip = 1
+		mil = 1
+		claim = 70
+	}
+}
+
+1309.1.1 = { 
+	set_country_flag = starting_vassal 
+	set_country_flag = vassal_flag
+	add_opinion = { who = ARA modifier = vassal_stage_1 }
+	set_variable = { which = vassal_progress value = 1.0 }
+}
+
+1337.6.25 = {
+	monarch = { 
+		name = "Pedro II"
+		dynasty = "d'Barcelona"
+		birth_date = 1304.1.1
+		dip = 1
+		mil = 1
+		adm = 2
+	}
+	clr_country_flag = peace_of_caltabellotta
+}
+
+1342.8.15 = {
+	monarch = { 
+		name = "Louis I"
+		dynasty = "d'Barcelona"
+		birth_date = 1337.1.1
+		dip = 3
+		mil = 3
+		adm = 3
+	}
+}
+
+1355.10.16 = {
+	monarch = { 
+		name = "Frederico IV"
+		dynasty = "d'Barcelona"
+		birth_date = 1341.9.1
+		dip = 3
+		mil = 3
+		adm = 3
+	}
+}
+
+1377.1.28 = {
+	monarch = { 
+		name = "Maria I"
+		dynasty = "d'Aragó"
+		dip = 3
+		mil = 4
+		adm = 2
+		female = yes
+	}
+}
+
+1713.4.12 = {
+	monarch = {
+		name = "Vittorio Amedeo II"
+		dynasty = "di Savoia"
+		adm = 4
+		dip = 6
+		mil = 5
+		leader = { name = "Vittorio Amedeo II" type = general rank = 0 fire = 4 shock = 4 manuever = 2 siege = 2 }
+	}
+}
+
+# 1720.1.1 Vittorio Amedeo II becomes king of Sardinia-Piemont
+
+1806.3.11 = { government = enlightened_despotism }
+
+# Ferdinand/Ferrante flees to Sicily
+1806.3.11 = {
+	monarch = {
+		name = "Ferrante IV"
+		dynasty = "de Bourbon"
+		dip = 0
+		mil = 0
+		adm = 0
+	}		
+}

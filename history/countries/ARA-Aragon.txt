@@ -1,0 +1,222 @@
+# Aragon
+government = feudal_monarchy
+mercantilism = 0.1
+primary_culture = catalan
+add_accepted_culture = sicilian
+add_accepted_culture = aragonese
+religion = catholic
+technology_group = western
+historical_friend = POR
+historical_friend = ATH
+historical_friend = SIC
+capital = 213 # Barcelona
+
+# 1309 starting point set below due to 'early' kings
+
+1285.11.2 = {
+	monarch = {
+		name = "Chaime II"
+		dynasty = "d'Aragó"
+		birth_date = 1267.8.10
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1299.1.1 = {
+	heir = {
+		name = "Alfonso"
+		monarch_name = "Alfonso IV"
+		dynasty = "d'Aragó"
+		birth_date = 1299.1.1
+		death_date = 1336.1.24
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+}
+
+1327.1.1 = {
+	monarch = {
+		name = "Alfonso IV"
+		dynasty = "d'Aragó"
+		birth_date = 1299.1.1
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+}
+
+1327.1.1 = {
+	heir = {
+		name = "Pero"
+		monarch_name = "Pero IV"
+		dynasty = "d'Aragó"
+		birth_date = 1319.9.5
+		death_date = 1387.1.6
+		claim = 95
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+}
+
+1336.1.1 = {
+	monarch = {
+		name = "Pero IV"
+		dynasty = "d'Aragó"
+		birth_date = 1319.9.5
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+}
+
+1350.12.27 = {
+	heir = {
+		name = "Chuan"
+		monarch_name = "Chuan I"
+		dynasty = "d'Aragó"
+		birth_date = 1350.12.27
+		death_date = 1458.6.27
+		claim = 95
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+}
+
+1387.1.6 = {
+	monarch = {
+		name = "Chuan I"
+		dynasty = "d'Aragó"
+		birth_date = 1350.12.27
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+}
+
+1396.5.19 = {
+	monarch = {
+		name = "Martí I"
+		dynasty = "d'Aragó"
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1410.5.31 = {
+	monarch = {
+		name = "Compromís de Casp"
+		regent = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1410.6.1 = { capital = 214 } # Zaragoza
+
+1412.6.24 = {
+	monarch = {
+		name = "Ferran I"
+		dynasty = "de Trastámara"
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+}
+
+1412.6.24 = {
+	heir = {
+		name = "Alfons"
+		monarch_name = "Alfons V"
+		dynasty = "de Trastámara"
+		birth_date = 1396.1.1
+		death_date = 1458.6.27
+		claim = 95
+		adm = 2
+		dip = 4
+		mil = 6
+	}
+}
+		
+1416.4.2 = {
+	monarch = {
+		name = "Alfons V"
+		dynasty = "de Trastámara"
+		adm = 2
+		dip = 4
+		mil = 6
+		leader = {	name = "Alfons V"	type = general	rank = 0	fire = 4	shock = 3	manuever = 4	siege = 1 }
+	}
+}
+
+1416.4.2 = {
+	heir = {
+		name = "Joan"
+		monarch_name = "Joan II"
+		dynasty = "de Trastámara"
+		birth_date = 1397.6.29
+		death_date = 1479.1.20
+		claim = 95
+		adm = 4
+		dip = 1
+		mil = 0
+	}
+}
+
+1416.4.3 = { capital = 220 } # València
+
+1443.1.1 = { leader = {	name = "Bernat de Vilamarí"	type = admiral	rank = 1	fire = 3	shock = 2	manuever = 2	siege = 0	death_date = 1463.9.1 } }
+
+1458.6.29 = {
+	monarch = {
+		name = "Joan II"
+		dynasty = "de Trastámara"
+		adm = 4
+		dip = 1
+		mil = 0
+	}
+}
+
+1458.6.29 = {
+	heir = {
+		name = "Ferran"
+		monarch_name = "Ferran II"
+		dynasty = "de Trastámara"
+		birth_date = 1452.3.10
+		death_date = 1516.1.23
+		claim = 95
+		adm = 4
+		dip = 6
+		mil = 5
+	}
+}
+
+1479.1.20 = {
+	monarch = {
+		name = "Ferran II"
+		dynasty = "de Trastámara"
+		adm = 4
+		dip = 6
+		mil = 5
+		leader = {	name = "Ferran II"	type = general	rank = 0	fire = 3	shock = 2	manuever = 3	siege = 1 }
+	}
+}
+
+1495.7.1 = { leader = {	name = "Prospero Colonna"      	type = general	rank = 1	fire = 3	shock = 3	manuever = 3	siege = 0	death_date = 1516.1.23 } }
+
+1499.1.1 = { leader = { name = "Pedro Navarro"		type = general	rank = 1	fire = 3	shock = 2	manuever = 2	siege = 3	death_date = 1512.4.11 } } # Captured by French, after that in their service
+
+1508.1.1 = { leader = {	name = "Ramón de Cardona"       type = general	rank = 1	fire = 3	shock = 3	manuever = 2	siege = 1	death_date = 1516.1.23 } }
+
+1512.1.1 = { leader = { name = "Fernando d'Avalos"	 	type = general	rank = 1	fire = 3	shock = 3	manuever = 3	siege = 1	death_date = 1525.11.4 } }
+
+1724.1.20 = { government = renaissance_monarchy }
+
+1759.8.12 = { government = absolute_monarchy }

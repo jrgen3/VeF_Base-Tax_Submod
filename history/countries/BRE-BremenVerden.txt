@@ -1,0 +1,130 @@
+government = archbishopric
+mercantilism = 0.1
+primary_culture = lowersaxon
+religion = catholic
+technology_group = western
+capital = 54	# Bremen
+
+
+1260.1.1 = { add_country_modifier = { name = "hanseatic_league_member" duration = -1 } }
+
+1395.1.1 = {
+	monarch = {
+		name = "Otto II"
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1406.1.1 = {
+	monarch = {
+		name = "Johann II"
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+}
+
+1422.1.1 = {
+	monarch = {
+		name = "Nicolaus I"
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+1435.1.1 = {
+	monarch = {
+		name = "Baldwin I"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1441.7.9 = {
+	monarch = {
+		name = "Gerhard III"
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+1463.4.15 = {
+	monarch = {
+		name = "Heinrich II"
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+}
+
+1496.12.25 = {
+	monarch = {
+		name = "Johann III Rode"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1511.12.5 = {
+	monarch = {
+		name = "Cristoph I"
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+}
+
+1529.1.1 = { religion = protestant }
+
+1558.1.23 = {
+	monarch = {
+		name = "Georg I"
+		adm = 3
+		dip = 3
+		mil = 1
+	}
+}
+
+1558.1.23 = { government = absolute_monarchy}
+
+1566.12.5 = {
+	monarch = {
+		name = "Heinrich III"
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+}
+
+1585.4.29 = {
+	monarch = {
+		name = "Johann Adolf I"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1596.8.30 = {
+	monarch = {
+		name = "Johann Friedrich I"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1634.9.4 = {
+	monarch = {
+		name = "Friedrich II"
+		adm = 2
+		dip = 4
+		mil = 1
+	}
+}

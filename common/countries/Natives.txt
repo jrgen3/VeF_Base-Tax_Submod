@@ -1,0 +1,122 @@
+#Natives
+
+graphical_culture = westerngfx
+
+color = { 203  164  103 }	
+
+historical_idea_groups = {
+	quantity_ideas
+	mercantilist_ideas
+	economic_ideas
+	drafted_army_ideas
+	spy_ideas
+	cultural_unity_ideas
+	defensive_ideas
+	land_ideas
+}
+
+historical_units = { 
+	western_artillery_15_1
+	western_artillery_22_1
+	western_artillery_29_1
+	western_artillery_35_1
+	western_artillery_40_1
+	western_artillery_44_1
+	western_artillery_48_1
+	western_artillery_52_1
+	western_artillery_55_1
+	western_artillery_55_2
+	western_artillery_8_1
+	western_cavalry_0_1
+	western_cavalry_0_2
+	western_cavalry_12_1
+	western_cavalry_12_2
+	western_cavalry_18_1
+	western_cavalry_23_1
+	western_cavalry_28_1
+	western_cavalry_33_1
+	western_cavalry_37_1
+	western_cavalry_37_2
+	western_cavalry_41_1
+	western_cavalry_41_2
+	western_cavalry_45_1
+	western_cavalry_45_2
+	western_cavalry_49_1
+	western_cavalry_49_2
+	western_cavalry_52_1
+	western_cavalry_52_2
+	western_cavalry_6_1
+	western_cavalry_6_2
+	western_infantry_0_1
+	western_infantry_0_2
+	western_infantry_12_1
+	western_infantry_12_2
+	western_infantry_16_1
+	western_infantry_16_2
+	western_infantry_20_1
+	western_infantry_20_2
+	western_infantry_23_1
+	western_infantry_23_2
+	western_infantry_26_1
+	western_infantry_26_2
+	western_infantry_29_1
+	western_infantry_29_2
+	western_infantry_32_1
+	western_infantry_32_2
+	western_infantry_35_1
+	western_infantry_35_2
+	western_infantry_38_1
+	western_infantry_38_2
+	western_infantry_41_1
+	western_infantry_41_2
+	western_infantry_44_1
+	western_infantry_44_2
+	western_infantry_47_1
+	western_infantry_47_2
+	western_infantry_49_1
+	western_infantry_49_2
+	western_infantry_4_1
+	western_infantry_4_2
+	western_infantry_51_1
+	western_infantry_51_2
+	western_infantry_53_1
+	western_infantry_53_2
+	western_infantry_55_1
+	western_infantry_55_2
+	western_infantry_8_1
+	western_infantry_8_2
+}
+
+
+
+monarch_names = {
+	"Mapi #0" = 10
+	"Quando #0" = 10
+	"Illa #0" = 10
+	"Rimac #0" = 10
+	"Tiso #0" = 10
+	"Cusi #0" = 10
+	"Mayta #0" = 10
+	"Roca #0" = 10
+	"Zope #0" = 10
+	"Curiatao #0" = 10
+	"Guacra #0" = 10
+	"Maila #0" = 10
+	"Tanqui #0" = 10
+	"Taipi #0" = 10
+	
+	"Sanga #0" = -1
+}
+
+leader_names = {
+	Tywan Toto Iawi Gasana
+	Wyoh Illa Maila Quizo
+	Tanqui Taraque Tari Pacon
+}
+
+ship_names = {
+	Yamro Sanga Mani Mutara
+	Gasana Yuhi Kigeri Kemba
+	Adero Ayan Mahdi Gukunda
+	Nalungo Kilolo Gahiji
+}

@@ -1,0 +1,19 @@
+# Hungary
+government = county_government
+mercantilism = 0.1
+primary_culture = hungarian
+religion = catholic
+technology_group = eastern
+capital = 162 # Kosice
+
+
+1288.8.27 = {
+	monarch = {
+		name = "Amadeus"
+		dynasty = "Aba"
+		birth_date = 1260.1.1
+		adm = 6
+		dip = 2
+		mil = 2
+	}
+}

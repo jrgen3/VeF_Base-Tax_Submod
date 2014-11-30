@@ -1,0 +1,106 @@
+#Country Name: See the Name of this File.
+
+graphical_culture = indiangfx
+
+color = { 253  97  15 }
+
+historical_idea_groups = {
+	quantity_ideas
+	spy_ideas
+	religious_ideas
+	defensive_ideas
+	mercantilist_ideas
+	cultural_unity_ideas
+	drafted_army_ideas
+	gf1_ideas
+}
+
+historical_units = { 
+	indian_artillery_16_1
+	indian_artillery_24_1
+	indian_artillery_32_1
+	indian_artillery_38_1
+	indian_artillery_42_1
+	indian_artillery_8_1
+	indian_cavalry_0_1
+	indian_cavalry_12_1
+	indian_cavalry_18_1
+	indian_cavalry_24_1
+	indian_cavalry_30_1
+	indian_cavalry_36_1
+	indian_cavalry_42_1
+	indian_cavalry_6_1
+	indian_infantry_0_1
+	indian_infantry_10_1
+	indian_infantry_15_1
+	indian_infantry_20_1
+	indian_infantry_25_1
+	indian_infantry_30_1
+	indian_infantry_35_1
+	indian_infantry_38_1
+	indian_infantry_41_1
+	indian_infantry_44_1
+	indian_infantry_5_1
+}
+
+
+
+
+monarch_names = {
+	"Beersingh Deo #1" = 20
+	"Pulkit #1" = 20
+	"Dungar Singh #1" = 20
+	"Uddhharandev #1" = 20
+	"Vikramdev #1" = 20
+	"Ganapatidev #1" = 20
+	"Dugarendrasingh #1" = 20
+	"Kalyanmalla #1" = 20
+	"Gokula #0" = 20
+	"Ram #0" = 20
+	"Churaman #0" = 20
+	"Badan Singh #0" = 10
+	"Suraj Mal #0" = 10
+	"Jawahar Singh #0" = 10
+	"Ratan Singh #0" = 5
+	"Nawal Singh #0" = 5
+	"Ranjit Singh #0" = 5
+	"Randhir Singh #0" = 5
+	"Baldeo Singh #0" = 5
+	"Balwant Singh #0" = 5
+	"Kehri Singh #0" = 5
+	"Jashwant Singh #0" = 5
+	"Kishan Singh #0" = 5
+	"Brijendra Singh #0" = 5
+	"Chand Kaur #0" = -1
+	"Rajeshwari #0" = -1
+	"Hawa Kanwar #0" = -1
+}
+
+leader_names = {
+	Bhumla
+	Sardul
+	Jodh
+	Budh
+	Dip
+	Granth
+	Kulendra
+	Jhotti
+	Krishan
+	Lohaar
+	Parmanand
+	Rajsingh
+	Shergill
+	Sodhi
+	Sohal
+	Rai
+	Udasi
+}
+
+ship_names = {
+	Chambal Devi Durga Gayatri Ghaggar
+	Godwar Jalsena "Kala Jahazi" Lakshmi
+	"Lal Jahazi" Luni Nausena "Marwar ka Nav"
+	"Merwar ka Nav" "Nav ka Yudh" "Nila Jahazi"
+	Parvati Radha Rani Ratri Sagar Sarasvati
+	Sekhawati Sita
+}

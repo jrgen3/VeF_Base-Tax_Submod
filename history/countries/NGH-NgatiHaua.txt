@@ -1,0 +1,6 @@
+government = native_council
+mercantilism = 0.1
+technology_group = pacific_islander
+religion = animism
+primary_culture = polynesian
+capital = 1106	# Whangarei

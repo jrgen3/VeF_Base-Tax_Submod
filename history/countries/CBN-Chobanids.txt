@@ -1,0 +1,12 @@
+#######################################
+# Chobanid Dynasty
+#######################################
+government = despotic_monarchy
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = uzbehk
+add_accepted_culture = east_persian
+religion = sunni
+capital = 417 # 
+historical_rival = JAI
+

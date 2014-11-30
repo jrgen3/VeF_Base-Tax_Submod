@@ -1,0 +1,45 @@
+# Aydin
+government = iqta
+mercantilism = 0.1
+primary_culture = turkish
+religion = sunni
+technology_group = ottoman
+capital = 2037 # Aydin
+
+
+1310.1.1 = {
+	monarch = {
+		name = "Mehmed II"
+		dynasty = "Aydinoglu"
+		adm = 1
+		dip = 2
+		mil = 0
+	}
+	add_piety = 0.3
+}
+
+1310.1.1 = {
+	heir = {
+		name = "Umur"
+		monarch_name = "Umur"
+		dynasty = "Aydinoglu"
+		birth_date = 1309.1.1
+		death_date = 1348.1.1
+		claim = 95
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+}
+
+1334.1.1 = {
+	monarch = {
+		name = "Umur I"
+		dynasty = "Aydinoglu"
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+	add_piety = 0.3
+}
+

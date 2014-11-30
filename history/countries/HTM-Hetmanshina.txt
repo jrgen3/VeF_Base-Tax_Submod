@@ -1,0 +1,118 @@
+government = hetmanat
+mercantilism = 0.1
+technology_group = eastern
+religion = orthodox
+primary_culture = ruthenian
+historical_friend = RUS
+historical_friend = SWE
+historical_friend = MOL
+capital = 283	# Zaporozhia
+historical_friend = UKR
+
+1648.1.1 = {
+	primary_culture = ruthenian
+	monarch = {
+		name = "Bogdan Khmelnitsky"
+		adm = 4
+		dip = 6
+		mil = 5
+	}
+}
+
+1648.1.1 = { leader = {	name = "Ivan Bohun"               	type = general	rank = 3	fire = 3	shock = 3	manuever = 3	siege = 3 death_date = 1664.2.2 }}
+
+
+1657.9.9 = {
+	monarch = {
+		name = "Ivan Vygovskyy"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1659.9.9 = {
+	monarch = {
+		name = "Yuriy Khmelnitsky"
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+}
+
+1663.1.1 = {
+	monarch = {
+		name = "Ivan Bruchovetskij"
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+}
+
+
+1668.1.1 = {
+	monarch = {
+		name = "Petro Doroshenko"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+
+1672.1.1 = {
+	monarch = {
+		name = "Ivan Samojlovich"
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+
+1687.1.1 = {
+	monarch = {
+		name = "Ivan Mazepa"
+		adm = 5
+		dip = 6
+		mil = 4
+	}
+}
+
+1696.1.1 = { leader = {	name = "Dmytro Chechel"               	type = general	rank = 4	fire = 5	shock = 1	manuever = 1	siege = 4 death_date = 1709.9.9 }}
+
+1710.1.1 = {
+	monarch = {
+		name = "Ivan Skoropadsky"
+		adm = 1
+		dip = 5
+		mil = 5
+	}
+}
+
+1722.1.1 = {
+	monarch = {
+		name = "Pavlo Polubotok"
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+1727.1.1 = {
+	monarch = {
+		name = "Danylo Apostol"
+		adm = 0
+		dip = 3
+		mil = 3
+	}
+}
+
+1750.1.1 = {
+	monarch = {
+		name = "Kirylo Rozumovsky"
+		adm = 0
+		dip = 1
+		mil = 3
+	}
+}

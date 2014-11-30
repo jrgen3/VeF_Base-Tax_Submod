@@ -1,0 +1,19 @@
+government = duchy_government
+mercantilism = 0.1
+primary_culture = romanian
+add_accepted_culture = greek
+religion = orthodox
+technology_group = byzantine
+capital = 147	# Thessaly
+
+
+1303.1.1 = {
+	monarch = {
+		name = "Ioannes I"
+		dynasty = "Doukas"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+

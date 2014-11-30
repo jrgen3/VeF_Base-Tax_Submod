@@ -1,0 +1,118 @@
+government = despotic_monarchy
+mercantilism = 0.1
+technology_group = byzantine
+primary_culture = greek
+religion = orthodox
+capital = 144 # Ioannina
+
+
+1297.1.1 = {
+	monarch = {
+		name = "Thomas I"
+		dynasty = "Doukas"
+		dip = 1
+		adm = 1
+		mil = 2
+	}
+}
+
+1318.1.1 = {
+	monarch = {
+		name = "Nikephoros I"
+		dynasty = "Orsini"
+		dip = 1
+		adm = 1
+		mil = 2
+	}
+}
+
+1323.1.1 = {
+	monarch = {
+		name = "Iohannes II"
+		dynasty = "Orsini"
+		dip = 1
+		adm = 1
+		mil = 2
+	}
+}
+
+1335.1.1 = {
+	monarch = {
+		name = "Nikephoros II"
+		dynasty = "Orsini"
+		dip = 1
+		adm = 1
+		mil = 2
+	}
+}
+
+1359.1.1 = {
+	monarch = {
+		name = "Simeon I"
+		dynasty = "Nemanjic"
+		dip = 1
+		adm = 1
+		mil = 2
+	}
+}
+
+1366.1.1 = {
+	monarch = {
+		name = "Thomas II"
+		dynasty = "Preljubovic"
+		dip = 1
+		adm = 1
+		mil = 2
+	}
+}
+
+1384.12.23 = {
+	monarch = {
+		name = "Marie I"
+		dynasty = "Preljubovic"
+		female = yes
+		dip = 1
+		adm = 1
+		mil = 2
+	}
+}
+
+1385.2.1 = {
+	monarch = {
+		name = "Esau I"
+		dynasty = "de Buondelmonti"
+		dip = 1
+		adm = 1
+		mil = 2
+	}
+}
+
+1411.2.6 = {
+	monarch = {
+		name = "Giorgio I"
+		dynasty = "de Buondelmonti"
+		dip = 0
+		adm = 0
+		mil = 0
+	}
+}
+
+1411.2.26 = {
+	monarch = {
+		name = "Carlo I"
+		dynasty = "Tocco"
+		dip = 4
+		adm = 4
+		mil = 3
+	}
+}
+
+1429.6.4 = {
+	monarch = {
+		name = "Carlo II"
+		dynasty = "Tocco"
+		dip = 0
+		adm = 1
+		mil = 3
+	}
+}

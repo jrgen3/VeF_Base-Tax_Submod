@@ -1,0 +1,57 @@
+government = duchy_government
+mercantilism = 0.1
+primary_culture = austrian
+religion = catholic
+technology_group = western
+capital = 128 # Kärnten
+
+1295.11.1 = {
+	monarch = {
+		 name = "Jindrich VI"
+		 dynasty = "von Meinhardiner"
+		 birth_date = 1265.1.1
+		 adm = 2
+		 dip = 1
+		 mil = 2
+	}
+}
+
+1379.1.1 = {
+	monarch = {
+		 name = "Leopold III"
+		 dynasty = "von Habsburg"
+		 adm = 2
+		 dip = 1
+		 mil = 2
+	}
+}
+
+1386.7.10 = {
+	monarch = {
+		name = "Wilhelm I"
+		dynasty = "von Habsburg"
+		adm = 3
+		dip = 1
+		mil = 1
+	}
+}
+
+1406.7.16 = {
+	monarch = {
+		name = "Ernst I"
+		dynasty = "von Habsburg"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1424.6.11 = {
+	monarch = {
+		name = "Friedrich III"
+		dynasty = "von Habsburg"
+		adm = 2
+		dip = 5
+		mil = 1
+	}
+}

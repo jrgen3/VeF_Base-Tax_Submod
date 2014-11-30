@@ -1,0 +1,6 @@
+government = tribal_despotism
+mercantilism = 0.1
+technology_group = tribal_african_tech
+primary_culture = chewa
+religion = bantu
+capital = 1191

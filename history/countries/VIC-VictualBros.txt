@@ -1,0 +1,39 @@
+# Victual Brothers
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = gotland
+religion = catholic
+technology_group = scandinavian_tech
+capital = 25 # Gotland
+historical_rival = TEU
+historical_rival = SWE
+historical_rival = HSA
+historical_rival = DNZ
+historical_rival = LUB
+historical_rival = BRM
+historical_rival = HAM
+
+
+1393.12.30 = { 
+	leader = {	
+		name = "Klaus Störtebeker"
+		type = admiral	
+		rank = 3	
+		fire = 4	
+		shock = 4	
+		manuever = 3	
+		siege = 0	
+		death_date = 1401.6.30 # Estimated
+	} 
+}
+
+1393.12.30 = {
+	monarch = {
+		name = "Klaus Störtebeker"
+		adm = 3	
+		dip = 2	
+		mil = 6
+		
+		attach_leader = "Klaus Störtebeker"
+	}
+}

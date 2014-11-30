@@ -1,0 +1,113 @@
+# Candar 
+government = iqta
+mercantilism = 0.1
+primary_culture = turkish
+religion = sunni
+technology_group = ottoman
+capital = 2321 # Kastamanu
+historical_rival = BYZ
+
+1309.1.1 = {
+	monarch = {
+		name = "Süleymân I"
+		dynasty = Candaroglu
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+	add_piety = 0.45
+}
+
+1339.1.1 = {
+	monarch = {
+		name = "Ibrahim I"
+		dynasty = Candaroglu
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+	add_piety = 0.45
+}
+
+1361.1.1 = {
+	monarch = {
+		name = "Celâddin I"
+		dynasty = Candaroglu
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+	add_piety = 0.45
+}
+
+
+1385.1.1 = {
+	monarch = {
+		name = "Isfendiyar I"
+		dynasty = Candaroglu
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+	add_piety = 0.45
+}
+
+1398.1.1 = { capital = 328 } # Sinope
+
+1419.1.1 = {
+	heir = {
+		name = "Ibrahim"
+		monarch_name = "Ibrahim II"
+		dynasty = "Candaroglu"
+		birth_date = 1419.1.1
+		death_date = 1443.1.1
+		claim = 95
+		adm = 1
+		dip = 3
+		mil = 3
+	}
+}
+
+1439.1.1 = {
+	monarch = {
+		name = "Ibrahim II"
+		dynasty = Candaroglu
+		adm = 1
+		dip = 3
+		mil = 3
+	}
+}
+
+1439.1.1 = {
+	heir = {
+		name = "Ismâ'îl"
+		monarch_name = "Ismâ'îl"
+		dynasty = "Candaroglu"
+		birth_date = 1423.1.1
+		death_date = 1460.1.1
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1443.1.1 = {
+	monarch = {
+		name = "Ismâ'îl"
+		dynasty = Candaroglu
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1460.1.1 = {
+	monarch = {
+		name = "Qyzyl Ahmad"
+		dynasty = Candaroglu
+		adm = 3
+		dip = 1
+		mil = 0
+	}
+}

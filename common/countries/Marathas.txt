@@ -1,0 +1,124 @@
+#Country Name: See the Name of this File.
+
+graphical_culture = indiangfx
+
+color = { 67  124  181 }
+
+historical_idea_groups = {
+	quantity_ideas
+	spy_ideas
+	religious_ideas
+	defensive_ideas
+	mercantilist_ideas
+	cultural_unity_ideas
+	drafted_army_ideas
+	gf1_ideas
+}
+
+historical_units = { 
+	indian_artillery_16_1
+	indian_artillery_24_1
+	indian_artillery_32_1
+	indian_artillery_38_1
+	indian_artillery_42_1
+	indian_artillery_8_1
+	indian_cavalry_0_1
+	indian_cavalry_12_1
+	indian_cavalry_18_1
+	indian_cavalry_24_1
+	indian_cavalry_30_1
+	indian_cavalry_36_1
+	indian_cavalry_42_1
+	indian_cavalry_6_1
+	indian_infantry_0_1
+	indian_infantry_10_1
+	indian_infantry_15_1
+	indian_infantry_20_1
+	indian_infantry_25_1
+	indian_infantry_30_1
+	indian_infantry_35_1
+	indian_infantry_38_1
+	indian_infantry_41_1
+	indian_infantry_44_1
+	indian_infantry_5_1
+}
+
+
+
+
+monarch_names = {
+	"Shivaji #0" = 10
+	"Shambaji #0" = 10
+	"Rajaram #0" = 10
+	"Sahuji #0" = 10
+	"Balaji #0" = 10
+	"Baji Rao #0" = 10
+	"Madhu Rao #0" = 10
+	"Narayan Rao #0" = 10
+	"Ragunath Rao #0" = 10
+	"Pratap Singh #0" = 10
+	"Firangoji #0" = 0
+	"Kanhoji #0" = 0
+	"Netaji #0" = 0
+	"Moropant #0" = 0
+	"Baji Prabhu #0" = 0
+	"Suryaji #0" = 0
+	"Tanaji #0" = 0
+	"Chimaji #0" = 0
+	"Ranoji #0" = 0
+	"Raghunathrao #0" = 0
+	"Malhar #0" = 0
+	"Tukojirao #0" = 0
+	"Haripant #0" = 0
+	"Yashwantrao  #0" = 0
+	"Tarabai #0" = -10
+	"Soyarabai #0" = -5
+	"Tukabai #0" = -1
+}
+
+leader_names = {
+	Bhonsle
+	Bhat
+	Shinde
+	Gaikwad
+	Pawar
+	Palkar
+	Satavahana
+	Yadava
+	Jadhav
+	Bhoit
+	Holkar
+	Kadam
+	Jagtap
+	Moit
+	Malusare
+	Nikam
+	Dabhad
+	Shirke
+	Moray
+	Nimbalk
+	Kate
+	Chavan
+	Rane
+	Gujar
+	Aher
+	Sawant
+	Kaushal
+	Khursh
+	Narsala
+	Krishnamma
+	Lolaksi
+	Maruthi
+	Nagaraj
+	Ramiah
+}
+
+ship_names = {
+	Agni Bhim Brahma Devi Durga
+	Ganesh Gayatri Hanumaun Indra
+	Jalsena "Kala Jahazi" Kali Kubera
+	Krishna Lakshmi "Lal Jahazi" Nausena
+	"Nav ka Yudh" "Nila Jahazi" Parvati
+	Radha Ratri Sagar Sarasvati Shiva
+	Sita Soma Surya Varuna Vayu Vishnu Yama
+}

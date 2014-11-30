@@ -1,0 +1,21 @@
+# Factions moved to government
+government = despotic_monarchy
+primary_culture = ainu
+religion = animism
+technology_group = niitaka
+capital = 1847
+historical_rival = JAP
+historical_rival = DTE
+historical_rival = MGI
+
+1308.1.1 = { 
+	monarch = {
+		name = "Resak"
+		dynasty = ""
+		birth_date = 1290.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+

@@ -1,0 +1,110 @@
+government = duchy_government
+mercantilism = 0.1
+technology_group = western
+primary_culture = schlesian
+religion = catholic
+capital = 2101 # Glogow
+
+# Dukes of Glogow
+
+1309.1.1 = {
+	monarch = {
+		name = "Przemko II"
+		dynasty = "Piast"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1337.1.1 = {
+	monarch = {
+		name = "Henryk I"
+		dynasty = "Piast"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1349.1.1 = {
+	monarch = {
+		name = "Henryk V"
+		dynasty = "Piast"
+		adm = 3
+		dip = 1
+		mil = 1
+	}
+}
+
+1369.1.1 = {
+	monarch = {
+		name = "Henryk VI"
+		dynasty = "Piast"
+		adm = 1
+		dip = 0
+		mil = 2
+	}
+}
+
+1393.1.1 = {
+	monarch = {
+		name = "Henryk VII"
+		dynasty = "Piast"
+		adm = 3
+		dip = 1
+		mil = 0
+	}
+}
+
+1395.1.1 = {
+	monarch = {
+		name = "Henryk VIII"
+		dynasty = "Piast"
+		adm = 0
+		dip = 3
+		mil = 2
+	}
+}
+
+1397.1.1 = {
+	monarch = {
+		name = "Jan I"
+		dynasty = "Piast"
+		adm = 1
+		dip = 0
+		mil = 3
+	}
+}
+
+1412.1.1 = {
+	monarch = {
+		name = "Henryk IX"
+		dynasty = "Piast"
+		adm = 0
+		dip = 3
+		mil = 2
+	}
+} 
+
+1467.1.1 = {
+	monarch = {
+		name = "Henryk XI"
+		dynasty = "Piast"
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+} 
+
+1476.1.1 = {
+	monarch = {
+		name = "Jan II"
+		dynasty = "Piast"
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+#1506 annexed by Blobhemia

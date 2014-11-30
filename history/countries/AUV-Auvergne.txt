@@ -1,0 +1,231 @@
+# Auvergne
+government = county_government
+mercantilism = 0.1
+technology_group = western
+primary_culture = occitain
+religion = catholic
+capital = 199	# Clermont
+
+
+1279.1.1 = {
+	monarch = {
+		name = "Robert VI"
+		dynasty = "d'Auvergne"
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+}
+
+1309.1.1 = { 
+	set_country_flag = starting_vassal 
+	set_country_flag = vassal_flag
+	set_country_flag = french_feudal_vassal
+	add_opinion = { who = FRA modifier = vassal_stage_1 }
+	set_variable = { which = vassal_progress value = 1.0 }
+}
+
+1317.1.1 = {
+	monarch = {
+		name = "Robert VII"
+		dynasty = "d'Auvergne"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+1325.1.1 = {
+	monarch = {
+		name = "Jeanne I"
+		dynasty = "d'Auvergne"
+		female = yes
+		adm = 3
+		dip = 3
+		mil = 1
+	}
+}
+
+1360.1.1 = {
+	monarch = {
+		name = "Jean I"
+		dynasty = "d'Auvergne"
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+}
+
+1386.1.1 = {
+	monarch = {
+		name = "Jean II"
+		dynasty = "d'Auvergne"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1394.1.1 = {
+	monarch = {
+		name = "Jeanne II"
+		dynasty = "d'Auvergne"
+		female = yes
+		adm = 5
+		dip = 4
+		mil = 2
+	}
+}
+
+1394.1.1 = {
+	heir = {
+		name = "Marie"
+		monarch_name = "Marie I"
+		dynasty = "d'Auvergne"
+		female = yes
+		birth_date = 1376.9.1
+		death_date = 1437.8.7
+		claim = 85
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1416.3.15 = {
+	monarch = {
+		name = "Marie"
+		dynasty = "de la Tour"
+		adm = 2
+		dip = 3
+		mil = 2
+		female = yes
+	}
+}
+
+1416.3.15 = {
+	heir = {
+		name = "Bertrand"
+		monarch_name = "Bertrand II"
+		dynasty = "de la Tour"
+		birth_date = 1390.1.1
+		death_date = 1461.3.22
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+}
+
+1437.8.7 = {
+	monarch = {
+		name = "Bertrand II"
+		dynasty = "de la Tour"
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+}
+
+1437.8.7 = {
+	heir = {
+		name = "Bertrand"
+		monarch_name = "Bertrand III"
+		dynasty = "de la Tour"
+		birth_date = 1417.1.1
+		death_date = 1494.9.26
+		claim = 95
+		adm = 1
+		dip = 4
+		mil = 2
+	}
+}
+		
+1461.3.22 = {
+	monarch = {
+		name = "Bertrand III"
+		dynasty = "de la Tour"
+		adm = 1
+		dip = 4
+		mil = 2
+	}
+}
+
+1467.1.1 = {
+	heir = {
+		name = "Jean"
+		monarch_name = "Jean III"
+		dynasty = "de la Tour"
+		birth_date = 1467.1.1
+		death_date = 1501.3.21
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+		
+1494.9.26 = {
+	monarch = {
+		name = "Jean III"
+		dynasty = "de la Tour"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1494.9.26 = {
+	heir = {
+		name = "Anne"
+		monarch_name = "Anne I"
+		dynasty = "de la Tour"
+		female = yes
+		birth_date = 1494.1.1
+		death_date = 1524.6.1
+		claim = 95
+		adm = 1
+		dip = 0
+		mil = 0
+	}
+}
+		
+1501.3.21 = {
+	monarch = {
+		name = "Anne I"
+		dynasty = "de la Tour"
+		adm = 1
+		dip = 0
+		mil = 0
+		female = yes
+	}
+}
+
+1519.4.13 = {
+	heir = {
+		name = "Cathérine"
+		monarch_name = "Cathérine I"
+		dynasty = "Medici"
+		birth_date = 1519.4.13
+		death_date = 1589.1.5
+		claim = 95
+		adm = 1
+		dip = 0
+		mil = 0
+		female = yes
+	}
+}
+		
+
+1524.6.1 = {
+	monarch = {
+		name = "Cathérine I"
+		dynasty = "Medici"
+		adm = 1
+		dip = 0
+		mil = 0
+		female = yes
+	}
+}
+
+1560.1.1 = { religion = reformed }

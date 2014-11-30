@@ -1,0 +1,79 @@
+#Country Name: Please see filename.
+
+graphical_culture = asiangfx
+
+color = { 232  172  32 }
+
+historical_idea_groups = {
+	free_trade_ideas
+	quantity_ideas
+	religious_ideas
+	gf1_ideas
+	offensive_ideas
+	cultural_unity_ideas
+	diplomatic_ideas
+	drafted_army_ideas
+}
+
+historical_units = { 
+	chinese_artillery_0_1
+	chinese_artillery_15_1
+	chinese_artillery_22_1
+	chinese_artillery_29_1
+	chinese_artillery_35_1
+	chinese_artillery_40_1
+	chinese_artillery_44_1
+	chinese_artillery_8_1
+	chinese_cavalry_0_1
+	chinese_cavalry_16_1
+	chinese_cavalry_22_1
+	chinese_cavalry_28_1
+	chinese_cavalry_34_1
+	chinese_cavalry_40_1
+	chinese_cavalry_44_1
+	chinese_cavalry_8_1
+	chinese_infantry_0_1
+	chinese_infantry_10_1
+	chinese_infantry_15_1
+	chinese_infantry_20_1
+	chinese_infantry_25_1
+	chinese_infantry_30_1
+	chinese_infantry_35_1
+	chinese_infantry_40_1
+	chinese_infantry_44_1
+	chinese_infantry_5_1
+}
+
+
+
+
+monarch_names = {
+	"Maulana Hasanudin #0" = 20
+	"Abdul Mufakir #0" = 20
+	"Nur ud-Din Ibrahim #0" = 20
+	"Yusuf Pasaran #0" = 20
+	"Muhammad Sedo Ning Rana #0" = 20
+	"Fatima #0" = 10
+	"Fath Muhammad #0" = 20
+	
+	"Arij #0" = -1
+}
+
+leader_names = {
+	Adi
+	Purnomo
+	Raharjo
+	Santoso
+	Aman
+	Damar
+	Bimo
+	Harjuno
+	Kresno
+	Puntodewo
+}
+
+ship_names = {
+	Lebak Pandeglang Serang Tangerang Cilegon
+	Kujang "Selat Sunda" Panaitan Krakatau
+	Sebuku Sabesi Sangiang Tundo Panjang Tinjal Deli
+}

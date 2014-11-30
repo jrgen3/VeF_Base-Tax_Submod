@@ -1,0 +1,12 @@
+government = imperial_government
+mercantilism = 0.1
+primary_culture = danish
+add_accepted_culture = scanian
+add_accepted_culture = norwegian
+add_accepted_culture = english
+religion = catholic
+technology_group = scandinavian_tech
+historical_friend = SCN
+capital = 12 #Sjaelland
+historical_friend = NRM
+historical_friend = POL

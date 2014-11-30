@@ -1,0 +1,127 @@
+#Country Name: Please see filename.
+
+graphical_culture = easterngfx
+
+color = { 249  206  173 }
+
+historical_idea_groups = {
+	spy_ideas
+	quantity_ideas
+	religious_ideas
+	mercantilist_ideas
+	defensive_ideas
+	administrative_ideas
+	mm1_ideas
+	drafted_army_ideas
+}
+
+historical_units = { 
+	byzantine_artillery_15_1
+	byzantine_artillery_22_1
+	byzantine_artillery_29_1
+	byzantine_artillery_35_1
+	byzantine_artillery_8_1
+	byzantine_cavalry_0_1
+	byzantine_cavalry_0_2
+	byzantine_cavalry_12_1
+	byzantine_cavalry_12_2
+	byzantine_cavalry_18_1
+	byzantine_cavalry_23_1
+	byzantine_cavalry_28_1
+	byzantine_cavalry_33_1
+	byzantine_cavalry_37_1
+	byzantine_cavalry_37_2
+	byzantine_cavalry_6_1
+	byzantine_cavalry_6_2
+	byzantine_infantry_0_1
+	byzantine_infantry_0_2
+	byzantine_infantry_12_1
+	byzantine_infantry_12_2
+	byzantine_infantry_16_1
+	byzantine_infantry_16_2
+	byzantine_infantry_20_1
+	byzantine_infantry_20_2
+	byzantine_infantry_23_1
+	byzantine_infantry_23_2
+	byzantine_infantry_26_1
+	byzantine_infantry_26_2
+	byzantine_infantry_29_1
+	byzantine_infantry_29_2
+	byzantine_infantry_32_1
+	byzantine_infantry_32_2
+	byzantine_infantry_35_1
+	byzantine_infantry_35_2
+	byzantine_infantry_38_1
+	byzantine_infantry_38_2
+	byzantine_infantry_4_1
+	byzantine_infantry_4_2
+	byzantine_infantry_8_1
+	byzantine_infantry_8_2
+}
+
+
+
+
+monarch_names = {
+	"Georgios #0" = 40
+	"Alexandros #0" = 20
+	"Konstantinos #0" = 20
+	"Pavlos #0" = 15
+	"Andreas #0" = 10
+	"Alexandra #0" = -10
+	"Nikolaos #0" = 10
+	"Aineias #0" = 0
+	"Alexeios #0" = 0
+	"Ambrosios #0" = 0
+	"Bartholomaios #0" = 0
+	"Basileios #0" = 0
+	"Chrysanthos #0" = 0
+	"David #0" = 0
+	"Demetrios #0" = 0
+	"Diogenes #0" = 0
+	"Dionysos #0" = 0
+	"Eirenaios #0" = 0
+	"Elpidios #0" = 0
+	"Gregorios #0" = 0
+	"Hektor #0" = 0
+	"Herakles #0" = 0
+	"Iason #0" = 0
+	"Ioannes #0" = 0
+	"Kastor #0" = 0
+	"Manuel #0" = 0
+	"Matthaios #0" = 0
+	"Nestor #0" = 0
+	"Nikomedes #0" = 0
+	"Orestes #0" = 0
+	"Palaemon #0" = 0
+	"Pelagios #0" = 0
+	"Petros #0" = 0
+	"Philemon #0" = 0
+	"Philippos #0" = 0
+	"Prokopios #0" = 0
+	"Skantarios #0" = 0
+	"Stefanos #0" = 0
+	"Theodoros #0" = 0
+	"Thomas #0" = 0
+}
+
+leader_names = {
+	Argyrus Artavasdus
+	Basileus
+	Diogenes Ducas
+	Monomachus
+	Romanus
+	Stauracius Stratioticus
+	Vataces
+	Zimisces
+}
+
+ship_names = {
+	Hydra
+	Lesbos Limnos
+	Mikonios
+	Pezopoulos
+	Salamis Samos Simitzopoulos
+	Themistoklis
+	Votsis
+}

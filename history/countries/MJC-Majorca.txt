@@ -1,0 +1,78 @@
+# Majorca
+government = feudal_monarchy
+mercantilism = 0.1
+primary_culture = catalan
+add_accepted_culture = sicilian
+religion = catholic
+technology_group = western
+historical_friend = FRA
+capital = 333 # Baleares
+
+
+1276.1.1 = {
+	monarch = {
+		name = "Jaume II"
+		dynasty = "d'Barcelona"
+		birth_date = 1243.1.31
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1276.1.1 = {
+	heir = {
+		name = "Sancho"
+		monarch_name = "Sancho I"
+		dynasty = "d'Barcelona"
+		birth_date = 1274.1.1
+		death_date = 1324.9.4
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+}
+
+1309.1.1 = { 
+	set_country_flag = starting_vassal 
+	set_country_flag = vassal_flag
+	add_opinion = { who = ARA modifier = vassal_stage_1 }
+	set_variable = { which = vassal_progress value = 1.0 }
+}
+
+1311.5.29 = {
+	monarch = {
+		name = "Sancho I"
+		dynasty = "d'Barcelona"
+		birth_date = 1274.1.31
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+}
+
+1315.1.1 = {
+	heir = {
+		name = "Jaume"
+		monarch_name = "Jaume III"
+		dynasty = "d'Barcelona"
+		birth_date = 1315.1.1
+		death_date = 1349.10.25
+		claim = 85
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1324.9.4 = {
+	monarch = {
+		name = "Jaume III"
+		dynasty = "d'Barcelona"
+		birth_date = 1315.1.1
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}

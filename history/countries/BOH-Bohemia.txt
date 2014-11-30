@@ -1,0 +1,195 @@
+# Bohemia
+government = bohemian_monarchy
+mercantilism = 0.2
+primary_culture = czech
+religion = catholic
+elector = yes
+capital = 266 # Praha
+technology_group = western
+
+
+1307.7.4 = {
+	monarch = {
+		 name = "Henry"
+		 dynasty = "von Meinhardiner"
+		 birth_date = 1265.1.1
+		 adm = 2
+		 dip = 1
+		 mil = 2
+	}
+}
+
+1310.9.1 = {
+	monarch = {
+		 name = "Johan I"
+		 dynasty = "von Luxemburg"
+		 birth_date = 1296.8.10
+		 adm = 2
+		 dip = 1
+		 mil = 2
+	}
+}
+
+1316.5.14 = {
+	heir = {
+		name = "Charles"
+		monarch_name = "Charles I"
+		dynasty = "von Luxemburg"
+		birth_date = 1316.5.14
+		death_date = 1378.11.29
+		claim = 95
+		dip = 4
+		adm = 4
+		mil = 3
+	}
+}
+
+1335.1.1 = { set_global_flag = treaty_trentschin }
+
+1346.8.26 = {
+	monarch = {
+		 name = "Charles I"
+		 dynasty = "von Luxemburg"
+		 birth_date = 1316.5.14
+		 adm = 4
+		 dip = 4
+		 mil = 3
+	}
+}
+
+1353.1.1 = { government = bohemian_republic }
+
+1378.11.29 = {
+	monarch = {
+		name = "Václav IV"
+		dynasty = "von Luxemburg"
+		adm = 2
+		dip = 2
+		mil = 0
+	}
+}
+
+1387.1.1 = { add_country_modifier = { name = "hanseatic_league_member" duration = -1 } }
+
+# Personal Union with Hungary under Sigismund I 1419-1437
+
+1419.1.1 = { leader = {	name = "Jan Zizka"	type = general	rank = 1	fire = 6	shock = 3	manuever = 5	siege = 0	death_date = 1424.10.11 } }
+
+1419.1.1 = { leader = {	name = "Prokop Holý"	type = general	rank = 1	fire = 4	shock = 3	manuever = 5	siege = 1	death_date = 1434.5.30 } }
+
+# Defenestration of Prague
+1419.6.30 = { religion = hussite }
+
+# Personal Union with Habsburg under Albrecht II 1437-1439
+
+1439.10.27 = {
+	monarch = {
+		name = "Landfriedens"
+		regent = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+# Personal Union with Habsburg under Ladislaus Postumus 1453-1457
+
+1457.11.24 = {
+	monarch = {
+		name = "Jirí"
+		dynasty = "z Podebrad"
+		adm = 5
+		dip = 3
+		mil = 2
+	}
+}
+
+1471.3.23 = {
+	monarch = {
+		name = "Vladislav II"
+		dynasty = Jagiellon
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+}
+
+1516.3.14 = {
+	monarch = {
+		name = "Ludvik I"
+		dynasty = Jagiellon
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1526.8.30 = {
+	government = despotic_monarchy
+	elector = no
+}
+
+1526.8.30 = {
+	monarch = {
+		name = "Ferdinand I"
+		dynasty = "von Habsburg"
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+
+1562.9.17 = {
+	monarch = {
+		name = "Maximilian II"
+		dynasty = "von Habsburg"
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+}
+
+1576.1.1 = {
+	monarch = {
+		name = "Rudolf II"
+		dynasty = "von Habsburg"
+		adm = 5
+		dip = 3
+		mil = 2
+	}
+}
+
+1610.1.1 = { leader = {	name = "Christian of Anhalt"   	type = general	rank = 2	fire = 2	shock = 2	manuever = 3	siege = 0	death_date = 1630.4.17 } }
+
+1612.1.22 = {
+	monarch = {
+		name = "Matthias"
+		dynasty = "von Habsburg"
+		adm = 2
+		dip = 2
+		mil = 0
+	}
+}
+
+1615.1.1 = { leader = {	name = "Thurn"                 	type = general	rank = 1	fire = 3	shock = 2	manuever = 3	siege = 0	death_date = 1640.1.28 } }
+
+1615.1.1 = { leader = {	name = "Wallenstein"           	type = general	rank = 0	fire = 4	shock = 4	manuever = 4	siege = 1	death_date = 1634.2.25 } }
+
+# Start of Thirty years war
+1618.5.22 = {
+	government = bohemian_republic
+	monarch = {
+		name = "The Bohemian Estates"
+		regent = yes
+		adm = 1
+		dip = 2
+		mil = 4
+	}
+religion = protestant
+}
+
+1619.8.27 = { government = bohemian_monarchy }
+
+#Personal union with Palatinate
+#Personal Union with Habsburg

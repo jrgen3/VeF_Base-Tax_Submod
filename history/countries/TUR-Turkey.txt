@@ -1,0 +1,12 @@
+# Ottomans - updated for GOB
+
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = turkish
+add_accepted_culture = bulgarian
+add_accepted_culture = greek
+religion = sunni
+technology_group = ottoman
+capital = 317 # Bursa
+
+1337.1.1 = { set_country_flag = turkey_formed }

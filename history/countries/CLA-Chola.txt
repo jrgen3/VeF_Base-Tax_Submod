@@ -1,0 +1,30 @@
+government = feudal_monarchy
+mercantilism = 0.1
+technology_group = indian
+religion = hinduism
+primary_culture = tamil
+capital = 1947	# Carnatic
+
+1246.1.1 = {
+	monarch = {
+		name = "Rajendra III"
+		dynasty = "Chola"
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}
+
+1288.1.1 = {
+	heir = {
+		name = "Rajendra"
+		monarch_name = "Rajendra IV"
+		dynasty = "Chola"
+		claim = 100
+		adm = 4
+		dip = 4
+		mil = 4
+		birth_date = 1288.1.1
+		death_date = 1333.1.1
+	}
+}

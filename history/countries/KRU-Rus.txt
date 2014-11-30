@@ -1,0 +1,7 @@
+government = grand_principality_2
+mercantilism = 0.1
+technology_group = eastern
+religion = orthodox
+primary_culture = ruthenian
+capital = 280	# Kiev
+

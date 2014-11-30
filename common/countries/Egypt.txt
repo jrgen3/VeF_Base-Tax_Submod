@@ -1,0 +1,112 @@
+#Country Name: Please see filename.
+
+graphical_culture = easterngfx
+
+preferred_religion = coptic
+
+color = { 213 0 39 }
+
+historical_idea_groups = {
+	free_trade_ideas
+	quality_ideas
+	religious_ideas
+	mm1_ideas
+	offensive_ideas
+	expansion_ideas
+	intimidatory_ideas
+	standing_army_ideas
+}
+
+historical_units = { 
+	byzantine_artillery_15_1
+	byzantine_artillery_22_1
+	byzantine_artillery_29_1
+	byzantine_artillery_35_1
+	byzantine_artillery_8_1
+	byzantine_cavalry_0_1
+	byzantine_cavalry_0_2
+	byzantine_cavalry_12_1
+	byzantine_cavalry_12_2
+	byzantine_cavalry_18_1
+	byzantine_cavalry_23_1
+	byzantine_cavalry_28_1
+	byzantine_cavalry_33_1
+	byzantine_cavalry_37_1
+	byzantine_cavalry_37_2
+	byzantine_cavalry_6_1
+	byzantine_cavalry_6_2
+	byzantine_infantry_0_1
+	byzantine_infantry_0_2
+	byzantine_infantry_12_1
+	byzantine_infantry_12_2
+	byzantine_infantry_16_1
+	byzantine_infantry_16_2
+	byzantine_infantry_20_1
+	byzantine_infantry_20_2
+	byzantine_infantry_23_1
+	byzantine_infantry_23_2
+	byzantine_infantry_26_1
+	byzantine_infantry_26_2
+	byzantine_infantry_29_1
+	byzantine_infantry_29_2
+	byzantine_infantry_32_1
+	byzantine_infantry_32_2
+	byzantine_infantry_35_1
+	byzantine_infantry_35_2
+	byzantine_infantry_38_1
+	byzantine_infantry_38_2
+	byzantine_infantry_4_1
+	byzantine_infantry_4_2
+	byzantine_infantry_8_1
+	byzantine_infantry_8_2
+}
+
+
+
+
+
+monarch_names = {
+	"Papnoute #2" = 40
+	"Gerges #5" = 40
+	"Mina #0" = 20
+	"Alexandros #0" = 20
+	"Onouphrios #0" = 30
+	"Pakhom #0" = 10
+	"Chrysanthos #0" = 10
+	"Shenoute #0" = 50
+	"Arsinoe #1" = -5
+	"Tanoute #2" = -10
+}
+
+ship_names = {
+	"The Holy Cross"
+	"The Grail"
+	"The Faithful"
+	"Hammer of God"
+	"True Believer"
+	"The Cleansing"
+	"Baldwin's Gate"
+	"The Rapture"
+	"God Will Know His Own"
+	Paladin
+	Purifier
+	Crusader
+	Guardian
+	Pilgrim
+	Absolution
+	Avenger
+	Vindicator
+	"The Scourge"
+}
+
+leader_names = { 
+	Putros 
+	Girgos
+	Doris	
+	Gadricos
+	Lusignos
+	Piuros 
+	Ammonos
+	Piumos
+	Pithomos 
+}

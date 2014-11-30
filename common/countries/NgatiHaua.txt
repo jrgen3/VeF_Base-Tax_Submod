@@ -1,0 +1,52 @@
+#Country Name: Please see filename.
+
+graphical_culture = northamericagfx
+
+color = { 139  5  26 }
+
+historical_idea_groups = {
+	gf1_ideas
+	quantity_ideas
+	religious_ideas
+	mercantilist_ideas
+	defensive_ideas
+	cultural_unity_ideas
+	diplomatic_ideas
+	drafted_army_ideas
+}
+
+historical_units = { 
+	pacific_islander_infantry_0_1
+	pacific_islander_infantry_12_1
+	pacific_islander_infantry_18_1
+	pacific_islander_infantry_24_1
+	pacific_islander_infantry_30_1
+	pacific_islander_infantry_36_1
+	pacific_islander_infantry_6_1
+}
+
+
+
+monarch_names = {
+	"Ngapo #0" = 10
+	"Mahinaarangi #0" = 10
+	"Hohepa #0" = 10
+	"Rua #0" = 10
+	"Ngoi #0" = 10
+	"Kohine #0" = 10
+	"Hirini #0" = 10
+}
+
+leader_names = {
+	Ngapo
+	Mahinaarangi
+	Hohepa
+	Rua
+	Ngoi
+	Kohine
+	Hirini
+}
+
+ship_names = {
+	Maori
+}

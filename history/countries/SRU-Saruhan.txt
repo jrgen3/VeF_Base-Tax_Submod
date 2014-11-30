@@ -1,0 +1,29 @@
+# Saruhan
+government = iqta
+mercantilism = 0.1
+primary_culture = turkish
+religion = sunni
+technology_group = ottoman
+capital = 2319	# Saruhan
+
+1297.1.1 = {
+	monarch = {
+		name = "Saruhan"
+		dynasty = "Saruhanli"
+		adm = 1
+		dip = 2
+		mil = 0
+	}
+	add_piety = 0.1
+}
+
+1345.1.1 = {
+	monarch = {
+		name = "Ilyas"
+		dynasty = "Saruhanli"
+		adm = 1
+		dip = 2
+		mil = 0
+	}
+	add_piety = -0.1
+}

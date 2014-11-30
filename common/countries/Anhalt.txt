@@ -1,0 +1,160 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 203  93  124 }
+
+historical_idea_groups = {
+	intimidatory_ideas
+	quantity_ideas
+	economic_ideas
+	mercantilist_ideas
+	offensive_ideas
+	expansion_ideas
+	land_ideas
+	standing_army_ideas
+}
+
+historical_units = { 
+	western_artillery_15_1
+	western_artillery_22_1
+	western_artillery_29_1
+	western_artillery_35_1
+	western_artillery_40_1
+	western_artillery_44_1
+	western_artillery_48_1
+	western_artillery_52_1
+	western_artillery_55_1
+	western_artillery_55_2
+	western_artillery_8_1
+	western_cavalry_0_1
+	western_cavalry_0_2
+	western_cavalry_12_1
+	western_cavalry_12_2
+	western_cavalry_18_1
+	western_cavalry_23_1
+	western_cavalry_28_1
+	western_cavalry_33_1
+	western_cavalry_37_1
+	western_cavalry_37_2
+	western_cavalry_41_1
+	western_cavalry_41_2
+	western_cavalry_45_1
+	western_cavalry_45_2
+	western_cavalry_49_1
+	western_cavalry_49_2
+	western_cavalry_52_1
+	western_cavalry_52_2
+	western_cavalry_6_1
+	western_cavalry_6_2
+	western_infantry_0_1
+	western_infantry_0_2
+	western_infantry_12_1
+	western_infantry_12_2
+	western_infantry_16_1
+	western_infantry_16_2
+	western_infantry_20_1
+	western_infantry_20_2
+	western_infantry_23_1
+	western_infantry_23_2
+	western_infantry_26_1
+	western_infantry_26_2
+	western_infantry_29_1
+	western_infantry_29_2
+	western_infantry_32_1
+	western_infantry_32_2
+	western_infantry_35_1
+	western_infantry_35_2
+	western_infantry_38_1
+	western_infantry_38_2
+	western_infantry_41_1
+	western_infantry_41_2
+	western_infantry_44_1
+	western_infantry_44_2
+	western_infantry_47_1
+	western_infantry_47_2
+	western_infantry_49_1
+	western_infantry_49_2
+	western_infantry_4_1
+	western_infantry_4_2
+	western_infantry_51_1
+	western_infantry_51_2
+	western_infantry_53_1
+	western_infantry_53_2
+	western_infantry_55_1
+	western_infantry_55_2
+	western_infantry_8_1
+	western_infantry_8_2
+}
+
+
+
+
+
+monarch_names = {
+	"Johann Georg #0" = 40
+	"Leopold #0" = 40
+	"Georg #0" = 20
+	"Jakob Ernst #0" = 20
+	"Joachim Ernst #0" = 20
+	"Johann Kasimir #0" = 20
+	"Leopold #0 Friedrich" = 20
+	"Leopold #0 Maximilian" = 20
+	"Ernst #0" = 20
+	"Siegmund #0" = 20
+	"Bernhard #6" = 15
+	"Waldemar #5" = 15
+	"Johann #4" = 15
+	"Rudolf #3" = 15
+	"Friedrich #0" = 15
+	"Friedrich Kasimir #0" = 15
+	"Georg Aribert #0" = 15
+	"Karl #0" = 15
+	"Moritz #0" = 15
+	"Thomas #0" = 15
+	"Wilhelm Gustav #0" = 15
+	"Albrecht #5" = 15
+	"Heinrich #4" = 10
+	"Albrecht Friedrich #0" = 10
+	"August #0" = 10
+	"Christian #0" = 10
+	"Dietrich #0" = 10
+	"Friedrich Heinrich #0" = 10
+	"Friedrich Moritz #0" = 10
+	"Heinrich Waldemar #0" = 10
+	"Joachim #0" = 10
+	"Joachim Christoph #0" = 10
+	"Johann Ernst #0" = 10
+	"Lorenz #0" = 10
+	"Ludwig #0" = 10
+	"Paul #0" = 10
+	"Wilhelm #0" = 10
+	"Andreas #0" = 0
+	"Günther #0" = 0
+	"Michael #0" = 0
+	"Ulrich #0" = 0
+	
+	"Helmine #0" = -1
+	"Johanna #0" = -1
+	"Leonore #0" = -1
+}
+
+leader_names = {
+	Hoppe Herzburg Ackermann Alberti 
+	Albrecht Alvensleben Amman Annecke Anthe
+	Bauer Bause Ehrenberg Erxleben Feuerstack 
+	Flachsbart Genthe Gerstung Held Isaack
+	Janeck Jantke Kersten Kleinau März Nehmiz 
+	Rumpf Scharfe Schauseil Schieck "von Zerbst"
+}
+
+ship_names = {
+	"Albrecht der Bär" Aschersleben "Hermann Orlamünde"
+	"Bischof Siegfried" "Dietrich Werben" "Albrecht Ballenstedt"
+	"Bernhard Wittenberg" "Heinrich I" Zerbst Coswig Dessau Köthen
+	Bernburg Brocken Hartz Plötzkau Ramberg Rosslau
+}
+
+army_names = {
+	"Armee von $PROVINCE$" 
+}

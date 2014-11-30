@@ -1,0 +1,9 @@
+government = rus_principality
+mercantilism = 0.1
+primary_culture = ruthenian 
+add_accepted_culture = polish
+religion = orthodox
+technology_group = eastern
+capital = 279 # Volhynia
+
+

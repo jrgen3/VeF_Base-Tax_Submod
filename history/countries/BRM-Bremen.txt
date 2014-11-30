@@ -1,0 +1,30 @@
+government = hanseatic_union
+mercantilism = 0.0
+primary_culture = lowersaxon
+religion = catholic
+technology_group = western
+unit_type = western
+capital = 1874	# Bremen
+historical_friend = LUB
+historical_friend = DNZ
+historical_friend = HAM
+
+
+1260.1.1 = {
+    add_country_modifier = { name = "hanseatic_league_member" duration = -1 }
+    add_country_modifier = { name = "hansa_city_state_modifier" duration = -1 }
+	add_country_modifier = { name = "free_imperial_city" duration = -1 }
+    set_country_flag = hansa_city_state
+}
+
+1296.1.1 = {
+    monarch = {
+        name = "Heinrich I"
+        adm = 1
+        dip = 3
+        mil = 1
+    }
+}
+
+1645.1.1 = { government = constitutional_republic }
+

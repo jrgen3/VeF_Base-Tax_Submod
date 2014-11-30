@@ -1,0 +1,75 @@
+government = duchy_government
+mercantilism = 0.1
+primary_culture = uppersaxon
+religion = catholic
+technology_group = western
+capital = 61	# Meissen
+
+
+1292.1.1 = {
+	monarch = {
+		name = "Friedrich I"
+		dynasty = "von Wettin"
+		dip = 2
+		adm = 3
+		mil = 1
+	}
+}
+
+1323.11.16 = {
+	monarch = {
+		name = "Friedrich II"
+		dynasty = "von Wettin"
+		dip = 2
+		adm = 3
+		mil = 1
+	}
+}
+
+1349.11.18 = {
+	monarch = {
+		name = "Friedrich III"
+		dynasty = "von Wettin"
+		dip = 2
+		adm = 3
+		mil = 1
+	}
+}
+
+
+
+1381.5.21 = {
+	monarch = {
+		name = "Wilhelm I"
+		dynasty = "von Wettin"
+		dip = 2
+		adm = 3
+		mil = 1
+	}
+}
+
+1382.1.1 = {
+	heir = {
+		name = "Friedrich"
+		monarch_name = "Friedrich IV"
+		dynasty = "von Wettin"
+		birth_date = 1370.4.11
+		death_date = 1428.1.4
+		claim = 95
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+}
+
+1407.2.11 = {
+	monarch = {
+		name = "Friedrich IV"
+		dynasty = "von Wettin"
+		dip = 1
+		adm = 2
+		mil = 1
+	}
+}
+
+#Do not confuse the guy above with Friedrich IV of Thüringen, his cousin.

@@ -1,0 +1,7 @@
+government = feudal_monarchy
+mercantilism = 0.1
+primary_culture = slovene
+religion = orthodox
+technology_group = eastern
+capital = 129 # Krain
+

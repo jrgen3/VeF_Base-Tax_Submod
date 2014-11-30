@@ -1,0 +1,10 @@
+# San Marino
+government = noble_republic
+mercantilism = 0.2
+primary_culture = umbrian
+religion = catholic
+technology_group = western
+capital = 2486 # Firenze
+
+1200.1.1 = { set_country_flag = guelphs_ghibellines_active }
+1560.1.1 = { clr_country_flag = guelphs_ghibellines_active }

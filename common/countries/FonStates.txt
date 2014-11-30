@@ -1,0 +1,38 @@
+#Country Name: Please see filename.
+
+graphical_culture = africangfx
+
+color = { 90  40  140 }
+
+historical_idea_groups = {
+}
+
+historical_units = { 
+	sub_saharan_cavalry_0_1
+	sub_saharan_cavalry_16_1
+	sub_saharan_cavalry_24_1
+	sub_saharan_cavalry_32_1
+	sub_saharan_cavalry_8_1
+	sub_saharan_infantry_0_1
+	sub_saharan_infantry_12_1
+	sub_saharan_infantry_18_1
+	sub_saharan_infantry_24_1
+	sub_saharan_infantry_30_1
+	sub_saharan_infantry_36_1
+	sub_saharan_infantry_6_1
+}
+
+
+
+
+monarch_names = {
+	
+}
+
+leader_names = {
+	
+}
+
+ship_names = {
+	
+}

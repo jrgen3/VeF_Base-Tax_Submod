@@ -1,0 +1,21 @@
+# Novgorod-Seversk
+government = rus_principality
+mercantilism = 0.1
+primary_culture = ruthenian
+religion = orthodox
+technology_group = eastern
+capital = 1945 # Novgorod-Seversk
+historical_friend = MOS
+
+
+1100.1.1 = { set_country_flag = golden_horde_tribute }
+
+1386.1.1 = {
+	monarch = {
+		name = "Yury I"
+		dynasty = "Rostaslavichi"
+		adm = 0
+		dip = 0
+		mil = 3
+	}
+}

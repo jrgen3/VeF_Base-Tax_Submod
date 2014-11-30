@@ -1,0 +1,136 @@
+#Country Name: See the Name of this File.
+
+graphical_culture = indiangfx
+
+color = { 175  82  16 }
+
+historical_idea_groups = {
+	intimidatory_ideas
+	quantity_ideas
+	religious_ideas
+	land_trade_ideas
+	offensive_ideas
+	expansion_ideas
+	gf1_ideas
+	drafted_army_ideas
+}
+
+historical_units = { 
+	muslim_artillery_10_1
+	muslim_artillery_16_1
+	muslim_artillery_23_1
+	muslim_artillery_29_1
+	muslim_artillery_35_1
+	muslim_artillery_40_1
+	muslim_artillery_44_1
+	muslim_artillery_48_1
+	muslim_artillery_52_1
+	muslim_artillery_55_1
+	muslim_artillery_55_2
+	muslim_cavalry_0_1
+	muslim_cavalry_0_2
+	muslim_cavalry_12_1
+	muslim_cavalry_12_2
+	muslim_cavalry_18_1
+	muslim_cavalry_23_1
+	muslim_cavalry_28_1
+	muslim_cavalry_33_1
+	muslim_cavalry_37_1
+	muslim_cavalry_41_1
+	muslim_cavalry_41_2
+	muslim_cavalry_45_1
+	muslim_cavalry_45_2
+	muslim_cavalry_49_1
+	muslim_cavalry_49_2
+	muslim_cavalry_52_1
+	muslim_cavalry_52_2
+	muslim_cavalry_6_1
+	muslim_cavalry_6_2
+	muslim_infantry_0_1
+	muslim_infantry_0_2
+	muslim_infantry_12_1
+	muslim_infantry_12_2
+	muslim_infantry_16_1
+	muslim_infantry_16_2
+	muslim_infantry_20_1
+	muslim_infantry_20_2
+	muslim_infantry_23_1
+	muslim_infantry_23_2
+	muslim_infantry_26_1
+	muslim_infantry_26_2
+	muslim_infantry_29_1
+	muslim_infantry_29_2
+	muslim_infantry_32_1
+	muslim_infantry_32_2
+	muslim_infantry_35_1
+	muslim_infantry_35_2
+	muslim_infantry_38_1
+	muslim_infantry_38_2
+	muslim_infantry_41_1
+	muslim_infantry_41_2
+	muslim_infantry_44_1
+	muslim_infantry_44_2
+	muslim_infantry_47_1
+	muslim_infantry_47_2
+	muslim_infantry_49_1
+	muslim_infantry_49_2
+	muslim_infantry_4_1
+	muslim_infantry_4_2
+	muslim_infantry_51_1
+	muslim_infantry_51_2
+	muslim_infantry_53_1
+	muslim_infantry_53_2
+	muslim_infantry_55_1
+	muslim_infantry_55_2
+	muslim_infantry_8_1
+	muslim_infantry_8_2
+}
+
+
+
+
+monarch_names = {
+	"Ahmad #0" = 30
+	"Mir Mehrab #0" = 30
+	"Samandar #0" = 10
+	"Mir Abdullah #0" = 10
+	"Mir Muhabbat #0" = 10
+	"Mir Muhammad Naseer #0" = 10
+	"Mir Mahmud #0" = 10
+	"Kumbar #0" = 10
+	"Mir Chakar #0" = 10
+	"Mir Shahzad #0" = 10
+	"Hasan #0" = 10
+	"Khonza #0" = -1
+	"Ashraf Khanam #0" = -1
+	"Nur #0" = -1
+	"Khair Bibi #0" = -1
+}
+
+leader_names = {
+	Jamot
+	Bugti
+	Zikri
+	Ghilzai
+	Barakzay
+	Bozdar
+	Mirrani
+	Mihrabanid
+	Khokhar
+	Rind
+	Shar
+	Lashari
+	Lund
+	Hooth
+	Korai
+	Jatoi
+	Nausherwani
+}
+
+ship_names = {
+	Alia Arusa Dasht Fatimah
+	Hormuz Indus Kech Khan
+	Mashkaal Nihing Niknaz Niloufa
+	Noor Rakhshan Salima Shameena
+	Suhalia Yasmine Zahira Zhab
+}

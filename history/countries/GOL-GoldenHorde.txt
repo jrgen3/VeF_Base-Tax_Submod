@@ -1,0 +1,164 @@
+# Golden Horde
+government = steppe_horde_hr
+mercantilism = 0.1
+primary_culture = tartar
+culture_group_union = western_altaic
+religion = tengri
+technology_group = nomad_group
+historical_rival = MOS
+capital = 466	# Sarai
+
+
+1100.1.1 = { 
+	add_opinion = { who = MOS modifier = "horde_tribute" }
+	add_country_modifier = { name = "silk_road_modifier" duration = -1 }
+	add_country_modifier = { name = "golden_horde_1" duration = -1 }
+	set_country_flag = never_restore_stability_on_death
+	set_country_flag = reduced_war_exhaustion
+}
+
+1291.1.1 = {
+	monarch = {
+		name = "Tokhta"
+		dynasty = "Genghisid"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1310.1.1 = { add_country_modifier = { name = horde_overlord duration = -1 } }
+
+1313.1.1 = {
+	monarch = {
+		name = "Öz Beg Khan"
+		dynasty = "Genghisid"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1341.1.1 = {
+	monarch = {
+		name = "Tini Beg"
+		dynasty = "Genghisid"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1342.1.1 = {
+	monarch = {
+		name = "Jani Beg"
+		dynasty = "Genghisid"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+	remove_country_modifier = golden_horde_1
+	add_country_modifier = { name = "golden_horde_2" duration = -1 }
+}
+
+1358.1.1 = {
+	monarch = {
+		name = "Berdi Beg"
+		dynasty = "Genghisid"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1359.1.1 = {
+	monarch = {
+		name = "Qulpa"
+		dynasty = "Genghisid"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1360.1.1 = {
+	monarch = {
+		name = "Nawruz Beg"
+		dynasty = "Genghisid"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1362.1.1 = {
+	monarch = {
+		name = "Murad Khan"
+		dynasty = "Genghisid"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1432.1.1 = {
+	monarch = {
+		name = "Küchük Muhammad"
+		dynasty = "Genghisid"
+		adm = 0
+		dip = 0
+		mil = 2
+	}
+	remove_country_modifier = golden_horde_2
+	add_country_modifier = { name = "golden_horde_3" duration = 7300 }
+}
+
+1435.1.1 = {
+	heir = {
+		name = "Ahmad"
+		monarch_name = "Ahmad I"
+		dynasty = "Genghisid"
+		birth_date = 1435.1.1
+		death_date = 1481.1.6
+		claim = 90
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+}
+
+1459.1.1 = {
+	monarch = {
+		name = "Ahmad"
+		dynasty = "Genghisid"
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+}
+
+1460.1.1 = {
+	heir = {
+		name = "Shaikh Ahmad"
+		monarch_name = "Shaikh Ahmad I"
+		dynasty = "Genghisid"
+		birth_date = 1460.1.1
+		death_date = 1528.1.1
+		claim = 50
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
+
+1481.1.6 = {
+	monarch = {
+		name = "Shaikh Ahmad"
+		dynasty = "Genghisid"
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+	remove_opinion = { who = MOS modifier = "horde_tribute" }
+	set_country_flag = horde_collapse
+}

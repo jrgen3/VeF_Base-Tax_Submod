@@ -1,0 +1,17 @@
+government = noble_republic
+mercantilism = 0.1
+primary_culture = sulawesi
+technology_group = chinese
+religion = sunni
+capital = 631	# Singaraja
+
+
+1268.1.1 = {
+	monarch = {
+		name = "Kertanegara"
+		dynasty = "Rajasa"
+		adm = 5
+		dip = 3
+		mil = 3
+	}
+}

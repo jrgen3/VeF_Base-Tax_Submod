@@ -1,0 +1,18 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = malayan
+religion = hinduism
+technology_group = chinese
+capital = 638	# Kutei
+
+1310.1.1 = { capital = 638 }
+
+1439.10.27 = {
+	monarch = {
+		name = "Regency"
+		regent = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}

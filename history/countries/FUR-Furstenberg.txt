@@ -1,0 +1,18 @@
+government = swiss_canton
+mercantilism = 0.1
+technology_group = western
+religion = catholic
+primary_culture = alemannic
+capital = 1091
+
+1309.1.1 = {
+	monarch = {
+		name = "Der Tagsatzung"
+		adm = 3
+		dip = 3
+		mil = 3
+		regent = yes
+	}
+}
+
+1528.1.1 = { religion = anabaptist }

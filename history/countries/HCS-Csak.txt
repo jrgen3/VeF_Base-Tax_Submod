@@ -1,0 +1,20 @@
+# Hungary
+government = duchy_government
+mercantilism = 0.1
+primary_culture = hungarian
+religion = catholic
+technology_group = eastern
+capital = 154 # Szepes
+historical_friend = BOH
+historical_rival = HUN
+
+1291.8.27 = {
+	monarch = {
+		name = "Mate"
+		dynasty = "Csak"
+		birth_date = 1260.1.1
+		adm = 4
+		dip = 2
+		mil = 5
+	}
+}

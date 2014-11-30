@@ -1,0 +1,158 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 243  201  33 }
+
+historical_idea_groups = {
+	free_trade_ideas
+	mercenary_ideas
+	innovativeness_ideas
+	diplomatic_ideas
+	quantity_ideas
+	delegative_ideas
+	land_ideas
+	defensive_ideas
+}
+
+
+historical_units = { 
+	western_artillery_15_1
+	western_artillery_22_1
+	western_artillery_29_1
+	western_artillery_35_1
+	western_artillery_40_1
+	western_artillery_44_1
+	western_artillery_48_1
+	western_artillery_52_1
+	western_artillery_55_1
+	western_artillery_55_2
+	western_artillery_8_1
+	western_cavalry_0_1
+	western_cavalry_0_2
+	western_cavalry_12_1
+	western_cavalry_12_2
+	western_cavalry_18_1
+	western_cavalry_23_1
+	western_cavalry_28_1
+	western_cavalry_33_1
+	western_cavalry_37_1
+	western_cavalry_37_2
+	western_cavalry_41_1
+	western_cavalry_41_2
+	western_cavalry_45_1
+	western_cavalry_45_2
+	western_cavalry_49_1
+	western_cavalry_49_2
+	western_cavalry_52_1
+	western_cavalry_52_2
+	western_cavalry_6_1
+	western_cavalry_6_2
+	western_infantry_0_1
+	western_infantry_0_2
+	western_infantry_12_1
+	western_infantry_12_2
+	western_infantry_16_1
+	western_infantry_16_2
+	western_infantry_20_1
+	western_infantry_20_2
+	western_infantry_23_1
+	western_infantry_23_2
+	western_infantry_26_1
+	western_infantry_26_2
+	western_infantry_29_1
+	western_infantry_29_2
+	western_infantry_32_1
+	western_infantry_32_2
+	western_infantry_35_1
+	western_infantry_35_2
+	western_infantry_38_1
+	western_infantry_38_2
+	western_infantry_41_1
+	western_infantry_41_2
+	western_infantry_44_1
+	western_infantry_44_2
+	western_infantry_47_1
+	western_infantry_47_2
+	western_infantry_49_1
+	western_infantry_49_2
+	western_infantry_4_1
+	western_infantry_4_2
+	western_infantry_51_1
+	western_infantry_51_2
+	western_infantry_53_1
+	western_infantry_53_2
+	western_infantry_55_1
+	western_infantry_55_2
+	western_infantry_8_1
+	western_infantry_8_2
+}
+
+
+
+
+
+monarch_names = {
+	"Karl Theodor #0" = 20
+	"Eugen #0" = 15
+	"Maximiliam #0" = 10
+	"Adolf #0" = 0
+	"Adrian #0" = 0
+	"Albrecht #0" = 0
+    "Andreas #0" = 0
+	"August #0" = 10
+    "Bernhard #0" = 0
+	"Cornelius #0" = 0
+	"Dietrich #0" = 0
+	"Ferdinand #0" = 0
+	"Friedrich #0" = 0
+	"Georg #0" = 0
+	"Gerhard #0" = 0
+	"Günther #0" = 0
+    "Heinrich #0" = 0
+	"Ignatz #0" = 0
+	"Isidor #0" = 0
+	"Jakob #0" = 0
+	"Joachim #0" = 0
+	"Joseph #0" = 0
+    "Karl #0" = 0
+	"Konstantin #0" = 0
+    "Lorenz #0" = 0
+	"Ludwig #0" = 0
+	"Lukas #0" = 0
+	"Marius #0" = 0
+	"Markus #0" = 0
+	"Matthias #0" = 0
+	"Michael #0" = 0
+    "Nicolaus #0" = 0
+	"Paul #0" = 0
+	"Raphael #0" = 0
+	"Rudolf #0" = 0
+	"Sigmund #0" = 0
+	"Stephan #0" = 0
+	"Thomas #0" = 0
+	"Wenzel #0" = 0
+	
+	"Gertrude #0" = -1
+	"Hildegard #0" = -1
+	"Ivonne #0" = -1
+}
+
+leader_names = { 
+	Alfter Allendorf Assmann Barth Becker Betz
+	Bopp Bornschlegel Dörrenbecher Dude Fust Eins
+	Göhler Grob Haas Heidelberger Ickstadt Lawall
+	Pittschaft Schmitt Schoeneberger Storck Volz
+}
+
+ship_names = {
+	"St. Theonest" "St. Georg" "St. Peter"
+	Udenmünster "St. Christoph" "St. Lambert"
+	"St. Quintin" "St. Maria" "St. Johannes"
+	"St. Emmeran" "St. Ignaz" Hagenmünster
+	"St. Aureus" "St. Nicomedes" "St. Alban"
+}
+
+army_names = {
+	"Armee von $PROVINCE$" 
+}

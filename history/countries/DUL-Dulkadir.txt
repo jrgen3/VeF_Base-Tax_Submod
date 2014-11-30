@@ -1,0 +1,205 @@
+government = iqta
+mercantilism = 0.1
+primary_culture = turkish
+religion = sunni
+technology_group = ottoman
+capital = 332	# Mus
+
+1310.1.1 = {
+	monarch = {
+		name = "Sahsuvar "
+		dynasty = Dulkadiroglu
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+	add_piety = 0.25
+}
+
+1337.1.1 = {
+	monarch = {
+		name = "Karaca"
+		dynasty = Dulkadiroglu
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+	add_piety = 0.25
+}
+
+1353.1.1 = {
+	monarch = {
+		name = "Halil"
+		dynasty = Dulkadiroglu
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+	add_piety = 0.25
+}
+
+1386.1.1 = {
+	monarch = {
+		name = "Süli"
+		dynasty = Dulkadiroglu
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+	add_piety = 0.25
+}
+
+1399.1.1 = {
+	monarch = {
+		name = "Sulaymân"
+		dynasty = Dulkadiroglu
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+	add_piety = 0.25
+}
+
+1399.1.1 = {
+	heir = {
+		name = "Malik"
+		monarch_name = "Malik Arslân Beg"
+		dynasty = "Dulkadiroglu"
+		birth_date = 1399.1.1
+		death_date = 1465.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1454.1.1 = {
+	monarch = {
+		name = "Malik Arslân Beg"
+		dynasty = Dulkadiroglu
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1454.1.1 = {
+	heir = {
+		name = "Bûdâq"
+		monarch_name = "Bûdâq Beg"
+		dynasty = "Dulkadiroglu"
+		birth_date = 1430.1.1
+		death_date = 1465.10.1
+		claim = 95
+		adm = 1
+		dip = 0
+		mil = 2
+	}
+}
+
+1465.1.1 = {
+	monarch = {
+		name = "Bûdâq Beg"
+		dynasty = Dulkadiroglu
+		adm = 1
+		dip = 0
+		mil = 2
+	}
+}
+
+1465.1.1 = {
+	heir = {
+		name = "Shâhsuwâr"
+		monarch_name = "Shâhsuwâr"
+		dynasty = "Dulkadiroglu"
+		birth_date = 1430.1.1
+		death_date = 1472.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1465.10.1 = {
+	monarch = {
+		name = "Shâhsuwâr"
+		dynasty = Dulkadiroglu
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1465.10.1 = {
+	heir = {
+		name = "Bûdâq"
+		monarch_name = "Bûdâq Beg"
+		dynasty = "Dulkadiroglu"
+		birth_date = 1450.1.1
+		death_date = 1479.1.1
+		claim = 95
+		adm = 1
+		dip = 0
+		mil = 2
+	}
+}
+
+1472.1.1 = {
+	monarch = {
+		name = "Bûdâq Beg"
+		dynasty = Dulkadiroglu
+		adm = 1
+		dip = 0
+		mil = 2
+	}
+}
+
+1472.1.1 = {
+	heir = {
+		name = "'Alâ' ad-Dîn Buzqûrd"
+		monarch_name = "'Alâ' ad-Dîn Buzqûrd"
+		dynasty = "Dulkadiroglu"
+		birth_date = 1460.1.1
+		death_date = 1515.6.1
+		claim = 95
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+}
+
+1479.1.1 = {
+	monarch = {
+		name = "'Alâ' ad-Dîn Buzqûrd"
+		dynasty = Dulkadiroglu
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+}
+
+1479.1.1 = {
+	heir = {
+		name = "'Alî"
+		monarch_name = "'Alî Beg II"
+		dynasty = "Dulkadiroglu"
+		birth_date = 1479.1.1
+		death_date = 1540.1.1
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1515.6.1 = {
+	monarch = {
+		name = "'Alî Beg II"
+		dynasty = Dulkadiroglu
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}

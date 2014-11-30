@@ -1,0 +1,158 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 189  115  99 }
+
+historical_idea_groups = {
+	diplomatic_ideas
+	mercenary_ideas
+	religious_ideas
+	mercantilist_ideas
+	defensive_ideas
+	administrative_ideas
+	land_ideas
+	quantity_ideas
+}
+
+historical_units = { 
+	western_artillery_15_1
+	western_artillery_22_1
+	western_artillery_29_1
+	western_artillery_35_1
+	western_artillery_40_1
+	western_artillery_44_1
+	western_artillery_48_1
+	western_artillery_52_1
+	western_artillery_55_1
+	western_artillery_55_2
+	western_artillery_8_1
+	western_cavalry_0_1
+	western_cavalry_0_2
+	western_cavalry_12_1
+	western_cavalry_12_2
+	western_cavalry_18_1
+	western_cavalry_23_1
+	western_cavalry_28_1
+	western_cavalry_33_1
+	western_cavalry_37_1
+	western_cavalry_37_2
+	western_cavalry_41_1
+	western_cavalry_41_2
+	western_cavalry_45_1
+	western_cavalry_45_2
+	western_cavalry_49_1
+	western_cavalry_49_2
+	western_cavalry_52_1
+	western_cavalry_52_2
+	western_cavalry_6_1
+	western_cavalry_6_2
+	western_infantry_0_1
+	western_infantry_0_2
+	western_infantry_12_1
+	western_infantry_12_2
+	western_infantry_16_1
+	western_infantry_16_2
+	western_infantry_20_1
+	western_infantry_20_2
+	western_infantry_23_1
+	western_infantry_23_2
+	western_infantry_26_1
+	western_infantry_26_2
+	western_infantry_29_1
+	western_infantry_29_2
+	western_infantry_32_1
+	western_infantry_32_2
+	western_infantry_35_1
+	western_infantry_35_2
+	western_infantry_38_1
+	western_infantry_38_2
+	western_infantry_41_1
+	western_infantry_41_2
+	western_infantry_44_1
+	western_infantry_44_2
+	western_infantry_47_1
+	western_infantry_47_2
+	western_infantry_49_1
+	western_infantry_49_2
+	western_infantry_4_1
+	western_infantry_4_2
+	western_infantry_51_1
+	western_infantry_51_2
+	western_infantry_53_1
+	western_infantry_53_2
+	western_infantry_55_1
+	western_infantry_55_2
+	western_infantry_8_1
+	western_infantry_8_2
+}
+
+
+
+preferred_religion = protestant
+
+
+
+monarch_names = {
+	"Albrecht #2" = 40
+	"Friedrich #2" = 40
+	"Günther #1" = 20
+	"August #0" = 20
+	"Christian Wilhelm #0" = 20
+	"Ernst #0" = 20
+	"Joachim Friedrich #0" = 20
+	"Johann #0" = 20
+	"Johann Albrecht #0" = 20
+	"Leopold Wilhelm #0" = 20
+	"Siegmund #0" = 20
+	"Dietrich #1" = 15
+	"Ludwig #1" = 15
+	"Otto #1" = 15
+	"Peter #1" = 15
+	"Burkhard #3" = 10
+	"Heinrich #2" = 10
+	"Konrad #2" = 10
+	"Bernhard #1" = 10
+	"Erich #1" = 10
+	"Rudolf #1" = 10
+	"Ruprecht #1" = 10
+	"Adolf #0" = 0
+	"Clemens #0" = 0
+	"Diederick #0" = 0
+	"Eberhard #0" = 0
+	"Fabian #0" = 0
+	"Gottfried #0" = 0
+	"Helmut #0" = 0
+	"Herbert #0" = 0
+	"Hermann #0" = 0
+	"Jakob #0" = 0
+	"Luitpold #0" = 0
+	"Manfred #0" = 0
+	"Markus #0" = 0
+	"Rainer #0" = 0
+	"Siegfried #0" = 0
+	"Stefan #0" = 0
+	"Viktor #0" = 0
+	"Wolfgang #0" = 0
+	
+	"Monika #0" = -1
+	"Philippa #0" = -1
+	"Swanhilda #0" = -1
+}
+
+leader_names = { 
+	Ahrendt Ahrenkiel Bärwald Bastel Bause Bollers
+	Burghoff Herms Meyer Schönebeck Schlehenstein Schulz 
+	Zimmerhäckel Winter Wahrenholz Wäger 
+}
+
+ship_names = {
+	"Barleber See" Friedrichstadt Buckau
+	Diesdorf Silberberg Kreuzhorst Lemsdorf
+	Olvenstedt Pechau Prester Randau Rothensee
+	Salbke Sudenburg Westerhüsen
+}
+
+army_names = {
+	"Armee von $PROVINCE$" 
+}

@@ -1,0 +1,197 @@
+# Romagna
+government = county_government
+mercantilism = 0.1
+primary_culture = umbrian
+religion = catholic
+technology_group = western
+capital = 2022 # Ravenna (Forli and Imola)
+
+1100.1.1 = { set_country_flag = guelphs_ghibellines_active }
+
+1302.1.1 = {
+	monarch = {
+		name = "Scarpetta"
+		dynasty = "Ordellaffi"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1309.1.1 = { 
+	set_country_flag = starting_vassal 
+	set_country_flag = vassal_flag
+	add_opinion = { who = PAP modifier = vassal_stage_1 }
+	set_variable = { which = vassal_progress value = 1.0 }
+	set_country_flag = papal_longterm_vassal
+}
+
+1315.1.1 = {
+	monarch = {
+		name = "Francesco I"
+		dynasty = "Ordellaffi"
+		birth_date = 1300.1.1
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1331.1.1 = {
+	monarch = {
+		name = "Francesco II"
+		dynasty = "Ordellaffi"
+		birth_date = 1300.1.1
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1376.1.1 = {
+	monarch = {
+		name = "Sinibaldo I"
+		dynasty = "Ordellaffi"
+		birth_date = 1336.1.1
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1386.1.1 = {
+	monarch = {
+		name = "Pino I"
+		dynasty = "Ordellaffi"
+		birth_date = 1356.1.1
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1402.7.1 = {
+	monarch = {
+		name = "Francesco III"
+		dynasty = "Ordellaffi"
+		birth_date = 1357.1.1
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1405.1.1 = {	# Republic instated after the violent overthrow of Francesco III
+	government = administrative_republic
+	monarch = {
+		name = "Signoria"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+
+1411.1.1 = {	# Republic supressed
+	government = county_government
+	monarch = {
+		name = "Giorgio I"
+		dynasty = "Ordellaffi"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1420.1.1 = {
+	monarch = {
+		name = "Teobaldo II"
+		dynasty = "Ordellaffi"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1424.1.1 = {
+	government = papal_vicarage
+	monarch = {
+		name = "Papal Vicar"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1433.1.1 = {
+	government = county_government
+	monarch = {
+		name = "Antonio I"
+		dynasty = "Ordellaffi"
+		birth_date = 1390.1.1
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1448.1.1 = {
+	monarch = {
+		name = "Francesco IV"
+		dynasty = "Ordellaffi"
+		birth_date = 1430.1.1
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1466.1.1 = {
+	monarch = {
+		name = "Pino III"
+		dynasty = "Ordellaffi"
+		birth_date = 1436.1.1
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1480.12.1 = {
+	monarch = {
+		name = "Girolamo"
+		dynasty = "Riaro"
+		birth_date = 1443.1.1
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+}
+
+1488.4.14 = {
+	monarch = {
+		name = "Caterina"
+		dynasty = "Sforza"
+		birth_date = 1463.1.1
+		adm = 5
+		dip = 3
+		mil = 4
+		female = yes
+		leader = {	name = "Caterina Maria Sforza"             	type = general	rank = 0	fire = 2	shock = 2	manuever = 1	siege = 1	death_date = 1509.5.28 }
+	}
+}
+
+1501.1.1 = {
+	government = duchy_government
+	capital = 114 # Romagna ( Though never controlling Bologna itself; Cesare's dukedom was based in the cities of the Romagna)
+	monarch = {
+		name = "Cesare"
+		dynasty = "Borgia"
+		birth_date = 1476.4.1
+		adm = 5
+		dip = 3
+		mil = 4
+		leader = {	name = "Cesare Borgia"             	type = general	rank = 0	fire = 3	shock = 2	manuever = 2	siege = 3	death_date = 1507.3.12 }
+	}
+}
+1560.1.1 = { clr_country_flag = guelphs_ghibellines_active }

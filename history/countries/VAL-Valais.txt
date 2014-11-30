@@ -1,0 +1,18 @@
+government = swiss_canton
+mercantilism = 0.1
+primary_culture = swiss
+religion = catholic
+technology_group = western
+capital = 1871	# Valais
+
+1309.1.1 = {
+	monarch = {
+		name = "Der Tagsatzung"
+		adm = 3
+		dip = 3
+		mil = 3
+		regent = yes
+	}
+}
+
+1528.1.1 = { religion = anabaptist }

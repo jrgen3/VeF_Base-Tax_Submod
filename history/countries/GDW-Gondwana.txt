@@ -1,0 +1,276 @@
+government = tribal_federation
+mercantilism = 0.1
+technology_group = indian
+religion = hinduism
+primary_culture = avadhi
+capital = 550	# Garha
+
+#Rajas of Garha-Mandla/Katanga
+
+1440.1.1 = {
+	monarch = {
+		name = "Hirde"
+		dynasty = "Garha-Mandli"
+		ADM = 2
+		DIP = 3
+		MIL = 2
+	}
+}
+
+1448.1.1 = {
+	heir = {
+		name = "Sangrama Simha"
+		monarch_name = "Sangrama Simha"
+		dynasty = "Garha-Mandli"
+		birth_date = 1448.1.1
+		death_Date = 1549.1.1
+		claim = 95
+		ADM = 3
+		DIP = 3
+		MIL = 4
+	}
+}
+
+1480.1.1 = {
+	monarch = {
+		name = "Sangrama Simha"
+		dynasty = "Garha-Mandli"
+		ADM = 3
+		DIP = 3
+		MIL = 4
+	}
+}
+
+1480.1.1 = {
+	heir = {
+		name = "Daipat Simha"
+		monarch_name = "Daipat Simha"
+		dynasty = "Garha-Mandli"
+		birth_date = 1480.1.1
+		death_Date = 1549.1.1
+		claim = 95
+		ADM = 2
+		DIP = 1
+		MIL = 3
+	}
+}
+
+1530.1.1 = {
+	monarch = {
+		name = "Daipat Simha"
+		dynasty = "Garha-Mandli"
+		ADM = 2
+		DIP = 1
+		MIL = 3
+	}
+}
+
+1545.1.1 = {
+	heir = {
+		name = "Vir Narayana"
+		monarch_name = "Vir Narayana"
+		dynasty = "Garha-Mandli"
+		birth_date = 1545.1.1
+		death_Date = 1564.6.24
+		claim = 95
+		ADM = 2
+		DIP = 0
+		MIL = 2
+	}
+}
+
+1549.1.1 = {
+	monarch = {
+		name = "Durgavati"
+		female = yes
+		dynasty = "Garha-Mandli"
+		ADM = 3
+		DIP = 4
+		MIL = 5
+	}
+}
+
+1549.1.1 = {
+	heir = {
+		name = "Vir Narayana"
+		monarch_name = "Vir Narayana"
+		dynasty = "Garha-Mandli"
+		birth_date = 1545.1.1
+		death_Date = 1564.6.24
+		claim = 95
+		ADM = 2
+		DIP = 0
+		MIL = 2
+	}
+}
+
+1564.1.1 = {
+	monarch = {
+		name = "Chandra Sahi"
+		dynasty = "Garha-Mandli"
+		ADM = 2
+		DIP = 3
+		MIL = 2
+	}
+}
+
+1564.1.1 = {
+	heir = {
+		name = "Madhukara Sahi"
+		monarch_name =" Madhukara Sahi"
+		dynasty = "Garha-Mandli"
+		birth_date = 1564.1.1
+		death_date = 1599.1.1
+		claim = 95
+		ADM = 1
+		DIP = 2
+		MIL = 2
+	}
+}
+
+#Chanda dynasty
+1574.1.1 = {
+	monarch = {
+		name = "Dhundya Ram Sah"
+		dynasty = "Chandi"
+		ADM = 0
+		DIP = 1
+		MIL = 2
+	}
+	capital = 546
+}
+
+1574.1.1 = {
+	heir = {
+		name = "Krasna"
+		monarch_name = "Krasna Sah"
+		dynasty = "Chandi"
+		birth_date = 1530.1.1
+		death_Date = 1665.1.1
+		claim = 95
+		ADM = 2
+		DIP = 4
+		MIL = 2
+	}
+}
+
+1615.1.1 = {
+	monarch = {
+		name = "Krasna Sah"
+		dynasty = "Chandi"
+		ADM = 2
+		DIP = 4
+		MIL = 2
+	}
+}
+
+1615.1.1 = {
+	heir = {
+		name = "Bir"
+		monarch_name = "Bir Sah"
+		dynasty = "Chandi"
+		birth_date = 1615.1.1
+		death_Date = 1672.1.1
+		claim = 95
+		ADM = 2
+		DIP = 0
+		MIL = 3
+	}
+}
+
+1665.1.1 = {
+	monarch = {
+		name = "Bir Sah"
+		dynasty = "Chandi"
+		ADM = 2
+		DIP = 0
+		MIL = 3
+	}
+}
+
+1665.1.1 = {
+	heir = {
+		name = "Hirai"
+		monarch_name = "Hirai"
+		dynasty = "Chandi"
+		female = yes
+		birth_date = 1590.1.1
+		death_Date = 1672.1.1
+		claim = 95
+		ADM = 4
+		DIP = 3
+		MIL = 2
+	}
+}
+
+1672.1.1 = {
+	monarch = {
+		name = "Hirai"
+		dynasty = "Chandi"
+		female = yes
+		ADM = 4
+		DIP = 3
+		MIL = 2
+	}
+}
+
+1676.1.1 = {
+	heir = {
+		name = "Ram"
+		monarch_name = "Ram Sah"
+		dynasty = "Chandi"
+		birth_date = 1676.1.1
+		death_Date = 1735.1.1
+		claim = 95
+		ADM = 1
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1691.1.1 = {
+	monarch = {
+		name = "Ram Sah"
+		dynasty = "Chandi"
+		ADM = 1
+		DIP = 2
+		MIL = 2
+	}
+}
+
+1691.1.1 = {
+	heir = {
+		name = "Nilkanth"
+		monarch_name = "Nilkanth Sah"
+		dynasty = "Chandi"
+		birth_date = 1685.1.1
+		death_Date = 1751.1.1
+		claim = 95
+		ADM = 3
+		DIP = 4
+		MIL = 4
+	}
+}
+
+1710.1.1 = {
+	monarch = {
+		name = "Nilkanth Sah"
+		dynasty = "Chandi"
+		ADM = 3
+		DIP = 4
+		MIL = 4
+	}
+}
+
+#1724 Kingdom of Nagpur Founded by the Rajas of Deogarh who then become the dominant Gond kingdom, this tag reverts to being for the Mandla kingdom
+
+1724.1.1 = {
+	monarch = {
+		name = "Chhatra Sahi"
+		dynasty = "Garha-Mandli"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+	capital = 551
+}

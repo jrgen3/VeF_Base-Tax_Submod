@@ -1,0 +1,15 @@
+government = theocratic_government
+mercantilism = 0.1
+primary_culture = burmese
+religion = buddhism
+technology_group = chinese
+capital = 585 # Toungoo
+
+1300.1.1 = {
+	monarch = {
+		name = "Maitreya"
+		adm = 6
+		dip = 6
+		mil = 6
+	}
+}

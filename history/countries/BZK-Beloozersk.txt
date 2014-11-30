@@ -1,0 +1,7 @@
+government = rus_principality
+mercantilism = 0.1
+primary_culture = russian
+religion = orthodox
+technology_group = eastern
+capital = 312 # Beloozersk
+

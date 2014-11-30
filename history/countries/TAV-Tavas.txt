@@ -1,0 +1,21 @@
+# Melevi Order of Tavas
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = turkish
+religion = shiite
+technology_group = ottoman
+capital = 319	# Tavas
+
+
+1300.1.1 = {
+	monarch = {
+		name = "Baba Ilyas"
+		dynasty = Karamanli
+		adm = 4
+		dip = 1
+		mil = 2
+	}
+	add_piety = 0.1
+}
+
+# Annexed by Menteshe

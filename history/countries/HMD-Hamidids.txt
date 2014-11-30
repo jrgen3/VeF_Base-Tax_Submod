@@ -1,0 +1,30 @@
+# Hamid
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = turkish
+religion = sunni
+technology_group = ottoman
+capital = 2038 # Hamid
+historical_rival = BYZ
+
+1298.1.1 = {
+	monarch = {
+		name = Dündar
+		dynasty = "Hamidoglu"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+	add_piety = 0.1
+}
+
+1324.1.1 = {
+	monarch = {
+		name = Hizir
+		dynasty = "Hamidoglu"
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+	add_piety = 0.1
+}

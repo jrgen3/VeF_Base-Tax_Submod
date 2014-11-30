@@ -1,0 +1,58 @@
+government = despotic_monarchy
+mercantilism = 0.2
+technology_group = sudanese_tech
+primary_culture = somali
+religion = sunni
+capital = 2868
+
+1309.1.1 = {
+	monarch = {
+		name = "Dhidhin"
+		dynasty = "Gerad"
+		death_date = 1311.2.1
+		dip = 2
+		adm = 3
+		mil = 3
+	}
+}
+
+1309.1.1 = {
+	heir = {
+		name = "Hamar Gale"
+		monarch_name = "Hamar Gale"
+		dynasty = "Gerad"
+		birth_date = 1291.1.1
+		death_date = 1328.7.1
+		dip = 1
+		adm = 2
+		mil = 4
+	}
+}
+
+1311.2.1 = {
+	monarch = {
+		name = "Hamar Gale"
+		monarch_name = "Hamar Gale"
+		dynasty = "Gerad"
+		birth_date = 1291.1.1
+		death_date = 1328.7.1
+		dip = 1
+		adm = 2
+		mil = 4
+	}
+}	
+		
+1311.2.1 = {
+	heir = {
+		name = "Ibrahim"
+		monarch_name = "Ibrahim"
+		dynasty = "Gerad"
+		birth_date = 1300.1.1
+		death_date = 1340.3.1
+		dip = 1
+		adm = 2
+		mil = 4
+	}
+}		
+		
+# fill in more rullers from http://en.wikipedia.org/wiki/Gerad_Dhidhin

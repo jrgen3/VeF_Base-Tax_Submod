@@ -1,0 +1,280 @@
+# Castille
+government = feudal_monarchy
+mercantilism = 0.00
+primary_culture = castillian
+add_accepted_culture = andalucian
+religion = catholic
+technology_group = western
+historical_friend = POR
+historical_friend = LEO
+historical_friend = CRD
+historical_friend = SEV
+historical_rival = GRA
+capital = 215 # Castilla la Vieja
+
+1295.4.25 = {
+	monarch = {
+		name = "Fernando IV"
+		dynasty = "de Bourgogne"
+		birth_date = 1285.12.6
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1309.1.1 = { 
+	set_variable = { which = vassal_boost value = 0.08  }
+	set_country_flag = vassal_boost_set
+}
+
+1312.9.7 = {
+	monarch = {
+		name = "Alfonso XI"
+		dynasty = "de Bourgogne"
+		birth_date = 1311.8.13
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1334.8.30 = {
+	heir = {
+		name = "Pedro"
+		monarch_name = "Pedro the Cruel"
+		dynasty = "de Bourgogne"
+		birth_date = 1334.8.30
+		death_date = 1369.3.23
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 0
+	}
+}
+
+1350.1.1 = {
+	monarch = {
+		name = "Pedro the Cruel"
+		dynasty = "de Bourgogne"
+		birth_date = 1334.8.30
+		adm = 1
+		dip = 1
+		mil = 0
+	}
+}
+
+1366.1.1 = {
+	monarch = {
+		name = "Enrique II"
+		dynasty = "de Trastámara"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1366.1.1 = {
+	heir = {
+		name = "Juan"
+		monarch_name = "Juan I"
+		dynasty = "de Trastámara"
+		birth_date = 1358.8.24
+		death_date = 1390.10.9
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1379.5.29 = {
+	monarch = {
+		name = "Juan I"
+		dynasty = "de Trastámara"
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1379.10.4 = {
+	heir = {
+		name = "Enrique"
+		monarch_name = "Enrique III"
+		dynasty = "de Trastámara"
+		birth_date = 1379.10.4
+		death_date = 1406.12.25
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1390.10.9 = {
+	monarch = {
+		name = "Enrique III"
+		dynasty = "de Trastámara"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1405.3.6 = {
+	heir = {
+		name = "Juan"
+		monarch_name = "Juan II"
+		dynasty = "de Trastámara"
+		birth_date = 1405.3.6
+		death_date = 1454.7.20
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+1406.12.26 = {
+	monarch = {
+		name = "Juan II"
+		dynasty = "de Trastámara"
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+1422.1.1 = { leader = {	name = "Álvaro de Luna"	type = general	rank = 1	fire = 2	shock = 2	manuever = 3	siege = 0	death_date = 1453.6.2 } }
+
+
+1425.1.5 = {
+	heir = {
+		name = "Enrique"
+		monarch_name = "Enrique IV"
+		dynasty = "de Trastámara"
+		birth_date = 1425.1.5
+		death_date = 1474.12.11
+		claim = 95
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
+
+1450.1.1 = { decision = act_of_uniformity decision = blasphemy_act }
+
+1454.7.20 = {
+	monarch = {
+		name = "Enrique IV"
+		dynasty = "de Trastámara"
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
+
+1454.7.20 = {
+	heir = {
+		name = "Isabel"
+		monarch_name = "Isabel I"
+		dynasty = "de Trastámara"
+		birth_date = 1451.4.22
+		death_date = 1504.11.26
+		claim = 95
+		adm = 5
+		dip = 6
+		mil = 3
+		female = yes
+	}
+}
+
+1474.12.11 = { capital = 215 } # Castilla La Vieja
+
+1474.12.11 = {
+	monarch = {
+		name = "Isabel I"
+		dynasty = "de Trastámara"
+		adm = 5
+		dip = 6
+		mil = 3
+		female = yes
+	}
+}
+
+1479.11.6 = {
+	heir = {
+		name = "Juana"
+		monarch_name = "Juana I"
+		dynasty = "de Trastámara"
+		birth_date = 1479.11.6
+		death_date = 1555.4.12
+		claim = 95
+		adm = 0
+		dip = 0
+		mil = 0
+		female = yes
+	}
+}
+
+1491.1.1 = { leader = {	name = "Fadrique Álv. de Toledo"	type = general	rank = 1	fire = 3	shock = 3	manuever = 4	siege = 0	death_date = 1516.1.23 } }
+
+1492.1.1 = { leader = {	name = "Cristóbal Colón"       	type = explorer	rank = 7	fire = 2	shock = 2	manuever = 6	siege = 0	death_date = 1506.5.20 } }
+
+1495.1.1 = { leader = {	name = "El Gran Capitán"       	type = general	rank = 1	fire = 6	shock = 5	manuever = 5	siege = 0	death_date = 1515.12.2 } }
+
+1499.1.1 = { leader = {	name = "Vicente Yáñez Pinzón"	type = explorer	rank = 8	fire = 2	shock = 3	manuever = 6	siege = 0	death_date = 1516.1.23 } }
+
+1499.1.1 = { leader = {	name = "Alonso de Ojeda"       	type = conquistador	rank = 7	fire = 2	shock = 3	manuever = 3	siege = 0	death_date = 1515.1.1 } }
+
+1499.1.1 = { leader = {	name = "Amerigo Vespucci"      	type = explorer	rank = 11	fire = 2	shock = 2	manuever = 4	siege = 0	death_date = 1500.12.30 } }
+
+1499.1.1 = { leader = {	name = "Juan de la Cosa"       	type = explorer	rank = 9	fire = 1	shock = 2	manuever = 4	siege = 0	death_date = 1510.2.28 } }
+
+1504.11.26 = {
+	monarch = {
+		name = "Juana I"
+		dynasty = "de Trastámara"
+		adm = 0
+		dip = 0
+		mil = 0
+		female = yes
+	}
+}
+
+1504.12.1 = {
+	monarch = {
+		name = "Felipe I"
+		dynasty = "von Habsburg"
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
+
+1506.1.1 = { leader = {	name = "Juan Díaz de Solís"    	type = explorer		rank = 9	fire = 3	shock = 2	manuever = 5	siege = 0	death_date = 1516.1.23 } }
+
+1506.9.25 = { capital = 219 } # Toledo
+
+1506.9.25 = {
+	monarch = {
+		name = "Fernando V"
+		dynasty = "de Trastámara"
+		adm = 4
+		dip = 6
+		mil = 5
+	}
+}
+
+1509.1.1 = { leader = {	name = "Pánfilo de Narváez"    	type = conquistador	rank = 6	fire = 2	shock = 2	manuever = 3	siege = 0	death_date = 1516.1.23 } }
+
+1510.1.1 = { leader = {	name = "Vasco Núñez de Balboa"	type = conquistador	rank = 7	fire = 3	shock = 3	manuever = 4	siege = 0	death_date = 1516.1.23 } }
+
+1512.3.4 = { leader = {	name = "Juan Ponce de León"	type = conquistador	rank = 11	fire = 2	shock = 2	manuever = 3	siege = 0	death_date = 1516.1.23 } }
+
+1516.1.23 = { government = despotic_monarchy }
+
+1724.1.20 = { government = renaissance_monarchy }
+
+1759.8.12 = { government = absolute_monarchy }

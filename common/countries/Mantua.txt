@@ -1,0 +1,165 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 191  83  101 }
+
+historical_idea_groups = {
+	spy_ideas
+	mercenary_ideas
+	innovativeness_ideas
+	mercantilist_ideas
+	quantity_ideas
+	administrative_ideas
+	mm1_ideas
+	defensive_ideas
+}
+
+historical_units = { 
+	western_artillery_15_1
+	western_artillery_22_1
+	western_artillery_29_1
+	western_artillery_35_1
+	western_artillery_40_1
+	western_artillery_44_1
+	western_artillery_48_1
+	western_artillery_52_1
+	western_artillery_55_1
+	western_artillery_55_2
+	western_artillery_8_1
+	western_cavalry_0_1
+	western_cavalry_0_2
+	western_cavalry_12_1
+	western_cavalry_12_2
+	western_cavalry_18_1
+	western_cavalry_23_1
+	western_cavalry_28_1
+	western_cavalry_33_1
+	western_cavalry_37_1
+	western_cavalry_37_2
+	western_cavalry_41_1
+	western_cavalry_41_2
+	western_cavalry_45_1
+	western_cavalry_45_2
+	western_cavalry_49_1
+	western_cavalry_49_2
+	western_cavalry_52_1
+	western_cavalry_52_2
+	western_cavalry_6_1
+	western_cavalry_6_2
+	western_infantry_0_1
+	western_infantry_0_2
+	western_infantry_12_1
+	western_infantry_12_2
+	western_infantry_16_1
+	western_infantry_16_2
+	western_infantry_20_1
+	western_infantry_20_2
+	western_infantry_23_1
+	western_infantry_23_2
+	western_infantry_26_1
+	western_infantry_26_2
+	western_infantry_29_1
+	western_infantry_29_2
+	western_infantry_32_1
+	western_infantry_32_2
+	western_infantry_35_1
+	western_infantry_35_2
+	western_infantry_38_1
+	western_infantry_38_2
+	western_infantry_41_1
+	western_infantry_41_2
+	western_infantry_44_1
+	western_infantry_44_2
+	western_infantry_47_1
+	western_infantry_47_2
+	western_infantry_49_1
+	western_infantry_49_2
+	western_infantry_4_1
+	western_infantry_4_2
+	western_infantry_51_1
+	western_infantry_51_2
+	western_infantry_53_1
+	western_infantry_53_2
+	western_infantry_55_1
+	western_infantry_55_2
+	western_infantry_8_1
+	western_infantry_8_2
+}
+
+
+
+
+
+monarch_names = {
+	"Francesco #0" = 80
+	"Carlo #0" = 60
+	"Federico #0" = 40
+	"Vincenzo #0" = 40
+	"Ludovico #2" = 20
+	"Ferdinando #0" = 20
+	"Gianfrancesco #0" = 20
+	"Guglielmo #0" = 20
+	"Ercole #0" = 15
+	"Sigismondo #0" = 15
+	"Alessandro #0" = 10
+	"Gianlucido #0" = 10
+	"Giovanni #0" = 10
+	"Rodolfo #0" = 10
+	"Guido #1" = 5
+	"Alberto #0" = 0
+	"Benedetto #0" = 0
+	"Bonifacio #0" = 0
+	"Camillo #0" = 0
+	"Claudio #0" = 0
+	"Dario #0" = 0
+	"Emanuele #0" = 0
+	"Fabrizio #0" = 0
+	"Felice #0" = 0
+	"Gaetano #0" = 0
+	"Geronimo #0" = 0
+	"Giuseppe #0" = 0
+	"Ignazio #0" = 0
+	"Jacopo #0" = 0
+	"Leonardo #0" = 0
+	"Leopoldo #0" = 0
+	"Marcello #0" = 0
+	"Niccolò #0" = 0
+	"Paolo #0" = 0
+	"Raniero #0" = 0
+	"Rinaldo #0" = 0
+	"Salvatore #0" = 0
+	"Timoteo #0" = 0
+	"Uberto #0" = 0
+	"Vittorio #0" = 0
+	
+	"Antonia #0" = -1
+	"Celeste #0" = -1
+	"Gilberta #0" = -1
+}
+
+leader_names = {
+	d'Absburgo Alberti Amelia Barone Barzagli Belmonte Bibiena Boninsegna Bosio "di Busca"
+	"de Canal" Casabianca Castagnaro Cocconi Colombo Conti Fancelli Freddi
+	Gatti Germano Gonzaga Grazioli Grosso Idoni Innocenti Juvarra Lori
+	Manfredi Mantegna Manfredi "di Medici" Montanari Neri Oddo Panzavecchia Pesci Piccoli Pico "del Piero" Poggio Poma
+	Romano "de Rossi" Speri Tassoni Tazolli Tedesco Toselli Zaccardo Zappa
+}
+
+ship_names = { 
+	"Alberto Pitentino" "Andrea Mantegna" "Anselmo de Lucca"
+	"Barbara di Brandeburgo"
+	"Castelletto Borgo" "Corradi da Gonzaga"
+	Donatello
+	"Fiume Mincio" Formigosa
+	"Gianfrancesco Gonzaga" Ghibellini Guelphi
+	"Luca Fancelli" "Ludovico Gonzaga" "Luigi Gonzaga"
+	"Matilde Canossa"
+	"Pinamonte Bonacolsi"
+	"Rinaldo Bonacolsi"
+	"San Lorenzo" "San Sebastiano" Sant'Andrea
+}
+
+army_names = {
+	"Armata de $PROVINCE$"
+}

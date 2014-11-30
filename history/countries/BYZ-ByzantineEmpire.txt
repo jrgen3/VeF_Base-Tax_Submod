@@ -1,0 +1,179 @@
+# Roman Empire
+government = byzantine_empire
+mercantilism = 0.1
+primary_culture = greek
+culture_group_union = byzantine_group
+religion = orthodox
+technology_group = byzantine
+capital = 151 # Constantinople
+historical_rival = PAP
+historical_rival = MAM
+historical_rival = HUN
+historical_rival = SER
+historical_friend = VEN
+historical_friend = KIV
+
+
+1100.1.1 = {
+	add_faction_influence = { faction = byz_mercantilist influence = -20 }
+	add_faction_influence = { faction = byz_militarist influence = 40 }
+	add_patriarch_authority = 0.25
+	add_country_modifier = { name = "byzantine_decline1" duration = -1 }
+	set_country_flag = imperial_government
+}
+
+1282.1.1 = {
+	monarch = {
+		name = "Andronikos II"
+		dynasty = "Palaiologos"
+		birth_date = 1259.3.25
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
+
+1282.1.1 = {
+	heir = {
+		name = "Michael"
+		monarch_name = "Michael IX"
+		dynasty = "Palaiologos"
+		birth_date = 1277.4.17
+		death_date = 1320.10.12
+		claim = 100
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+
+1320.10.12 = {
+	heir = {
+		name = "Andronikos"
+		monarch_name = "Andronikos III"
+		dynasty = "Palaiologos"
+		birth_date = 1297.3.25
+		death_date = 1341.6.15
+		claim = 100
+		adm = 3
+		dip = 4
+		mil = 5
+	}
+}
+
+1328.1.1 = {
+	monarch = {
+		name = "Andronikos III"
+		dynasty = "Palaiologos"
+		birth_date = 1297.3.25
+		adm = 3
+		dip = 4
+		mil = 5
+	}
+}
+
+1332.6.18 = {
+	heir = {
+		name = "Iohannes"
+		monarch_name = "Iohannes V"
+		dynasty = "Palaiologos"
+		birth_date = 1332.6.18
+		death_date = 1491.2.16
+		claim = 100
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+}
+
+1341.6.15 = {
+	monarch = {
+		name = "Iohannes V"
+		dynasty = "Palaiologos"
+		birth_date = 1332.6.18
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+1350.1.1 = { decision = glory_of_byzantium }
+
+1350.6.27 = {
+	heir = {
+		name = "Manuel"
+		monarch_name = "Manuel II"
+		dynasty = "Palaiologos"
+		birth_date = 1350.6.27
+		death_date = 1432.7.21
+		claim = 100
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1391.2.16 = {
+	monarch = {
+		name = "Manuel II"
+		dynasty = "Palaiologos"
+		birth_date = 1350.6.27		
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+1392.12.18 = {
+	heir = {
+		name = "Ioannes"
+		monarch_name = "Ioannes VIII"
+		dynasty = "Palaiologos"
+		birth_date = 1392.12.18
+		death_date = 1448.10.31
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1425.7.21 = {
+	monarch = {
+		name = "Ioannes VIII"
+		dynasty = "Palaiologos"
+		birth_date = 1392.12.18
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1425.7.21 = {
+	heir = {
+		name = "Konstantinos"
+		monarch_name = "Konstantinos XI"
+		dynasty = "Palaiologos"
+		birth_date = 1405.2.8
+		death_date = 1453.5.29
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1448.10.31 = {
+	monarch = {
+		name = "Konstantinos XI"
+		dynasty = "Palaiologos"
+		birth_date = 1405.2.8
+		adm = 3
+		dip = 2
+		mil = 2
+		leader = {	name = "Konstantinos XI"	type = general	rank = 0	fire = 3	shock = 3	manuever = 4	siege = 0 }
+	}
+}
+
+1452.1.1 = { leader = {	name = "Giovanni Giustiniani"	type = general	rank = 1	fire = 2	shock = 2	manuever = 3	siege = 0	death_date = 1453.5.29 } }

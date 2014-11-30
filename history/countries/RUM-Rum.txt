@@ -1,0 +1,21 @@
+# RÃ¼m
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = turkish
+religion = sunni
+technology_group = ottoman
+capital = 329	# Sivas
+historical_friend = MAM
+
+1309.1.1 = {
+	monarch = {
+		name = "Kikiç Arsland V"
+		dynasty = Selçuklu
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+	add_piety = 0.1
+}
+
+# Annexed by ILK

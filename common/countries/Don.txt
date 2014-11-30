@@ -1,0 +1,122 @@
+#Country Name: Please see filename.
+
+graphical_culture = easterngfx
+
+color = { 35  190  178 }
+
+historical_idea_groups = {
+	offensive_ideas
+	intimidatory_ideas
+	religious_ideas
+	quantity_ideas
+	mercantilist_ideas
+	administrative_ideas
+	drafted_army_ideas
+	mm1_ideas
+}
+
+historical_units = { 
+	eastern_artillery_16_1
+	eastern_artillery_22_1
+	eastern_artillery_29_1
+	eastern_artillery_35_1
+	eastern_artillery_40_1
+	eastern_artillery_44_1
+	eastern_artillery_48_1
+	eastern_artillery_48_2
+	eastern_artillery_52_1
+	eastern_artillery_55_1
+	eastern_artillery_55_2
+	eastern_artillery_9_1
+	eastern_cavalry_0_1
+	eastern_cavalry_0_2
+	eastern_cavalry_10_1
+	eastern_cavalry_10_2
+	eastern_cavalry_18_1
+	eastern_cavalry_23_1
+	eastern_cavalry_28_1
+	eastern_cavalry_33_1
+	eastern_cavalry_37_1
+	eastern_cavalry_37_2
+	eastern_cavalry_41_1
+	eastern_cavalry_41_2
+	eastern_cavalry_45_1
+	eastern_cavalry_45_2
+	eastern_cavalry_49_1
+	eastern_cavalry_49_2
+	eastern_cavalry_52_1
+	eastern_cavalry_52_2
+	eastern_cavalry_5_1
+	eastern_cavalry_5_2
+	eastern_infantry_0_1
+	eastern_infantry_0_2
+	eastern_infantry_13_1
+	eastern_infantry_13_2
+	eastern_infantry_17_1
+	eastern_infantry_17_2
+	eastern_infantry_20_1
+	eastern_infantry_20_2
+	eastern_infantry_23_1
+	eastern_infantry_23_2
+	eastern_infantry_26_1
+	eastern_infantry_26_2
+	eastern_infantry_29_1
+	eastern_infantry_29_2
+	eastern_infantry_32_1
+	eastern_infantry_32_2
+	eastern_infantry_35_1
+	eastern_infantry_35_2
+	eastern_infantry_38_1
+	eastern_infantry_38_2
+	eastern_infantry_41_1
+	eastern_infantry_41_2
+	eastern_infantry_44_1
+	eastern_infantry_44_2
+	eastern_infantry_47_1
+	eastern_infantry_47_2
+	eastern_infantry_49_1
+	eastern_infantry_49_2
+	eastern_infantry_51_1
+	eastern_infantry_51_2
+	eastern_infantry_53_1
+	eastern_infantry_53_2
+	eastern_infantry_55_1
+	eastern_infantry_55_2
+	eastern_infantry_5_1
+	eastern_infantry_5_2
+	eastern_infantry_9_1
+	eastern_infantry_9_2
+}
+
+
+
+
+monarch_names = {
+	"Ivan #0" = 20
+	"Akakij #0" = 20
+	"Fedor #4" = 20
+	"Mikhail #0" = 20
+	"Naum #0" = 20
+	"Isaj #0" = 20
+	"Kondratij #0" = 20
+	"Stepan #0" = 20
+	"Yuriy #0" = 20
+	"Sava #1" = 10
+	"Nykon #0" = 10
+	"Epiphan #0" = 10
+
+	
+	"Vladislava #0" = -1
+	"Yesfir #0" = -1
+	"Bogdana #0" = -1
+}
+
+leader_names = { 
+	Petrov Ivanov Stepanov Razin Minaev Kivalov Frolov Maksimov Dontsov Kirilov
+}
+
+ship_names = {
+	Dnieper "Zaporizhia Sich" Khortytsia "Zaporozhian Voisko" 
+	Orekhov Pologi Melitopol Energodar Mikhaylovka Tokmak
+	Akimivka Vesele Viliansk Guliajpole
+}

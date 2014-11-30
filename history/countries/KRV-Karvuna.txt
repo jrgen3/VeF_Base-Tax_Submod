@@ -1,0 +1,6 @@
+government = feudal_monarchy
+mercantilism = 0.1
+technology_group = byzantine
+primary_culture = bulgarian
+religion = orthodox
+capital = 2155

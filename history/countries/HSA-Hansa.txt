@@ -1,0 +1,15 @@
+government = hanseatic_league
+mercantilism = 0.00
+technology_group = western
+unit_type = western
+religion = catholic
+primary_culture = lowersaxon
+historical_friend = TEU
+historical_friend = KOL
+capital = 45	# L?beck
+
+
+
+1267.1.1 = { add_country_modifier = { name = "hanseatic_league_member" duration = -1 } }
+
+1529.1.1 = { religion = protestant }

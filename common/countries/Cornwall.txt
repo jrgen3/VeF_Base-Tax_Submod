@@ -1,0 +1,181 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 155  56  0 }
+
+historical_idea_groups = {
+	defensive_ideas
+	gf1_ideas
+	economic_ideas
+	quantity_ideas
+	mercantilist_ideas
+	exploration_ideas
+	drafted_army_ideas
+	diplomatic_ideas
+}
+
+historical_units = { 
+	western_artillery_15_1
+	western_artillery_22_1
+	western_artillery_29_1
+	western_artillery_35_1
+	western_artillery_40_1
+	western_artillery_44_1
+	western_artillery_48_1
+	western_artillery_52_1
+	western_artillery_55_1
+	western_artillery_55_2
+	western_artillery_8_1
+	western_cavalry_0_1
+	western_cavalry_0_2
+	western_cavalry_12_1
+	western_cavalry_12_2
+	western_cavalry_18_1
+	western_cavalry_23_1
+	western_cavalry_28_1
+	western_cavalry_33_1
+	western_cavalry_37_1
+	western_cavalry_37_2
+	western_cavalry_41_1
+	western_cavalry_41_2
+	western_cavalry_45_1
+	western_cavalry_45_2
+	western_cavalry_49_1
+	western_cavalry_49_2
+	western_cavalry_52_1
+	western_cavalry_52_2
+	western_cavalry_6_1
+	western_cavalry_6_2
+	western_infantry_0_1
+	western_infantry_0_2
+	western_infantry_12_1
+	western_infantry_12_2
+	western_infantry_16_1
+	western_infantry_16_2
+	western_infantry_20_1
+	western_infantry_20_2
+	western_infantry_23_1
+	western_infantry_23_2
+	western_infantry_26_1
+	western_infantry_26_2
+	western_infantry_29_1
+	western_infantry_29_2
+	western_infantry_32_1
+	western_infantry_32_2
+	western_infantry_35_1
+	western_infantry_35_2
+	western_infantry_38_1
+	western_infantry_38_2
+	western_infantry_41_1
+	western_infantry_41_2
+	western_infantry_44_1
+	western_infantry_44_2
+	western_infantry_47_1
+	western_infantry_47_2
+	western_infantry_49_1
+	western_infantry_49_2
+	western_infantry_4_1
+	western_infantry_4_2
+	western_infantry_51_1
+	western_infantry_51_2
+	western_infantry_53_1
+	western_infantry_53_2
+	western_infantry_55_1
+	western_infantry_55_2
+	western_infantry_8_1
+	western_infantry_8_2
+}
+
+
+
+
+
+monarch_names = {
+	"Conan #2" = 20
+	"Hoel #2" = 20
+	"Cador #1" = 20
+	"Duncan #1" = 20
+	"Howel #1" = 20
+	"Ricatus #1" = 20
+	"Arthnou #1" = 15
+	"Coll #1" = 15
+	"Gerens #1" = 10
+	"Gwefawr #0" = 10
+	"Massen #1" = 10
+	"Daveth #0" = 0
+	"Jago #0" = 0
+	"Jory #0" = 0
+	"Jowan #0" = 0
+	"Margh #0" = 0
+	"Myghal #0" = 0
+	"Pasco #0" = 0
+	"Piran #0" = 0
+	"Alan #0" = 0
+	"Colan #0" = 0
+	"Digory #0" = 0
+	"Gawen #0" = 0
+	"Kenver #0" = 0
+	"Kenwyn #0" = 0
+	"Kitto #0" = 0
+	"Maban #0" = 0
+	"Madern #0" = 0
+	"Melor #0" = 0
+	"Meriasek #0" = 0
+	"Peder #0" = 0
+	"Perran #0" = 0
+	"Petrok #0" = 0
+	"Ruan Talan #0" = 0
+	"Talek #0" = 0
+	"Tomas #0" = 0
+	"Uther #0" = 0
+	"Wella #0" = 0
+	"Yestin #0" = 0
+	"Ythel #0" = 0
+	
+	"Blejan #0" = -1
+	"Elowen #0" = -1
+	"Eseld #0" = -1
+}
+
+leader_names = { 
+	Arthur Audley
+	Boscawen
+	Carew Chynoweth Clemow Collett Connor Cornish Curnow
+	Davy Drake Drew
+	Endean
+	Flamank Furze
+	Gwynn
+	Hale
+	Innes
+	Jago James Jenner Jolley Joseph
+	Keverne
+	Lanyon Locke Lyon
+	Menhenick 
+	Oates
+	Pascoe Penberthy Pendennis Penhaligon Pentreath Pethick Polwin
+	Quintrell
+	Roscarrock Rosewarne
+	"St Aubyn" Sweet
+	Trehearne Trelawny Trescothick Trevelyan Trevithick Tyrell
+	Warren Weekes
+}
+
+ship_names = {
+        Arthur
+        Bodmin Bolster Brutus
+        Chough Corineus Cormoran Cornishman
+        Dumnonia
+        Excalibur
+        Falmouth
+        Galahad Gawain Guinevere
+        "Hal-an-Tow" Helston
+        Kernow "King Mark"
+        Lancelot Launceston Lizard Lostwithiel Lyonesse
+        Marazion Mousehole
+        Pendragon Penzance Porthleven
+        Restormel
+        Scillonian "St Ives" "St Michael" "St Petroc" "St Pirin" Stannary
+        Tamar Tintagel Trelawny Truro
+        Whitsand
+}

@@ -1,0 +1,10 @@
+government = roman_empire
+mercantilism = 0.2
+primary_culture = lombard
+religion = catholic
+technology_group = western
+capital = 118 # Rome
+
+1100.1.1 = { 
+	set_country_flag = imperial_government
+}

@@ -1,0 +1,25 @@
+# Reagus
+government = noble_republic
+mercantilism = 0.2
+primary_culture = croatian
+religion = catholic
+technology_group = eastern
+capital = 137	# Ragusa
+historical_friend = HUN
+unit_type = western
+
+1309.1.1 = { 
+	set_country_flag = starting_vassal 
+	set_country_flag = vassal_flag
+	add_opinion = { who = FRA modifier = vassal_stage_1 }
+	set_variable = { which = vassal_progress value = 1.0 }
+}
+
+1309.1.1 = {
+      monarch = {
+           name = "Vijece"
+           adm = 3
+           dip = 3
+           mil = 2
+      }
+}

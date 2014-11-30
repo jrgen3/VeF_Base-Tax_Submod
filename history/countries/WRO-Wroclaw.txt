@@ -1,0 +1,17 @@
+government = duchy_government
+mercantilism = 0.1
+primary_culture = schlesian
+religion = catholic
+technology_group = western
+capital = 264
+
+1308.6.21 = {
+	monarch = {
+		name = "Wladislaw II"
+		dynasty = "Piast"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+

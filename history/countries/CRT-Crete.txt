@@ -1,0 +1,7 @@
+government = feudal_monarchy
+mercantilism = 0.1
+technology_group = byzantine
+primary_culture = greek
+add_accepted_culture = lombard
+religion = orthodox
+capital = 163	# Heraklion

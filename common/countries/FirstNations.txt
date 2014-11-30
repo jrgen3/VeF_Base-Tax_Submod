@@ -1,0 +1,212 @@
+#Country Name: Please see filename.
+
+graphical_culture = northamericagfx
+
+color = { 87  182  80 }
+
+historical_idea_groups = {
+	cultural_unity_ideas
+	delegative_ideas
+	economic_ideas
+	drafted_army_ideas
+	defensive_ideas
+	quantity_ideas 
+	land_trade_ideas
+	imperial_ambition_ideas
+}
+
+historical_units = { 
+	north_american_infantry_0_1
+	north_american_infantry_12_1
+	north_american_infantry_18_1
+	north_american_infantry_24_1
+	north_american_infantry_30_1
+	north_american_infantry_36_1
+	north_american_infantry_6_1
+}
+
+monarch_names = {
+	"Theyanoguin #0" = 10
+	"Teiorhenhsere #0" = 10
+	"Thayendanega #0" = 10
+	"Oronhyatekha #0" = 10
+	"Onogwendahonji #0" = 10
+	"Touighnatogon #0" = 20
+	"Oheadanghton #0" = 20
+	"Kendarindgon #0" = 20
+	"Tayagonendagighti #0" = 20
+	"Tehonwaenghrigagi #0" = 20
+	"Otyadonenghti #0" = 20
+	"Dagaheari #0" = 20
+	"Oraghoaenendagen #0" = 20
+	"Onnonghsawenghti #0" = 20
+	"Tarondawagon #0" = 20
+	"Kayenthoghke #0" = 20
+	"Cageaga #0" = 20
+	"Sawedowa #0" = 20
+	"Kiondushowa #0" = 20
+	"Oncahye #0" = 20
+	"Soaheas #0" = 20
+	"Otachsaka #0" = 20
+	"Tekahias #0" = 20
+	"Onecnsetee #0" = 20
+	"Kiatulaho #0" = 20
+	"Aqueia #0" = 20
+	"Kiandogewa #0" = 20
+	"Owenewa #0" = 20
+	"Gyantwaia #0" = 20
+	"Gyasota #0" = 20
+	"Kannasseee #0" = 20
+	"Achiout #0" = 20
+	"Anachout #0" = 20
+	"Chishekoa #0" = 20
+	"Sessewa #0" = 20
+	"Sicahowa #0" = 20	
+	"Tewanias #0" = 20
+	"Snoachshowa #0" = 20
+	"Hickonquash #0" = 20
+	"Ononyeahnee #0" = 20
+	"Konneatorteeooh #0" = 20
+	"Tokenhyouau #0" = 20	
+	"Oneshauee #0" = 20
+	"Aupaumut #0" = 20
+	"Neeshonshuk #0" = 20
+	"Kanatsoyh #0" = 20
+	"Sohhonteoquent #0" = 20
+	"Ooduhtsait #0" = 20
+	"Konoohqung #0" = 20
+	"Tossonggaulolus #0" = 20
+	"Skenendoa #0" = 20
+	"Oneatorleeooh #0" = 20
+	"Kussauwatau #0" = 20
+	"Eootenyootauook #0" = 20
+	"Kohnyeaugaong #0" = 20
+	"Shaguiesa #0" = 20
+	"Teeroos #0" = 20
+	"Sooshaoowau #0" = 20
+	"Sonhyoowauna #0" = 20
+	"Onaahhah #0" = 20
+	"Hotoshahen #0" = 20
+	"Kaukondanaiya #0" = 20
+	"Nondiyauka #0" = 20
+	"Kosshishtowau #0" = 20
+	"Oojaugenta #0" = 20
+	"Toheonggo #0" = 20
+	"Ootaguasso #0" = 20
+	"Joonondauwanonch #0" = 20
+	"Kiyauhaonh #0" = 20
+	"Ootaujeaugenth #0" = 20
+	"Tauhoondos #0" = 20
+	"Twaukewasha #0" = 20
+	"Sequidonguquee #0" = 20
+	"Kodjeote #0" = 20
+	"Kenjauaugus #0" = 20
+	"Skeleak #0" = 20
+	"Akonoluchta #0" = 20
+	"Cheanoka #0" = 20
+	"Nemetuah #0" = 20
+	"Ostaiah #0" = 20
+	"Oortlokecteh #0" = 20
+	"Chockonnistaller #0" = 20
+	"Noothoietah #0" = 20
+	"Kunnateelah #0" = 20
+	"Utturah #0" = 20
+	"Weelee #0" = 20
+	"Oolassoteh #0" = 20
+	"Tlorene #0" = 20
+	"Jonnurteekee #0" = 20
+	"Oonatakoteekee #0" = 20
+	"Kanowsurhee #0" = 20
+	"Yonah Oolah #0" = 20
+	"Tunksalenee #0" = 20
+	"Soononhquaukau #0" = 20
+	"Twenniyana #0" = 20
+	"Jishkaaga #0" = 20
+	"Tuggehshotta #0" = 20
+	"Tehongyagauna #0" = 20
+	"Tehongyoowush #0" = 20
+	"Konneyoowesot #0" = 20
+	"Tioohquaottakauna #0" = 20
+	"Taoundaudeesh #0" = 20
+	"Honayawus #0" = 20
+	"Soggooyawauthau #0" = 20
+	"Konyootiayoo #0" = 20
+	"Sauhtakaongyees #0" = 20
+	"Ounnashattakau #0" = 20
+	"Kaungyanehquee #0" = 20
+	"Sooayoowau #0" = 20
+	"Kaujeagaonh #0" = 20
+	"Soonoohshoowau #0" = 20
+	"Thaoowaunias #0" = 20
+	"Soonongjoowau #0" = 20
+	"Kiantwhauka #0" = 20
+	"Kaunehshonggoo #0" = 20
+	"Kenneronkwa #0" = 20
+	"Telenemut #0" = 20
+	"Katarioniecha #0" = 20
+	
+	"Tyonajanegen #0" = -1
+	"Alliquippa #0" = -1
+	"Konwatsitiaienni #0" = -1
+	"Genessee #0" = -1
+	"Satékon #0" = -1
+	"Tekakwitha #0" = -1
+}
+
+leader_names = {
+	Awegen Ahaouet
+	Canajoharie Canastigaone Canienga Caughnawaga Cahunghage Canowaroghere
+	Deseroken Dayoitgao Deonundagae Deyodeshot Deyohnegano Deyonongdadagana
+	Gweugwehono Gandasetaigon Ganogeh Gayagaanhe Gewauga Goiogouen Gadoquat Gannentaha
+	Hostayuntwa
+	Kawauka Kente Kanagaro Kowogoconnughariegugharie Kanadaseagea Kanatakowa
+	Neodakheat Nowadaga Nundawaono
+	Onekagoncka Onoalagona Oquaga Osquake Onayotekaono Oriska Ossewingo 
+	Skannayutenate Saratoga Schaunactada Schoharie
+	Teatontaloga Tewanondadon Tionnontoguen Tegasoke Teseroken Tetosweken 
+	Yoroonwago
+	"Five Wounds" "Yellow Bull" "Eagle from Light" "White Bird" "Lean Elk" "Poker Joe"
+	"Looking Glass" "Twisted Hair" "Red Owl" Rainbow "Wrapped in the Wind" "Bird Alighting"
+}
+
+ship_names = {
+	Atahensic Ataensic Adekagagwaa
+	Gaol Gohone Gah-oh Gendenwitha
+	Hahgwehdiyu Hahgwehdaetgan "Ha Wen Neyu"
+	Jogah
+	Losheka
+	Onatha Oki
+	Sosondowah
+	Tarhuhyiawahku
+	Yosheka Ya-o-gah
+	"Ani-kutani" "Ah-ni-ga-to-ge-wi" "Ah-ni-gi-lo-hi" "Ah-ni-ka-wi" 
+	"Ah-ni-tsi-sk-wa" "Ah-ni-sa-ho-ni" "Ah-ni-wo-di" "Ah-ni-wa-ya" 
+	Kana'ti
+	Selu
+	"Tsul Kalu" "Oonawieh Unggi" "Ani Yuntikwalaski" "Asgaya Gigagei" 
+	"I'nage-utasvhi" "Anisga'ya Tsunsdi" "Nv-da u-no-le" "Nv-da ko-la"
+	"Nv-da ka-na-wo-ga" "Nv-da gu-ti-ha"
+	Ibofanga
+	Tvpvsvnv
+	"Okhvtkë Yvhv" "Okhvtkë Nokosë" "Lvstë Nokosë" "Okhvtkë Lvmhe"
+	"Catë lvmhe" "Catë Ayo" "Ayo-rakko" "Est-akwvnayv"
+	"Esaugetuh Emissee" "Nunne Chaha" "Hisagita-imisi" "Sint Holo"
+}
+
+army_names = {
+	"Army of the Dawn"
+	"Abistanooj's Men"
+	"The Great Bears"
+	"The Dreamwalkers"
+	"The Army of the Morning Star"
+	"The Voyaging Men"
+	"The Painted Warriors"
+}
+
+fleet_names = {
+	"The Thousand Canoes"
+	"The Bull Boats"
+	"The Mackinaw Boats"
+	"The Avengers"
+	"The Great Canoes"
+}

@@ -1,0 +1,154 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 118  193  153 }
+
+historical_idea_groups = {
+	quantity_ideas
+	free_trade_ideas
+	innovativeness_ideas
+	standing_army_ideas
+	gf1_ideas
+	exploration_ideas
+	defensive_ideas
+	spy_ideas
+}
+
+historical_units = { 
+	western_artillery_15_1
+	western_artillery_22_1
+	western_artillery_29_1
+	western_artillery_35_1
+	western_artillery_40_1
+	western_artillery_44_1
+	western_artillery_48_1
+	western_artillery_52_1
+	western_artillery_55_1
+	western_artillery_55_2
+	western_artillery_8_1
+	western_cavalry_0_1
+	western_cavalry_0_2
+	western_cavalry_12_1
+	western_cavalry_12_2
+	western_cavalry_18_1
+	western_cavalry_23_1
+	western_cavalry_28_1
+	western_cavalry_33_1
+	western_cavalry_37_1
+	western_cavalry_37_2
+	western_cavalry_41_1
+	western_cavalry_41_2
+	western_cavalry_45_1
+	western_cavalry_45_2
+	western_cavalry_49_1
+	western_cavalry_49_2
+	western_cavalry_52_1
+	western_cavalry_52_2
+	western_cavalry_6_1
+	western_cavalry_6_2
+	western_infantry_0_1
+	western_infantry_0_2
+	western_infantry_12_1
+	western_infantry_12_2
+	western_infantry_16_1
+	western_infantry_16_2
+	western_infantry_20_1
+	western_infantry_20_2
+	western_infantry_23_1
+	western_infantry_23_2
+	western_infantry_26_1
+	western_infantry_26_2
+	western_infantry_29_1
+	western_infantry_29_2
+	western_infantry_32_1
+	western_infantry_32_2
+	western_infantry_35_1
+	western_infantry_35_2
+	western_infantry_38_1
+	western_infantry_38_2
+	western_infantry_41_1
+	western_infantry_41_2
+	western_infantry_44_1
+	western_infantry_44_2
+	western_infantry_47_1
+	western_infantry_47_2
+	western_infantry_49_1
+	western_infantry_49_2
+	western_infantry_4_1
+	western_infantry_4_2
+	western_infantry_51_1
+	western_infantry_51_2
+	western_infantry_53_1
+	western_infantry_53_2
+	western_infantry_55_1
+	western_infantry_55_2
+	western_infantry_8_1
+	western_infantry_8_2
+}
+
+
+
+
+
+monarch_names = {
+	"Jean #3" = 20
+	"Antoine #0" = 20
+	"Philippe #0" = 20
+	"Jeanne #0" = -15
+	"Guillaume #0" = 15
+	"Geoffroi #3" = 5
+	"Henri #3" = 5
+	"Wenceslas #1" = 5
+	"Charles #1" = 5
+	"Lambert #1" = 5
+	"Antoon #0" = 0
+	"Christiaan #0" = 0
+	"Christian #0" = 0
+	"Ernest #0" = 0
+	"Frédéric #0" = 0
+	"Frederik #0" = 0
+	"Gaspard #0" = 0
+	"Gérard #0" = 0
+	"Gerhard #0" = 0
+	"Godfried #0" = 0
+	"Hughes #0" = 0
+	"Jan #0" = 0
+	"Joachim #0" = 0
+	"Johannes #0" = 0
+	"Karel #0" = 0
+	"Kasper #0" = 0
+	"Léonard #0" = 0
+	"Lodewijk #0" = 0
+	"Louis #0" = 0
+	"Michaël #0" = 0
+	"Michel #0" = 0
+	"Orland #0" = 0
+	"Robert #0" = 0
+	"Roeland #0" = 0
+	"Roger #0" = 0
+	"Rutger #0" = 0
+	"Thomas #0" = 0
+	"Vincent #0" = 0
+	"Willem #0" = 0
+}
+
+leader_names = {
+	Orthellius Mons Quellinus "de Houtman" Albers
+	"van Meteren" "de Leeuw" "van der Most" "van Egmont"
+	"van Noort" Bielmacker Camper "de Avesnes" "van Kahlden"
+	Leschwein Maas "van Loewen" Debruyne Aylett Jansen "van Wyhe" 
+}
+
+ship_names = { 
+	Brussel
+	Dender Doornik
+	Edingen
+	"Godfried I"
+	"Hendrik I" "Hendrik van Leuven" "Hertog Jan" "Hertogin Johanna" 
+	"Jan I" 
+	Mechelen 
+	Namen 
+	"Filips van Saint-Pol"
+	Zenne 
+}

@@ -1,0 +1,496 @@
+# Factions moved to government file
+government = constitutional_monarchy
+mercantilism = 0.1
+technology_group = western
+primary_culture = english
+add_accepted_culture = scottish
+religion = anglican
+culture_group_union = british
+capital = 236	# London
+
+historical_friend = POR
+
+1534.1.1 = { decision = suffragan_bishop_act }
+1534.11.1 = { decision = first_act_royal_supremacy }
+1536.1.1 = { decision = dissolution_of_the_monasteries }
+1549.1.1 = { decision = act_of_uniformity }
+1554.12.31 = { decision = revive_the_heresy_acts }
+1559.1.1 = { decision = second_act_royal_supremacy }
+1580.1.1 = { decision = enlist_privateers }
+
+1603.3.24 = {
+	changed_tag_from = ENG 
+	monarch = {
+		name = "James I"
+		dynasty = "Stuart"
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+}
+
+1603.3.24 = {
+	heir = {
+		name = "Charles"
+		monarch_name = "Charles I"
+		dynasty = "Stuart"
+		birth_date = 1600.11.19
+		death_date = 1649.1.30
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1610.1.1 = { leader = {	name = "Dudd Dudley"                	type = general	rank = 0	fire = 3	shock = 2	manuever = 3	siege = 0	death_date = 1684.3.3 } }
+
+1612.1.1 = { leader = {	name = "William Baffin"                	type = explorer	rank = 13	fire = 1	shock = 1	manuever = 5	siege = 0	death_date = 1622.1.23 } }
+
+1612.1.1 = { leader = {	name = "Thomas Button"                	type = explorer	rank = 3	fire = 3	shock = 2	manuever = 4	siege = 0	death_date = 1634.4.8 } }
+
+1623.1.1 = { leader = {	name = "George Villiers"            	type = general	rank = 0	fire = 3	shock = 1	manuever = 2	siege = 0	death_date = 1624.8.23 } }
+
+1625.3.27 = {
+	monarch = {
+		name = "Charles I"
+		dynasty = "Stuart"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1630.5.29 = {
+	heir = {
+		name = "Charles"
+		monarch_name = "Charles II"
+		dynasty = "Stuart"
+		birth_date = 1630.5.29
+		death_date = 1685.2.6
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 0
+	}
+}
+
+1642.1.1 = { leader = {	name = "Prince Rupert"         	type = general	rank = 2	fire = 3	shock = 4	manuever = 4	siege = 0	death_date = 1646.5.5 } }
+
+1642.8.22 = { set_country_flag = supports_royalists 
+			set_country_flag = english_civil_war }
+		
+1644.12.19 = { add_country_modifier = { name = "new_model_army" duration = 7300 } set_country_flag = ENG_had_event_9227 }
+		
+1646.5.5 = { 
+	government = military_dictatorship
+	set_country_flag = ENG_had_event_9235
+	clr_country_flag = english_civil_war
+	clr_country_flag = supports_royalists
+	set_country_flag = english_civil_war_ended 
+
+	monarch = {
+		name = "Thomas" # Interim period
+		dynasty = "Fairfax"
+		adm = 2
+		dip = 4
+		mil = 6
+		birth_date = 1612.1.17
+#		death_date = 1671.11.12
+		leader = {	name = "Thomas Fairfax"		type = general	rank = 0	fire = 4	shock = 4	manuever = 1	siege = 1 death_date = 1658.9.3 }
+	}
+	leader = { name = "Robert Blake"		type = admiral	rank = 0	fire = 4	shock = 4	manuever = 3	siege = 0	death_date = 1657.8.17 }
+
+	leader = { name = "George Monck"		type = general	rank = 2	fire = 3	shock = 3	manuever = 3	siege = 0	death_date = 1670.1.3 }
+	
+	leader = {	name = "Oliver Cromwell"		type = general	rank = 0	fire = 2	shock = 6	manuever = 3	siege = 0 death_date = 1658.9.3 }
+}
+
+
+1648.12.6 = { 
+	set_country_flag = ENG_had_event_9234 #Pride's Purge
+}
+
+1649.2.17 = {
+	monarch = {
+		name = "Oliver Cromwell" #Cromwell chairs election session of Council of State
+		adm = 5
+		dip = 4
+		mil = 6
+		regent = yes
+	}
+	government = commonwealth
+	leader = {	name = "Oliver Cromwell"		type = general	rank = 0	fire = 2	shock = 6	manuever = 3	siege = 0 death_date = 1658.9.3 }
+}
+
+1649.3.12 = {
+	monarch = {
+		name = "James Bradshaw" #Bradshaw elected Lord President
+		adm = 5
+		dip = 3
+		mil = 3
+	}
+}
+
+1650.1.1 = { leader = {	name = "George Ayscue"		type = admiral	rank = 5	fire = 3	shock = 3	manuever = 3	siege = 0	death_date = 1671.7.19 } }
+
+1651.12.29 = {
+	monarch = {
+		name = "(Council of State)" # Succession of short Lord Presidencies
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1651.12.30 = { mercantilism = 0.1 decision = establish_british_merchant_navy } # The Act of Navigation
+
+1653.12.16 = {	government = protectorate } # Protectorate proclaimed
+
+1653.12.16 = {
+	monarch = {
+		name = "Oliver"
+		dynasty = "Cromwell"
+		adm = 5
+		dip = 4
+		mil = 5
+		birth_date = 1599.4.25
+#		death_date = 1658.9.3
+		leader = {	name = "Oliver Cromwell"		type = general	rank = 0	fire = 2	shock = 6	manuever = 3	siege = 0 death_date = 1658.9.3 }
+	}
+}
+
+1653.12.16 = {
+	heir = {
+		name = "Richard"
+		monarch_name = "Richard"
+		dynasty = "Cromwell"
+		birth_date = 1626.10.4
+		death_date = 1712.7.12
+		claim = 100
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+}
+
+1658.9.3 = {
+	monarch = {
+		name = "Richard"
+		dynasty = "Cromwell"
+		birth_date = 1626.10.4
+#		death_date = 1712.7.12
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+}
+
+1659.5.25 = { government = commonwealth } #Protectorate abolished
+
+1659.5.25 = { 
+	monarch = {
+		name = "(Committee of Safety)"
+		adm = 2
+		dip = 4
+		mil = 3
+	} 
+}
+
+# The Restoration of the Stuarts
+1660.5.29 = {
+	monarch = {
+		name = "Charles II"
+		dynasty = "Stuart"
+		birth_date = 1630.5.29
+		adm = 3
+		dip = 2
+		mil = 0
+	}
+	leader = { name = "Prince Rupert"		type = admiral		rank = 2	fire = 4	shock = 4	manuever = 3	siege = 0	death_date = 1682.11.19 }
+	government = constitutional_monarchy
+	heir = {
+		name = "James"
+		monarch_name = "James II"
+		dynasty = "Stuart"
+		birth_date = 1633.10.14
+		death_date = 1701.9.16
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 3
+		leader = {	name = "James Stuart"             	type = general	rank = 0	fire = 3	shock = 2	manuever = 3	siege = 0 }
+	}
+}
+
+1668.1.1 = { leader = {	name = "Pierre-Esprit Radisson"	type = conquistador	rank = 6	fire = 1	shock = 1	manuever = 5	siege = 0	death_date = 1710.4.1 } }
+
+1670.1.1 = { leader = {	name = "James Stuart"		type = admiral		rank = 0	fire = 3	shock = 2	manuever = 3	siege = 0	death_date = 1678.4.8 } }
+
+1672.1.1 = { leader = {	name = "John Alden"		type = general	rank = 0	fire = 3	shock = 3	manuever = 3	siege = 0	death_date = 1687.9.22 } }
+
+1673.1.1 = { decision = test_act }
+
+1678.1.1 = { leader = {	name = "Arthur Herbert"		type = admiral	rank = 0	fire = 2	shock = 3	manuever = 3	siege = 0	death_date = 1688.3.11 } }
+
+1679.1.1 = { leader = {	name = "William Dampier"	type = explorer	rank = 0	fire = 2	shock = 3	manuever = 3	siege = 0	death_date = 1715.3.15 } }
+
+1685.1.1 = { leader = {	name = "James Stuart"		type = general	rank = 0	fire = 2	shock = 2	manuever = 2	siege = 0	death_date = 1685.2.6 } }
+
+1685.1.1 = { leader = {	name = "John Churchill"		type = general	rank = 0	fire = 6	shock = 6	manuever = 5	siege = 2	death_date = 1722.6.27 } }
+
+1686.1.1 = { leader = {	name = "James FitzJames"	type = general	rank = 1	fire = 3	shock = 3	manuever = 4	siege = 0	death_date = 1688.2.12 } }
+
+1688.12.11 = { government = noble_republic }
+
+1688.12.11 = {
+	monarch = {
+		name = "(Convention Parliament)"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+# The Glorious Revolution
+1689.2.15 = {
+	government = constitutional_monarchy
+	monarch = {
+		name = "William III"
+		dynasty = "van Oranje"
+		adm = 3
+		dip = 5
+		mil = 5
+		leader = {	name = "William III"		type = general	rank = 0	fire = 4	shock = 4	manuever = 4	siege = 1 }
+	}
+	heir = {
+		name = "Anne"
+		monarch_name = "Anne I"
+		dynasty = "Stuart"
+		birth_date = 1665.2.6
+		death_date = 1714.8.1
+		claim = 95
+		adm = 5
+		dip = 3
+		mil = 4
+		female = yes
+	}
+}
+
+1690.1.1 = { leader = {	name = "John Benbow"		type = admiral	rank = 1	fire = 2	shock = 4	manuever = 3	siege = 0	death_date = 1702.11.4 } }
+
+1690.1.1 = { leader = {	name = "Edward Russell"		type = admiral	rank = 1	fire = 2	shock = 3	manuever = 3	siege = 0	death_date = 1727.3.7 } }
+
+1694.1.1 = { leader = {	name = "Thomas Mathews"		type = general	rank = 1	fire = 3	shock = 3	manuever = 4	siege = 0	death_date = 1751.7.19 } }
+
+1700.1.1 = { leader = {	name = "George Rooke"		type = admiral	rank = 0	fire = 4	shock = 3	manuever = 3	siege = 0	death_date = 1709.1.24 } }
+
+1702.3.8 = {
+	monarch = {
+		name = "Anne I"
+		dynasty = "Stuart"
+		adm = 3
+		dip = 5
+		mil = 4
+		female = yes
+	}
+}
+
+1714.8.1 = {
+	monarch = {
+		name = "George I"
+		dynasty = "von Hannover"
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+	heir = {
+		name = "George"
+		monarch_name = "George II"
+		dynasty = "von Hannover"
+		birth_date = 1683.11.10
+		death_date = 1760.10.25
+		claim = 95
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+1718.1.1 = { leader = {	name = "Georg Byng"		type = admiral	rank = 0	fire = 4	shock = 4	manuever = 3	siege = 0	death_date = 1750.4.7 } }
+
+1725.1.1 = { 
+		decision = acknowledge_britanna_rules_the_waves
+		leader = {	name = "Edward Boscawen"	type = admiral	rank = 3	fire = 4	shock = 3	manuever = 5	siege = 0	death_date = 1761.1.10 } }
+
+1727.6.11 = {
+	monarch = {
+		name = "George II"
+		dynasty = "von Hannover"
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+1735.1.1 = { leader = {	name = "John Byng"		type = admiral	rank = 2	fire = 2	shock = 2	manuever = 3	siege = 0	death_date = 1757.3.14 } }
+
+1738.6.4 = {
+	heir = {
+		name = "George"
+		monarch_name = "George III"
+		dynasty = "von Hannover"
+		birth_date = 1738.6.4
+		death_date = 1820.1.29
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 4
+	}
+}
+
+1740.1.1 = { leader = {	name = "George Anson"		type = admiral	rank = 3	fire = 4	shock = 4	manuever = 5	siege = 0	death_date = 1762.1.1 } }
+
+1740.1.1 = { leader = {	name = "Charles Cumberland"	type = general	rank = 2	fire = 4	shock = 2	manuever = 3	siege = 0	death_date = 1765.10.31 } }
+
+1740.1.1 = { leader = {	name = "William Shirley"	type = general	rank = 3	fire = 3	shock = 3	manuever = 4	siege = 0	death_date = 1771.3.24 } }
+
+1744.1.1 = { leader = {	name = "James Wolfe"		type = general	rank = 2	fire = 5	shock = 5	manuever = 4	siege = 0	death_date = 1759.9.13 } }
+
+1748.1.1 = { leader = {	name = "Robert Clive"		type = conquistador	rank = 0	fire = 6	shock = 6	manuever = 6	siege = 1 	death_date = 1774.11.22 } }
+
+1748.1.1 = { leader = {	name = "Edward Hawke"		type = admiral		rank = 2	fire = 3	shock = 3	manuever = 4	siege = 0	death_date = 1781.10.16 } }
+
+1750.1.1 = { leader = {	name = "John Burgoyne"		type = general		rank = 3	fire = 3	shock = 2	manuever = 2	siege = 1	death_date = 1792.8.4 } }
+
+1750.1.1 = { leader = {	name = "Warren Hastings"	type = conquistador	rank = 3	fire = 1	shock = 1	manuever = 6	siege = 0	death_date = 1818.8.22 } }
+
+1750.1.1 = { leader = {	name = "Charles Saunders"	type = admiral		rank = 1	fire = 3	shock = 3	manuever = 4	siege = 0	death_date = 1775.12.7 } }
+
+1750.1.1 = { set_country_flag = american_revolution }
+
+1752.1.1 = { leader = {	name = "Edward Braddock"	type = general		rank = 1	fire = 1	shock = 1	manuever = 2	siege = 0	death_date = 1755.7.13 } }
+
+1755.1.1 = { leader = {	name = "Richard Howe"		type = admiral		rank = 0	fire = 2	shock = 2	manuever = 3	siege = 0	death_date = 1799.8.5 } }
+
+1755.1.1 = { leader = {	name = "George Rodney"		type = admiral	rank = 1	fire = 3	shock = 4	manuever = 4	siege = 0	death_date = 1792.5.24 } }
+
+1756.1.1 = { leader = {	name = "George Washington"	type = general	rank = 6	fire = 2	shock = 1	manuever = 5	siege = 0	death_date = 1764.12.30 } }
+
+1756.1.1 = { leader = {	name = "William Howe"		type = general	rank = 0	fire = 3	shock = 3	manuever = 3	siege = 1	death_date = 1814.7.12 } }
+
+1758.1.1 = { leader = {	name = "Jeffrey Amherst"	type = general	rank = 3	fire = 3	shock = 3	manuever = 4	siege = 1	death_date = 1797.8.3 } }
+
+1760.10.25 = {
+	monarch = {
+		name = "George III"
+		dynasty = "von Hannover"
+		adm = 1
+		dip = 1
+		mil = 4
+	}
+}
+
+1762.8.12 = {
+	heir = {
+		name = "George"
+		monarch_name = "George IV"
+		dynasty = "von Hannover"
+		birth_date = 1762.8.12
+		death_date = 1830.6.26
+		claim = 95
+		adm = 2
+		dip = 0
+		mil = 3
+	}
+}
+
+1764.1.1 = { leader = {	name = "John Byron"		type = explorer	rank = 3	fire = 1	shock = 2	manuever = 1	siege = 0	death_date = 1786.4.10 } }
+
+1767.1.1 = { leader = {	name = "Samuel Hood"		type = admiral	rank = 1	fire = 4	shock = 4	manuever = 3	siege = 0	death_date = 1816.1.27 } }
+
+1768.1.1 = { leader = {	name = "James Cook"		type = explorer	rank = 7	fire = 1	shock = 1	manuever = 6	siege = 0	death_date = 1779.2.14 } }
+
+1769.1.1 = { decision = sunday_school }
+
+1775.1.1 = { leader = {	name = "James Carleton"		type = conquistador	rank = 4	fire = 3	shock = 3	manuever = 4	siege = 0	death_date = 1790.1.1 } }
+
+1775.1.1 = { leader = {	name = "Charles Cornwallis"	type = general		rank = 2	fire = 4	shock = 3	manuever = 4	siege = 0	death_date = 1805.10.5 } }
+
+1777.1.1 = { leader = {	name = "Banastre Tarleton"	type = general		rank = 14	fire = 3	shock = 5	manuever = 4	siege = 0	death_date = 1833.1.25 } }
+
+1778.1.1 = { leader = {	name = "Augustus Keppel"	type = admiral		rank = 0	fire = 2	shock = 3	manuever = 4	siege = 0	death_date = 1786.10.2 } }
+
+1778.1.1 = { leader = {	name = "George Clinton"		type = general		rank = 0	fire = 3	shock = 3	manuever = 3	siege = 0	death_date = 1812.4.20 } }
+
+1780.1.1 = { leader = {	name = "Edward Hughes"		type = admiral		rank = 4	fire = 4	shock = 4	manuever = 3	siege = 0	death_date = 1790.1.1 } }
+
+1783.1.1 = { leader = { name = "Cuthbert Collingwood"	type = admiral		rank = 0	fire = 4	shock = 4	manuever = 5	siege = 0	death_date = 1810.3.7 } }
+
+1790.1.1 = { leader = {	name = "Horatio Nelson"		type = admiral		rank = 7	fire = 6	shock = 6	manuever = 6	siege = 0	death_date = 1805.10.21 } }
+
+1791.1.1 = { leader = {	name = "George Vancouver"	type = explorer		rank = 9	fire = 2	shock = 2	manuever = 3	siege = 0	death_date = 1798.5.12 } }
+
+1793.1.1 = { leader = {	name = "James MacDonald"	type = general		rank = 2	fire = 4	shock = 4	manuever = 4	siege = 0	death_date = 1830.1.1 } }
+
+1793.12.1 = { 
+	leader = { 
+		name = "Sidney Smith"
+		type = admiral
+		rank = 2
+		fire = 4
+		shock = 4
+		manuever = 5
+		siege = 1
+		death_date = 1840.5.26
+	} 
+}
+
+1794.1.1 = { leader = { name = "Duke of Wellington"	type = general		rank = 0	fire = 5	shock = 5	manuever = 6	siege = 0	death_date = 1819.1.1 } }
+
+
+1804.1.1 = { leader = { name = "Thomas Cochrane"	type = admiral		rank = 0	fire = 5	shock = 5	manuever = 5	siege = 0	death_date = 1810.1.1 } }
+
+1807.1.1 = { decision = abolish_slavery_act }
+
+1811.1.5 = {
+	monarch = {
+		name = "George IV"
+		dynasty = "von Hannover"
+		adm = 2
+		dip = 0
+		mil = 3
+	}
+	heir = {
+		name = "William"
+		monarch_name = "William IV"
+		dynasty = "von Hannover"
+		birth_date = 1765.8.21
+		death_date = 1837.6.20
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1830.6.26 = {
+	monarch = {
+		name = "William IV"
+		dynasty = "von Hannover"
+		adm = 3
+		dip = 2
+		mil = 0
+	}
+}
+
+1837.6.20 = {
+	monarch = {
+		name = "Victoria I"
+		dynasty = "von Hannover"
+		birth_date = 1819.5.24
+		adm = 4
+		dip = 4
+		mil = 1
+	}
+}

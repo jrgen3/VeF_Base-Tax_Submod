@@ -1,0 +1,6 @@
+government = tribal_despotism
+mercantilism = 0.1
+technology_group = sub_saharan
+religion = akan
+primary_culture = fon
+capital = 2822

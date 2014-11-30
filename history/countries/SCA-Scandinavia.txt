@@ -1,0 +1,9 @@
+# Scandinavia
+government = absolute_monarchy
+mercantilism = 0.1
+technology_group = scandinavian_tech
+primary_culture = swedish
+religion = protestant
+add_accepted_culture = finnish
+culture_group_union = scandinavian
+capital = 1	#Stockholm

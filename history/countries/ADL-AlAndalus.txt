@@ -1,0 +1,11 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = zenata
+add_accepted_culture = tuareg
+add_accepted_culture = sanhaja
+religion = sunni
+add_accepted_culture = andalucian
+technology_group = western
+capital = 225 # Cordoba
+
+# Formable nation only

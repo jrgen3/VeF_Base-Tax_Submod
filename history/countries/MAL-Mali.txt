@@ -1,0 +1,539 @@
+# Mali
+
+government = mali_empire
+mercantilism = 0.1
+primary_culture = malinke
+religion = sunni
+technology_group = sudanese_tech
+capital = 1121	# Niani
+historical_rival = SON
+historical_rival = MSK
+
+#Kings of Mali
+1309.1.1 = {
+	monarch = {
+		name = "Abubakari II"
+		dynasty = "Keita"
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+	add_piety = -0.15
+	set_country_flag = imperial_government
+}
+
+1312.1.1 = {
+	monarch = {
+		name = "Musa I"
+		dynasty = "Keita"
+		birth_date = 1280.1.1
+		adm = 4
+		dip = 5
+		mil = 3
+	}
+	religion = sunni
+}
+
+1337.1.1 = {
+	monarch = {
+		name = "Maghan I"
+		dynasty = "Keita"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1341.1.1 = {
+	monarch = {
+		name = "Suleyman I"
+		dynasty = "Keita"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1360.1.1 = {
+	monarch = {
+		name = "Mari Diata II"
+		dynasty = "Keita"
+		adm = 0
+		dip = 1
+		mil = 1
+	}
+}
+
+1374.1.1 = {
+	monarch = {
+		name = "Musa II"
+		dynasty = "Keita"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1387.1.1 = {
+	monarch = {
+		name = "Maghan II"
+		dynasty = "Keita"
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+1389.1.1 = {
+	monarch = {
+		name = "Sandaki I"
+		dynasty = "Keita"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1390.1.1 = {
+	monarch = {
+		name = "Maghan III"
+		dynasty = "Keita"
+		dip = 2
+		adm = 1
+		mil = 2
+	}
+	add_piety = -0.15
+}
+
+1390.1.1 = {
+	heir = {
+		name = "Musa"
+		monarch_name = "Musa III"
+		dynasty = "Keita"
+		birth_date = 1370.1.1
+		death_date = 1450.1.1
+		claim = 95
+		adm = 1
+		dip = 0
+		mil = 0
+	}
+}
+
+1430.1.1 = {
+	monarch = {
+		name = "Musa III"
+		dynasty = "Keita"
+		adm = 1
+		dip = 0
+		mil = 0
+	}
+}
+
+1430.1.1 = {
+	heir = {
+		name = "Uli"
+		monarch_name = "Uli II"
+		dynasty = "Keita"
+		birth_date = 1430.1.1
+		death_date = 1481.9.1
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1450.1.1 = {
+	monarch = {
+		name = "Uli II"
+		dynasty = "Keita"
+		dip = 1
+		adm = 1
+		mil = 1
+	}
+}
+
+1460.1.1 = {
+	heir = {
+		name = "Mamadu"
+		monarch_name = "Mamadu II"
+		dynasty = "Keita"
+		birth_date = 1460.1.1
+		death_date = 1496.1.1
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1481.9.1 = {
+	monarch = {
+		name = "Mamadu II"
+		dynasty = "Keita"
+		dip = 3
+		adm = 2
+		mil = 2
+	}
+}
+
+1481.9.1 = {
+	heir = {
+		name = "Mamadu"
+		monarch_name = "Mamadu III"
+		dynasty = "Keita"
+		birth_date = 1480.1.1
+		death_date = 9999.1.1
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+}
+
+1496.1.1 = {
+	monarch = {
+		name = "Mamadu III"
+		dynasty = "Keita"
+		dip = 3
+		adm = 2
+		mil = 1
+	}
+}
+
+1520.1.1 = {
+	heir = {
+		name = "Mamadu"
+		monarch_name = "Mamadu IV"
+		dynasty ="Keita"
+		birth_Date = 1520.1.1
+		death_date = 1600.1.1
+		claim = 95
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
+
+1535.1.1 = {
+	monarch = {
+		name = "Mamadu IV"
+		dynasty = "Keita"
+		dip = 0
+		adm = 0
+		mil = 0
+	}
+}
+
+#Mali collapses in 1600
+
+#Askia Dynasty of Timbuktu
+1618.1.1 = {
+	monarch = {
+		name = "Al-Hajj I"
+		dynasty = "Askia"
+		dip = 2
+		adm = 2
+		mil = 2
+	}
+}
+
+1618.1.1 = {
+	heir = {
+		name = "Muhammad Banakanu"
+		monarch_name = "Muhammad I Banakanu"
+		dynasty = "Askia"
+		birth_date = 1600.1.1
+		death_date = 1635.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1621.1.1 = {
+	monarch = {
+		name = "Muhammad I Banakanu"
+		dynasty = "Askia"
+		dip = 2
+		adm = 2
+		mil = 2
+	}
+}
+
+1621.1.1 = {
+	heir = {
+		name = "'Ali Zalil"
+		monarch_name = "'Ali Zalil"
+		dynasty = "Askia"
+		birth_date = 1600.1.1
+		death_Date = 1635.7.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1635.1.1 = {
+	monarch = {
+		name = "'Ali Zalil"
+		dynasty = "Askia"
+		dip = 2
+		adm = 2
+		mil = 2
+	}
+}
+
+1635.7.1 = {
+	monarch = {
+		name = "Muhammad I Banakanu"
+		dynasty = "Askia"
+		dip = 2
+		adm = 2
+		mil = 2
+	}
+}
+
+1635.7.1 = {
+	heir = {
+		name = "Muhammad"
+		monarch_name = "Al-Hajj II Muhammad"
+		dynasty = "Askia"
+		birth_Date = 1615.1.1
+		death_Date = 1647.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+		
+
+#Restored
+1642.1.1 = {
+	monarch = {
+		name = "Al-Hajj II Muhammad"
+		dynasty = "Askia"
+		dip = 2
+		adm = 2
+		mil = 2
+	}
+}
+
+1642.1.1 = {
+	heir = {
+		name = "Da'ud"
+		monarch_name = "Da'ud"
+		dynasty = "Askia"
+		birth_Date = 1620.1.1
+		death_Date = 1668.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1647.1.1 = {
+	monarch = {
+		name = "Da'ud"
+		dynasty = "Askia"
+		dip = 2
+		adm = 2
+		mil = 2
+	}
+}
+
+1647.1.1 = {
+	heir = {
+		name = "Muhammad al-Sadiq"
+		monarch_name = "Muhammad II al-Sadiq"
+		dynasty = "Askia"
+		birth_Date = 1640.1.1
+		death_date = 1684.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1668.1.1 = {
+	monarch = {
+		name = "Muhammad II al-Sadiq"
+		dynasty = "Askia"
+		dip = 2
+		adm = 2
+		mil = 2
+	}
+}
+
+1668.1.1 = {
+	heir = {
+		name = "Muhammad"
+		monarch_name = "Muhammad III"
+		dynasty = "Askia"
+		birth_Date = 1660.1.1
+		death_date = 1702.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1684.1.1 = {
+	monarch = {
+		name = "Muhammad III"
+		dynasty = "Askia"
+		dip = 2
+		adm = 2
+		mil = 2
+	}
+}
+
+1684.1.1 = {
+	heir = {
+		name = "Bakari"
+		monarch_name = "Bakari"
+		dynasty = "Askia"
+		birth_date = 1670.1.1
+		death_date = 1705.12.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1702.1.1 = {
+	monarch = {
+		name = "Bakari"
+		dynasty = "Askia"
+		dip = 2
+		adm = 2
+		mil = 2
+	}
+}
+
+1702.1.1 = {
+	heir = {
+		name = "'Abd al-Rahman"
+		monarch_name = "'Abd al-Rahman"
+		dynasty = "Askia"
+		birth_date = 1690.1.1
+		death_Date = 1709.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1705.12.1 = {
+	monarch = {
+		name = "'Abd al-Rahman"
+		dynasty = "Askia"
+		dip = 2
+		adm = 2
+		mil = 2
+	}
+}
+
+1705.12.1 = {
+	heir = {
+		name = "Bakr"
+		monarch_name = "Bakr"
+		dynasty = "Askia"
+		birth_Date = 1680.1.1
+		death_date = 1713.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1709.1.1 = {
+	monarch = {
+		name = "Bakr"
+		dynasty = "Askia"
+		dip = 2
+		adm = 2
+		mil = 2
+	}
+}
+
+1709.1.1 = {
+	heir = {
+		name = "Al-Mukhtar"
+		monarch_name = "Al-Mukhtar"
+		dynasty = "Askia"
+		birth_date = 1690.1.1
+		death_date = 1730.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1713.1.1 = {
+	monarch = {
+		name = "Al-Mukhtar"
+		dynasty = "Askia"
+		dip = 2
+		adm = 2
+		mil = 2
+	}
+}
+
+1713.1.1 = {
+	heir = {
+		name = "Al-Hajj"
+		monarch_name = "Al-Hajj III"
+		dynasty = "Askia"
+		birth_date = 1700.1.1
+		death_date = 1748.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1730.1.1 = {
+	monarch = {
+		name = "Al-Hajj III"
+		dynasty = "Askia"
+		dip = 2
+		adm = 2
+		mil = 2
+	}
+}
+
+1730.1.1 = {
+	heir = {
+		name = "Mahmud"
+		monarch_name = "Mahmud"
+		dynasty = "Askia"
+		birth_Date = 1720.1.1
+		death_Date = 1769.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1748.1.1 = {
+	monarch = {
+		name = "Mahmud"
+		dynasty = "Askia"
+		dip = 2
+		adm = 2
+		mil = 2
+	}
+}

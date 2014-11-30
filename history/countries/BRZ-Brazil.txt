@@ -1,0 +1,40 @@
+government = despotic_monarchy 
+#aristocracy_plutocracy = -2
+#centralization_decentralization = 0
+#innovative_narrowminded = 0
+mercantilism = 0.1
+#offensive_defensive = 0
+#land_naval = -1
+#quality_quantity = 2
+#serfdom_freesubjects = 0
+technology_group = western
+religion = catholic
+primary_culture = portugese
+capital = 756	# São Salvador
+
+
+
+1763.1.1 = { capital = 763 }	# Rio de Janeiro
+
+
+1822.9.7 = {
+	monarch = {
+		name = "Pedro I"
+		dynasty = "de Bragança"
+		birth_date = 1798.10.12
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1831.4.7 = {
+	monarch = {
+		name = "Pedro II"
+		dynasty = "de Bragança"
+		birth_date = 1825.12.2
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}

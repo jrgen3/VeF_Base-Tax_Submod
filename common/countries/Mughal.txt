@@ -1,0 +1,186 @@
+#Country Name: See the Name of this File.
+
+graphical_culture = indiangfx
+
+color = { 33  96  48 } 
+
+historical_idea_groups = {
+	quantity_ideas
+	intimidatory_ideas
+	religious_ideas
+	offensive_ideas
+	land_trade_ideas
+	expansion_ideas
+	drafted_army_ideas
+	land_ideas
+}
+
+historical_units = { 
+	muslim_artillery_10_1
+	muslim_artillery_16_1
+	muslim_artillery_23_1
+	muslim_artillery_29_1
+	muslim_artillery_35_1
+	muslim_artillery_40_1
+	muslim_artillery_44_1
+	muslim_artillery_48_1
+	muslim_artillery_52_1
+	muslim_artillery_55_1
+	muslim_artillery_55_2
+	muslim_cavalry_0_1
+	muslim_cavalry_0_2
+	muslim_cavalry_12_1
+	muslim_cavalry_12_2
+	muslim_cavalry_18_1
+	muslim_cavalry_23_1
+	muslim_cavalry_28_1
+	muslim_cavalry_33_1
+	muslim_cavalry_37_1
+	muslim_cavalry_41_1
+	muslim_cavalry_41_2
+	muslim_cavalry_45_1
+	muslim_cavalry_45_2
+	muslim_cavalry_49_1
+	muslim_cavalry_49_2
+	muslim_cavalry_52_1
+	muslim_cavalry_52_2
+	muslim_cavalry_6_1
+	muslim_cavalry_6_2
+	muslim_infantry_0_1
+	muslim_infantry_0_2
+	muslim_infantry_12_1
+	muslim_infantry_12_2
+	muslim_infantry_16_1
+	muslim_infantry_16_2
+	muslim_infantry_20_1
+	muslim_infantry_20_2
+	muslim_infantry_23_1
+	muslim_infantry_23_2
+	muslim_infantry_26_1
+	muslim_infantry_26_2
+	muslim_infantry_29_1
+	muslim_infantry_29_2
+	muslim_infantry_32_1
+	muslim_infantry_32_2
+	muslim_infantry_35_1
+	muslim_infantry_35_2
+	muslim_infantry_38_1
+	muslim_infantry_38_2
+	muslim_infantry_41_1
+	muslim_infantry_41_2
+	muslim_infantry_44_1
+	muslim_infantry_44_2
+	muslim_infantry_47_1
+	muslim_infantry_47_2
+	muslim_infantry_49_1
+	muslim_infantry_49_2
+	muslim_infantry_4_1
+	muslim_infantry_4_2
+	muslim_infantry_51_1
+	muslim_infantry_51_2
+	muslim_infantry_53_1
+	muslim_infantry_53_2
+	muslim_infantry_55_1
+	muslim_infantry_55_2
+	muslim_infantry_8_1
+	muslim_infantry_8_2
+}
+
+
+historical_score = 450
+
+
+
+monarch_names = {
+	"Shâh Jahân #0" = 60
+	"'Âlamgîr #0" = 40
+	"Shâh 'Alam #0" = 40
+	"Muhammad #4" = 20
+	"Ibrâhîm #2 Khân" = 20
+	"Sikandar #2 Shâh" = 20	
+	"Akbar #0" = 20
+	"Bâbur #0" = 20
+	"Bahâdur Shâh #0" = 20
+	"Dâwar Bakhsh #0" = 20
+	"Farrukh-siyar #0" = 20
+	"Humâyûn #0" = 20
+	"Islâm Shâh #0" = 20
+	"Jahândâr Shâh #0" = 20
+	"Jahângîr #0" = 20
+	"Muhammad Shâh #0" = 20
+	"Nîkû-siyar #0" = 20
+	"Râfi' #0" = 20	
+	"Shîr Shâh #0" = 20
+	"Ibrâhim #2 Shâh" = 10
+	"'Azim-ash Sha'n #0" = 10
+	"A'zam Shâh #0" = 10
+	"Dârâ Shikûh #0" = 10
+	"Kâm Bakhsh #0" = 10
+	"Murâd Bakhsh #0" = 10
+	"Shâh Sujâh #0" = 10
+	"'Abu Nasr #0" = 5
+	"'Alaman #0" = 5
+	"Ahd Bahâdur #0" = 5
+	"Ahmad Shâh #0" = 5
+	"Bîdar Bakht #0" = 5
+	"Daulat Shâh #0" = 5
+	"Farrukh Shâh #0" = 5
+	"Garshasp #0" = 5
+	"Hakim Shâh #0" = 5
+	"Hasan Shâh #0" = 5
+	"Husain Shâh #0" = 5
+	"Jawan Bakht #0" = 5
+	"Kâmrân #0" = 5
+	"Kushruh #0" = 5
+	"Mahmud Shâh #0" = 5
+	"Murad Shâh #0" = 5
+	"Shahariyar Shâh #0" = 5
+	"Adel #0" = 0
+	"Fakhri #0" = 0
+	"Harun #0" = 0
+	"Jabir #0" = 0
+	"Mazin #0" = 0
+	"Rashid #0" = 0
+	"Samad #0" = 0
+	"Raja Sanghar Ali #0" = 0
+	"Asad Malik Hast #0" = 0
+	"Mustafa #0" = 0
+	"Chin Timur #0" = 0
+	"Mumtaz #0" = -5
+	"Roshanara #0" = -5
+	"Jahanara #0" = -5
+	"Bahar Banu #0" = -5
+}
+
+leader_names = {
+	Ameerun
+	Beg
+	Bhutto
+	Chughtai
+	Jahan
+	Kamaluddin
+	Khan
+	Mirza
+	Musharif
+	Nagar
+	Nasseruddin
+	Nazirun
+	Radhidun
+	Ra'ana
+	Rumi
+	Shahabuddin
+	Sharif
+	Sinan
+	Singh
+	Wazirun
+	Uzbek
+	Zahiruddin
+}
+
+ship_names = {
+	Alia Arusa Chambal Fatimah Jalsena
+	Ganges "Kala Jahazi" Khan "Lal Jahazi"
+	Nausena "Nav ka Yudh" Niknaz "Nila Jahazi"
+	Niloufa Noor Sagar Salima Shameena Spiti
+	Suhalia Yamuna Yasmine Zahira
+}

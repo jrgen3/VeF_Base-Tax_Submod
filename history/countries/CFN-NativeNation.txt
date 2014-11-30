@@ -1,0 +1,7 @@
+government = native_empire
+mercantilism = 0.1
+technology_group = north_american
+primary_culture = iroquois
+religion = totemism
+capital = 960
+

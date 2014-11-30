@@ -1,0 +1,7 @@
+government = feudal_monarchy
+primary_culture = greek
+religion = orthodox
+technology_group = western
+capital = 320	# Rhodes
+
+

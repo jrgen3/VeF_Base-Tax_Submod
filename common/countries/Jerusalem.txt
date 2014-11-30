@@ -1,0 +1,114 @@
+#Country Name: Please see filename.
+
+graphical_culture = easterngfx
+
+preferred_religion = orthodox
+
+color = { 78  75  39 }
+
+historical_idea_groups = {
+	mm1_ideas
+	quantity_ideas
+	religious_ideas
+	mercantilist_ideas
+	mercenary_ideas
+	cultural_unity_ideas
+	diplomatic_ideas
+	defensive_ideas
+}
+
+historical_units = { 
+	byzantine_artillery_15_1
+	byzantine_artillery_22_1
+	byzantine_artillery_29_1
+	byzantine_artillery_35_1
+	byzantine_artillery_8_1
+	byzantine_cavalry_0_1
+	byzantine_cavalry_0_2
+	byzantine_cavalry_12_1
+	byzantine_cavalry_12_2
+	byzantine_cavalry_18_1
+	byzantine_cavalry_23_1
+	byzantine_cavalry_28_1
+	byzantine_cavalry_33_1
+	byzantine_cavalry_37_1
+	byzantine_cavalry_37_2
+	byzantine_cavalry_6_1
+	byzantine_cavalry_6_2
+	byzantine_infantry_0_1
+	byzantine_infantry_0_2
+	byzantine_infantry_12_1
+	byzantine_infantry_12_2
+	byzantine_infantry_16_1
+	byzantine_infantry_16_2
+	byzantine_infantry_20_1
+	byzantine_infantry_20_2
+	byzantine_infantry_23_1
+	byzantine_infantry_23_2
+	byzantine_infantry_26_1
+	byzantine_infantry_26_2
+	byzantine_infantry_29_1
+	byzantine_infantry_29_2
+	byzantine_infantry_32_1
+	byzantine_infantry_32_2
+	byzantine_infantry_35_1
+	byzantine_infantry_35_2
+	byzantine_infantry_38_1
+	byzantine_infantry_38_2
+	byzantine_infantry_4_1
+	byzantine_infantry_4_2
+	byzantine_infantry_8_1
+	byzantine_infantry_8_2
+}
+
+
+
+
+monarch_names = {
+	"Stephenos #0" = 60
+	"Belisarius #3" = 60
+	"Basil #2" = 40
+	"Theodosius #2" = 30
+	"Iohannes #1" = 10
+	"Theodora #0" = -10
+	"Melisende #0" = -5
+	"Sophia #0" = -5
+}
+
+ship_names = {
+	"The Holy Cross"
+	"The Grail"
+	"The Faithful"
+	"Hammer of God"
+	"True Believer"
+	"The Cleansing"
+	"Baldwin's Gate"
+	"God Will Know His Own"
+	Paladin
+	Purifier
+	Crusader
+	Guardian
+	Pilgrim
+	Absolution
+	Avenger
+	Vindicator
+	"The Scourge"
+}
+
+leader_names = { 
+	Bragadin 
+	Crispo
+	Doria	
+	Fadrigue
+	Lusignans
+	Melissinos 
+	Plethon
+	Rendis
+	Saraceno 
+	Tocco
+	Maxwell
+	Duncan Douglas Selkirk
+	Schrüder Sauerzapff Minucci Sulerzycki Stichsenstein Hagedorn Arenberg
+	"de La Barthe" "de La Ferrandie" "de La Galissonière" "de La Mothe" "de La Motte d'Airan" "de La Porte" "Le Tellier" "de Lhéry" "de Luynes"
+	"di Paesana" "Paleologi Montferrato" Pallavicini Paradisi Petrucci Pico Pignatelli "dalla Rosa" "della Rovere"
+}

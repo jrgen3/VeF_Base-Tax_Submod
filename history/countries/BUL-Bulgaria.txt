@@ -1,0 +1,99 @@
+# Bulgaria
+
+government = bulgarian_empire
+mercantilism = 0.1
+technology_group = byzantine
+primary_culture = bulgarian
+religion = orthodox
+capital = 150	# Sofia
+historical_rival = SER
+historical_rival = BYZ
+
+1299.1.1 = {
+	monarch = {
+		name = "Todor Svetoslav"
+		dynasty = "Terter"
+		adm = 5
+		dip = 4
+		mil = 4
+	}
+}
+
+1322.1.1 = {
+	heir = {
+		name = "Georgi"
+		monarch_name = "Georgi II"
+		dynasty = "Terter"
+		birth_date = 1305.1.1
+		death_date = 1323.1.1
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1323.1.1 = {
+	monarch = {
+		name = "Mihail Asen III"
+		dynasty = "Shishman"
+		adm = 4
+		dip = 5
+		mil = 2
+	}
+}
+
+1330.1.1 = {
+	monarch = {
+		name = "Ivan Stefan"
+		dynasty = "Shishman"
+		birth_date = 1301.1.1
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1331.1.1 = {
+	monarch = {
+		name = "Ivan Asen III"
+		dynasty = "Sracimir"
+		birth_date = 1301.1.1
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1356.2.17 = {
+	monarch = {
+		name = "Ivan Asen IV"
+		dynasty = "Sracimir"
+		birth_date = 1337.1.1
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1371.2.17 = {
+	monarch = {
+		name = "Ivan Asen V"
+		dynasty = "Sracimir"
+		birth_date = 1355.1.1
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1397.1.1 = {
+	monarch = {
+		name = "Konstantin Asen II"
+		dynasty = "Sisman"
+		birth_date = 1372.1.1
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}

@@ -1,0 +1,17 @@
+# Factions moved to government
+government = daimyo
+primary_culture = japanese
+religion = shinto
+technology_group = niitaka
+capital = 1018
+historical_friend = JAP
+
+1308.1.9 = {
+	monarch = {
+		name = "Tamutsu"
+		dynasty = "Amako"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}

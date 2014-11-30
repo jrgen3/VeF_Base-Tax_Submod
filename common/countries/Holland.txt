@@ -1,0 +1,177 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 255  128  0 }
+
+historical_idea_groups = {
+	free_trade_ideas
+	innovativeness_ideas
+	quantity_ideas
+	gf1_ideas
+	exploration_ideas
+	standing_army_ideas
+	intimidatory_ideas
+	administrative_ideas
+}
+
+historical_units = { 
+	western_artillery_15_1
+	western_artillery_22_1
+	western_artillery_29_1
+	western_artillery_35_1
+	western_artillery_40_1
+	western_artillery_44_1
+	western_artillery_48_1
+	western_artillery_52_1
+	western_artillery_55_1
+	western_artillery_55_2
+	western_artillery_8_1
+	western_cavalry_0_1
+	western_cavalry_0_2
+	western_cavalry_12_1
+	western_cavalry_12_2
+	western_cavalry_18_1
+	western_cavalry_23_1
+	western_cavalry_28_1
+	western_cavalry_33_1
+	western_cavalry_37_1
+	western_cavalry_37_2
+	western_cavalry_41_1
+	western_cavalry_41_2
+	western_cavalry_45_1
+	western_cavalry_45_2
+	western_cavalry_49_1
+	western_cavalry_49_2
+	western_cavalry_52_1
+	western_cavalry_52_2
+	western_cavalry_6_1
+	western_cavalry_6_2
+	western_infantry_0_1
+	western_infantry_0_2
+	western_infantry_12_1
+	western_infantry_12_2
+	western_infantry_16_1
+	western_infantry_16_2
+	western_infantry_20_1
+	western_infantry_20_2
+	western_infantry_23_1
+	western_infantry_23_2
+	western_infantry_26_1
+	western_infantry_26_2
+	western_infantry_29_1
+	western_infantry_29_2
+	western_infantry_32_1
+	western_infantry_32_2
+	western_infantry_35_1
+	western_infantry_35_2
+	western_infantry_38_1
+	western_infantry_38_2
+	western_infantry_41_1
+	western_infantry_41_2
+	western_infantry_44_1
+	western_infantry_44_2
+	western_infantry_47_1
+	western_infantry_47_2
+	western_infantry_49_1
+	western_infantry_49_2
+	western_infantry_4_1
+	western_infantry_4_2
+	western_infantry_51_1
+	western_infantry_51_2
+	western_infantry_53_1
+	western_infantry_53_2
+	western_infantry_55_1
+	western_infantry_55_2
+	western_infantry_8_1
+	western_infantry_8_2
+}
+
+
+
+
+
+monarch_names = {
+	"Willem #5" = 40
+	"Albert #0" = 20
+	"Johan #2" = 15	
+	"Jakoba #0" = -15
+	"Lodewijk #0" = 15
+	"Eberhard #0" = 15
+	"Dirk #7" = 5
+	"Floris #5" = 5
+	"Jan #1" = 5
+	"Arnolf #1" = 5
+	"Adriaan #0" = 0
+	"Anton #0" = 0
+	"Barthout #0" = 0
+	"Christiaan #0" = 0
+	"Constantijn #0" = 0
+	"Daniël #0" = 0
+	"Filips #0" = 0	
+	"Frans #0" = 0
+	"Gabriël #0" = 0
+	"Gaspar #0" = 0
+	"Gerardus #0" = 0
+	"Gerbrand #0" = 0
+	"Hendrik #0" = 0
+	"Jeroen #0" = 0
+	"Joost #0" = 0
+	"Karel #0" = 0
+	"Kasper #0" = 0
+	"Lamoraal #0" = 0
+	"Hugo #0" = 0
+	"Jacob #0" = 0
+	"Pieter #0" = 0
+	"Procop #0" = 0
+	"Prosper #0" = 0
+	"Raes #0" = 0
+	"Rembrandt #0" = 0
+	"Simon #0" = 0
+	"Rodolf #0" = 0
+	"Roeland #0" = 0
+}
+
+leader_names = {
+	Ameland Amersfoort Amstel Appingedam Arnhem
+	Bieldeers Blokker Bolsward Botha Breda Brielle
+	Coemans Coevorden Cornelis Costers Culemborg
+	"De Witt" "Den Burg" Deodati Dokkum Dordrecht Drenthe Driesman
+	Eindhoven Elst "Elten Leur" Enkhuizen
+	Fliesingen Friesen
+	Geelvinck Geerit Genk Goes Gouda Groningen Gulder
+	Haag Haarlem Hebenal Heerlen Heertognebosh Heineken Helder Hendryck Hilversum
+	Jansz
+	Kampen Karstens Kortenaer Kortrijk
+	Lauwers Lemmer Leyden Limburg
+	Maastricht Meppel Middenmeer Middleburg
+	Neuwegen Nijkerk Nijmegen
+	Oldenbarneveld Olderzaal Opdorf Overijssel
+	Philipps Piet Poszt
+	Scheveningen Schiedam Scholtecheren Schoonebeck Schouwen Sluis Smuts Spijkenise
+	Terchelling Texel Twente
+	Utrecht
+	Valkenswaard "Van Den Dorp" "Van der Does" "Van Hessling" "Van Spilbergen" "Van Stabel" "Van Wick" Veendam Venloo Venray Volendam Vroom
+	Willem Woerden Waalwijck
+	Zandwort Zoetermeer Zuiderzee Zwijndrecht Zwolle
+}
+
+ship_names = {
+	Adelaar Alkmaar Amsterdam
+	Beschermer
+	Delft "Der keerlen god"
+	"Graaf Floris V" "Graaf Willem II" Gouda
+	Haarlem "Hart van Holland" Holland Hollandia Hoogwoud Hoorn
+	Leiden
+	Meermin
+	Ridderschap 
+	Schoonzicht
+	"Wapen van Amsterdam" "Wapen van Holland" 
+	Zeemeeuw Zon
+}
+
+army_names = {
+	"Leger van $PROVINCE$"  }
+
+fleet_names = {  "Vloot van $PROVINCE$" 
+	 }

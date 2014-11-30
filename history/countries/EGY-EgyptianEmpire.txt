@@ -1,0 +1,35 @@
+government = imperial_government
+mercantilism = 0.1
+primary_culture = al_misr_arabic
+religion = coptic
+technology_group = byzantine
+historical_rival = MAM
+capital = 359 # Memphis
+
+
+1257.1.1 = {
+	monarch = {
+		name = "Ramesses I"
+		dynasty = "Ra"
+		birth_date = 1238.1.1
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+1282.6.22 = {
+	heir = {
+		name = "Ramesses"
+		monarch_name = "Ramesses II"
+		dynasty = "Ra"
+		birth_date = 1282.6.22
+		death_date = 1338.1.29
+		claim = 95
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+}
+
+1310.1.1 = { change_government = absolute_monarchy }

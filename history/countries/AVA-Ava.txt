@@ -1,0 +1,283 @@
+government = despotic_monarchy
+mercantilism = 0.1
+technology_group = chinese
+religion = buddhism
+primary_culture = shan
+capital = 584 # Ava
+add_accepted_culture = burmese
+add_accepted_culture = chin
+
+# Rulers of the Ava Dynasty, the biggest of the Shan states.
+
+1364.1.1 = {
+	monarch = {
+		name = "Thadominbya"
+		dynasty = "Ava"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1368.1.1 = {
+	monarch = {
+		name = "Nga Nu"
+		dynasty = "Ava"
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+}
+
+1368.7.1 = {
+	monarch = {
+		name = "Swasawke"
+		dynasty = "Ava"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+1368.7.1 = {
+	heir = {
+		name = "Tarabya"
+		monarch_name = "Tarabya"
+		dynasty = "Ava"
+		birth_Date = 1352.1.1
+		death_Date = 1404.7.1
+		claim = 95
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
+
+1401.1.1 = {
+	monarch = {
+		name = "Tarabya"
+		dynasty = "Ava"
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
+
+1401.7.1 = {
+	monarch = {
+		name = "Nga Nauk Hsan"
+		dynasty = "Ava"
+		adm = 0
+		dip = 0
+		mil = 1
+	}
+}
+
+1401.10.1 = {
+	monarch = {
+		name = "Minkhaung I"
+		dynasty = "Ava"
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+}
+
+1401.10.1 = {
+	heir = {
+		name = "Thihathu"
+		monarch_name = "Thihathu"
+		dynasty = "Ava"
+		birth_Date = 1381.1.1
+		death_Date = 1426.1.1
+		claim = 95
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+}
+
+1422.1.1 = {
+	monarch = {
+		name = "Thihathu"
+		dynasty = "Ava"
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+}
+
+1422.1.1 = {
+	heir = {
+		name = "Minhlange"
+		monarch_name = "Minhlange"
+		dynasty = "Ava"
+		birth_Date = 1407.1.1
+		death_Date = 1426.7.1
+		claim = 95
+		adm = 1
+		dip = 0
+		mil = 0
+	}
+}
+
+1426.1.1 = {
+	monarch = {
+		name = "Minhlange"
+		dynasty = "Ava"
+		adm = 1
+		dip = 0
+		mil = 0
+	}
+}
+
+1426.7.1 = {
+	monarch = {
+		name = "Kale Kyetaungnyo"
+		dynasty = "Ava"
+		adm = 1
+		dip = 0
+		mil = 0
+	}
+}
+
+1427.1.1 = {
+	monarch = {
+		name = "Mohnyin Thado"
+		dynasty = "Ava"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1427.1.1 = {
+	heir = {
+		name = "Minyekyawswa"
+		monarch_name = "Minyekyawswa"
+		dynasty = "Ava"
+		birth_Date = 1413.1.1
+		death_Date = 1443.1.1
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+1440.1.1 = {
+	monarch = {
+		name = "Minyekyawswa"
+		dynasty = "Ava"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+1440.1.1 = {
+	heir = {
+		name = "Narapati"
+		monarch_name = "Narapati"
+		dynasty = "Ava"
+		birth_Date = 1416.1.1
+		death_Date = 1469.1.1
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1443.1.1 = {
+	monarch = {
+		name = "Narapati"
+		dynasty = "Ava"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1443.1.1 = {
+	heir = {
+		name = "Thihathura"
+		monarch_name = "Thihathura"
+		dynasty = "Ava"
+		birth_Date = 1439.1.1
+		death_Date = 1481.1.1
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1469.1.1 = {
+	monarch = {
+		name = "Thihathura"
+		dynasty = "Ava"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1469.1.1 = {
+	heir = {
+		name = "Minkhaung"
+		monarch_name = "Minkhaung II"
+		dynasty = "Ava"
+		birth_Date = 1449.1.1
+		death_Date = 1502.1.1
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1481.1.1 = {
+	monarch = {
+		name = "Minkhaung II"
+		dynasty = "Ava"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1481.1.1 = {
+	heir = {
+		name = "Shwenankyawshin"
+		monarch_name = "Shwenankyawshin"
+		dynasty = "Ava"
+		birth_Date = 1466.1.1
+		death_Date = 1527.1.1
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1502.1.1 = {
+	monarch = {
+		name = "Shwenankyawshin"
+		dynasty = "Ava"
+		adm = 2
+		dip = 1
+		mil = 0
+	}
+}
+
+1543.1.1 = {
+	monarch = {
+		name = "Mobye Narapati"
+		dynasty = "Ava"
+		adm = 0
+		dip = 1
+		mil = 0
+	}
+}
+# 1555: Annexed by Taungu

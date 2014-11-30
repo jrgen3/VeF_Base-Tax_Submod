@@ -1,0 +1,10 @@
+# Yotvings
+government = feudal_monarchy
+mercantilism = 0.1
+primary_culture = yotvingian
+add_accepted_culture = lithuanian
+religion = romuva
+technology_group = eastern
+historical_friend = LIT
+capital = 269 # Podlasie
+

@@ -1,0 +1,75 @@
+government = county_government
+technology_group = western
+religion = catholic
+primary_culture = flemish
+historical_friend = ENG
+historical_rival = BUR
+capital = 90	# Antwerp
+
+1267.1.1 = {
+	add_country_modifier = {
+		name = "hanseatic_league_member"
+		duration = -1
+	}
+}
+
+1305.1.1 = {
+	monarch = {
+		name = "Robert III"
+		dynasty = "de Dampierre"
+		birth_date = 1249.1.1
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1305.1.1 = {
+	heir = {
+		name = "Louis"
+		monarch_name = "Louis I"
+		dynasty = "de Dampierre"
+		birth_date = 1304.1.1
+		death_date = 1346.8.26
+		claim = 90
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1322.9.17 = {
+	monarch = {
+		name = "Louis I"
+		dynasty = "de Dampierre"
+		birth_date = 1304.1.1
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1330.10.15 = {
+	heir = {
+		name = "Louis"
+		monarch_name = "Louis II"
+		dynasty = "de Dampierre"
+		birth_date = 1330.10.15
+		death_date = 1384.1.30
+		claim = 90
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+1346.8.26 = {
+	monarch = {
+		name = "Louis II"
+		dynasty = "de Dampierre"
+		birth_date = 1330.10.15
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}

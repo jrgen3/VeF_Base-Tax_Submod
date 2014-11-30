@@ -1,0 +1,6 @@
+government = feudal_monarchy
+mercantilism = 0.1
+technology_group = western
+religion = catholic
+primary_culture = wallonian
+capital = 1866	# Namur

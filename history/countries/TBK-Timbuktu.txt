@@ -1,0 +1,19 @@
+# Timbuktu
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = malinke
+religion = sunni
+technology_group = sudanese_tech
+capital = 1132
+historical_rival = MAL
+
+1309.1.1 = {
+	monarch = {
+		name = "Faama Amadou"
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+
+

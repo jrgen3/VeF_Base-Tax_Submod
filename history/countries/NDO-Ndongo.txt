@@ -1,0 +1,6 @@
+government = tribal_despotism
+mercantilism = 0.1
+primary_culture = kongo
+religion = bantu
+technology_group = tribal_african_tech
+capital = 1167 # Luanda

@@ -1,0 +1,18 @@
+government = merchant_republic
+mercantilism = 0.1
+primary_culture = bavarian
+religion = catholic
+technology_group = western
+historical_friend = BAV
+historical_friend = HAB
+capital = 1868	# Bremen
+
+
+1309.1.1 = { 
+	monarch = {
+		name = "Free Imperial City"
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+}

@@ -1,0 +1,8 @@
+government = rus_principality
+mercantilism = 0.1
+primary_culture = russian
+religion = orthodox
+technology_group = eastern
+capital = 1079 # Viatka
+historical_friend = MOS
+

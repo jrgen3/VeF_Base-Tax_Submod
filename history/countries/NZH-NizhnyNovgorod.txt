@@ -1,0 +1,47 @@
+# Principality of Nizhny Novgorod-Suzdal
+government = rus_principality
+mercantilism = 0.1
+primary_culture = russian
+religion = orthodox
+technology_group = eastern
+capital = 306	# Nizhny Novgorod
+
+1309.1.1 = {
+	set_country_flag = starting_vassal 
+	set_country_flag = vassal_flag
+	add_opinion = { who = MOS modifier = vassal_stage_3 }
+	set_variable = { which = vassal_progress value = 45.0 }
+	set_country_flag = vassal_3
+	set_country_flag = vassal_4
+	set_country_flag = vassal_5
+
+	monarch = {
+		name = "Yuri I"
+		dynasty = "Rurikovich"
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+}
+
+1320.1.1 = { 
+	add_opinion = { who = MOS modifier = vassal_stage_4 }
+	set_variable = { which = vassal_progress value = 65.0 }
+	set_country_flag = vassal_6
+}
+
+1323.1.1 = {
+	monarch = {
+		name = "Dmitry I"
+		dynasty = "Konstantinovich"
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+}
+
+1335.1.1 = { 
+	add_opinion = { who = MOS modifier = vassal_stage_5 }
+	set_variable = { which = vassal_progress value = 85.0 }
+	set_country_flag = vassal_7
+}

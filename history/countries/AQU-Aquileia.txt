@@ -1,0 +1,124 @@
+government = archbishopric
+mercantilism = 0.1
+primary_culture = lombard
+religion = catholic
+technology_group = western
+capital = 129 # Kraina
+
+1302.1.1 = {
+	monarch = {
+		name = "Ottobuono di Razzi"
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1315.1.1 = {
+	monarch = {
+		name = "Gillo of Villalta"
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1316.1.1 = {
+	monarch = {
+		name = "Cassono della Torre"
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1319.1.1 = {
+	monarch = {
+		name = "Pagano della Torre"
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1334.1.1 = {
+	monarch = {
+		name = "Bertram of St. Genesius"
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1350.1.1 = {
+	monarch = {
+		name = "Nicholas of Luxemburg"
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1359.1.1 = {
+	monarch = {
+		name = "Lodovico della Torre"
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1365.1.1 = {
+	monarch = {
+		name = "Marquard of Randeck"
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1381.1.1 = {
+	monarch = {
+		name = "Philip II of Alençon"
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1388.1.1 = {
+	monarch = {
+		name = "John Sobieslaw of Moravia"
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1394.1.1 = {
+	monarch = {
+		name = "Antonio I"
+		adm = 3
+		dip = 1
+		mil = 1
+	}
+}
+
+1402.1.1 = {
+	monarch = {
+		name = "Antonio II"
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+}
+
+1412.1.1 = {
+	monarch = {
+		name = "Lodovico II"
+		adm = 2
+		dip = 1
+		mil = 0
+	}
+}
+# To Venice in 1402

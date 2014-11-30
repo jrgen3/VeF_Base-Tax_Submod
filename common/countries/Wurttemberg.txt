@@ -1,0 +1,156 @@
+# Wurttemberg
+
+graphical_culture = westerngfx
+
+color = { 111  162  128 }
+
+historical_idea_groups = {
+	intimidatory_ideas
+	quantity_ideas
+	economic_ideas
+	mercantilist_ideas
+	offensive_ideas
+	expansion_ideas
+	land_ideas
+	standing_army_ideas
+}
+
+historical_units = { 
+	western_artillery_15_1
+	western_artillery_22_1
+	western_artillery_29_1
+	western_artillery_35_1
+	western_artillery_40_1
+	western_artillery_44_1
+	western_artillery_48_1
+	western_artillery_52_1
+	western_artillery_55_1
+	western_artillery_55_2
+	western_artillery_8_1
+	western_cavalry_0_1
+	western_cavalry_0_2
+	western_cavalry_12_1
+	western_cavalry_12_2
+	western_cavalry_18_1
+	western_cavalry_23_1
+	western_cavalry_28_1
+	western_cavalry_33_1
+	western_cavalry_37_1
+	western_cavalry_37_2
+	western_cavalry_41_1
+	western_cavalry_41_2
+	western_cavalry_45_1
+	western_cavalry_45_2
+	western_cavalry_49_1
+	western_cavalry_49_2
+	western_cavalry_52_1
+	western_cavalry_52_2
+	western_cavalry_6_1
+	western_cavalry_6_2
+	western_infantry_0_1
+	western_infantry_0_2
+	western_infantry_12_1
+	western_infantry_12_2
+	western_infantry_16_1
+	western_infantry_16_2
+	western_infantry_20_1
+	western_infantry_20_2
+	western_infantry_23_1
+	western_infantry_23_2
+	western_infantry_26_1
+	western_infantry_26_2
+	western_infantry_29_1
+	western_infantry_29_2
+	western_infantry_32_1
+	western_infantry_32_2
+	western_infantry_35_1
+	western_infantry_35_2
+	western_infantry_38_1
+	western_infantry_38_2
+	western_infantry_41_1
+	western_infantry_41_2
+	western_infantry_44_1
+	western_infantry_44_2
+	western_infantry_47_1
+	western_infantry_47_2
+	western_infantry_49_1
+	western_infantry_49_2
+	western_infantry_4_1
+	western_infantry_4_2
+	western_infantry_51_1
+	western_infantry_51_2
+	western_infantry_53_1
+	western_infantry_53_2
+	western_infantry_55_1
+	western_infantry_55_2
+	western_infantry_8_1
+	western_infantry_8_2
+}
+
+
+
+
+
+monarch_names = {
+	"Eberhard #2" = 100
+	"Ulrich #4" = 60
+	"Ludwig #0" = 50
+	"Friedrich #0" = 40
+	"Christoph #0" = 20
+	"Eberhard #0 Ludwig" = 20
+	"Friedrich Eugen #0" = 20
+	"Johann Friedrich #0" = 20
+	"Karl #0 Alexander" = 20
+	"Karl Eugen #0" = 20
+	"Ludwig Eugen #0" = 20
+	"Wilhelm #0" = 20
+	"Wilhelm Ludwig #0" = 20
+	"Ludwig #2 Friedrich" = 15
+	"Friedrich Ludwig #0" = 15
+	"Georg #0" = 15
+	"Heinrich #0" = 15
+	"August #0" = 10
+	"Christian Eberhard #0" = 10
+	"Eberhard #0 Friedrich" = 10
+	"Friedrich Achilles #0" = 10
+	"Georg Friedrich #0" = 10
+	"Joachim Friedrich #0" = 10
+	"Julius Friedrich #0" = 10
+	"Magnus #0" = 10
+	"Maximilian #0" = 10
+	"Paul #0" = 10
+	"Philipp Friedrich #0" = 10
+	"Adolf #0" = 0
+	"Bruno #0" = 0
+	"Dieter #0" = 0
+	"Emanuel #0" = 0
+	"Florian #0" = 0
+	"Hartmann #0" = 0
+	"Joachim #0" = 0
+	"Kreszenz #0" = 0
+	"Manfred #0" = 0
+	"Raimund #0" = 0
+	"Siegbert #0" = 0
+	"Tobias #0" = 0
+	
+	"Renata #0" = -1
+	"Sieglinde #0" = -1
+	"Ulrike #0" = -1
+}
+
+leader_names = {
+	Breitmayer Danhauser Gohl Gute Helber Henke 
+	Kircher Klein Knapp Kopp Meck Roether Schupp
+	Stütz Sülzle Veit Vietz Vogel Weber Wieland Wurst
+}
+
+ship_names = {
+	Wirtemberg "Konrad Wirtemberg" "Graf Ulrich I"
+	"Gräfin Mechthild" Stuttgart "Graf Ulrich III"
+	"Graf Eberhard III" "Gräfin Henriette"
+	Marbach Neuffen Balingen Mömpelgard
+}
+
+army_names = {
+	"Armee von $PROVINCE$" 
+}

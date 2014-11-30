@@ -1,0 +1,36 @@
+#Country Name: Please seefilename.
+
+graphical_culture = africangfx
+
+color = { 30  131  162 }
+
+historical_idea_groups = {
+}
+
+historical_units = { 
+	sudanese_tech_cavalry_0_1
+	sudanese_tech_cavalry_12_1
+	sudanese_tech_cavalry_18_1
+	sudanese_tech_cavalry_24_1
+	sudanese_tech_cavalry_30_1
+	sudanese_tech_cavalry_6_1
+	sudanese_tech_infantry_0_1
+	sudanese_tech_infantry_12_1
+	sudanese_tech_infantry_18_1
+	sudanese_tech_infantry_24_1
+	sudanese_tech_infantry_30_1
+	sudanese_tech_infantry_36_1
+	sudanese_tech_infantry_6_1
+}
+
+
+
+
+monarch_names = {
+}
+
+leader_names = {
+}
+
+ship_names = {
+}

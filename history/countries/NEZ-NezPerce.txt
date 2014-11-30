@@ -1,0 +1,16 @@
+government = native_council
+mercantilism = 0.1
+primary_culture = shoshone
+religion = totemism
+technology_group = north_american
+capital = 2347
+
+
+1309.1.1 = {
+	monarch = {
+		name = "Allalimya Takanin"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}

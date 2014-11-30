@@ -1,0 +1,6 @@
+government = steppe_horde
+mercantilism = 0.1
+technology_group = chinese
+religion = buddhism
+primary_culture = shan
+capital = 583	# Hsenwi

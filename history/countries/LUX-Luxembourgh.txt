@@ -1,0 +1,69 @@
+government = county_government
+mercantilism = 0.1
+primary_culture = wallonian
+religion = catholic
+technology_group = western
+capital = 94	# Luxembourg
+historical_rival = POL
+
+
+1288.6.5 = {
+	monarch = {
+		name = "Henri VII"
+		dynasty = "von Luxemburg"
+		birth_date = 1275.1.1
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}
+
+1353.1.1 = {
+	government = duchy_government
+	monarch = {
+		name = "Wenceslaus I"
+		dynasty = "von Luxemburg"
+		birth_date = 1337.2.25
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+# Personal Union under Bohemia 1383.12.7
+
+1388.1.1 = {
+	monarch = {
+		name = "Jobst I"
+		dynasty = "von Luxemburg"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1390.11.1 = {
+	heir = {
+		name = "Elisabeth"
+		monarch_name = "Elisabeth"
+		dynasty = "von Luxemburg"
+		birth_date = 1390.11.1
+		death_date = 1451.8.3
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 1
+		female = yes
+	}
+}
+
+1415.1.1 = {
+	monarch = {
+		name = "Elisabeth I"
+		dynasty = "von Luxemburg"
+		adm = 2
+		dip = 2
+		mil = 1
+		female = yes
+	}
+}

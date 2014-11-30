@@ -1,0 +1,221 @@
+# GOB - major changes
+government = rus_principality
+primary_culture = russian
+religion = orthodox
+technology_group = eastern
+historical_rival = NOV
+historical_rival = KAZ
+historical_rival = GOL
+historical_friend = VLD
+historical_friend = NZH
+capital = 295 # Moskva
+
+
+1100.1.1 = { 
+	set_country_flag = golden_horde_tribute
+	set_variable = { which = vassal_boost value = 0.08 }
+	set_country_flag = vassal_boost_set
+}
+
+# For completeness
+1283.1.1 = {
+	monarch = {
+		name = "Daniel I"
+		dynasty = "Rurikovich"
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+}
+
+1303.3.4 = {
+	monarch = {
+		name = "Geogiy I"
+		dynasty = "Rurikovich"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1325.11.21 = {
+	monarch = {
+		name = "Ivan I"
+		dynasty = "Rurikovich"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+1340.3.31 = {
+	monarch = {
+		name = "Simeon I"
+		dynasty = "Rurikovich"
+		adm = 1
+		dip = 2
+		mil = 4
+	}
+}
+
+1353.4.27 = {
+	monarch = {
+		name = "Ivan II"
+		dynasty = "Rurikovich"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1359.11.13 = {
+	monarch = {
+		name = "Dimitri I"
+		dynasty = "Rurikovich"
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+}
+
+1389.5.19 = {
+	monarch = {
+		name = "Vasiliy I"
+		dynasty = "Rurikovich"
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+}
+
+1405.1.1 = { add_country_modifier = { name = "annunciation_cathedral" duration = -1 } }
+
+1415.3.10 = {
+	heir = {
+		name = "Vasiliy Temny"
+		monarch_name = "Vasiliy II Temny"
+		dynasty = Rurikovich
+		claim = 95
+		birth_date = 1415.3.10
+		death_date = 1462.3.27
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+}
+
+1420.1.1 = { leader = {	name = "Yuri Patrikeev"		type = general	rank = 1	fire = 2	shock = 4	manuever = 3	siege = 1	death_date = 1439.1.1 } }
+
+1424.2.27 = {
+	monarch = {
+		name = "Vasiliy II Temny"
+		dynasty = Rurikovich
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+}
+
+1430.1.1 = { leader = {	name = "Dmitry Shemiaka"	type = general	rank = 2	fire = 3	shock = 4	manuever = 3	siege = 0	death_date = 1453.1.1 } }
+
+1440.1.22 = {
+	heir = {
+		name = "Ivan Veliky"
+		monarch_name = "Ivan III Veliky"
+		dynasty = Rurikovich
+		birth_date = 1440.1.22
+		death_date = 1505.10.27
+		claim = 95
+		adm = 3
+		dip = 4
+		mil = 5
+	}
+}
+
+1446.1.1 = { leader = {	name = "Fedor Basenok"         	type = general	rank = 1	fire = 3	shock = 4	manuever = 4	siege = 0	death_date = 1460.1.1 } }
+
+1447.1.1 = { leader = {	name = "Ivan Obolenski-Striga" 	type = general	rank = 2	fire = 2	shock = 4	manuever = 3	siege = 0	death_date = 1469.1.1 } }
+
+1460.1.1 = { leader = {	name = "Kholmski"              	type = general	rank = 1	fire = 2	shock = 3	manuever = 3	siege = 1	death_date = 1495.1.1 } }
+
+1462.3.28 = {
+	monarch = {
+		name = "Ivan III Veliky"
+		dynasty = Rurikovich
+		adm = 3
+		dip = 4
+		mil = 5
+	}
+}
+
+1478.1.15 = { government = rus_tsardom } # Controls Novgorod
+
+1479.3.25 = {
+	heir = {
+		name ="Vasiliy"
+		monarch_name = "Vasiliy III"
+		dynasty = "Rurikovich"
+		birth_date = 1479.3.25
+		death_date = 1533.12.3
+		claim = 95
+		adm =6
+		dip = 4
+		mil = 1
+	}
+}
+
+1490.1.1 = {
+	leader = {	
+		name = "Shenja"
+		type = general
+		rank = 2
+		fire = 2
+		shock = 3
+		manuever = 4
+		siege = 0
+		death_date = 1516.1.1 
+	} 
+}
+
+1495.1.1 = { 
+	leader = {	
+		name = "Ivan Lyapun"
+		type = conquistador
+		rank = 7
+		fire = 1
+		shock = 1
+		manuever = 4
+		siege = 0
+		death_date = 1505.1.1
+	} 
+}
+
+1495.1.1 = {
+	leader = {	
+		name = "Repnin"
+		type = general
+		rank = 2
+		fire = 2
+		shock = 2
+		manuever = 2
+		siege = 0
+		death_date = 1520.1.1 
+	} 
+}
+
+1495.1.1 = { 
+	leader = {	
+		name = "Ivan A. Chelyadnin"
+		type = general
+		rank = 4
+		fire = 1
+		shock = 3
+		manuever = 2
+		siege = 0
+		death_date = 1514.1.1 
+	} 
+}
+1499.1.1 = { remove_country_modifier = hanseatic_league_member }
+1503.4.1 = {
+	capital = 297 # Bryansk
+}

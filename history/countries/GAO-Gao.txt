@@ -1,0 +1,19 @@
+# Gao
+government = despotic_monarchy
+mercantilism = 0.2
+primary_culture = songhai
+religion = sunni
+technology_group = sub_saharan
+capital = 1133
+historical_rival = MAL
+
+1309.1.1 = {
+	monarch = {
+		name = "Dia Kossoi"
+		dynasty = "Dia"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+

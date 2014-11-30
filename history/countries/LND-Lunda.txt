@@ -1,0 +1,6 @@
+government = tribal_federation
+mercantilism = 0.1
+technology_group = tribal_african_tech
+primary_culture = balunda
+religion = bantu
+capital = 1202

@@ -1,0 +1,30 @@
+#Country Name: Please seefilename.
+
+graphical_culture = africangfx
+
+color = { 30  131  162 }
+
+historical_idea_groups = {
+}
+
+historical_units = { 
+	tribal_african_tech_cavalry_10_1
+	tribal_african_tech_cavalry_20_1
+	tribal_african_tech_cavalry_2_1
+	tribal_african_tech_infantry_0_1
+	tribal_african_tech_infantry_16_1
+	tribal_african_tech_infantry_24_1
+	tribal_african_tech_infantry_32_1
+	tribal_african_tech_infantry_8_1
+}
+
+
+
+monarch_names = {
+}
+
+leader_names = {
+}
+
+ship_names = {
+}

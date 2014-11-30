@@ -1,0 +1,189 @@
+government = county_government
+mercantilism = 0.1
+primary_culture = dutch
+religion = catholic
+technology_group = western
+capital = 99	# Coevorde
+
+
+1271.1.1 = {
+	monarch = {
+		name = "Reginald I"
+		dynasty = "von Gelre"
+		birth_date = 1260.4.25
+		adm = 5
+		dip = 3
+		mil = 4
+		leader = {
+			type = general
+			name = "General von Gelre"
+			fire = 2
+			shock = 6
+			manuever = 4
+			siege = 2
+		}
+	}
+}
+
+1318.1.1 = {
+	monarch = {
+		name = "Reginald II"
+		dynasty = "von Gelre"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1339.1.1 = { government = duchy_government }
+
+1343.1.1 = {
+	monarch = {
+		name = "Reginald III"
+		dynasty = "von Gelre"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1361.1.1 = {
+	monarch = {
+		name = "Edward"
+		dynasty = "von Gelre"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1371.1.1 = {
+	monarch = {
+		name = "Reginald III"
+		dynasty = "von Gelre"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1371.8.10 = {
+	monarch = {
+		name = "Maria"
+		dynasty = "von Gelre"
+		adm = 2
+		dip = 2
+		mil = 2
+		female = yes
+		regent = yes
+	}
+}
+
+1379.1.1 = {
+	monarch = {
+		name = "Willem"
+		dynasty= "van Jülich-Hengebach"
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+}
+
+1379.1.1 = {
+	heir = {
+		name = "Reinoud"
+		monarch_name = "Reinoud IV"
+		dynasty = "van Jülich-Hengebach"
+		birth_date = 1365.1.1
+		death_date = 1423.6.25
+		claim = 80
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+}
+
+1402.1.1 = {
+	monarch = {
+		name = "Reinoud IV"
+		dynasty= "van Jülich-Hengebach"
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+}
+
+1423.6.29 = {
+	monarch = {
+		name = "Arnold I"
+		dynasty = "van Egmond"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1465.1.11 = {
+	monarch = {
+		name = "Adolf I"
+		dynasty = "van Egmond"
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+}
+
+1471.7.23 = {
+	monarch = {
+		name = "Arnold I"
+		dynasty = "van Egmond"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1477.1.5 = {
+	monarch = {
+		name = "Adolf I"
+		dynasty = "van Egmond"
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+}
+
+1477.6.27 = {
+	monarch = {
+		name = "Maria I"
+		dynasty = "de Bourgogne"
+		adm = 3
+		dip = 4
+		mil = 2
+        female = yes
+	}
+}
+
+# The Reign of Philip the First is represented as HAB ownership.
+
+1492.1.1 = {
+	monarch = {
+		name = "Karel II"
+		dynasty = "van Egmond"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+1520.1.1 = { leader = { name = "Maarten van Rossum" type = general rank = 1 fire = 2 shock = 3 manuever = 3 siege = 0 death_date = 1555.6.7 } }
+
+1538.6.30 = {
+	monarch = {
+		name = "Willem III de Rijke"
+		dynasty = "von der Mark"
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+}

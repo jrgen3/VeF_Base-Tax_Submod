@@ -1,0 +1,139 @@
+#Country Name: Please see filename.
+
+graphical_culture = muslimgfx
+
+color = { 125  110  225 }
+
+historical_idea_groups = {
+	intimidatory_ideas
+	quantity_ideas
+	religious_ideas
+	mercantilist_ideas
+	offensive_ideas
+	expansion_ideas
+	mm1_ideas
+	drafted_army_ideas
+}
+
+historical_units = { 
+	byzantine_artillery_15_1
+	byzantine_artillery_22_1
+	byzantine_artillery_29_1
+	byzantine_artillery_35_1
+	byzantine_artillery_8_1
+	byzantine_cavalry_0_1
+	byzantine_cavalry_0_2
+	byzantine_cavalry_12_1
+	byzantine_cavalry_12_2
+	byzantine_cavalry_18_1
+	byzantine_cavalry_23_1
+	byzantine_cavalry_28_1
+	byzantine_cavalry_33_1
+	byzantine_cavalry_37_1
+	byzantine_cavalry_37_2
+	byzantine_cavalry_6_1
+	byzantine_cavalry_6_2
+	byzantine_infantry_0_1
+	byzantine_infantry_0_2
+	byzantine_infantry_12_1
+	byzantine_infantry_12_2
+	byzantine_infantry_16_1
+	byzantine_infantry_16_2
+	byzantine_infantry_20_1
+	byzantine_infantry_20_2
+	byzantine_infantry_23_1
+	byzantine_infantry_23_2
+	byzantine_infantry_26_1
+	byzantine_infantry_26_2
+	byzantine_infantry_29_1
+	byzantine_infantry_29_2
+	byzantine_infantry_32_1
+	byzantine_infantry_32_2
+	byzantine_infantry_35_1
+	byzantine_infantry_35_2
+	byzantine_infantry_38_1
+	byzantine_infantry_38_2
+	byzantine_infantry_4_1
+	byzantine_infantry_4_2
+	byzantine_infantry_8_1
+	byzantine_infantry_8_2
+}
+
+
+
+
+monarch_names = {
+	"al-Nasr #2" = 20
+	"al-Mu'azzam #2" = 20
+	"al-Salih #2" = 20
+	"al-'Adil #2" = 20
+	"al-Kamil #1" = 20
+	"al-Ashraf #1" = 20
+	"al-Afdal #1" = 15
+	"Tadj #2" = 10
+	"Mujir ud-Din #1" = 10
+	"Djamal ud-Din #1" = 10
+	"Shihab ud-Din #1" = 10
+	"Shams #1" = 10
+	"Saif #1" = 10
+	"'Abbas #0" = 0
+	"'Abd al-Rahman #0" = 0
+	"Anwar #0" = 0
+	"Atuf #0" = 0
+	"Bakr #0" = 0
+	"Fahd #0" = 0
+	"Hakim #0" = 0
+	"Harun #0" = 0
+	"Hikmat #0" = 0
+	"Hisham #0" = 0
+	"Husayn #0" = 0
+	"Isma'il #0" = 0
+	"Jafar #0" = 0
+	"Jamaal #0" = 0
+	"Karim #0" = 0
+	"Malîk #0" = 0
+	"Mirza #0" = 0
+	"Muhammad #0" = 0
+	"Rashîd #0" = 0
+	"Rusul #0" = 0
+	"Shimun #0" = 0
+	"Tarîq #0" = 0
+	"Usama #0" = 0
+	"Yasir #0" = 0
+	"Yusuf #0" = 0
+	"Zaid #0" = 0
+	"Zîyad #0" = 0
+	
+	"Ihsan #0" = -1
+	"Marwa #0" = -1
+}
+
+leader_names = {
+	Damad
+	Esad
+	Farhad
+	Hafiz
+	Fazil
+	Ismail
+	Mehmed
+	Murad
+	Nasuh
+	Osman
+	Salih
+	Sinan
+}
+
+ship_names = {
+	Arif
+	Azmi
+	Dervish
+	Fuad
+	Haci
+	Haydar
+	Mulish
+	Nuri
+	Salih
+	Said
+	Sefveti
+	Shukri
+}

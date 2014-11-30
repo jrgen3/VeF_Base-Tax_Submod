@@ -1,0 +1,170 @@
+#Country Name: Please see filename.
+
+graphical_culture = easterngfx
+
+color = { 36  232  47 }
+
+historical_idea_groups = {
+	intimidatory_ideas
+	quantity_ideas
+	religious_ideas
+	land_trade_ideas
+	offensive_ideas
+	expansion_ideas
+	gf1_ideas
+	drafted_army_ideas
+}
+
+historical_units = { 
+	eastern_artillery_16_1
+	eastern_artillery_22_1
+	eastern_artillery_29_1
+	eastern_artillery_35_1
+	eastern_artillery_40_1
+	eastern_artillery_44_1
+	eastern_artillery_48_1
+	eastern_artillery_48_2
+	eastern_artillery_52_1
+	eastern_artillery_55_1
+	eastern_artillery_55_2
+	eastern_artillery_9_1
+	eastern_cavalry_0_1
+	eastern_cavalry_0_2
+	eastern_cavalry_10_1
+	eastern_cavalry_10_2
+	eastern_cavalry_18_1
+	eastern_cavalry_23_1
+	eastern_cavalry_28_1
+	eastern_cavalry_33_1
+	eastern_cavalry_37_1
+	eastern_cavalry_37_2
+	eastern_cavalry_41_1
+	eastern_cavalry_41_2
+	eastern_cavalry_45_1
+	eastern_cavalry_45_2
+	eastern_cavalry_49_1
+	eastern_cavalry_49_2
+	eastern_cavalry_52_1
+	eastern_cavalry_52_2
+	eastern_cavalry_5_1
+	eastern_cavalry_5_2
+	eastern_infantry_0_1
+	eastern_infantry_0_2
+	eastern_infantry_13_1
+	eastern_infantry_13_2
+	eastern_infantry_17_1
+	eastern_infantry_17_2
+	eastern_infantry_20_1
+	eastern_infantry_20_2
+	eastern_infantry_23_1
+	eastern_infantry_23_2
+	eastern_infantry_26_1
+	eastern_infantry_26_2
+	eastern_infantry_29_1
+	eastern_infantry_29_2
+	eastern_infantry_32_1
+	eastern_infantry_32_2
+	eastern_infantry_35_1
+	eastern_infantry_35_2
+	eastern_infantry_38_1
+	eastern_infantry_38_2
+	eastern_infantry_41_1
+	eastern_infantry_41_2
+	eastern_infantry_44_1
+	eastern_infantry_44_2
+	eastern_infantry_47_1
+	eastern_infantry_47_2
+	eastern_infantry_49_1
+	eastern_infantry_49_2
+	eastern_infantry_51_1
+	eastern_infantry_51_2
+	eastern_infantry_53_1
+	eastern_infantry_53_2
+	eastern_infantry_55_1
+	eastern_infantry_55_2
+	eastern_infantry_5_1
+	eastern_infantry_5_2
+	eastern_infantry_9_1
+	eastern_infantry_9_2
+}
+
+
+
+
+monarch_names = {
+	"Giorgi #6" = 120
+	"David #9" = 60
+	"Vakhtang #3" = 60
+	"Bagrat #5" = 40
+	"Alexander #0" = 20
+	"Erekle #0" = 40
+	"Konstantine #0" = 40
+	"Luarsab #0" = 40
+	"Simon #0" = 40
+	"Teimuraz #0" = 40
+	"Archil #0" = 20
+	"Bakar #0" = 20
+	"Iesse #0" = 20
+	"Kaihosro #0" = 20
+	"Rostom-Mirza #0" = 20
+	"Levan #0" = 15
+	"Demetre #2" = 10
+	"Thamar #1" = -10
+	"Anna #0" = -10
+	"Stefanoz #0" = 10
+	"Anzori #0" = 0
+	"Bebur #0" = 0
+	"Birtveli #0" = 0
+	"Djurkha #0" = 0
+	"Gulikho #0" = 0
+	"Kartlos #0" = 0
+	"Koki #0" = 0
+	"Kviria #0" = 0
+	"Lukhum #0" = 0
+	"Malkhazi #0" = 0
+	"Mushni #0" = 0
+	"Okhropir #0" = 0
+	"Orbeli #0" = 0
+	"Revaz #0" = 0
+	"Takha #0" = 0
+	"Torgva #0" = 0
+	"Tornike #0" = 0
+	"Tsotne #0" = 0
+	"Xareba #0" = 0
+	"Zviadi #0" = 0
+}
+
+leader_names = { 
+	Andronikashvili
+	Asrenidze Avashvili 
+	Bakradze Chkheidze 
+	Chkhenkeli Devdariani
+	Gabashvili Gardapkhadze
+	Gedevanishvili Gegechkori
+	Gulisashvili Gvazava
+	Javakhishvili Karalashvili
+	Kereselidze Kvinitadze 
+	Lomtatitdze Maglakelidze
+	Mazniashvili Natadze
+	Nikoladze Robakidze
+	Sharashidze Surguladze
+	Takaishvili Tsereteli
+	Tsulukidze Vachnadze
+	Zaldastanishvili Zhordania
+}
+
+ship_names = {
+	Aragveti Anacopia Artaani Abkhazeti
+	Bichvinta Batomi
+	Dmanisi Demetre
+	Ereti
+	Geguti Gelati
+	Kutatsi Kharnabuji Kura
+	Lasharisjvari Lore
+	Mtkvari
+	Narikala
+	Ruisi Racha
+	Seti Svaneti
+	Tamar Tbilisi Telavi Tashiri
+	Urbnisi
+}

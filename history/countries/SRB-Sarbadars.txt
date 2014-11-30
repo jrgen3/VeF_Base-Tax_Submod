@@ -1,0 +1,12 @@
+#######################################
+# Sarbadars
+#######################################
+government = despotic_monarchy
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = uzbehk
+add_accepted_culture = east_persian
+religion = shamanism
+capital = 438 # Ashkabad
+
+
