@@ -9,7 +9,7 @@ citysize = 17000
 culture = occitain
 religion = catholic
 hre = yes
-base_tax = 2
+base_tax = 3
 trade_goods = silk
 manpower = 2
 add_core = PAP
@@ -41,7 +41,7 @@ discovered_by = byzantine
 1530.1.1   = { sheriffs_office = yes }
 1600.1.1   = { manpower = 2.25 }
 1650.1.1   = { manpower = 2.5 }
-1670.1.1   = { add_core = FRA } # Louis XIV wants to annex the city-state (Chambres de Réunion)
+1670.1.1   = { add_core = FRA } # Louis XIV wants to annex the city-state (Chambres de Rï¿½union)
 1700.1.1   = { manpower = 2.7 }
 1750.1.1   = { manpower = 3 }
 1791.9.14  = { owner = RFR controller = RFR add_core = RFR remove_core = PAP } # Avignon is incorporated into France

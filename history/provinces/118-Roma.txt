@@ -6,7 +6,7 @@ controller = PAP
 culture = umbrian 
 religion = catholic 
 hre = no
-base_tax = 6
+base_tax = 6.5
 trade_goods = olive
 manpower = 2
 fort1 = yes 
@@ -40,5 +40,5 @@ discovered_by = byzantine
 1750.1.1 	= { manpower = 3 add_core = ITA } 
 1800.1.1	= { manpower = 4 } 
 1809.4.10	= { controller = RFR } # Occupied by French troops
-1809.10.14	= { owner = RFR add_core = RFR } # Treaty of Schönbrunn
+1809.10.14	= { owner = RFR add_core = RFR } # Treaty of Schï¿½nbrunn
 1814.4.11	= { owner = PAP controller = PAP remove_core = RFR } # # Treaty of Fontainebleau, Napoleon abdicates unconditionally

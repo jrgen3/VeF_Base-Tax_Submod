@@ -8,7 +8,7 @@ citysize = 20000
 culture = occitain
 religion = catholic
 hre = no
-base_tax = 2
+base_tax = 3
 trade_goods = wine
 manpower = 2
 add_core = PRO
@@ -29,7 +29,7 @@ discovered_by = byzantine
 1481.1.1   = { owner = FRA controller = FRA add_core = FRA } # Provence added to France after the death of Duke Charles
 1500.1.1   = { manpower = 1.9 vineyard = yes } # Jacques Coeur's factories in Marseille (est. 1450)
 1501.1.1   = { courthouse = yes } # Le Parlement d'Aix
-1513.1.1   = { temple = yes } # La Cathédrale Saint-Sauveur finished
+1513.1.1   = { temple = yes } # La Cathï¿½drale Saint-Sauveur finished
 1526.2.1   = { controller = HAB } # Austria invades the Provence during the Franco-Habsburg war (1521-1529)
 1529.8.3   = { controller = FRA } # Treaty of Cambrai (Ladies' Peace): Back to status quo
 1530.1.1   = { fort2 = yes }
@@ -48,9 +48,9 @@ discovered_by = byzantine
 1633.1.1   = { unrest = 0 }
 1649.1.1   = { unrest = 5 }
 1650.1.1   = { manpower = 2.5 capital = "Marseille" } # Marseille becomes the primary city in the region
-1650.1.14  = { unrest = 7 } # Mazarin arrests the Princes Condé, Conti & Longueville, the beginning of the Second Fronde
+1650.1.14  = { unrest = 7 } # Mazarin arrests the Princes Condï¿½, Conti & Longueville, the beginning of the Second Fronde
 1651.4.1   = { unrest = 4 } # An unstable peace is concluded
-1651.12.1  = { unrest = 7 } # Mazarin returns from exile, Condé sides with Spain, situation heats up again
+1651.12.1  = { unrest = 7 } # Mazarin returns from exile, Condï¿½ sides with Spain, situation heats up again
 1652.10.21 = { unrest = 0 } # The King is allowed to enter Paris again, Mazarin leaves France for good. Second Fronde over.
 1659.1.1   = { unrest = 5 }
 1662.1.1   = { unrest = 0 }

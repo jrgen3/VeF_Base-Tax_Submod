@@ -6,7 +6,7 @@ controller = PIS
 culture = tuscan 
 religion = catholic 
 hre = no
-base_tax = 8        
+base_tax = 6.3        
 trade_goods = livestock
 manpower = 2
 fort1 = yes 
@@ -50,7 +50,7 @@ discovered_by = byzantine
 1700.1.1	= { manpower = 3 } 
 1750.1.1	= { manpower = 4 tax_assessor = yes } 
 1800.1.1	= { manpower = 5 }
-1801.2.9 	= {	owner = RFR controller = RFR add_core = RFR } # The Treaty of Lunéville
+1801.2.9 	= {	owner = RFR controller = RFR add_core = RFR } # The Treaty of Lunï¿½ville
 1801.3.21	= {	owner = ETR controller = ETR add_core = ETR } # The Kingdom of Etruria
 1806.7.12	= { hre = no } # The Holy Roman Empire is dissolved
 1807.12.10	= {	owner = RFR controller = RFR remove_core = ETR } # Etruria is annexed to France

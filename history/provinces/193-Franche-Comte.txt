@@ -1,14 +1,14 @@
-# 193 Franche-Comté - Principal cities: Besançon
+# 193 Franche-Comtï¿½ - Principal cities: Besanï¿½on
 # Manpower revision complete
 
 owner = BUR
 controller = BUR 
-capital = "Besançon"
+capital = "Besanï¿½on"
 citysize = 5500
 culture = burgundian
 religion = catholic
 hre = yes
-base_tax = 2
+base_tax = 2.5
 trade_goods = livestock
 manpower = 1.5
 add_core = BUR
@@ -24,8 +24,8 @@ discovered_by = byzantine
 1348.1.1   = { manpower = 1.25 add_province_modifier = { name = "province_black_death" duration = 3650 } set_province_flag = had_black_death } # Black Death
 1360.1.1   = { remove_province_modifier = province_black_death }
 1400.1.1   = { manpower = 1.15 }
-1477.1.5   = { owner = FRA controller = FRA add_core = FRA } # Charles the Bold dies and Louis XII of France takes Franche-Comté
-1493.8.19  = { owner = HAB controller = HAB add_core = HAB remove_core = FRA } # Frederick III dies and Charles VII cedes Franch-Comté to Maximilian I von Habsburg
+1477.1.5   = { owner = FRA controller = FRA add_core = FRA } # Charles the Bold dies and Louis XII of France takes Franche-Comtï¿½
+1493.8.19  = { owner = HAB controller = HAB add_core = HAB remove_core = FRA } # Frederick III dies and Charles VII cedes Franch-Comtï¿½ to Maximilian I von Habsburg
 1500.1.1   = { manpower = 1.5 }
 1519.1.12  = { owner = SPA controller = SPA add_core = SPA remove_core = HAB } # Charles V gets total control over his Burgundian inheritance
 1540.1.1   = { fort2 = yes }
@@ -33,10 +33,10 @@ discovered_by = byzantine
 1600.1.1   = { manpower = 2 }
 1640.1.1   = { fort3 = yes }
 1650.1.1   = { manpower = 2.2 sheriffs_office = yes }
-1668.2.20  = { controller = FRA } # The Prince de Condé swiftly takes Franche-Comté in the War of Devolution
-1668.5.2   = { controller = SPA } # Treaty of Aachen: Franche-Comté returned to Spain
-1670.1.1   = { add_core = FRA } # Louis XIV lays claims through the Chambres de Réunion
-1674.9.1   = { controller = FRA } # France captures Franche-Comté 
+1668.2.20  = { controller = FRA } # The Prince de Condï¿½ swiftly takes Franche-Comtï¿½ in the War of Devolution
+1668.5.2   = { controller = SPA } # Treaty of Aachen: Franche-Comtï¿½ returned to Spain
+1670.1.1   = { add_core = FRA } # Louis XIV lays claims through the Chambres de Rï¿½union
+1674.9.1   = { controller = FRA } # France captures Franche-Comtï¿½ 
 1678.9.19  = { owner = FRA remove_core = SPA } # Treaty of Nijmegen (FRA-SPA)
 1685.1.1   = { fort4 = yes }
 1700.1.1   = { manpower = 2.5 }

@@ -7,7 +7,7 @@ culture = lombard
 religion = catholic
 capital = "Ajaccio"
 hre = no
-base_tax = 1
+base_tax = 2.3
 trade_goods = fish
 manpower = 1.5
 fort1 = yes
@@ -32,7 +32,7 @@ discovered_by = byzantine
 1499.1.1   = {	owner = GEN controller = GEN remove_core = MLO }
 1500.1.1   = { manpower = 1.5 }
 1553.1.1   = { owner = FRA controller = FRA add_core = FRA } # Occupied by the French
-1559.1.1   = { owner = GEN controller = GEN remove_core = FRA } # Treaty of Cateau-Cambrésis
+1559.1.1   = { owner = GEN controller = GEN remove_core = FRA } # Treaty of Cateau-Cambrï¿½sis
 1600.1.1   = { manpower = 2 }
 1650.1.1   = { manpower = 2.2 trading_post = yes }
 1700.1.1   = { manpower = 2.5 }
