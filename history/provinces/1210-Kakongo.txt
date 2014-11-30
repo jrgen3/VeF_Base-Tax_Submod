@@ -1,0 +1,15 @@
+# 1210 : Kakongo
+
+capital = "Kakongo"
+owner = KON
+controller = KON
+add_core = KON
+citysize =   4000
+culture = ethiopian
+religion = sunni
+base_tax = 2
+manpower = 2
+trade_goods = dyes
+discovered_by = sub_saharan
+hre = no
+fort1 = yes

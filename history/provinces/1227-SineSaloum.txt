@@ -1,0 +1,15 @@
+# 1227 : Sine Saloum
+
+capital = "Sine Saloum"
+owner = JOL
+controller = JOL
+add_core = JOL
+citysize =   8000
+culture = ethiopian
+religion = coptic
+base_tax = 2
+manpower = 2
+trade_goods = salt
+discovered_by = sub_saharan
+hre = no
+fort1 = yes

@@ -1,0 +1,36 @@
+#669 - Fuzhou
+
+owner = YUN
+controller = YUN
+culture = chihan
+religion = confucianism
+capital = "Fuzhou"
+trade_goods = chinaware
+hre = no
+base_tax = 5
+manpower = 2
+citysize = 109000
+add_core = YUN
+fort1 = yes
+discovered_by = chinese
+
+discovered_by = niitaka
+
+1366.10.1 = { owner = MNG controller = MNG add_core = MNG remove_core = YUN add_core = CZH }
+1450.1.1 = { citysize = 115240 }
+1500.1.1 = { citysize = 118700 }
+1550.1.1 = { citysize = 120487 }
+1600.1.1 = { citysize = 124580 }
+1646.10.1 = {	controller = QNG }
+1650.1.1 = { citysize = 130741 }
+1661.6.1 = {	owner = CZH
+		controller = CZH
+		 remove_core = MNG
+	   } # The Three Feudatories
+1681.10.1 = {	owner = QNG
+		controller = QNG
+		add_core = QNG
+}
+1700.1.1 = { citysize = 136488 }
+1750.1.1 = { citysize = 140205 }
+1800.1.1 = { citysize = 145800 }

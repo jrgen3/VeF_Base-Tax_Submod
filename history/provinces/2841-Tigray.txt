@@ -1,0 +1,15 @@
+# 2841 - Tigray
+
+capital = "Tigray"
+owner = ETH
+controller = ETH
+add_core = ETH
+citysize =   8000
+culture = ethiopian
+religion = coptic
+base_tax = 2
+manpower = 1
+trade_goods = millet
+discovered_by = sudanese_tech
+hre = no
+fort1 = yes

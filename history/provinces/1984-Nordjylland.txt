@@ -1,0 +1,36 @@
+#Nordjylland
+# Manpower revision complete
+
+owner = DAN
+controller = DAN
+add_core = DAN
+culture = danish
+religion = catholic
+hre = no
+base_tax = 3
+trade_goods = livestock
+manpower = 1
+capital = "Aalborg"
+citysize = 3000
+temple = yes
+fort1 = yes
+trading_post = yes
+discovered_by = eastern
+discovered_by = scandinavian_tech
+discovered_by = western
+discovered_by = byzantine
+
+1350.1.1	= { manpower = 0.75 add_province_modifier = { name = "province_black_death" duration = 3650 } set_province_flag = had_black_death } # Black Death
+1360.1.1	= { remove_province_modifier = province_black_death }
+1400.1.1	= { manpower = 0.75 }
+1500.1.1	= { manpower = 1 }
+1534.8.15	= { revolt = { type = revolutionary_rebels size = 1 } controller = REB } # 'Grevefejden'(Christofer of Oldenburg)
+1534.11.2	= { revolt = {} controller = DAN } # Liberated by Christian III
+1536.1.1	= { religion = protestant }
+1600.1.1	= { manpower = 1 }
+1644.1.25	= { controller = SWE } # Torstenssons War- Captured by Lennart Torstensson
+1645.8.13	= { controller = DAN } # The Peace of Brömsebro
+1650.1.1	= { manpower = 1 }
+1700.1.1	= { manpower = 1.25 }
+1750.1.1	= { manpower = 1.5 }
+1800.1.1	= { manpower = 2 }

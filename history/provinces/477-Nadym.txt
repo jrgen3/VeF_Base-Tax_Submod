@@ -1,0 +1,29 @@
+#477 - Nadym
+
+owner = GOL
+controller = GOL
+culture = khazak
+religion = tengri
+capital = "Nadym"
+trade_goods = livestock
+hre = no
+base_tax = 1
+manpower = 1
+citysize = 1180
+add_core = GOL
+add_core = KZH
+discovered_by = nomad_group
+discovered_by = indopersian
+
+1450.1.1   = { citysize = 1270 }
+1465.1.1   = { owner = KZH controller = KZH add_core = KZH remove_core = GOL } # Khazak Khanate
+1500.1.1   = { citysize = 1470 }
+1550.1.1   = { citysize = 1888 }
+1600.1.1   = { citysize = 2674 }
+1622.1.1   = { discovered_by = RUS }
+1650.1.1   = { citysize = 3564 }
+1700.1.1   = { citysize = 4216 }
+1740.1.1   = { owner = OIR controller = OIR } # Dzungarian invasion
+1750.1.1   = { citysize = 5313 }
+1755.1.1   = { owner = KZH controller = KZH }
+1800.1.1   = { citysize = 6240 }

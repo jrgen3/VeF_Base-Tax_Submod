@@ -1,0 +1,24 @@
+# 2450 - Naga
+
+owner = KAC
+controller = KAC
+culture = meitei
+religion = buddhism
+capital = "Dimapur"
+trade_goods = iron
+hre = no
+base_tax = 5
+manpower = 2
+citysize = 22000
+add_core = KAC
+fort1 = yes
+discovered_by = chinese
+discovered_by = indian
+
+1400.1.1 = { citysize = 16100 }
+1500.1.1 = { citysize = 18240 }
+1600.1.1 = { citysize = 22895 }
+1650.1.1 = { citysize = 24244 }
+1700.1.1 = { citysize = 26240 }
+1750.1.1 = { citysize = 28955 }
+1800.1.1 = { citysize = 30600 }

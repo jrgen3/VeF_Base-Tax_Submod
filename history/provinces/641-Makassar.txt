@@ -1,0 +1,28 @@
+#641 - Makassar
+owner = MKS
+controller = MKS
+culture = sulawesi
+religion = hinduism
+capital = "Makassar"
+trade_goods = cloves
+hre = no
+base_tax = 4
+manpower = 5
+citysize = 70100
+add_core = MKS
+fort1 = yes
+discovered_by = chinese
+
+1450.1.1 = { citysize = 76560 }
+1500.1.1 = { citysize = 79555 }
+1511.1.1 = { discovered_by = POR }
+1520.1.1 = { fort2 = yes }
+1550.1.1 = { citysize = 81053 }
+1600.1.1 = { citysize = 82400 }
+1650.1.1 = { citysize = 84060 }
+1667.1.1 = {	owner = NED controller = NED add_core = NED religion = reformed culture = dutch } # Conquered by the Dutch
+1700.1.1 = { citysize = 85900 }
+1750.1.1 = { citysize = 86200 }
+1795.1.1   = { owner = BTR controller = BTR add_core = BTR remove_core = NED } # Batavian Republic proclaimed when French troops occupy Netherlands
+1800.1.1 = { citysize = 87800 }
+1806.6.5   = { owner = NED controller = NED add_core = NED remove_core = BTR } # Kingdom of Holland established under Louis Bonaparte

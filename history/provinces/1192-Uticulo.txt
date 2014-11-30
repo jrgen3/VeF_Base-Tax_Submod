@@ -1,0 +1,17 @@
+# 1192 : Quelimane - autobuid script by Africa team and Penguintopia
+
+capital = "Quelimane"
+native_size =   70
+native_ferocity =   2
+native_hostileness =   7
+culture = swahili
+religion = bantu
+base_tax = 2
+manpower = 1
+trade_goods = slaves
+discovered_by = sudanese_tech 
+discovered_by = tribal_african_tech 
+hre = no
+fort1 = yes
+trading_post = yes
+

@@ -1,0 +1,24 @@
+#552 - Cuttack
+
+owner = ORI
+controller = ORI
+culture = oriya
+religion = hinduism
+capital = "Katak"
+trade_goods = cloth
+hre = no
+base_tax = 3
+manpower = 4
+citysize = 80000
+add_core = ORI
+fort1 = yes
+fort2 = yes #Barabati
+temple = yes
+discovered_by = indian
+
+1405.1.1 = { discovered_by = MNG }
+1450.1.1 = { citysize = 65000 }
+1500.1.1 = { discovered_by = POR citysize = 36000 }
+1550.1.1 = { citysize = 53000 }
+1600.1.1 = { citysize = 65000 }
+1650.1.1 = { citysize = 85000 }

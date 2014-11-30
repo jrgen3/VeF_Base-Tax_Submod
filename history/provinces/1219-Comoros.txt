@@ -1,0 +1,23 @@
+# 1219 : Comoros - autobuid script by Africa team and Penguintopia
+# Manpower revision complete
+
+capital = "Moroni"
+native_size =   50
+native_ferocity =   4
+native_hostileness =   9 
+culture = swahili
+religion = bantu
+base_tax = 2
+manpower = 1
+trade_goods = palm
+discovered_by = sudanese_tech 
+discovered_by = tribal_african_tech 
+discovered_by = muslim 
+hre = no
+
+1500.1.1   = { manpower = 0.1 }
+1600.1.1   = { manpower = 0.2 }
+1650.1.1   = { manpower = 0.25 }
+1700.1.1   = { manpower = 0.3 }
+1750.1.1   = { manpower = 0.4 }
+1800.1.1   = { manpower = 0.5 }

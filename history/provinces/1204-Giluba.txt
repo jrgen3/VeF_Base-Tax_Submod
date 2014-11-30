@@ -1,0 +1,15 @@
+# 1204 : Lamu - autobuid script by Africa team and Penguintopia
+
+capital = "Lamu"
+native_size =   70
+native_ferocity =   2
+native_hostileness =   7
+culture = swahili
+religion = sunni
+base_tax = 2
+manpower = 0.5
+trade_goods = spices
+discovered_by = sudanese_tech 
+hre = no
+trading_post = yes
+

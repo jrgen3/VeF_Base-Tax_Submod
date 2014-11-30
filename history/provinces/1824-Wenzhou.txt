@@ -1,0 +1,36 @@
+#1824 - Wenzhou
+
+owner = YUN
+controller = YUN
+culture = chihan
+religion = confucianism
+capital = "Wenzhou"
+trade_goods = fish
+hre = no
+base_tax = 3
+manpower = 2
+citysize = 400000
+add_core = YUN
+fort1 = yes
+discovered_by = chinese
+
+discovered_by = niitaka
+
+1366.10.1 = { owner = MNG controller = MNG add_core = MNG remove_core = YUN add_core = CZH }
+1450.1.1 = { citysize = 428000 }
+1500.1.1 = { citysize = 436000 }
+1510.1.1 = { trading_post = yes }
+1550.1.1 = { citysize = 448000 }
+1600.1.1 = { citysize = 412000 }
+1646.1.1 = { controller = QNG }
+1650.1.1 = { citysize = 360000 }
+1661.6.1 = {	owner = QNG
+		controller = QNG
+		add_core = QNG
+		remove_core = MNG
+	   } # The Qing Dynasty
+1675.1.1 = { controller = MNG }
+1680.1.1 = { controller = QNG }
+1700.1.1 = { citysize = 368000 }
+1750.1.1 = { citysize = 380000 }
+1800.1.1 = { citysize = 392000 }

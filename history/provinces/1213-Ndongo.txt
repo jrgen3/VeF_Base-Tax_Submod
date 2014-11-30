@@ -1,0 +1,15 @@
+# 1213 : Ndongo
+
+capital = "Ndongo"
+owner = NDO
+controller = NDO
+add_core = NDO
+citysize =   8000
+culture = ethiopian
+religion = coptic
+base_tax = 2
+manpower = 2
+trade_goods = livestock
+discovered_by = sub_saharan
+hre = no
+fort1 = yes

@@ -1,0 +1,23 @@
+# 2457 - Ladakh
+
+owner = KSH
+controller = KSH
+culture = kashmiri
+religion = hinduism
+capital = "Leh"
+trade_goods = rice
+hre = no
+base_tax = 6
+manpower = 2
+citysize = 4200
+add_core = KSH
+discovered_by = chinese
+discovered_by = indian
+
+
+1500.1.1 = { citysize = 5920 }
+1600.1.1 = { citysize = 6750 }
+1650.1.1 = { citysize = 8011 }
+1700.1.1 = { citysize = 8955 }
+1750.1.1 = { citysize = 9800 }
+1800.1.1 = { citysize = 10200 }

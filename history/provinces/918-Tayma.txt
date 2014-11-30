@@ -1,0 +1,37 @@
+# 918 - Tayma
+
+owner = HED
+controller = HED
+culture = bedouin_arabic
+religion = sunni
+capital = "Tayma"
+trade_goods = rice
+hre = no
+base_tax = 2
+manpower = 1
+fort1 = yes
+citysize = 4500
+add_core = HED
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = indopersian
+discovered_by = ILK
+discovered_by = byzantine
+discovered_by = sudanese_tech 
+
+
+1450.1.1 = { citysize = 4900 }
+1500.1.1 = { citysize = 5200 }
+1516.8.24 = { owner = TUR controller = TUR add_core = TUR } # Part of the Ottoman Empire
+1600.1.1 = { citysize = 6870 }
+1650.1.1 = { citysize = 8540 }
+1700.1.1 = { citysize = 9932 }
+1750.1.1 = { citysize = 10500 }
+1770.1.1 = { owner = MAM controller = MAM remove_core = TUR } # Ali Bey gained control of the Hijaz, reconstituting the Mamluk state
+1772.1.1 = { owner = HED controller = HED }
+1800.1.1 = { citysize = 5521 }
+1802.1.1 = { owner = NAJ
+		controller = NAJ
+		add_core = NAJ
+	   } # The First Saudi State
+1818.9.9 = { owner = TUR controller = TUR add_core = TUR remove_core = NAJ } # The end of the Saudi State

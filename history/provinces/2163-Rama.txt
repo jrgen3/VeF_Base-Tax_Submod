@@ -1,0 +1,32 @@
+# 2163 - Rama
+owner = BOS		# Part of the Bosnian kingdom
+controller = BOS
+culture = bosnian
+religion = catholic
+capital = "Rama"
+trade_goods = wool
+hre = no
+base_tax = 2
+manpower = 1
+citysize = 2050
+fort1 = yes
+add_core = BOS
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = scandinavian_tech
+discovered_by = ottoman
+discovered_by = indopersian
+discovered_by = western
+discovered_by = byzantine
+
+1350.10.1	= { controller = SER } # Garrisoned by Serbia
+1355.12.20	= { owner = BOS controller = BOS } # Serbian empire crumbles after death of Stefan IV Dusan
+1450.1.1 = { citysize = 2400 }
+1500.1.1 = { citysize = 2706 }
+1521.1.1 = { owner = TUR controller = TUR add_core = TUR }
+1550.1.1 = { citysize = 3327 trading_post = yes }
+1600.1.1 = { citysize = 3605 }
+1650.1.1 = { citysize = 4228 }
+1700.1.1 = { citysize = 4560 tax_assessor = yes }
+1750.1.1 = { citysize = 5116 }
+1800.1.1 = { citysize = 5550 }

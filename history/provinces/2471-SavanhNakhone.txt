@@ -1,0 +1,23 @@
+# 2471 - Savanh Nakhone
+
+owner = KHM
+controller = KHM
+culture = lao
+religion = buddhism
+capital = "Savanh Nakhone"
+trade_goods = cloves
+hre = no
+base_tax = 4
+manpower = 2
+fort1 = yes
+citysize = 12900
+add_core = KHM
+discovered_by = chinese
+
+1400.1.1 = { citysize = 14500 }
+1500.1.1 = { citysize = 10200 }
+1600.1.1 = { citysize = 14700 }
+1650.1.1 = { citysize = 16105 }
+1700.1.1 = { citysize = 14300 }
+1750.1.1 = { citysize = 15980 }
+1800.1.1 = { citysize = 17000 }

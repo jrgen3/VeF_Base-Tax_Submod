@@ -1,0 +1,20 @@
+#1089 - Sigmaringen
+
+culture = alemannic
+religion = catholic
+capital = "Sigmaringen"
+owner = HOH
+controller = HOH
+add_core = HOH
+trade_goods = grain
+hre = yes
+base_tax = 3
+manpower = 1
+citysize = 5000
+is_city = yes
+
+discovered_by = eastern
+discovered_by = scandinavian_tech
+discovered_by = indopersian
+discovered_by = western
+discovered_by = byzantine

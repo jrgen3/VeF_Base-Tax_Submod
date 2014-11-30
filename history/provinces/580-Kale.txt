@@ -1,0 +1,26 @@
+#580 - Kale
+
+owner = AVA
+controller = AVA
+culture = burmese
+religion = buddhism
+capital = "Kale"
+trade_goods = naval_supplies
+hre = no
+base_tax = 2
+manpower = 4
+citysize = 5800
+add_core = AVA
+discovered_by = chinese
+discovered_by = indian
+
+1368.4.1 = { owner = SST controller = SST add_core = SST remove_core = AVA }
+1450.1.1 = { citysize = 6100 }
+1500.1.1 = { citysize = 6300 }
+1510.1.1 = { owner = TAU controller = TAU add_core = TAU }
+1550.1.1 = { citysize = 7540 }
+1600.1.1 = { citysize = 8900 }
+1650.1.1 = { citysize = 9654 }
+1700.1.1 = { citysize = 10500 }
+1750.1.1 = { citysize = 11350 }
+1800.1.1 = { citysize = 12570 }

@@ -1,0 +1,23 @@
+# 2404 - Chaul
+
+owner = DLH
+controller = DLH
+culture = marathi
+religion = hinduism
+capital = "Chaul"
+trade_goods = tea
+hre = no
+base_tax = 2
+manpower = 1
+citysize = 4100
+add_core = DLH
+fort1 = yes
+discovered_by = nomad_group
+discovered_by = indian
+
+
+1600.1.1 = { citysize = 8200 }
+1650.1.1 = { citysize = 3653 }
+1700.1.1 = { citysize = 2700 }
+1750.1.1 = { citysize = 12100 } 
+1800.1.1 = { citysize = 18240 }

@@ -1,0 +1,17 @@
+# 2821 : Oyo
+
+capital = "Oyo-Ile"
+owner = OYO
+controller = OYO
+add_core = OYO
+citysize = 12000
+culture = yoruba
+religion = yoruba
+base_tax = 3
+manpower = 2
+trade_goods = livestock
+discovered_by = sudanese_tech
+discovered_by = sub_saharan
+hre = no
+trading_post = yes
+

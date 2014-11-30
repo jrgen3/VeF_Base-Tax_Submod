@@ -1,0 +1,15 @@
+# 2787 - Rano
+
+capital = "Rano"
+owner = KAN
+controller = KAN
+add_core = KAN
+citysize = 2000
+culture = hausa
+religion = sunni
+base_tax = 3
+manpower = 1
+trade_goods = millet
+discovered_by = sudanese_tech
+hre = no
+

@@ -1,0 +1,16 @@
+# 1166 - Meroe
+
+capital = "Meroe"
+owner = ALW
+controller = ALW
+add_core = ALW
+citysize =   3700
+culture = kongo
+religion = bantu
+base_tax = 2
+manpower = 1
+trade_goods = ebony
+discovered_by = tribal_african_tech 
+hre = no
+
+

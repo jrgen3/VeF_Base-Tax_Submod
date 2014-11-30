@@ -1,0 +1,23 @@
+# 2582 - Taozhou
+
+owner = YUN
+controller = YUN
+culture = chihan
+religion = confucianism
+capital = "Taozhou"
+trade_goods = grain
+hre = no
+base_tax = 2
+manpower = 4
+citysize = 3000
+add_core = YUN
+fort1 = yes
+discovered_by = chinese
+
+1500.1.1 = { citysize = 3000 }
+1550.1.1 = { citysize = 3000 }
+1600.1.1 = { citysize = 3000 }
+1650.1.1 = { citysize = 3000 }
+1700.1.1 = { citysize = 3000 }
+1750.1.1 = { citysize = 3000 }
+1800.1.1 = { citysize = 3000 }

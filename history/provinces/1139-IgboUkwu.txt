@@ -1,0 +1,15 @@
+# 1139 : Denkyria - autobuid script by Africa team and Penguintopia
+
+capital = "Axim"
+native_size =   70
+native_ferocity =   2
+native_hostileness =   7
+culture = aka
+religion = akan
+base_tax = 2
+manpower = 2
+trade_goods = palm
+discovered_by = sub_saharan 
+hre = no
+
+1000.1.1 = { add_permanent_province_modifier = { name = "niger_river_basin" duration = -1 }}

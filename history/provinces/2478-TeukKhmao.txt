@@ -1,0 +1,24 @@
+# 2478 - Teuk Khmao
+
+owner = KHM
+controller = KHM
+culture = khmer
+religion = buddhism
+capital = "Oc Eo"
+trade_goods = copper
+hre = no
+base_tax = 2
+manpower = 2
+citysize = 2500
+add_core = KHM
+fort1 = yes
+discovered_by = chinese
+
+
+1400.1.1 = { citysize = 2500 }
+1500.1.1 = { citysize = 2500 }
+1600.1.1 = { citysize = 2500 }
+1650.1.1 = { citysize = 2500 }
+1700.1.1 = { citysize = 2500 }
+1750.1.1 = { citysize = 2500 }
+1800.1.1 = { citysize = 2500 }

@@ -1,0 +1,24 @@
+# 2239 - Lucknow
+
+owner = DLH
+controller = DLH
+culture = bihari
+religion = hinduism
+capital = "Lucknow"
+trade_goods = sandalwood
+hre = no
+base_tax = 2
+manpower = 3
+citysize = 2000
+add_core = DLH
+discovered_by = chinese
+discovered_by = indian
+fort1 = yes
+
+
+1500.1.1 = { citysize = 4000 }
+1600.1.1 = { citysize = 4000 }
+1650.1.1 = { citysize = 4000 }
+1700.1.1 = { citysize = 4000 }
+1750.1.1 = { citysize = 4000 }
+1800.1.1 = { citysize = 4000 }

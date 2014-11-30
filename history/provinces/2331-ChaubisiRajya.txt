@@ -1,0 +1,24 @@
+# 2331 - Chaubisi Rajya
+
+owner = NPL
+controller = NPL
+culture = nepali
+religion = hinduism
+capital = "Ghurka"
+trade_goods = wool
+hre = no
+base_tax = 2
+manpower = 1
+citysize = 4000
+add_core = NPL
+discovered_by = indian
+discovered_by = nomad_group
+fort1 = yes
+
+
+1500.1.1 = { citysize = 4200 }
+1600.1.1 = { citysize = 4400 }
+1650.1.1 = { citysize = 4500 }
+1700.1.1 = { citysize = 4600 }
+1750.1.1 = { citysize = 4700 }
+1800.1.1 = { citysize = 4800 }

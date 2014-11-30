@@ -1,0 +1,39 @@
+# 2102 - Legnica
+owner = LGN
+controller = LGN
+culture = schlesian
+religion = catholic
+capital = "Legnica"
+trade_goods = copper
+hre = no
+base_tax = 3
+citysize = 6500
+manpower = 3
+fort1 = yes
+add_core = LGN
+add_core = POL
+add_core = BOH
+discovered_by = eastern
+discovered_by = indopersian
+discovered_by = scandinavian_tech
+discovered_by = western
+discovered_by = byzantine
+
+1335.1.1 = { remove_core = POL } # Treaty of Trentschin
+1380.1.1 = { owner = BOH controller = BOH remove_core = LGN }
+1436.7.5   = { revolt = {} controller = LGN } # Peace is signed in Jihlava
+1449.1.1   = { owner = BOH controller = BOH }
+1454.1.1   = { owner = LGN controller = LGN }
+1469.1.1 = { owner = HUN controller = HUN add_core = HUN }
+1490.4.6 = { 	owner = BOH controller = BOH } 
+1522.1.1   = { religion = protestant }
+1526.8.30  = { owner = HAB controller = HAB add_core = HAB }
+1550.1.1   = { barracks = yes }
+1574.1.1   = { temple = yes }
+1618.1.1   = { unrest = 5 } # The beginning of religious struggles
+1648.1.1   = { unrest = 0 }
+1694.1.1   = { unrest = 4 } # Religious oppositions
+1742.1.1   = { owner = PRU controller = PRU add_core = PRU }
+1750.1.1   = { tax_assessor = yes }
+1763.1.1   = { remove_core = HAB } # End of 3rd Silesian war
+1806.7.12  = { hre = no } # The Holy Roman Empire is dissolved

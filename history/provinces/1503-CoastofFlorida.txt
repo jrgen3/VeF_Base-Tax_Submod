@@ -1,0 +1,3 @@
+discovered_by = MUS
+1492.12.5 = { discovered_by = CAS }
+

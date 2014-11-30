@@ -1,0 +1,34 @@
+#1822 - Suzhou
+
+owner = YUN
+controller = YUN
+culture = chihan
+religion = confucianism
+capital = "Suzhou"
+trade_goods = silk
+hre = no
+base_tax = 5
+manpower = 3
+citysize = 250000
+add_core = YUN
+fort1 = yes
+discovered_by = chinese
+
+discovered_by = niitaka
+
+1366.10.1 = { owner = MNG controller = MNG add_core = MNG remove_core = YUN add_core = CSH }
+1450.1.1 = { citysize = 282500 }
+1500.1.1 = { citysize = 297500 }
+1505.1.1 = { trading_post = yes }
+1550.1.1 = { citysize = 312500 }
+1580.1.1 = { fine_arts_academy = yes }
+1600.1.1 = { citysize = 340000 }
+1645.9.9 = { controller = QNG }
+1650.1.1 = { citysize = 352500 }
+1661.6.1 = {	owner = QNG controller = QNG add_core = QNG remove_core = MNG } # The Qing Dynasty
+1675.1.1 = { controller = MNG }
+1680.1.1 = { controller = QNG }
+1700.1.1 = { citysize = 360000 }
+1740.1.1 = { tax_assessor = yes }
+1750.1.1 = { citysize = 390000 }
+1800.1.1 = { citysize = 415000 }

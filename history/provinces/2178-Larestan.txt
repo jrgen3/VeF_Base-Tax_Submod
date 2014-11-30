@@ -1,0 +1,36 @@
+#2178 - Larestan
+
+owner = ILK
+controller = ILK
+culture = persian
+religion = shiite
+capital = "Lar"
+trade_goods = grain
+hre = no
+base_tax = 2
+manpower = 1
+citysize = 2570
+add_core = ILK
+add_core = INJ
+fort1 = yes
+discovered_by = nomad_group
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = indopersian
+discovered_by = byzantine
+
+1000.1.1 = { add_permanent_province_modifier = { name = "tigris_river_basin" duration = -1 } }
+1309.1.1 = { unrest = 25 }
+1336.1.1 = { unrest = 0 owner = INJ controller = INJ remove_core = ILK } # collapse of Ilkhanate
+1353.6.1 = { owner = MZF controller = MZF add_core = MZF } # Conquered by Muzaffarids
+1500.1.1 = { citysize = 3150 }
+1516.8.24 = { owner = TUR controller = TUR add_core = TUR } # Part of the Ottoman Empire
+1550.1.1 = { citysize = 4200 }
+1600.1.1 = { citysize = 6321 }
+1650.1.1 = { citysize = 7005 }
+1700.1.1 = { citysize = 8635 }
+1750.1.1 = { citysize = 10700 }
+1771.1.1 = { unrest = 4 } # Ali Bey gained control of Syria, reconstituting the Mamluk state
+1772.1.1 = { unrest = 0 }
+1800.1.1 = { citysize = 14250 }

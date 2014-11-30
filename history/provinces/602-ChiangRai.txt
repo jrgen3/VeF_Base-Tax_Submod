@@ -1,0 +1,29 @@
+#602 - Chiang Rai
+owner = LNA
+controller = LNA
+culture = northern_thai
+religion = buddhism
+capital = "Chiang Rai"
+trade_goods = wool
+hre = no
+base_tax = 3
+manpower = 2
+citysize = 22500
+add_core = LNA
+discovered_by = chinese
+
+1450.1.1 = { citysize = 24500 }
+1500.1.1 = { citysize = 27800 }
+1526.1.1 = { unrest = 4 } # Political instability after King Phraya's death
+1550.1.1 = { citysize = 29654 }
+1558.1.1 = {	add_core = TAU unrest = 0 } # Burmese vassal
+1578.1.1 = { add_core = AYU owner = AYU controller = AYU } # Siamnese rule
+1600.1.1 = { citysize = 31240 }
+1631.1.1 = { owner = TAU controller = TAU } # Taungu conquered the eastern part of Lan Na
+1650.1.1 = { citysize = 33000 }
+1700.1.1 = { citysize = 35487 }
+1727.1.1 = { unrest = 6 } # Lan Na revolter against Taungu
+1732.1.1 = { unrest = 0 }
+1750.1.1 = { citysize = 37720 }
+1775.2.14 = {	owner = AYU controller = AYU add_core = AYU remove_core = TAU } # Conquered by the Siamese
+1800.1.1 = { citysize = 39750 }

@@ -1,0 +1,50 @@
+
+# $Author: Morkazar $
+
+#2663 - Bayreuth
+owner = ANS
+controller = ANS
+add_core = ANS
+culture = eastfranconian
+religion = catholic
+base_tax = 3
+trade_goods = grain
+manpower = 2
+fort1 = yes
+capital = "Bayreuth"
+hre = yes
+discovered_by = eastern
+discovered_by = scandinavian_tech
+discovered_by = indopersian
+discovered_by = western
+discovered_by = byzantine
+citysize = 5500
+
+1000.1.1 = {
+		add_permanent_province_modifier = {
+			name = rhine_river_basin
+			duration = -1
+		}
+}
+
+1430.6.30 = { religion = hussite }
+1436.7.6 = { religion = catholic } # Acceptance of the Compacts of Prague
+1450.1.1  = { citysize = 7000 }
+#1525.1.1  = { customs_house = yes }
+1540.1.1  = { trading_post = yes }
+1550.1.1  = { citysize = 12000 }
+1580.1.1  = { sheriffs_office = yes }
+1590.1.1  = { temple = yes }
+1600.1.1  = { citysize = 14000 }
+1620.1.1  = { sheriffs_office = yes }
+1650.1.1  = { citysize = 8000 }
+1700.1.1  = { citysize = 12000 }
+1720.1.1  = { courthouse = yes }
+1750.1.1  = { citysize = 14000 }
+1800.1.1  = { citysize = 15000 }
+1803.1.1  = {	owner = BAV
+		controller = BAV
+		add_core = BAV
+		remove_core = ANS
+	    } # Annexed by Bavaria
+1806.7.12 = { hre = no } # The Holy Roman Empire is dissolved

@@ -1,0 +1,22 @@
+# 2430 - Baghelkhand
+
+owner = ORI
+controller = ORI
+culture = avadhi
+religion = hinduism
+capital = "Bandhogarh"
+trade_goods = grain
+hre = no
+base_tax = 3
+manpower = 1
+citysize = 11000
+add_core = ORI
+fort1 = yes
+discovered_by = indian
+
+1500.1.1 = { citysize = 59800 }
+1600.1.1 = { citysize = 68570 }
+1650.1.1 = { citysize = 61110 }
+1700.1.1 = { citysize = 75424 }
+1750.1.1 = { citysize = 79600 }
+1800.1.1 = { citysize = 82540 }

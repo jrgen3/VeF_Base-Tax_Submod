@@ -1,0 +1,29 @@
+# 966 - Yabrin
+
+owner = NAJ
+controller = NAJ
+culture = bedouin_arabic
+religion = sunni
+capital = "Yabrin"
+trade_goods = tea
+hre = no
+base_tax = 2
+manpower = 1
+citysize = 25000
+add_core = NAJ
+fort1 = yes
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = indopersian
+discovered_by = ILK
+discovered_by = byzantine
+discovered_by = sudanese_tech 
+
+1450.1.1 = { citysize = 11200 }
+1500.1.1 = { citysize = 12088 }
+1550.1.1 = { citysize = 13150 }
+1600.1.1 = { citysize = 14805 }
+1650.1.1 = { citysize = 15999 }
+1700.1.1 = { citysize = 17120 }
+1750.1.1 = { citysize = 18564 }
+1800.1.1 = { citysize = 19870 }

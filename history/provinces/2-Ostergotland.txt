@@ -1,0 +1,50 @@
+#Östergötland, contains Norrköping, Linköping etc.
+# Manpower revision complete
+
+add_core = SWE
+owner = SWE
+controller = SWE
+culture = swedish
+religion = catholic
+hre = no
+base_tax = 3
+trade_goods = beer
+manpower = 2
+fort1 = yes
+blacksmith = yes
+granary = yes
+temple = yes
+capital = "Linköping"
+citysize = 1000 # Estimated
+discovered_by = eastern
+discovered_by = scandinavian_tech
+discovered_by = western
+discovered_by = byzantine
+
+1353.1.1   = { manpower = 2.25 add_province_modifier = { name = "province_black_death" duration = 3650 } set_province_flag = had_black_death } # Black Death
+1360.1.1   = { remove_province_modifier = province_black_death }
+1400.1.1   = { manpower = 2.5 }
+1487.1.1   = { revolt = { type = revolutionary_rebels size = 2 } controller = REB } # The Axelsson Tott Family
+1487.5.24  = { revolt = {} controller = SWE } # The Demise of the Axelsson Tott Family
+1497.3.13  = { controller = DAN } # Danish loyalists at Danish DoW
+1497.10.6  = { controller = SWE } # Hans I become King and Sweden a Danish Vassal
+1500.1.1   = { manpower = 2.75 }
+1501.8.1   = { controller = DAN } # Danish loyalists at Swedish DoW and breaking of vassalage
+1503.6.1   = { controller = SWE } # Retaken by Sweden
+# 1520.3.6   = { owner = DAN controller = DAN } # The Council accept Christian II as King
+# 1521.7.15  = { owner = SWE controller = SWE } # Liberated by locals and joins Gustav Eriksson Wasa
+1527.6.1   = { religion = protestant}
+1581.1.1   = { fort2 = yes } # Norrköpingshus
+1600.1.1   = { manpower = 2.8 }
+1618.1.1   = { fort3 = yes } # Johannisborg
+1619.1.1   = { weapons = yes } # De Besche
+1627.1.1   = { college = yes } # Gymnasium Lincopense
+1630.1.1   = { capital = "Norrköping" drydock = yes workshop = yes citysize = 2500 }
+1635.1.1   = { courthouse = yes } # minor court belonging to Svea Hovrätt
+1636.1.1   = { army_base = yes } # Östgöta infanteriregemente
+1650.1.1   = { manpower = 2.9 trading_post = yes }# major upswing in the grain belt
+1654.1.1   = { tax_assessor = yes } # Result of "The Great Reduction"
+1700.1.1   = { manpower = 3 fort4 = yes }
+#1730.1.1   = { customs_house = yes } # Due to the support of manufactories
+1750.1.1   = { manpower = 3.5 }
+1800.1.1   = { manpower = 3.5 }

@@ -1,0 +1,15 @@
+# 1163 : Nobatia
+
+capital = "Nobatia"
+owner = ALW
+controller = ALW
+add_core = ALW
+citysize = 1000
+culture = edo-igbo
+religion = yoruba
+base_tax = 2
+manpower = 1
+trade_goods = unknown
+discovered_by = sudanese_tech
+hre = no
+

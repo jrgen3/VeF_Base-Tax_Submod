@@ -1,0 +1,22 @@
+# 2411 - Rayalaseema
+
+owner = GOC
+controller = GOC
+culture = telegu
+religion = hinduism
+capital = "Penukonda"
+trade_goods = wool
+hre = no
+base_tax = 1
+manpower = 1
+citysize = 1100
+add_core = GOC
+fort1 = yes
+discovered_by = indian
+
+1500.1.1   = { citysize = 1834}
+1600.1.1   = { citysize = 3210 }
+1650.1.1   = { citysize = 3867 }
+1700.1.1   = { citysize = 4280 }
+1750.1.1   = { citysize = 5270 }
+1800.1.1   = { citysize = 5848 }

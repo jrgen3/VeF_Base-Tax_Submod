@@ -1,0 +1,24 @@
+# 2419 - Tanjore
+
+owner = MAD
+controller = MAD
+culture = tamil
+religion = hinduism
+capital = "Thanjavur"
+trade_goods = wool
+hre = no
+base_tax = 3
+manpower = 2
+citysize = 9010
+add_core = MAD
+fort1 = yes
+discovered_by = indian
+
+
+
+1500.1.1 = { citysize = 12260 }
+1600.1.1 = { citysize = 16188 }
+1650.1.1 = { citysize = 17850 }
+1700.1.1 = { citysize = 19120 }
+1750.1.1 = { citysize = 21555 }
+1800.1.1 = { citysize = 23800 }

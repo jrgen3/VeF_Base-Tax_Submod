@@ -1,0 +1,17 @@
+# 1184 : Monga
+
+capital = "Monga"
+owner = ZIM
+controller = ZIM
+add_core = ZIM
+citysize =   6000
+culture = shona
+religion = bantu
+base_tax = 3
+manpower = 1
+trade_goods = ivory
+discovered_by = sudanese_tech 
+discovered_by = tribal_african_tech 
+hre = no
+fort3 = yes
+

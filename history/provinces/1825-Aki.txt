@@ -1,0 +1,32 @@
+#1825 - Aki
+
+
+owner = MRI
+controller = MRI
+culture = japanese
+religion = shinto
+capital = "Hiroshima"
+trade_goods = fish
+hre = no
+base_tax = 2
+manpower = 2
+citysize = 6100
+add_core = MRI
+fort1 = yes
+discovered_by = chinese
+discovered_by = niitaka
+
+1400.1.1	= { manpower = 2.5 }
+1420.1.1	= { add_core = OUC }
+1466.1.1	= { add_core = MRI }
+1470.1.1	= { owner = OUC controller = OUC }
+1500.1.1	= { manpower = 3.5 }
+1520.1.1	= { add_core = AMA }
+1525.1.1	= { owner = MRI controller = MRI }
+1566.11.28	= { remove_core = AMA }
+1600.1.1	= { manpower = 4.5 }
+1603.3.24	= { owner = JAP controller = JAP add_core = JAP remove_core = TKG } # Tokugawa shogunate founded
+1650.1.1	= { manpower = 5 }
+1700.1.1	= { manpower = 6 }
+1750.1.1	= { manpower = 6 }
+1800.1.1	= { manpower = 5.75 }

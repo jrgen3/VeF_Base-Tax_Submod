@@ -1,0 +1,24 @@
+# 2469 - Kukhanor Surin
+
+owner = KHM
+controller = KHM
+culture = khmer
+religion = buddhism
+capital = "Khukhan"
+trade_goods = palm
+hre = no
+base_tax = 4
+manpower = 2
+citysize = 24200
+add_core = KHM
+discovered_by = chinese
+discovered_by = indian
+
+
+1400.1.1 = { citysize = 4900 }
+1500.1.1 = { citysize = 5870 }
+1600.1.1 = { citysize = 8988 }
+1650.1.1 = { citysize = 10103 }
+1700.1.1 = { citysize = 12400 }
+1750.1.1 = { citysize = 13987 }
+1800.1.1 = { citysize = 14885 }

@@ -1,0 +1,14 @@
+# 1211 : Vungu
+
+capital = "Vungu"
+owner = KON
+controller = KON
+add_core = KON
+citysize =   5000
+culture = somali
+religion = sunni
+base_tax = 2
+manpower = 2
+trade_goods = livestock
+discovered_by = sub_saharan
+hre = no

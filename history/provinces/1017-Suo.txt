@@ -1,0 +1,29 @@
+#1017 - Nagato
+# Manpower revision complete
+
+owner = OUC
+controller = OUC
+culture = japanese
+religion = shinto
+capital = "Yamaguchi"
+trade_goods = cloth
+hre = no
+base_tax = 2
+manpower = 2
+citysize = 10000
+add_core = OUC
+fort1 = yes
+discovered_by = chinese
+discovered_by = niitaka
+
+1400.1.1	= { manpower = 2.5 }
+1500.1.1	= { manpower = 3.5 }
+1542.1.1 	= { discovered_by = POR }
+1555.10.1   = { add_core = MRI }
+1557.4.3	= { owner = MRI controller = MRI remove_core = OUC }
+1600.1.1	= { manpower = 4.5 }
+1603.3.24	= { owner = JAP controller = JAP add_core = JAP remove_core = MRI } # Tokugawa shogunate founded
+1650.1.1	= { manpower = 5 }
+1700.1.1	= { manpower = 6 }
+1750.1.1	= { manpower = 6 }
+1800.1.1	= { manpower = 5.75 }

@@ -1,0 +1,23 @@
+# 2579 - Khara Narin Ula
+
+owner = YUN
+controller = YUN
+culture = mongol
+religion = confucianism
+capital = "Khara Narin Ula"
+trade_goods = cotton
+hre = no
+base_tax = 3
+manpower = 4
+citysize = 26000
+add_core = YUN
+fort1 = yes
+discovered_by = chinese
+
+1400.1.1 = { citysize = 26000 }
+1500.1.1 = { citysize = 26000 }
+1600.1.1 = { citysize = 26000 }
+1650.1.1 = { citysize = 26000 }
+1700.1.1 = { citysize = 26000 }
+1750.1.1 = { citysize = 26000 }
+1800.1.1 = { citysize = 26000 }

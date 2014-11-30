@@ -1,0 +1,41 @@
+#Carnatic
+
+owner = GOC
+controller = GOC
+culture = tamil
+religion = hinduism
+capital = "Gingee"
+trade_goods = spices
+hre = no
+base_tax = 3
+manpower = 4
+citysize = 15000
+add_core = KRK
+add_core = GOC
+fort1 = yes
+fort2 = yes
+trading_post = yes
+discovered_by = indian
+
+1336.1.1 = { owner = KRK controller = KRK remove_core = GOC }
+1400.1.1 = { owner = VIJ controller = VIJ add_core = VIJ }
+1450.1.1 = { citysize = 16000 }
+1498.1.1 = { discovered_by = POR }
+1500.1.1 = { citysize = 18000 }
+1543.1.1 = { controller = REB revolt = { size = 1 type = nationalist_rebels } }
+1545.1.1 = { controller = VIJ revolt = { } }
+1550.1.1 = { citysize = 30000 }
+1565.1.26 = {	owner = KRK controller = KRK }
+1600.1.1 = { citysize = 32000 }
+1649.1.1 = { controller = BIJ } # Conquered by Bijapur
+1649.12.1 = {	owner = BIJ } # Conquered by Bijapur
+1650.1.1 = { citysize = 33000 }
+1700.1.1 = { citysize = 24000 }
+1710.1.1 = {	owner = KRK controller = KRK capital = "Arcot" } # Nawab of Arcot / Carnatic
+1740.5.1 = { controller = MAR } # Arcot falls to the Marathas
+1743.3.1 = { controller = KRK } # Arcot falls to the Nizam
+1750.1.1 = { citysize = 26000 }
+1751.9.1 = { controller = GBR }	#Conquered by Clive
+1754.8.2 = { controller = KRK }
+1800.1.1 = { citysize = 20000 }
+1801.1.1 = { controller = GBR owner = GBR add_core = GBR }

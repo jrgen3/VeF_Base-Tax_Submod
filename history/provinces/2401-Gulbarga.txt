@@ -1,0 +1,23 @@
+# 2401 - Gulbarga
+
+owner = GOC
+controller = GOC
+culture = kannada
+religion = hinduism
+capital = "Gulbarga"
+trade_goods = wool
+hre = no
+base_tax = 3
+manpower = 1
+add_core = GOC
+citysize = 1870
+fort1 = yes
+discovered_by = indian
+
+1400.1.1 = { citysize = 4005 }
+1500.1.1 = { citysize = 4557 }
+1600.1.1 = { citysize = 5800 }
+1650.1.1 = { citysize = 6758 }
+1700.1.1 = { citysize = 7300 }
+1750.1.1 = { citysize = 8870 }
+1800.1.1 = { citysize = 9000 }

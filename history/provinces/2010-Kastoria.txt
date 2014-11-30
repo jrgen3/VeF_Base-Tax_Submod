@@ -1,0 +1,31 @@
+#1853 - Kozani
+owner = GVL
+controller = GVL
+culture = greek
+religion = orthodox
+capital = "Kastoria"
+trade_goods = wine
+hre = no
+base_tax = 4
+manpower = 2
+citysize = 26887
+fort1 = yes
+add_core = BYZ
+add_core = GVL
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = scandinavian_tech
+discovered_by = ottoman
+discovered_by = indopersian
+discovered_by = western
+discovered_by = byzantine
+
+1333.1.1	= { owner = BYZ controller = BYZ remove_core = GVL }
+1334.7.1	= { controller = SER }
+1335.1.1	= { controller = BYZ }
+1343.1.1	= { controller = SER }
+1349.1.1	= { owner = SER add_core = SER }
+1381.1.1	= { owner = BYZ controller = BYZ }
+1388.1.1	= { owner = TUR controller = TUR add_core = TUR }
+1431.1.1	= { remove_core = SER }
+1750.1.1	= { remove_core = BYZ add_core = GRE }

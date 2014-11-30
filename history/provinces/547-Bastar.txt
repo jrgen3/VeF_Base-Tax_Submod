@@ -1,0 +1,28 @@
+#547 - Bastar
+
+owner = ORI
+controller = ORI
+culture = oriya
+religion = hinduism
+capital = "Jagdalpur"
+trade_goods = iron
+hre = no
+base_tax = 2
+manpower = 4
+citysize = 5000
+add_core = BST
+add_core = ORI
+fort1 = yes
+discovered_by = indian
+
+1434.1.1 = { owner = BST controller = BST remove_core = ORI }
+1450.1.1 = { citysize = 10000 }
+1500.1.1 = { citysize = 11000 }
+1550.1.1 = { citysize = 14000 }
+1600.1.1 = { citysize = 12000 }
+1650.1.1 = { citysize = 12000 }
+1690.1.1  = { discovered_by = ENG }
+1700.1.1 = { citysize = 15000 }
+1707.5.12 = { discovered_by = GBR }
+1750.1.1 = { citysize = 17000 }
+1800.1.1 = { citysize = 20000 }

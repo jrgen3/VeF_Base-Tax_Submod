@@ -1,0 +1,13 @@
+# 1221 : Kordufan - autobuid script by Africa team and Penguintopia
+
+capital = "Ibeit"
+native_size =   50
+native_ferocity =   4
+native_hostileness =   9 
+culture = nubian
+religion = coptic
+base_tax = 1
+manpower = 0.5
+trade_goods = unknown
+hre = no
+

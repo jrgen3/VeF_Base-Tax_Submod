@@ -1,0 +1,36 @@
+#2140 - Isle of Man
+
+owner = ENG
+controller = ENG
+culture = scottish
+religion = catholic
+hre = no
+base_tax = 2
+trade_goods = fish
+manpower = 0.25
+capital = "Douglass"
+citysize = 2800
+add_core = ENG
+add_core = SCO
+fort1 = yes
+discovered_by = eastern
+discovered_by = scandinavian_tech
+discovered_by = western
+discovered_by = byzantine
+
+1309.1.1   = { set_variable = { which = province_stability value = -40.0 }} # Scottish War for Independence
+1328.3.17  = { set_variable = { which = province_stability value = 0 }} # End of Scottish War for Independence
+1450.1.1	= { manpower = 0.25 }
+1453.1.1	= { unrest = 5 } # Start of the War of the Roses (minor conflicts )
+1459.1.1 	= { owner = LAN controller = LAN add_core = LAN } # War breaks out
+1485.8.23	= { unrest = 0 owner = ENG controller = ENG remove_core = LAN } # Battle of Bosworth Field & the End of the War of the Roses
+1500.1.1	= { manpower = 0.25 }
+1575.1.1	= { courthouse = yes } # Estimated
+1600.1.1	= { manpower = 0.25 trading_post = yes fort2 = yes } # Estimated
+1603.3.24	= { owner = GBR controller = GBR add_core = GBR remove_core = ENG } # Union of the Crowns
+1650.1.1 	= { manpower = 0.25 }
+1700.1.1	= { manpower = 0.25 }
+1715.1.1	= { shipyard = yes }
+1750.1.1	= { manpower = 0.25 weaving_house = yes blacksmith = yes army_base = yes } # Manufactory, Workshop, Regimental Camp Estimated
+1775.1.1	= { sheriffs_office = yes } # Estimated
+1800.1.1	= { manpower = 0.5 }

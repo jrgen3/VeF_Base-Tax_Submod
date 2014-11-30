@@ -1,0 +1,22 @@
+# 2615 - Davangere
+
+owner = KOR
+controller = KOR
+culture = korean
+religion = confucianism
+capital = "Nyongbyon"
+trade_goods = grain
+hre = no
+base_tax = 2
+manpower = 4
+citysize = 2000
+add_core = KOR
+fort1 = yes
+discovered_by = chinese
+
+1400.1.1 = { citysize = 2000 }
+1500.1.1 = { citysize = 2000 }
+1600.1.1 = { citysize = 2000 }
+1700.1.1 = { citysize = 2000 }
+1750.1.1 = { citysize = 2000 }
+1800.1.1 = { citysize = 2000 }	

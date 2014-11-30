@@ -1,0 +1,36 @@
+# 2538 - Waichow
+
+owner = YUN
+controller = YUN
+culture = hanyu
+religion = confucianism
+capital = "Waichow"
+trade_goods = grain
+base_tax = 3
+manpower = 4
+citysize = 5500
+add_core = YDU
+add_core = YUN
+fort1 = yes
+discovered_by = chinese
+
+
+1366.10.1 = { owner = MNG controller = MNG add_core = MNG remove_core = YUN add_core = CSH }
+1450.1.1 = { citysize = 5500 }
+1500.1.1 = { citysize = 5500 }
+1550.1.1 = { citysize = 5500 }
+1600.1.1 = { citysize = 5500 }
+1618.1.1 = { controller = MCH }
+1626.1.1 = {	owner = MCH
+		add_core = MCH
+	   } # The Qing Dynasty
+1645.7.1  = {	owner = QNG
+		controller = QNG
+		add_core = QNG
+		remove_core = MCH
+	    } # The Qing Dynasty	   
+1650.1.1 = { citysize = 5500 }
+1662.1.1 = { remove_core = MNG } # The government in Taiwan surrendered
+1700.1.1 = { citysize = 5500 }
+1750.1.1 = { citysize = 5500 }
+1800.1.1 = { citysize = 5500 }

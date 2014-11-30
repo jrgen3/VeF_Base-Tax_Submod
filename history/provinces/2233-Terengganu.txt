@@ -1,0 +1,25 @@
+# 2233 - Terengganu
+
+owner = MLC
+controller = MLC
+culture = malayan
+religion = buddhism
+capital = "Terengganu"
+trade_goods = palm
+hre = no
+base_tax = 4
+manpower = 5
+citysize = 5000
+add_core = MLC
+discovered_by = chinese
+discovered_by = indian
+fort1 = yes
+
+1450.1.1 = { citysize = 5000 }
+1500.1.1 = { citysize = 5000 }
+1550.1.1 = { citysize = 5000 }
+1600.1.1 = { citysize = 5000 }
+1650.1.1 = { citysize = 5000 }
+1700.1.1 = { citysize = 5000 }
+1750.1.1 = { citysize = 5000 }
+1800.1.1 = { citysize = 5000 }

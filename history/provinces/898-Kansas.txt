@@ -1,0 +1,17 @@
+#898 - Kansas
+
+owner = PAW
+controller = PAW
+add_core = PAW
+culture = pawnee #Old plains people
+religion = totemism
+capital = "Kansas"
+trade_goods = unknown
+hre = no
+base_tax = 2
+manpower = 1
+citysize = 700
+discovered_by = north_american
+
+1000.1.1 = { add_permanent_province_modifier = { name = "missouri_river_basin" duration = -1 } }
+1541.1.1 = { discovered_by = SPA } # Francisco Vásquez de Coronado

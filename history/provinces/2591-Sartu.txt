@@ -1,0 +1,22 @@
+# 2591 - Sartu
+
+owner = YUN
+controller = YUN
+culture = manchu
+religion = confucianism
+capital = "Sartu"
+trade_goods = wool
+hre = no
+base_tax = 3
+manpower = 3
+citysize = 2000
+add_core = YUN
+fort1 = yes
+discovered_by = chinese
+
+1400.1.1 = { citysize = 2000 }
+1500.1.1 = { citysize = 2000 }
+1600.1.1 = { citysize = 2000 }
+1650.1.1 = { citysize = 2000 }
+1700.1.1 = { citysize = 2000 }
+1800.1.1 = { citysize = 2000 }

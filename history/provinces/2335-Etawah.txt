@@ -1,0 +1,24 @@
+# 2335 - Etawah
+
+owner = DLH
+controller = DLH
+culture = avadhi
+religion = hinduism
+capital = "Etawah"
+trade_goods = rice
+hre = no
+base_tax = 2
+manpower = 6
+citysize = 4000
+add_core = DLH
+fort1 = yes
+discovered_by = indian
+
+
+
+1500.1.1 = { citysize = 27111 }
+1600.1.1 = { citysize = 32450 }
+1650.1.1 = { citysize = 34288 }
+1700.1.1 = { citysize = 36800 }
+1750.1.1 = { citysize = 39550 }
+1800.1.1 = { citysize = 42100 }

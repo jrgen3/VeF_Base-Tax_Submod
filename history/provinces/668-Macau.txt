@@ -1,0 +1,40 @@
+#668 - Macau
+
+owner = YUN
+controller = YUN
+culture = cantonese
+religion = confucianism
+capital = "Macau"
+trade_goods = chinaware
+hre = no
+base_tax = 5
+manpower = 1
+citysize = 1900
+add_core = YUN
+discovered_by = chinese
+discovered_by = nomad_group
+discovered_by = niitaka
+
+1368.4.1 = { owner = MNG controller = MNG add_core = MNG remove_core = YUN add_core = CZH }
+1450.1.1 = { citysize = 2600 }
+1500.1.1 = { citysize = 3180 }
+1514.1.1 = { discovered_by = POR }
+1550.1.1 = { citysize = 6200 }
+# 1550.1.1 - Portuguese trading post
+1557.1.1 = { trading_post = yes } # Portuguese settlers
+1600.1.1 = { citysize = 7345 }
+1605.1.1 = { fort1 = yes }
+1650.1.1 = { citysize = 8100 } #customs_house = yes
+1662.1.1 = {
+	owner = CZH
+	controller = CZH
+	remove_core = MNG
+} # The Three Feudatories
+1670.1.1 = {	owner = POR
+	controller = POR
+	add_core = POR
+} # Leased by Portugal
+1700.1.1 = { citysize = 9564 }
+1750.1.1 = { citysize = 10457 }
+1760.1.1 = { tax_assessor = yes }
+1800.1.1 = { citysize = 13458 }

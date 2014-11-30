@@ -1,0 +1,31 @@
+#873 - Deschutes
+add_core = NEZ
+owner = NEZ
+controller = NEZ
+culture = shoshone
+religion = totemism 
+capital = "Deschutes" 
+trade_goods = unknown 
+hre = no 
+base_tax = 3 
+manpower = 1 
+discovered_by = north_american
+citysize = 1000
+
+1543.1.1   = { discovered_by = SPA } # Sighted by Spanish explorers
+1811.1.1 = {	owner = USA
+		controller = USA
+		citysize = 350
+		trade_goods = fur
+		religion = protestant
+		culture = american } #Fort Astoria
+1814.12.24 = {	owner = GBR
+		controller = GBR
+		citysize = 200
+		culture = english
+} # British control after the War of 1812
+1846.6.15 = {
+	owner = USA
+	controller = USA
+	add_core = USA
+	} # Treaty of Oregon sets border at 49th Parallel

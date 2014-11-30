@@ -1,0 +1,38 @@
+# 2283 - Vogtland
+
+owner = VOG
+controller = VOG  
+culture = eastfranconian
+religion = catholic
+capital = "Plauen"
+trade_goods = grain
+hre = yes
+base_tax = 3
+manpower = 3
+is_city = yes
+citysize = 9500
+fort1 = yes
+add_core = VOG
+discovered_by = eastern
+discovered_by = scandinavian_tech
+discovered_by = western
+discovered_by = byzantine
+
+1450.1.1  = { citysize = 12800 }
+1500.1.1  = { citysize = 15000 }
+1531.1.1  = { religion = protestant }
+1550.1.1  = { citysize = 18000 }
+1554.3.3  = { capital = "Weimar" }
+1572.1.1 = { owner = SAX controller = SAX add_core = SAX }
+1600.1.1  = { citysize = 19000 }
+1650.1.1  = { citysize = 15000 }
+1700.1.1  = { citysize = 17000 }
+1750.1.1  = { citysize = 17200 }
+1790.8.1  = { unrest = 5 } # Peasant revolt
+1791.1.1  = { unrest = 0 }
+1800.1.1  = { citysize = 16900 }
+1806.7.12 = { hre = no } # The Holy Roman Empire is dissolved
+1815.6.9  = {	owner = PRU
+		controller = PRU
+		add_core = PRU
+} # Congress of Vienna

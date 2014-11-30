@@ -1,0 +1,22 @@
+#2563 - Lu'an
+
+owner = YUN
+controller = YUN
+culture = chihan
+religion = confucianism
+capital = "Lu'an"
+trade_goods = cotton
+hre = no
+base_tax = 2
+manpower = 4
+citysize = 25000
+add_core = YUN
+fort1 = yes
+discovered_by = chinese
+
+1400.1.1 = { citysize = 25000 }
+1500.1.1 = { citysize = 25000 }
+1600.1.1 = { citysize = 25000 }
+1650.1.1 = { citysize = 25000 }
+1700.1.1 = { citysize = 25000 }
+1800.1.1 = { citysize = 25000 }

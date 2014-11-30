@@ -1,0 +1,25 @@
+#583 - Hsenwi
+owner = YUN
+controller = YUN
+culture = shan
+religion = buddhism
+capital = "Lashio"
+trade_goods = cinnamon
+hre = no
+base_tax = 2
+manpower = 1
+fort1 = yes
+citysize = 4500
+add_core = YUN
+discovered_by = chinese
+discovered_by = indian
+
+1368.4.1 = { owner = SST controller = SST add_core = SST remove_core = YUN }
+1450.1.1 = { citysize = 4900 }
+1500.1.1 = { citysize = 5200 }
+1555.1.1 = {	owner = TAU controller = TAU add_core = TAU } # The Shan dynasty is overthrown
+1600.1.1 = { citysize = 6870 }
+1650.1.1 = { citysize = 8540 }
+1700.1.1 = { citysize = 9932 }
+1750.1.1 = { citysize = 10500 }
+1800.1.1 = { citysize = 12348 }

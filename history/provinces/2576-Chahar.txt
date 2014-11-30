@@ -1,0 +1,22 @@
+# 2576 - Chahar
+
+owner = YUN
+controller = YUN
+culture = khitan
+religion = confucianism
+capital = "Chahar"
+trade_goods = fish
+hre = no
+base_tax = 2
+manpower = 2
+citysize = 2000
+fort1 = yes
+add_core = YUN
+discovered_by = chinese
+
+1400.1.1  = { citysize = 2000 }
+1500.1.1  = { citysize = 2000 }
+1600.1.1  = { citysize = 2000 }
+1700.1.1  = { citysize = 2000 }
+1750.1.1  = { citysize = 2000 }
+1800.1.1  = { citysize = 2000 }

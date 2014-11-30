@@ -1,0 +1,3 @@
+discovered_by = chinese
+discovered_by = pacific_islander
+1521.1.1 = { discovered_by = SPA }

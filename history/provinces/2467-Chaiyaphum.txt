@@ -1,0 +1,32 @@
+#2467 - Chaiyaphum
+
+owner = SUK
+controller = SUK
+culture = central_thai
+religion = buddhism
+capital = "Chaiyaphum"
+trade_goods = sandalwood
+hre = no
+base_tax = 5
+manpower = 2
+citysize = 23500
+add_core = AYU
+add_core = SUK
+fort1 = yes
+discovered_by = chinese
+discovered_by = indian
+
+1351.1.1 = { owner = AYU controller = AYU remove_core = SUK }
+1450.1.1 = { citysize = 76500 }
+1500.1.1 = { citysize = 82000 }
+1550.1.1 = { citysize = 96500 }
+1564.2.1 = { add_core = TAU } # Burmese vassal
+1584.5.3 = { remove_core = TAU } 
+1600.1.1 = { citysize = 81400 }
+1650.1.1 = { citysize = 40570 }
+1700.1.1 = { citysize = 46100 }
+1750.1.1 = { citysize = 49750 }
+1760.1.1 = { citysize = 41222 } # Sacked
+1767.4.1 = { unrest = 7 } # The Ayutthaya kingdom began to crumble
+1774.1.1 = { unrest = 0 }
+1800.1.1 = { citysize = 44880 }

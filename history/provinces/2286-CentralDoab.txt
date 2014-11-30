@@ -1,0 +1,25 @@
+# 2286 - Central Doab
+
+owner = DLH
+controller = DLH
+culture = rajput
+religion = hinduism
+capital = "Mathura"
+trade_goods = grain
+hre = no
+base_tax = 3
+manpower = 3
+citysize = 5540
+add_core = DLH
+discovered_by = indian
+discovered_by = nomad_group
+fort1 = yes
+
+
+1500.1.1 = { citysize = 6222 }
+1550.1.1 = { citysize = 7354 }
+1600.1.1 = { citysize = 8500 }
+1650.1.1 = { citysize = 9100 }
+1700.1.1 = { citysize = 10578 }
+1750.1.1 = { citysize = 11300 }
+1800.1.1 = { citysize = 12487 }

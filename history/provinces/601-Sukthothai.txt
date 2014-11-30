@@ -1,0 +1,29 @@
+#601 - Sukthothai
+
+owner = SUK
+controller = SUK
+culture = northern_thai
+religion = buddhism
+capital = "Sukhothai"
+trade_goods = rice
+hre = no
+base_tax = 2
+manpower = 1
+citysize = 7870
+add_core = SUK
+discovered_by = chinese
+discovered_by = indian
+
+
+1400.1.1 = { citysize = 8000 }
+1500.1.1 = { citysize = 8670 }
+1530.1.1 = { owner = AYU controller = AYU } # Completely annexed by Ayutthaya
+1564.2.1 = { add_core = TAU } # Burmese vassal
+1584.5.3 = { remove_core = TAU }
+1600.1.1 = { citysize = 11000 }
+1650.1.1 = { citysize = 12340 }
+1700.1.1 = { citysize = 13830 }
+1750.1.1 = { citysize = 14000 }
+1767.4.1 = { unrest = 7 } # The fall of Ayutthaya
+1774.1.1 = { unrest = 0 }
+1800.1.1 = { citysize = 15253 }

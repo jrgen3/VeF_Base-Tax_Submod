@@ -1,0 +1,23 @@
+# 2693 - Baglana
+
+owner = DLH
+controller = DLH
+culture = marathi
+religion = hinduism
+capital = "Mayuragiri"
+trade_goods = grain
+hre = no
+base_tax = 5
+manpower = 15
+citysize = 55000
+add_core = DLH
+fort1 = yes
+discovered_by = indian
+
+
+1500.1.1 = { citysize = 34580 }
+1600.1.1 = { citysize = 39860 }
+1650.1.1 = { citysize = 31000 }
+1700.1.1 = { citysize = 43215 }
+1750.1.1 = { citysize = 45700 }
+1800.1.1 = { citysize = 47870 }

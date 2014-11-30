@@ -1,0 +1,22 @@
+# 2592 - Gyeongju
+
+owner = KOR
+controller = KOR
+culture = korean
+religion = confucianism
+capital = "Gyeongju"
+trade_goods = opium
+hre = no
+base_tax = 2
+manpower = 3
+citysize = 1500
+add_core = KOR
+fort1 = yes
+discovered_by = chinese
+
+1400.1.1 = { citysize = 1500 }
+1500.1.1 = { citysize = 1500 }
+1600.1.1 = { citysize = 1500 }
+1700.1.1 = { citysize = 1500 }
+1750.1.1 = { citysize = 1500 }
+1800.1.1 = { citysize = 1500 }

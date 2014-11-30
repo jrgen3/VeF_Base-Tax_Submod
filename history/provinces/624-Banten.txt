@@ -1,0 +1,23 @@
+#624 - Banten
+owner = SUN
+controller = SUN
+add_core = SUN
+culture = sulawesi
+religion = hinduism
+capital = "Serang"
+trade_goods = spices
+hre = no
+base_tax = 6
+manpower = 4
+discovered_by = MAJ
+citysize = 1000
+
+# Banten became an independent sultanate
+1552.1.1  = {	discovered_by = BAN owner = BAN controller = BAN citysize = 48775 add_core = BAN }
+1600.1.1  = { citysize = 49505 }
+1602.1.1  = { discovered_by = ENG } # English settlement
+1650.1.1  = { citysize = 51105 }
+1700.1.1  = { citysize = 52700 }
+1707.5.12 = { discovered_by = GBR }
+1750.1.1  = { citysize = 53430 } 
+1800.1.1  = { citysize = 55465 }

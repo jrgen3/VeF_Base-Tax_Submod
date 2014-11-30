@@ -1,0 +1,29 @@
+# 2468 - Nongbua Lamphu
+
+owner = SUK
+controller = SUK
+culture = northern_thai
+religion = buddhism
+capital = "Nongbua Lamphu"
+trade_goods = palm
+hre = no
+base_tax = 3
+manpower = 2
+citysize = 4200
+add_core = SUK
+discovered_by = chinese
+discovered_by = indian
+
+
+
+1351.1.1 = { owner = AYU controller = AYU add_core = AYU remove_core = SUK }
+1450.1.1 = { citysize = 4900 }
+1500.1.1 = { citysize = 5870 }
+1550.1.1 = { citysize = 7240 }
+1564.2.1 = { add_core = TAU } # Burmese vassal
+1584.5.3 = { remove_core = TAU }
+1600.1.1 = { citysize = 8988 }
+1650.1.1 = { citysize = 10103 }
+1700.1.1 = { citysize = 12400 }
+1750.1.1 = { citysize = 13987 }
+1800.1.1 = { citysize = 14885 }

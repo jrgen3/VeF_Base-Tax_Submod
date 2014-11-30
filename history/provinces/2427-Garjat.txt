@@ -1,0 +1,24 @@
+# 2427 - Garjat
+
+owner = ORI
+controller = ORI
+culture = oriya
+religion = hinduism
+capital = "Kalahandi"
+trade_goods = grain
+hre = no
+base_tax = 3
+manpower = 1
+citysize = 5000
+add_core = ORI
+fort1 = yes
+discovered_by = indian
+
+
+1400.1.1  = { citysize = 6910 }
+1500.1.1  = { citysize = 7548 }
+1600.1.1  = { citysize = 10210 }
+1650.1.1  = { citysize = 10243 }
+1700.1.1  = { citysize = 14010 }
+1750.1.1  = { citysize = 15882 }
+1800.1.1  = { citysize = 16522 }

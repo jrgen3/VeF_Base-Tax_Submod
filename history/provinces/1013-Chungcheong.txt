@@ -1,0 +1,34 @@
+#1013 - Chungcheong
+# Manpower revision complete
+
+owner = KOR
+controller = KOR
+culture = korean
+religion = confucianism
+capital = "Gongju"
+trade_goods = fish
+hre = no
+base_tax = 2
+manpower = 3.75
+citysize = 10000
+add_core = KOR
+fort1 = yes
+discovered_by = chinese
+discovered_by = niitaka
+
+1400.1.1   = { manpower = 4.5 }
+1500.1.1   = { manpower = 5 }
+1592.6.6   = { controller = JAP unrest = 5 } # Japanese invasion - Battle of Cheongju
+1593.6.10  = { controller = KOR unrest = 0 } # With Chinese help the Japanese are driven back
+1597.9.30  = { controller = JAP unrest = 5 } # Japanese invasion - 2nd Battle of Cheongju
+1597.11.1  = { controller = KOR unrest = 0 } # the Japanese retreat south
+1600.1.1   = { manpower = 6.25 }
+1637.1.1   = { add_core = MNG } # Tributary of Qing China
+1640.1.1   = { sheriffs_office = yes }
+1644.1.1   = { add_core = MCH remove_core = MNG } # Part of the Manchu empire
+1645.7.1   = { add_core = QNG remove_core = MCH }
+1650.1.1   = { manpower = 6.25 }
+1653.1.1   = { discovered_by = NED } # Hendrick Hamel
+1700.1.1   = { manpower = 7.8 }
+1750.1.1   = { manpower = 8.75 }
+1800.1.1   = { manpower = 9.3 }

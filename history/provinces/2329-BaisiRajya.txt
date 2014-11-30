@@ -1,0 +1,25 @@
+# 2329 - Baisi Rajya
+
+owner = NPL
+controller = NPL
+culture = nepali
+religion = hinduism
+capital = "Jumbla"
+trade_goods = wool
+hre = no
+base_tax = 2
+manpower = 1
+citysize = 1500
+add_core = NPL
+fort1 = yes
+discovered_by = indian
+
+
+
+1500.1.1 = { citysize = 1700 }
+1550.1.1 = { citysize = 1800 }
+1600.1.1 = { citysize = 1900 }
+1650.1.1 = { citysize = 2000 }
+1700.1.1 = { citysize = 2500 }
+1750.1.1 = { citysize = 3000 }
+1800.1.1 = { citysize = 4000 }

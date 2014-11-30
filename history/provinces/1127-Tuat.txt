@@ -1,0 +1,21 @@
+# 1127 : Tuat - autobuid script by Africa team and Penguintopia
+# Manpower revision complete
+
+capital = "Adrar"
+native_size =   30
+native_ferocity =   4
+native_hostileness =   9
+culture = tuareg
+religion = sunni
+base_tax = 1
+manpower = 0.1
+trade_goods = unknown
+hre = no
+
+1500.1.1   = { manpower = 0.1 }
+1555.1.1   = { discovered_by = MOR owner = MOR controller = MOR add_core = MOR citysize = 3000 trade_goods = salt } # Moroccans occupy oasis of Tawat
+1600.1.1   = { manpower = 0.1 }
+1650.1.1   = { manpower = 0.1 }
+1700.1.1   = { manpower = 0.1 }
+1750.1.1   = { manpower = 0.1 }
+1800.1.1   = { manpower = 0.2 }

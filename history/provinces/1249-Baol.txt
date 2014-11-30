@@ -1,0 +1,14 @@
+# 1249 : Baol
+
+capital = "Baol"
+owner = JOL
+controller = JOL
+add_core = JOL
+culture = edo-igbo
+religion = yoruba
+base_tax = 1
+manpower = 0.5
+trade_goods = millet
+discovered_by = sub_saharan 
+hre = no
+

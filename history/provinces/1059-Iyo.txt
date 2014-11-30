@@ -1,0 +1,30 @@
+#Author: Morkazar
+#1059 - Iyo
+# Manpower revision complete
+
+owner = KNO
+controller = KNO
+culture = japanese
+religion = shinto
+capital = "Matsuyama"
+trade_goods = gems
+hre = no
+base_tax = 3
+manpower = 2
+citysize = 15650
+add_core = KNO
+fort1 = yes
+discovered_by = chinese
+discovered_by = niitaka
+
+1400.1.1	= { manpower = 2.5 }
+1500.1.1	= { manpower = 3.5 }
+1542.1.1	= { discovered_by = POR }
+1564.1.1	= { owner = HJO controller = HJO add_core = HJO remove_core = KNO } # Battle of Konodai
+1590.8.10	= { remove_core = HJO add_core = TKG owner = TKG controller = TKG }
+1600.1.1	= { manpower = 4.5 }
+1603.3.24	= { owner = JAP controller = JAP add_core = JAP remove_core = TKG } # Tokugawa shogunate founded
+1650.1.1	= { manpower = 5 }
+1700.1.1	= { manpower = 6 }
+1750.1.1	= { manpower = 6 }
+1800.1.1	= { manpower = 5.75 }

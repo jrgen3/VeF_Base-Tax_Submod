@@ -1,0 +1,21 @@
+#1088 - Hohenlohe
+
+owner = HLO
+controller = HLO
+add_core = HLO
+
+culture = alemannic
+religion = catholic
+capital = "Dunno"
+trade_goods = grain
+hre = yes
+base_tax = 3
+manpower = 1
+
+is_city = yes
+
+discovered_by = eastern
+discovered_by = scandinavian_tech
+discovered_by = indopersian
+discovered_by = western
+discovered_by = byzantine

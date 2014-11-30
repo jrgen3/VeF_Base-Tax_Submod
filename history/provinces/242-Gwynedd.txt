@@ -1,0 +1,36 @@
+#242 - Gwynedd
+
+owner = ENG
+controller = ENG
+culture = welsh
+religion = catholic
+hre = no
+base_tax = 2
+trade_goods = wool
+manpower = 1
+capital = "Caernarvon"
+citysize = 1000
+add_core = ENG
+add_core = WLS 
+fort1 = yes
+discovered_by = eastern
+discovered_by = scandinavian_tech
+discovered_by = western
+discovered_by = byzantine
+
+1309.1.1   = { set_variable = { which = province_stability value = -40.0 }} # Scottish War for Independence
+1328.3.17  = { set_variable = { which = province_stability value = 0 }} # End of Scottish War for Independence
+1349.1.1	= { manpower = 1 add_province_modifier = { name = "province_black_death" duration = 3650 } set_province_flag = had_black_death } # Black Death
+1360.1.1	= { remove_province_modifier = province_black_death }
+1400.1.1	= { owner = WLS controller = WLS manpower = 0.75 } # Welsh independence under Owain Glyndwr
+1415.1.1	= { owner = ENG controller = ENG } # English rule is restored
+1453.1.1	= { unrest = 5 } # Start of the War of the Roses (minor conflicts )
+1459.1.1 	= { owner = LAN controller = LAN add_core = LAN } # War breaks out
+1485.8.23	= { unrest = 0 owner = ENG controller = ENG remove_core = LAN } # Battle of Bosworth Field & the End of the War of the Roses
+1500.1.1	= { manpower = 1 }
+1600.1.1	= { fort2 = yes manpower = 1 }
+1603.3.24	= { owner = GBR controller = GBR add_core = GBR remove_core = ENG } # Union of the Crowns
+1650.1.1  	= { manpower = 1 }
+1700.1.1  	= { manpower = 1 trading_post = yes } 
+1750.1.1  	= { religion = reformed manpower = 1 }
+1800.1.1  	= { manpower = 2 }

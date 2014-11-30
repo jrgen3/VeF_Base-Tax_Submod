@@ -1,0 +1,26 @@
+# 2462 - Moulmein
+
+owner = PEG
+controller = PEG
+culture = mon
+religion = buddhism
+capital = "Moulmein"
+trade_goods = palm
+hre = no
+base_tax = 4
+manpower = 3
+citysize = 30000
+add_core = PEG
+discovered_by = chinese
+discovered_by = indian
+
+
+1400.1.1 = { citysize = 2750 }
+1500.1.1 = { citysize = 3300 }
+1600.1.1 = { citysize = 4726 }
+1650.1.1 = { citysize = 5540 }
+1700.1.1 = { citysize = 5980 }
+1750.1.1 = { citysize = 5740 }
+1800.1.1 = { citysize = 6800 }
+1811.1.1 = { unrest = 5 } # The Siamese-Cambodian Rebellion
+1812.1.1 = { unrest = 0 }

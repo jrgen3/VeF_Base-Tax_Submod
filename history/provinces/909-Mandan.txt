@@ -1,0 +1,16 @@
+#909 - Mandan
+
+culture = nakota
+religion = totemism
+capital = "Mandan"
+trade_goods = unknown
+hre = no
+base_tax = 2
+manpower = 1
+native_size = 35
+native_ferocity = 2
+native_hostileness = 9
+discovered_by = north_american
+
+1000.1.1 = { add_permanent_province_modifier = { name = "missouri_river_basin" duration = -1 } }
+1732.1.1 = { discovered_by = FRA } # La Vérendrye

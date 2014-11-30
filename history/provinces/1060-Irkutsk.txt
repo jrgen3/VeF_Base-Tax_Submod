@@ -1,0 +1,19 @@
+#1060 - Irkutsk
+# Manpower revision complete
+
+culture = mongol
+religion = tengri
+capital = "Irkutsk"
+trade_goods = unknown
+hre = no
+native_size = 10
+native_ferocity = 1
+native_hostileness = 3
+discovered_by = nomad_group
+
+1652.1.1   = { manpower = 0.1 base_tax = 1 discovered_by = RUS owner = RUS controller = RUS religion = orthodox culture = russian citysize = 388 trade_goods = fish }
+1677.1.1   = { add_core = RUS citysize = 1005 }
+1686.1.1   = { fort1 = yes }
+1700.1.1   = { manpower = 0.1 }
+1750.1.1   = { manpower = 0.1 }
+1800.1.1   = { manpower = 0.1 }

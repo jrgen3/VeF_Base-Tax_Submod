@@ -1,0 +1,23 @@
+# 2417 - MAdurai
+
+owner = MAD
+controller = MAD
+culture = tamil
+religion = hinduism
+capital = "Madurai"
+trade_goods = grain
+hre = no
+base_tax = 3
+manpower = 2
+citysize = 1100
+add_core = MAD
+fort1 = yes
+discovered_by = indian
+
+
+1500.1.1 = { citysize = 1300 }
+1600.1.1 = { citysize = 1400 }
+1650.1.1 = { citysize = 1500 }
+1700.1.1 = { citysize = 1600 }
+1750.1.1 = { citysize = 1700 }
+1800.1.1 = { citysize = 1800 }

@@ -1,0 +1,27 @@
+#149 - Thrace
+# Manpower revision complete
+
+owner = BYZ
+controller = BYZ
+culture = greek
+religion = orthodox
+capital = "Adrianople"
+trade_goods = wool
+hre = no
+base_tax = 4
+manpower = 1
+citysize = 13500
+fort1 = yes
+add_core = BYZ
+discovered_by = nomad_group
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = scandinavian_tech
+discovered_by = ottoman
+discovered_by = indopersian
+discovered_by = western
+discovered_by = byzantine
+
+1365.1.1	= { controller = TUR }
+1371.7.1	= { owner = TUR add_core = TUR }
+1750.1.1	= { remove_core = BYZ add_core = GRE }

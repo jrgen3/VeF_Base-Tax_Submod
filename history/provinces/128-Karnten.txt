@@ -1,0 +1,40 @@
+#128 - Kärnten
+# Manpower revision complete
+
+owner = CAR
+controller = CAR
+add_core = CAR
+add_core = STY
+add_core = HAB
+culture	= austrian
+religion = catholic
+base_tax = 4
+trade_goods = silver
+manpower = 1.5
+fort1 = yes
+capital = "Klagenfurt" 
+citysize = 3000
+hre = yes
+discovered_by = eastern
+discovered_by = scandinavian_tech
+discovered_by = indopersian
+discovered_by = western
+discovered_by = byzantine
+
+
+1335.1.1   = { owner = HAB controller = HAB }
+1349.1.1   = { manpower = 1.25 add_province_modifier = { name = "province_black_death" duration = 3650 } set_province_flag = had_black_death } # Black Death
+1360.1.1   = { remove_province_modifier = province_black_death }
+1400.1.1   = { manpower = 1 }
+1452.1.1   = { owner = STY controller = STY }
+1457.11.24 = { owner = HAB controller = HAB remove_core = STY }
+1500.1.1   = { manpower = 1.5 }
+1525.5.1   = { unrest = 2 } # Farmer insurrections 
+1526.1.1   = { unrest = 0 }
+1578.1.1   = { fort2 = yes }
+1600.1.1   = { manpower = 2 }			
+1650.1.1   = { manpower = 1.8 }
+1700.1.1   = { manpower = 2 }
+1750.1.1   = { manpower = 2.1 }
+1800.1.1   = { manpower = 2.25 }
+1806.7.12  = { hre = no } # The Holy Roman Empire is dissolved

@@ -1,0 +1,16 @@
+# 2786 : Kano
+
+capital = "Kano"
+owner = KAN
+controller = KAN
+add_core = KAN
+citysize = 30000
+culture = hausa
+religion = sunni
+base_tax = 6
+manpower = 4
+trade_goods = cotton
+discovered_by = sudanese_tech
+discovered_by = muslim 
+hre = no
+

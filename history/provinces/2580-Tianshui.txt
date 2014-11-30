@@ -1,0 +1,22 @@
+# 2580 - Tianshui
+
+owner = YUN
+controller = YUN
+culture = chihan
+religion = confucianism
+capital = "Tianshui"
+trade_goods = wool
+hre = no
+base_tax = 2
+manpower = 2
+citysize = 1200
+fort1 = yes
+add_core = YUN
+discovered_by = chinese
+
+1400.1.1  = { citysize = 1200 }
+1500.1.1  = { citysize = 1200 }
+1600.1.1  = { citysize = 1200 }
+1700.1.1  = { citysize = 1200 }
+1750.1.1  = { citysize = 1200 }
+1800.1.1  = { citysize = 1200 }

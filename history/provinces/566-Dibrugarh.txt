@@ -1,0 +1,44 @@
+#566 - Assam
+
+owner = ASS
+controller = ASS
+culture = assamese
+religion = buddhism
+capital = "Dibrugarh"
+trade_goods = cloth
+hre = no
+base_tax = 2
+manpower = 4
+citysize = 20000
+add_core = ASS
+fort1 = yes
+discovered_by = nomad_group
+discovered_by = chinese
+discovered_by = indian
+
+1450.1.1 = { citysize = 24000 }
+1500.1.1 = { citysize = 28000 }
+1540.1.1 = { capital = "Garhgaon" }
+1550.1.1 = { citysize = 35000 }
+1600.1.1 = { citysize = 40000 }
+1627.1.1 = { discovered_by = POR }
+1650.1.1 = { citysize = 54000 }
+1700.1.1 = { citysize = 30000 }
+1707.1.1 = { capital = Rangpur }
+1750.1.1 = { citysize = 35000 }
+1769.9.15 = { revolt = { type = revolutionary_rebels size = 1 name = "Moran Rebels" leader = "Ragh Neog" } } # Moamoria rebellion
+1769.11.21 = { controller = REB } #Capital falls to rebels, King placed under arrest
+1770.4.11 = { controller = ASS revolt = { } unrest = 15 } #Assamese Nobles with aid from Kuranganayani expel the rebel leaders. Rebellion continues in the countryside
+1783.4.1 = { citysize = 33000 } #Rebels strike at the capital
+1788.1.19 = { revolt = { type = revolutionary_rebels size = 1 name = "Moran Rebels"  } capital = "Jorhat" } #Maomoria rebellion
+1792.11.24 = { revolt = { } unrest = 0 } #Rebels cleared by Thomas Welsh of the EIC
+1800.1.1 = { citysize = 30000 }
+1817.3.27 = { controller = TAU }
+1817.4.1 = { controller = ASS }
+1819.3.11 = { controller = TAU }
+1820.1.27 = { controller = ASS }
+1821.3.1 = { controller = TAU }
+1821.12.1 = { controller = ASS }
+1822.4.1 = { controller = TAU }
+1822.7.1 = { owner = TAU }
+1826.1.1 = { owner = ASS controller = ASS }

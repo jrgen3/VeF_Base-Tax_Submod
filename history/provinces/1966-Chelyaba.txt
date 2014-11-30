@@ -1,0 +1,29 @@
+#1966 - Chelyaba
+
+owner = GOL
+controller = GOL
+capital = "Chelyaba"
+culture = nogai
+religion = tengri
+trade_goods = fur
+hre = no
+base_tax = 1
+manpower = 0.25
+citysize = 1840
+add_core = GOL
+add_core = SIB
+discovered_by = nomad_group
+fort1 = yes
+
+1400.1.1   = { manpower = 0.25 }
+1468.1.1   = { owner = SIB controller = SIB discovered_by = SIB citysize = 2200 } # Sibir Khanate formed from northern Uzbek lands
+1500.1.1   = { manpower = 0.25 }
+1582.10.23 = { discovered_by = RUS owner = RUS controller = RUS add_core = RUS remove_core = SIB } # Yermak Timofeevich
+1600.1.1   = { manpower = 0.25 }
+1650.1.1   = { manpower = 0.25 }
+1700.1.1   = { manpower = 0.35 }
+1736.1.1   = { capital = "Chelyabinsk" culture = russian religion = orthodox }
+1750.1.1   = { manpower = 0.4 }
+1773.9.13  = { revolt = { type = anti_tax_rebels size = 1 name = "Yemelyan Pugachev" } controller = REB unrest = 6 } # Pugachev rebellion
+1775.2.1   = { revolt = {} controller = RUS unrest = 0 } # Pugachev is captured
+1800.1.1   = { manpower = 0.5 }

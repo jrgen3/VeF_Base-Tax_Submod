@@ -1,0 +1,5 @@
+#1950 - Meghalaya
+
+discovered_by = nomad_group
+discovered_by = chinese
+discovered_by = indian

@@ -1,0 +1,34 @@
+#671 - Changsha
+
+owner = YUN
+controller = YUN
+culture = cantonese
+religion = confucianism
+capital = "Changsha"
+trade_goods = silk
+hre = no
+base_tax = 4
+manpower = 5
+citysize = 79800
+add_core = YUN
+fort1 = yes
+discovered_by = chinese
+
+
+1000.1.1   = { add_permanent_province_modifier = { name = "yangtze_river_basin" duration = -1 } }
+1363.5.1 = { owner = MNG controller = MNG add_core = MNG remove_core = YUN add_core = CXI }
+1450.1.1 = { citysize = 82450 }
+1490.1.1 = { trading_post = yes }
+1500.1.1 = { citysize = 89700 }
+1550.1.1 = { citysize = 93450 }
+1600.1.1 = { citysize = 102888 }
+1630.1.1 = { fine_arts_academy = yes }
+1643.1.1 = { owner = CXI controller = CXI } # The Xi dynasty of Zhang Xianzhong
+1647.1.2 = {	owner = QNG controller = QNG add_core = QNG } # The Qing Dynasty
+1650.1.1 = { citysize = 96500 }
+1662.1.1 = { remove_core = MNG }
+1674.1.1 = { controller = CZH }
+1679.1.1 = { controller = QNG }
+1700.1.1 = { citysize = 113420 }
+1750.1.1 = { citysize = 118711 }
+1800.1.1 = { citysize = 124500 }

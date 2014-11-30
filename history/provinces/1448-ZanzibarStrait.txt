@@ -1,0 +1,4 @@
+# 1448 : Zanzibar Strait - autobuid script by Africa team and Penguintopia
+discovered_by = sudanese_tech
+discovered_by = tribal_african_tech
+discovered_by = muslim

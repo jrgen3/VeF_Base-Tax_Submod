@@ -1,0 +1,23 @@
+# 2360 - Bhilsa
+
+owner = DLH
+controller = DLH
+culture = bihari
+religion = hinduism
+capital = "Bhelsa"
+trade_goods = rice
+hre = no
+base_tax = 3
+manpower = 9
+citysize = 3000
+add_core = DLH
+fort1 = yes
+discovered_by = indian
+
+
+1500.1.1 = { citysize = 15865 }
+1600.1.1 = { citysize = 17120 }
+1650.1.1 = { citysize = 17920 }
+1700.1.1 = { citysize = 18760 }
+1750.1.1 = { citysize = 20177 }
+1800.1.1 = { citysize = 22450 }

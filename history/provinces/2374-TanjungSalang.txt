@@ -1,0 +1,23 @@
+# 2374 - Tanjung Salang
+
+owner = PAT
+controller = PAT
+culture = malayan
+religion = buddhism
+capital = "Thalang"
+trade_goods = gold
+hre = no
+base_tax = 2
+manpower = 6
+citysize = 4000
+add_core = PAT
+fort1 = yes
+discovered_by = chinese
+
+1400.1.1 = { citysize = 1500 }
+1500.1.1 = { citysize = 1966 }
+1600.1.1 = { citysize = 3870 }
+1650.1.1 = { citysize = 4200 }
+1700.1.1 = { citysize = 5260 }
+1750.1.1 = { citysize = 6777 }
+1800.1.1 = { citysize = 7100 }

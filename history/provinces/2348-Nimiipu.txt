@@ -1,0 +1,24 @@
+# 2348 - Nimiipu
+add_core = NEZ
+owner = NEZ
+controller = NEZ
+culture = shoshone
+religion = totemism 
+capital = "Nimiipu" 
+trade_goods = unknown 
+hre = no 
+base_tax = 2
+manpower = 1 
+discovered_by = north_american
+citysize = 1000
+
+1806.1.1 = {	discovered_by = USA } #Lewis and Clark
+1818.1.1 = {	owner = GBR
+		controller = GBR
+		citysize = 300
+		trade_goods = fur
+} #Fort Nez Percés
+1846.6.15 = {
+	owner = USA
+	controller = USA
+	} # Treaty of Oregon sets border at 49th Parallel

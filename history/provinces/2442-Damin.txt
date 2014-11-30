@@ -1,0 +1,25 @@
+# 2442 - Damin
+
+owner = BNG
+controller = BNG
+culture = bihari
+religion = buddhism
+capital = "Deogarh"
+trade_goods = silk
+hre = no
+base_tax = 3
+manpower = 1
+citysize = 7000
+add_core = BNG
+fort1 = yes
+discovered_by = chinese
+discovered_by = indian
+
+
+1400.1.1 = { citysize = 7000 }
+1500.1.1 = { citysize = 7000 }
+1600.1.1 = { citysize = 7000 }
+1650.1.1 = { citysize = 7000 }
+1700.1.1 = { citysize = 7000 }
+1750.1.1 = { citysize = 7000 }
+1800.1.1 = { citysize = 7000 }

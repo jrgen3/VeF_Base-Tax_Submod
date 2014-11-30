@@ -1,0 +1,15 @@
+# 546 : Kebbi - autobuid script by Africa team and Penguintopia
+
+capital = "Kebbi"
+native_size =   70
+native_ferocity =   2
+native_hostileness =   7 
+culture = hausa
+religion = yoruba
+base_tax = 3
+manpower = 2
+trade_goods = unknown
+discovered_by = sudanese_tech
+discovered_by = sub_saharan
+hre = no
+

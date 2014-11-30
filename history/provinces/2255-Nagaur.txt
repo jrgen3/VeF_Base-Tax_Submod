@@ -1,0 +1,19 @@
+# 2255 - Nagaur
+
+owner = MAW
+controller = MAW
+culture = rajasthani
+religion = hinduism
+capital = "Nagaur"
+trade_goods = grain
+hre = no
+base_tax = 4
+manpower = 4
+citysize = 4500
+add_core = MAW
+fort1 = yes
+discovered_by = indian
+discovered_by = indopersian
+discovered_by = nomad_group
+
+

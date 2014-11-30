@@ -1,0 +1,37 @@
+# - Desh
+
+owner = DLH
+controller = DLH
+add_core = DLH
+culture = marathi
+religion = hinduism
+capital = "Pratishthana"
+trade_goods = millet
+hre = no
+base_tax = 2
+manpower = 4
+citysize = 9000
+fort1 = yes
+trading_post = yes
+add_core = BAH
+add_core = BIJ
+discovered_by = indopersian
+discovered_by = muslim
+discovered_by = indian
+discovered_by = byzantine
+
+1347.1.1 = { owner = BAH controller = BAH remove_core = DLH }
+1450.1.1 = { citysize = 12000 }
+# The Breakup of the Bahmani sultanate
+1490.1.1  = { remove_core = BAH controller = BIJ owner = BIJ fort2 = yes }
+1498.1.1  = { discovered_by = POR }
+1500.1.1 = { citysize = 14000 }
+1550.1.1 = { citysize = 16000 }
+1600.1.1 = { citysize = 19000 }
+1650.1.1 = { citysize = 22000 add_core = MAR } #Maratha Identity
+1657.1.1  = {	owner = MAR controller = MAR fort3 = yes } # Inheritance of Shivaj
+1700.1.1  = { citysize = 25000 }
+1736.1.1 = { fort4 = yes }
+1750.1.1 = { citysize = 40000 }
+1800.1.1 = { citysize = 100000 }
+1818.6.3 = {	owner = GBR controller = GBR add_core = GBR }	

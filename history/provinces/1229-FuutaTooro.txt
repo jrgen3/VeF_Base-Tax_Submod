@@ -1,0 +1,16 @@
+# 1229 : Fuuta Tooro
+
+capital = "Fuuta Tooro"
+owner = JOL
+controller = JOL
+add_core = JOL
+citysize =   1000
+culture = bedouin_arabic
+religion = sunni
+base_tax = 2
+manpower = 1
+trade_goods = tea
+discovered_by = sub_saharan
+hre = no
+
+

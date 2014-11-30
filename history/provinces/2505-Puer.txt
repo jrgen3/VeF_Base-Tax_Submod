@@ -1,0 +1,23 @@
+# 2505 - Pu'er
+
+owner = YUN
+controller = YUN
+culture = shan
+religion = buddhism
+capital = "Pu'er"
+trade_goods = spices
+hre = no
+base_tax = 2
+manpower = 4
+citysize = 27000
+add_core = YUN
+fort1 = yes
+discovered_by = chinese
+
+1400.1.1 = { citysize = 30000 }
+1500.1.1 = { citysize = 33000 }
+1600.1.1 = { citysize = 48000 }
+1650.1.1 = { citysize = 41000 } 
+1700.1.1 = { citysize = 35000 }
+1750.1.1 = { citysize = 31000 }
+1800.1.1 = { citysize = 20000 }

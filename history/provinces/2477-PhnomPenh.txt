@@ -1,0 +1,24 @@
+# 2477 - Phnom Penh
+
+owner = KHM
+controller = KHM
+culture = khmer
+religion = buddhism
+capital = "Phnom Penh"
+trade_goods = naval_supplies
+hre = no
+base_tax = 2
+manpower = 2
+citysize = 4000
+add_core = KHM
+fort1 = yes
+discovered_by = chinese
+
+
+1400.1.1 = { citysize = 5000 }
+1500.1.1 = { citysize = 6000 }
+1600.1.1 = { citysize = 8000 }
+1650.1.1 = { citysize = 9000 }
+1700.1.1 = { citysize = 10000 }
+1750.1.1 = { citysize = 11000 }
+1800.1.1 = { citysize = 12000 }

@@ -1,0 +1,15 @@
+#2620 - Kolyma
+
+culture = inuit
+religion = shamanism
+capital = "Kolyma"
+trade_goods = unknown
+hre = no
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3
+
+1643.1.1   = { manpower = 0.1 base_tax = 1 discovered_by = RUS owner = RUS controller = RUS add_core = RUS citysize = 350 culture = russian religion = orthodox trade_goods = fur }
+1700.1.1   = { manpower = 0.1 }
+1750.1.1   = { manpower = 0.1 }
+1800.1.1   = { manpower = 0.1 }

@@ -1,0 +1,49 @@
+#1016 - Nghe An
+
+owner = DAI
+controller = DAI
+culture = vietnamese
+religion = buddhism
+capital = "Vinh"
+trade_goods = rice
+hre = no
+base_tax = 2
+manpower = 1
+citysize = 1800
+add_core = DAI
+discovered_by = chinese
+
+1413.1.1 = {	owner = MNG
+		revolt = { type = nationalist_rebels size = 0 }
+		controller = REB
+		add_core = MNG
+	   } # Vietnam is invaded by Chinese troops after the Tran dynasty is overthrowned
+1427.1.1 = {	revolt = {}
+		owner = DAI
+		controller = DAI
+		remove_core = MNG
+	   }
+1450.1.1 = { citysize = 2000 }
+1500.1.1 = { citysize = 2200 }
+1520.1.1 = { unrest = 10 } # Civil War in Dai Viet
+1524.1.1 = { unrest = 0 }
+1527.1.1 = {
+		owner = TOK
+		controller = TOK
+		add_core = TOK
+	   }
+1550.1.1 = { citysize = 2500 }
+1600.1.1 = { citysize = 3000 }
+1650.1.1 = { citysize = 3500 }
+1700.1.1 = { citysize = 4000 }
+1750.1.1 = { citysize = 4800 }
+1786.1.1 = {	owner = DAI
+		controller = DAI
+		remove_core = TOK
+	   } # Tai Son and Le dynasty annexed the Trinh Lords
+1800.1.1 = { citysize = 5000 }
+1802.1.1 = {	owner = ANN
+		controller = ANN
+		add_core = ANN
+		remove_core = DAI
+	   } # Nguyen Phuc Anh annexed the Tay Son Dynasty

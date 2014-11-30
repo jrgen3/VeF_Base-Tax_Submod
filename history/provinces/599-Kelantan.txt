@@ -1,0 +1,26 @@
+#599 - Kelantan
+owner = MLC
+controller = MLC
+culture = malayan
+religion = buddhism
+capital = "Kelantan"
+trade_goods = fish
+hre = no
+base_tax = 2
+manpower = 2
+citysize = 2200
+add_core = MLC
+discovered_by = chinese
+
+1351.1.1 = { owner = AYU controller = AYU add_core = AYU }
+1450.1.1 = { citysize = 2900 }
+# Vassal of the Malacca Sultanate
+1499.1.1 = {	owner = MLC controller = MLC add_core = MLC remove_core = AYU } 
+1500.1.1 = { citysize = 3540 }
+1550.1.1 = { citysize = 4255 }
+1600.1.1 = { citysize = 5320 }
+1603.1.1 = {	owner = PAT controller = PAT add_core = PAT remove_core = MLC }
+1650.1.1 = { citysize = 5899 }
+1700.1.1 = { citysize = 6578 }
+1750.1.1 = { citysize = 7200 }
+1800.1.1 = { citysize = 8133 }

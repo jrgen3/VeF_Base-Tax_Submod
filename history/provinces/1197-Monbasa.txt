@@ -1,0 +1,15 @@
+# 1197 : Monbasa
+
+capital = "Monbasa"
+owner = MBA
+controller = MBA
+add_core = MBA
+citysize = 1000 
+culture = swahili
+religion = bantu
+base_tax = 1
+manpower = 0.5
+trade_goods = unknown
+discovered_by = tribal_african_tech 
+hre = no
+

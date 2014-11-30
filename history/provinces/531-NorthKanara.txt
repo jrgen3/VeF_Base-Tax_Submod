@@ -1,0 +1,22 @@
+#531 - Kanara
+
+owner = VIJ
+controller = VIJ
+culture = kannada
+religion = hinduism
+capital = "Vijayanagara"
+trade_goods = spices
+hre = no
+base_tax = 6
+manpower = 4
+citysize = 25000
+add_core = VIJ
+fort1 = yes
+trading_post = yes
+marketplace = yes
+dock = yes
+sheriffs_office = yes
+discovered_by = indopersian
+discovered_by = indian
+discovered_by = byzantine
+

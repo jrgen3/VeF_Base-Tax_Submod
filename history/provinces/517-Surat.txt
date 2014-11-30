@@ -1,0 +1,49 @@
+#517 - Surat
+
+owner = DLH
+controller = DLH
+culture = gujarati
+religion = hinduism
+capital = "Suryapur"
+trade_goods = silk
+hre = no
+base_tax = 2
+manpower = 4
+citysize = 24000
+add_core = GUJ
+add_core = DLH
+fort1 = yes
+dock = yes
+trading_post = yes
+discovered_by = indopersian
+discovered_by = muslim
+discovered_by = indian
+discovered_by = byzantine
+
+1350.1.1 = { owner = AHM controller = AHM remove_core = DLH }
+1407.1.1 = { owner = GUJ controller = GUJ }
+1498.1.1 = { discovered_by = POR  }
+1500.1.1 = { citysize = 31000 }
+1540.1.1 = { fort2 = yes } #Eclipses Khambat's port and is refortified
+1550.1.1 = { citysize = 55000 }
+1573.6.1 = {	owner = MUG controller = MUG add_core = MUG } # Conquered by Akbar
+1600.1.1 = { marketplace = yes citysize = 75000 }
+#1608.1.1 #English trade
+1622.3.1 = { controller = REB revolt = { type = pretender_rebels size = 0 name = "Khurrams Faction" leader = "Shah Jahan Timurid" } } #Should be named Khurram at this point
+1622.7.1 = { controller = MUG revolt = { } } #Retaken by Jahangir and Nur Jahan
+1650.1.1 = { citysize = 90000 } 
+1657.9.14 = {
+	revolt = { type = pretender_rebels size = 3 name = "Murad Bakhsh's Faction" leader = "Murad Bakhsh Timurid" }
+} # Shah Jahan falls ill, his sons starts civil war, start of the seige of Surat
+1658.1.5 = {
+	controller = REB
+	revolt = { type = pretender_rebels size = 0 name = "Murad Bakhsh's Faction" leader = "Murad Bakhsh Timurid" }
+} # Surat falls to the forces of Murad Bakhsh, it's coffers significantly strengthening his cause
+1658.6.25 = { controller = MUG revolt = { } } # Aurangzeb imprison Murad
+1660.1.1 = { add_core = MAR } # Series of attacks from the Marathas
+#1664.1.1 = { } # Surat began to decline after it was sacked by the Marathas
+1700.1.1 = { citysize = 200000 }
+1720.1.1 = { owner = MAR controller = MAR remove_core = MUG } # Marathas
+1750.1.1 = { citysize = 165000 }
+1800.1.1 = { citysize = 130000 }
+1803.1.1 = { owner = GBR controller = GBR add_core = GBR remove_core = MAR }	#Treaty of Bassein

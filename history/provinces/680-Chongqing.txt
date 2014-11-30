@@ -1,0 +1,33 @@
+#680 - Chongqing
+
+owner = YUN
+controller = YUN
+culture = chihan
+religion = confucianism
+capital = "Chongqing"
+trade_goods = rice
+hre = no
+base_tax = 5
+manpower = 3
+citysize = 88050
+add_core = YUN
+fort1 = yes
+discovered_by = chinese
+
+
+1000.1.1   = { add_permanent_province_modifier = { name = "yangtze_river_basin" duration = -1 } }
+1363.5.1 = { owner = MNG controller = MNG add_core = MNG remove_core = YUN add_core = CXI }
+1450.1.1 = { citysize = 95540 }
+1500.1.1 = { citysize = 102320 }
+1505.1.1 = { trading_post = yes }
+1550.1.1 = { citysize = 116641 }
+1600.1.1 = { citysize = 120144 }
+1644.7.25 = {	owner = CXI controller = CXI } # The Xi dynasty of Zhang Xianzhong
+1647.1.2 = {	owner = QNG controller = QNG add_core = QNG }
+1650.1.1 = { citysize = 94300 }
+1662.1.1 = { remove_core = MNG }
+1674.1.1 = { controller = CZH }
+1680.1.1 = { controller = QNG }
+1700.1.1 = { citysize = 128287 }
+1750.1.1 = { citysize = 135822 }
+1800.1.1 = { citysize = 140530 }

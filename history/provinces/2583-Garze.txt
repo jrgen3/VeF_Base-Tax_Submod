@@ -1,0 +1,22 @@
+# 2583 - Garze
+
+owner = YUN
+controller = YUN
+culture = tibetan
+religion = buddhism
+capital = "Garze"
+trade_goods = hemp
+hre = no
+base_tax = 2
+manpower = 4
+citysize = 18000
+add_core = YUN
+fort1 = yes
+discovered_by = chinese
+
+1400.1.1 = { citysize = 18000 }
+1500.1.1 = { citysize = 18000 }
+1600.1.1 = { citysize = 18000 }
+1650.1.1 = { citysize = 18000 }
+1750.1.1 = { citysize = 18000 }
+1800.1.1 = { citysize = 18000 }

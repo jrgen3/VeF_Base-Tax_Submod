@@ -1,0 +1,36 @@
+#423 - Kartli
+
+owner = GEO
+controller = GEO
+culture = georgian
+religion = orthodox
+capital = "Khunzakh"
+trade_goods = copper
+hre = no
+base_tax = 3
+manpower = 2
+citysize = 13200
+add_core = GEO
+fort1 = yes
+discovered_by = nomad_group
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = indopersian
+discovered_by = byzantine
+
+1450.1.1 = { citysize = 14000 }
+1465.1.1 = { owner = KAK controller = KAK add_core = KAK } # Georgia fractures under pressure from Turkic raids
+1500.1.1 = { citysize = 15340 }
+1550.1.1 = { citysize = 17500 }
+1600.1.1 = { citysize = 22100 fort2 = yes }
+1630.1.1 = { sheriffs_office = yes }
+1650.1.1 = { citysize = 24630 trading_post = yes }
+1700.1.1 = { citysize = 27650 }
+1730.1.1 = { tax_assessor = yes }
+1750.1.1 = { citysize = 29500 }
+1762.1.1 = { owner = GEO controller = GEO remove_core = KAK } # Eastern Georgia reunited
+1801.1.18 = {	owner = RUS
+	controller = RUS
+	add_core = RUS
+} # Annexed by Russia

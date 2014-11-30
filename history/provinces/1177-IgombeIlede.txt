@@ -1,0 +1,14 @@
+# 1177 : Igombe Ilede
+
+capital = "Igombe Ilede"
+owner = ZIM
+controller = ZIM
+add_core = ZIM
+citysize = 1000 
+culture = xhosa
+religion = bantu
+base_tax = 2
+manpower = 1
+trade_goods = livestock
+hre = no
+

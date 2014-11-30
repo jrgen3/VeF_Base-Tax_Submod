@@ -1,0 +1,44 @@
+#530 - Malvana
+owner = DLH
+controller = DLH
+culture = marathi
+religion = hinduism
+capital = "Dabhol"
+trade_goods = nutmeg
+hre = no
+base_tax = 2
+manpower = 4
+citysize = 9000
+add_core = BAH
+add_core = BIJ
+add_core = DLH
+fort1 = yes
+dock = yes
+discovered_by = indopersian
+discovered_by = muslim
+discovered_by = indian
+discovered_by = byzantine
+
+1347.1.1 = { owner = BAH controller = BAH remove_core = DLH }
+1450.1.1 = { citysize = 12000 }
+1490.1.1 = { owner = BIJ controller = BIJ remove_core = BAH } # The Breakup of the Bahmani sultanate
+1498.1.1 = { discovered_by = POR }
+1500.1.1 = { citysize = 15000 }
+1550.1.1 = { citysize = 17000 }
+1600.1.1 = { citysize = 23000 }
+1636.1.1 = { capital = "Janjira" fort2 = yes }
+1650.1.1 = {
+		citysize = 25000
+		owner = MAR
+		controller = MAR
+		add_core = MAR #Maratha Identity
+	}
+1700.1.1 = { citysize = 28000 }
+1736.1.1 = { capital = "Dabhol" } #Favourable treaty results in most of the Konkan being dominated by the Marathas rather than the Sidhis
+1750.1.1 = { citysize = 31000 }
+1800.1.1 = { citysize = 35000 }
+1818.6.3 = {	owner = GBR
+		controller = GBR
+		add_core = GBR
+		remove_core = MAR
+	   }

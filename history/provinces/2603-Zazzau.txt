@@ -1,0 +1,15 @@
+# 2603 : Zazzau
+
+capital = "Zazzau"
+owner = ZZZ
+controller = ZZZ
+add_core = ZZZ
+citysize = 1000
+culture = tuareg
+religion = sunni
+base_tax = 3
+manpower = 1
+trade_goods = palm
+hre = no
+
+

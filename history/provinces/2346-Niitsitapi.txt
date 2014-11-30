@@ -1,0 +1,14 @@
+# 2346 - Niitsitapi
+
+owner = BLA
+controller = BLA
+add_core = BLA
+culture = niitsitapi
+religion = totemism
+capital = "Niitsitapi"
+trade_goods = fur
+hre = no
+base_tax = 2
+manpower = 1
+citysize = 550
+discovered_by = north_american

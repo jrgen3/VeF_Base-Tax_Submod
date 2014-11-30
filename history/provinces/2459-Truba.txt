@@ -1,0 +1,17 @@
+# 2459 - Truba
+
+owner = HED
+controller = HED
+culture = bedouin_arabic
+religion = sunni
+capital = "Truba"
+trade_goods = spices
+hre = no
+base_tax = 5
+manpower = 4
+fort1 = yes
+citysize = 30200
+add_core = HED
+discovered_by = muslim
+discovered_by = indopersian
+discovered_by = byzantine

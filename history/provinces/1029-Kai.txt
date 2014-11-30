@@ -1,0 +1,29 @@
+#1029 - Kai
+# Manpower revision complete
+
+owner = TKD
+controller = TKD
+culture = japanese
+religion = shinto
+capital = "Kofu"
+trade_goods = hemp
+hre = no
+base_tax = 2
+manpower = 4
+citysize = 5200
+add_core = TKD
+fort1 = yes
+discovered_by = chinese
+discovered_by = niitaka
+
+1400.1.1	= { manpower = 4 }
+1500.1.1	= { manpower = 5 }
+1542.1.1	= { discovered_by = POR }
+1582.4.3	= { add_core = JAP owner = JAP controller = JAP remove_core = TKD }
+1600.1.1	= { manpower = 6 }
+1600.9.15	= { owner = TKG controller = TKG add_core = TKG remove_core = JAP }
+1603.3.24	= { owner = JAP controller = JAP add_core = JAP remove_core = TKG } # Tokugawa shogunate founded
+1650.1.1	= { manpower = 7 }
+1700.1.1	= { manpower = 8 }
+1750.1.1	= { manpower = 8 }
+1800.1.1	= { manpower = 7.5 }

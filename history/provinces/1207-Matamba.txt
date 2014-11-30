@@ -1,0 +1,14 @@
+# 1207 : Matamba
+
+capital = "Matamba"
+owner = KON
+controller = KON
+add_core = KON
+citysize =   2500
+culture = somali
+religion = sunni
+base_tax = 1
+manpower = 0.5
+trade_goods = livestock
+discovered_by = sub_saharan
+hre = no

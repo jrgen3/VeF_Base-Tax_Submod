@@ -1,0 +1,21 @@
+# 336 : Wejda
+
+capital = "Wejda"
+owner = MOR
+controller = MOR
+add_core = MOR
+add_core = GRA
+citysize =   69772
+culture = zenata
+religion = sunni
+base_tax = 3
+manpower = 1.5
+trade_goods = olive
+discovered_by = muslim 
+discovered_by = western 
+discovered_by = scandinavian_tech
+discovered_by = eastern 
+discovered_by = byzantine 
+hre = no
+fort1 = yes
+

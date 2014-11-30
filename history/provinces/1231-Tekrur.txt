@@ -1,0 +1,23 @@
+# 1231 : Tekrur
+
+capital = "Tekrur"
+owner = JOL
+controller = JOL
+add_core = JOL
+citysize =   2000
+culture = al_misr_arabic
+religion = sunni
+base_tax = 2
+manpower = 3
+trade_goods = cloth
+discovered_by = sub_saharan
+hre = no
+
+
+1400.1.1   = { manpower = 2 }
+1500.1.1   = { manpower = 2.5 }
+1600.1.1   = { manpower = 3 }
+1650.1.1   = { manpower = 2.5 }
+1700.1.1   = { manpower = 2.6 }
+1750.1.1   = { manpower = 2 }
+1800.1.1   = { manpower = 2 }

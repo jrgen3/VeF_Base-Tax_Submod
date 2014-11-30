@@ -1,0 +1,31 @@
+#472 - Jetyru
+
+owner = GOL
+controller = GOL
+culture = nogai
+religion = tengri
+capital = "Jetyru"
+trade_goods = wool
+hre = no
+base_tax = 1
+manpower = 1
+citysize = 1140
+add_core = GOL
+add_core = NOG
+discovered_by = nomad_group
+discovered_by = GOL
+discovered_by = KZH
+discovered_by = indopersian
+fort1 = yes
+
+1440.1.1   = { owner = NOG controller = NOG remove_core = GOL } # Nogai Khanate
+1450.1.1   = { citysize = 1580 }
+1500.1.1   = { citysize = 1970 }
+1520.1.1   = { owner = KZH controller = KZH add_core = KZH remove_core = NOG culture = khazak } # Qasim Khan conquers Nogai lands
+1550.1.1   = { citysize = 2670 }
+1600.1.1   = { citysize = 3870 }
+1622.1.1   = { discovered_by = RUS }
+1650.1.1   = { citysize = 4270 }
+1700.1.1   = { citysize = 5250 }
+1750.1.1   = { citysize = 6011 }
+1800.1.1   = { citysize = 6734 }

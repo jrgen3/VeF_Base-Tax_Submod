@@ -1,0 +1,27 @@
+# 69 - Konstanz
+culture = alemannic
+owner = RAV
+controller = RAV
+add_core = RAV
+capital = "Ravensburg"
+religion = catholic
+trade_goods = salt
+base_tax = 5
+manpower = 2
+citysize = 5000
+hre = yes
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = scandinavian_tech
+discovered_by = indopersian
+discovered_by = western
+discovered_by = byzantine
+fort1 = yes
+trading_post = yes
+
+1801.2.9 = {
+	owner = BAD
+	controller = BAD
+	add_core = BAD
+} # Treaty of Lunéville, incorporated into Baden
+1806.7.12 = { hre = no } # The Holy Roman Empire is dissolved

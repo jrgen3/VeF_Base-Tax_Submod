@@ -1,0 +1,29 @@
+#720 - Tshiyet Noyan
+owner = YUN
+controller = YUN
+culture = mongol
+religion = tengri
+capital = "Tshiyet Noyan"
+trade_goods = tea
+hre = no
+base_tax = 2
+manpower = 1
+citysize = 7850
+add_core = YUN
+fort1 = yes
+discovered_by = chinese
+
+
+1450.1.1 = { citysize = 8200 }
+1500.1.1 = { citysize = 9150 }
+1510.1.1 = { owner = KHA controller = KHA add_core = KHA remove_core = YUN }
+1550.1.1 = { citysize = 10580 }
+1600.1.1 = { citysize = 11999 }
+1634.1.1 = { owner = MCH controller = MCH add_core = MCH remove_core = KHA }
+1639.1.1 = { capital = "Urga" }
+1645.7.1  = { owner = QNG controller = QNG add_core = QNG remove_core = MCH }
+1650.1.1 = { citysize = 13480 }
+1700.1.1 = { citysize = 15555 }
+1706.1.1 = { capital = "Khuree" }
+1750.1.1 = { citysize = 17100 }
+1800.1.1 = { citysize = 18957 }

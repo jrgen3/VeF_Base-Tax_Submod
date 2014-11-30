@@ -1,0 +1,18 @@
+# 2242 - Mewar
+
+owner = MER
+controller = MER
+culture = rajput
+religion = hinduism
+capital = "Kotharia"
+trade_goods = spices
+hre = no
+base_tax = 3
+manpower = 3
+citysize = 10000
+add_core = MER
+discovered_by = nomad_group
+discovered_by = indian
+discovered_by = indopersian
+fort1 = yes
+

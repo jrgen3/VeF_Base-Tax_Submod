@@ -1,0 +1,19 @@
+# 2264 - Garhwal
+
+owner = KGR
+controller = KGR
+culture = nepali
+religion = buddhism
+capital = "Devalgarb"
+trade_goods = millet
+hre = no
+base_tax = 3
+manpower = 4
+citysize = 6000
+add_core = KGR
+fort1 = yes
+discovered_by = nomad_group
+discovered_by = indopersian
+discovered_by = indian
+
+

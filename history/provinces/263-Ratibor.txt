@@ -1,0 +1,47 @@
+#263 - Ratibor
+owner = RAT
+controller = RAT
+culture = schlesian
+religion = catholic
+hre = no
+base_tax = 4
+capital = "Ratibor"
+citysize = 15000
+trade_goods = lead
+manpower = 3
+fort1 = yes
+add_core = RAT
+add_core = POL
+add_core = BOH
+discovered_by = eastern
+discovered_by = scandinavian_tech
+discovered_by = indopersian
+discovered_by = western
+discovered_by = byzantine
+
+1000.1.1 = { add_permanent_province_modifier = { name = "vistula_river_basin" duration = -1 } }
+1335.1.1 = { remove_core = POL } # Treaty of Trentschin
+1375.1.1 = { owner = BOH controller = BOH } # Silesia incorporated to the Kingdom of Bohemia
+1427.6.30 = { remove_core = RAT }
+1436.7.6 = { religion = catholic } # Acceptance of the Compacts of Prague
+1450.1.1   = { citysize = 13000 }
+1469.1.1 = { owner = HUN controller = HUN add_core = HUN }
+1490.4.6 = { 	owner = BOH controller = BOH } 
+1500.1.1   = { citysize = 17000 }
+1523.1.1   = { religion = reformed trading_post = yes }
+1526.8.30  = { owner = SIL controller = SIL add_core = SIL remove_core = BOH add_core = HAB } # Passed to the Habsburgs, still enjoyed significant autonomy
+1550.1.1   = { citysize = 20000 }
+1600.1.1   = { citysize = 22000 }
+1618.1.1   = { unrest = 5 } # Religious struggles
+1648.1.1   = { unrest = 0 }
+1650.1.1   = { citysize = 21000 trading_post = yes }
+1675.11.21 = {	owner = HAB
+		controller = HAB
+	     } # Annexed by the Habsburgs, death of the last Piast duke
+1700.1.1   = { citysize = 23000 base_tax = 4}
+1740.1.1   = { add_core = PRU } # 1st Silesian war against Austria
+1742.1.1   = { owner = PRU controller = PRU }
+1750.1.1   = { citysize = 25000  base_tax = 5 manpower = 3}
+1763.1.1   = { remove_core = HAB } # End of 3rd Silesian war
+1800.1.1   = { citysize = 30000 }
+1806.7.12  = { hre = no } # The Holy Roman Empire is dissolved

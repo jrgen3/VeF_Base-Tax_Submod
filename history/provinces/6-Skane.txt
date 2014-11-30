@@ -1,0 +1,45 @@
+#Skåne
+# Manpower revision complete
+add_core = DAN
+add_core = SWE
+owner = DAN
+controller = DAN
+culture = scanian
+religion = catholic
+hre = no
+base_tax = 4
+trade_goods = livestock
+manpower = 2
+fort1 = yes
+capital = "Lund"
+citysize = 1000
+trading_post = yes
+temple = yes # Lund cathedral
+discovered_by = eastern
+discovered_by = scandinavian_tech
+discovered_by = western
+discovered_by = byzantine
+
+1332.1.1   = { owner = SWE controller = SWE remove_core = DAN }
+1350.1.1   = { manpower = 1.5 add_province_modifier = { name = "province_black_death" duration = 3650 } set_province_flag = had_black_death } # Black Death
+1360.1.1   = { add_core = DAN owner = DAN controller = DAN remove_province_modifier = province_black_death }
+1400.1.1   = { manpower = 1.3 }
+1456.1.1   = { college = yes } # University of Lund
+1480.1.1   = { fort2 = yes citysize = 2900 }
+1500.1.1   = { manpower = 1.75 }
+1525.1.1   = { revolt = { type = revolutionary_rebels size = 1 } controller = REB } # Prelude to 'Grevefejden'(Sören Norrby)
+1525.5.10  = { revolt = {} controller = DAN } # Sören Norrby is defeated
+1534.8.15  = { revolt = { type = revolutionary_rebels size = 1 } controller = REB } # 'Grevefejden'(Christofer of Oldenburg)
+1536.3.15  = { revolt = {} controller = DAN } # Liberated by Sweden
+1536.3.15  = { religion = protestant} # Unknown date
+1590.1.1   = { fort3 = yes }
+1600.1.1   = { manpower = 2 }
+1650.1.1   = { manpower = 2.1 }
+1658.2.26  = { owner = SWE  college = no } # The Peace of Roskilde
+1658.2.26  = { courthouse = yes } # minor court belonging to Göta Hovrätt
+1658.2.26  = { barracks = yes } # Norra och Södra Skånska kavalleriregementena
+1672.1.1   = { fort4 = yes }
+1700.1.1   = { manpower = 2.25 }
+1722.1.1   = { capital = "Malmö" culture = swedish } # The backbone of danishness is finally broken
+1750.1.1   = { manpower = 2.5 }
+1800.1.1   = { manpower = 2.75 }

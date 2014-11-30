@@ -1,0 +1,37 @@
+# Author: Morkazar
+#1019 - Bingo
+# Manpower revision complete
+
+owner = KIK
+controller = KIK
+culture = japanese
+religion = shinto
+capital = "Matsue"
+trade_goods = wine
+hre = no
+base_tax = 3
+manpower = 2
+citysize = 8000
+fort1 = yes
+add_core = KIK
+add_core = HSK
+discovered_by = chinese
+discovered_by = niitaka
+
+1400.1.1	= { manpower = 2.5 }
+1468.1.1	= { owner = HSK controller = HSK }
+1488.1.1	= { remove_core = KIK}
+1500.1.1	= { manpower = 3.5 }
+1520.1.1	= { add_core = AMA }
+1532.1.1	= { owner = AMA controller = AMA }
+1542.1.1	= { discovered_by = POR }
+1566.11.28  = { owner = HSK controller = HSK } # Amago destroyed by Mori
+1578.5.1	= { add_core = JAP owner = JAP controller = JAP }
+1581.1.1	= { fort2 = yes } # Himeji Castle
+1600.1.1	= { manpower = 4.5 }
+1600.9.15	= { add_core = IKE owner = IKE controller = IKE remove_core = JAP }
+1603.3.24	= { owner = JAP controller = JAP add_core = JAP remove_core = IKE } # Tokugawa shogunate founded
+1650.1.1	= { manpower = 5 }
+1700.1.1	= { manpower = 6 }
+1750.1.1	= { manpower = 6 }
+1800.1.1	= { manpower = 5.75 }

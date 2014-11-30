@@ -1,0 +1,25 @@
+# 2330 - Karashar
+
+owner = DLH
+controller = DLH
+culture = bihari
+religion = hinduism
+capital = "Karashar"
+trade_goods = wool
+hre = no
+base_tax = 2
+manpower = 2
+citysize = 1100
+add_core = DLH
+fort1 = yes
+discovered_by = indian
+discovered_by = nomad_group
+
+
+1500.1.1 = { citysize = 1300 }
+1550.1.1 = { citysize = 1400 }
+1600.1.1 = { citysize = 1500 }
+1650.1.1 = { citysize = 1600 }
+1700.1.1 = { citysize = 1700 }
+1750.1.1 = { citysize = 1800 }
+1800.1.1 = { citysize = 1900 }

@@ -1,0 +1,36 @@
+#618 - Aru
+owner = PLM
+controller = PLM
+culture = malayan
+religion = hinduism
+capital = "Aru"
+trade_goods = tea
+hre = no
+base_tax = 3
+manpower = 2
+citysize = 1000
+add_core = PLM
+discovered_by = MKS
+discovered_by = MLC
+discovered_by = ATJ
+discovered_by = MAJ
+discovered_by = BEI
+discovered_by = indian
+discovered_by = AYU
+discovered_by = BLI
+
+1405.1.1 = { discovered_by = MNG }
+1450.1.1 = { citysize = 1540 }
+1500.1.1 = { citysize = 1900 }
+1509.1.1 = { discovered_by = POR }
+1550.1.1 = { citysize = 2544 }
+1590.1.1 = { capital = "Kampung Medan" }
+1600.1.1 = { citysize = 2997 }
+1650.1.1 = { citysize = 3524 }
+1658.1.1 = { owner = NED controller = NED } # The Dutch gradually gained control of Sumatra
+1683.1.1 = { add_core = NED }
+1700.1.1 = { citysize = 4155 }
+1750.1.1 = { citysize = 4866 }
+1795.1.1   = { owner = BTR controller = BTR add_core = BTR remove_core = NED } # Batavian Republic proclaimed when French troops occupy Netherlands
+1800.1.1 = { citysize = 5600 }
+1806.6.5   = { owner = NED controller = NED add_core = NED remove_core = BTR } # Kingdom of Holland established under Louis Bonaparte

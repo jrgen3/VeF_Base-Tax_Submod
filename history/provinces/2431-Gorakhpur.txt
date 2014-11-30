@@ -1,0 +1,23 @@
+# 2431 - Gorakhpur
+
+owner = DLH
+controller = DLH
+culture = bihari
+religion = hinduism
+capital = "Gorakhpur"
+trade_goods = grain
+hre = no
+base_tax = 4
+manpower = 1
+citysize = 132000
+add_core = DLH
+fort1 = yes
+discovered_by = indian
+
+
+1500.1.1 = { citysize = 138999 }
+1600.1.1 = { citysize = 142254 }
+1650.1.1 = { citysize = 143200 }
+1700.1.1 = { citysize = 147655 }
+1750.1.1 = { citysize = 150105 }
+1800.1.1 = { citysize = 152400 }

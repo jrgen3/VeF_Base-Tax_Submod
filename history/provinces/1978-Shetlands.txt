@@ -1,0 +1,29 @@
+#1978 - Shetlands
+# Manpower revision complete
+
+owner = NOR
+controller = NOR
+culture = norn
+religion = catholic
+hre = no
+base_tax = 1
+trade_goods = fish
+manpower = 0.1
+capital = "Leirvik"
+citysize = 1000 # Estimated
+add_core = NOR
+fort1 = yes
+discovered_by = eastern
+discovered_by = scandinavian_tech
+discovered_by = western
+
+1400.1.1	= { manpower = 0.1 }
+1472.2.20	= {	owner = SCO culture = scottish controller = SCO add_core = SCO remove_core = NOR capital = "Lerwick" } # Formally ceded to the crown of Scotland
+1500.1.1	= { manpower = 0.1 }
+1600.1.1	= { manpower = 0.1 }
+1603.3.24	= { owner = GBR controller = GBR add_core = GBR remove_core = ENG } # Union of the Crowns
+1609.1.1	= { religion = presbyterian } 
+1650.1.1	= { manpower = 0.1 }
+1700.1.1	= { manpower = 0.1 }
+1750.1.1	= { manpower = 0.1 }
+1800.1.1	= { manpower = 0.1 }

@@ -1,0 +1,29 @@
+#659 - Riau
+owner = PLM
+controller = PLM
+culture = sulawesi
+religion = buddhism
+capital = "Riau"
+trade_goods = fish
+hre = no
+base_tax = 2
+manpower = 1
+citysize = 550
+add_core = PLM
+discovered_by = MKS
+discovered_by = MLC
+discovered_by = ATJ
+discovered_by = MAJ
+discovered_by = BEI
+discovered_by = AYU
+discovered_by = BLI
+
+1405.1.1 = { discovered_by = MNG }
+1500.1.1 = { citysize = 880 }
+1509.1.1 = { discovered_by = POR }
+1550.1.1 = { citysize = 1380 }
+1600.1.1 = { citysize = 1957 }
+1650.1.1 = { citysize = 2560 }
+1700.1.1 = { citysize = 2886 }
+1750.1.1 = { citysize = 3600 }
+1800.1.1 = { citysize = 4200 }

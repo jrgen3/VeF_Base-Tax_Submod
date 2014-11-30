@@ -1,0 +1,30 @@
+# 2537 - Bozhou
+
+owner = YUN	
+controller = YUN
+add_core = YUN
+culture = cantonese
+religion = confucianism
+capital = "Bozhou"
+trade_goods = wool
+hre = no
+base_tax = 3
+manpower = 5
+citysize = 5525
+fort1 = yes
+discovered_by = chinese
+
+
+1368.4.1 = { owner = KHA controller = KHA add_core = KHA remove_core = YUN }
+1400.1.1 = { citysize = 5970 }
+1500.1.1 = { citysize = 6800 }
+1600.1.1 = { citysize = 8100 }
+1645.7.1  = {	owner = QNG
+		controller = QNG
+		add_core = QNG
+		remove_core = MCH
+	    } # The Qing Dynasty
+1650.1.1 = { citysize = 9240 }
+1700.1.1 = { citysize = 10587 }
+1750.1.1 = { citysize = 11570 }
+1800.1.1 = { citysize = 12000 }

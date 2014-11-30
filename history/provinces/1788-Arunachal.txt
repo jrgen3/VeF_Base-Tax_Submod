@@ -1,0 +1,4 @@
+#1788 - Arunachal
+
+discovered_by = chinese
+discovered_by = nomad_group

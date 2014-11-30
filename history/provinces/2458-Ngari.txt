@@ -1,0 +1,25 @@
+# 2458 - Ngari
+
+owner = TIB
+controller = TIB
+culture = tibetan
+religion = buddhism
+capital = "Ngari"
+trade_goods = palm
+hre = no
+base_tax = 5
+manpower = 3
+fort1 = yes
+citysize = 10200
+add_core = TIB
+discovered_by = chinese
+discovered_by = indian
+
+
+1400.1.1 = { citysize = 43250 }
+1500.1.1 = { citysize = 47400 }
+1600.1.1 = { citysize = 49150 }
+1650.1.1 = { citysize = 51500 }
+1700.1.1 = { citysize = 53607 }
+1750.1.1 = { citysize = 54120 }
+1800.1.1 = { citysize = 42400 }

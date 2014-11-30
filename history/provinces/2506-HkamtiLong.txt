@@ -1,0 +1,23 @@
+# 2506 - Hkamti Long
+
+owner = YUN
+controller = YUN
+capital = "Hkamti Long"
+culture = shan
+religion = buddhism
+trade_goods = spices
+hre = no
+base_tax = 2
+manpower = 4
+citysize = 37000
+add_core = YUN
+fort1 = yes
+discovered_by = chinese
+
+1400.1.1 = { citysize = 9000 }
+1500.1.1 = { citysize = 13000 }
+1600.1.1 = { citysize = 19000 }
+1650.1.1 = { citysize = 22000 }
+1700.1.1 = { citysize = 25000 }
+1750.1.1 = { citysize = 28000 }
+1800.1.1 = { citysize = 33000 }

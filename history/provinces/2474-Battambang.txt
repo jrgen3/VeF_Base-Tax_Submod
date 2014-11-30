@@ -1,0 +1,24 @@
+# 2474 - Battambang
+
+owner = KHM
+controller = KHM
+culture = khmer
+religion = buddhism
+capital = "Battambang"
+trade_goods = fish
+hre = no
+base_tax = 3
+manpower = 2
+citysize = 8348
+add_core = KHM
+fort1 = yes
+discovered_by = chinese
+
+
+1400.1.1 = { citysize = 16400 }
+1500.1.1 = { citysize = 18721 }
+1600.1.1 = { citysize = 23148 }
+1650.1.1 = { citysize = 25138 }
+1700.1.1 = { citysize = 26422 }
+1750.1.1 = { citysize = 28675 }
+1800.1.1 = { citysize = 31500 }

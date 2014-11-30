@@ -1,0 +1,17 @@
+#1039 - Verkhoyansk
+# Manpower revision complete
+
+culture = inuit
+religion = shamanism
+capital = "Verkhoyansk"
+trade_goods = unknown
+hre = no
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3
+
+1638.1.1   = { manpower = 0.1 base_tax = 1 discovered_by = RUS owner = RUS controller = RUS religion = orthodox culture = russian citysize = 150 } # V. Atlasov
+1672.1.1   = { add_core = RUS }
+1700.1.1   = { citysize = 300 manpower = 0.1 trade_goods = fur }
+1750.1.1   = { citysize = 450 manpower = 0.1 }
+1800.1.1   = { citysize = 800 manpower = 0.1 }

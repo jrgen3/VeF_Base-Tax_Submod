@@ -1,0 +1,22 @@
+# 2455 - Pagan
+
+owner = AVA
+controller = AVA
+culture = burmese
+religion = buddhism
+capital = "Pagan"
+trade_goods = cinnamon
+hre = no
+base_tax = 3
+manpower = 3
+citysize = 4000
+add_core = AVA
+discovered_by = chinese
+
+
+1500.1.1 = { citysize = 5050 }
+1600.1.1 = { citysize = 6570 }
+1650.1.1 = { citysize = 8100 }
+1700.1.1 = { citysize = 9870 }
+1750.1.1 = { citysize = 10400 }
+1800.1.1 = { citysize = 11800 }

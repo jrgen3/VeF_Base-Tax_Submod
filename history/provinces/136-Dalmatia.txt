@@ -1,0 +1,39 @@
+#136 - Dalmatia 
+
+owner = CRO
+controller = CRO
+culture = croatian
+religion = catholic
+capital = "Zadar"
+trade_goods = livestock
+hre = no
+base_tax = 4
+manpower = 2
+citysize = 8400
+fort1 = yes
+add_core = CRO
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = scandinavian_tech
+discovered_by = ottoman
+discovered_by = indopersian
+discovered_by = western
+discovered_by = byzantine
+
+1399.1.1 = { owner = BOS controller = BOS add_core = BOS }
+1409.1.1   = { owner = VEN controller = VEN } # Sold to Venice
+1428.1.1 = { add_core = VEN remove_core = BOS }
+1450.1.1   = { citysize = 9800 }
+1500.1.1   = { citysize = 10098 trading_post = yes }
+1550.1.1   = { citysize = 12112 }
+1600.1.1   = { citysize = 13211 }
+1650.1.1   = { citysize = 14680 }
+1700.1.1   = { citysize = 16120 }
+1750.1.1   = { citysize = 17187 tax_assessor = yes }
+1757.1.1   = { blacksmith = yes } # The economic production increased in almost every aspect
+1797.10.17 = {	owner = HAB controller = HAB add_core = HAB } # Treaty of Campo Formio
+1800.1.1   = { citysize = 18130 }
+1805.12.26 = {	owner = RFR controller = RFR add_core = RFR remove_core = HAB } # Treaty of Pressburg
+1813.9.20 = { controller = HAB } # Occupied by Austrian forces
+1814.4.6  = {	owner = HAB add_core = HAB remove_core = RFR } # Napoleon abdicates
+

@@ -1,0 +1,22 @@
+#878 - Navajo
+
+owner = NAH
+controller = NAH
+add_core = NAH
+culture = navajo
+religion = totemism 
+capital = "Navajo" 
+trade_goods = salt 
+hre = no 
+base_tax = 2 
+manpower = 1 
+citysize = 400
+discovered_by = north_american
+
+1541.1.1   = { discovered_by = SPA } # Francisco Vásquez de Coronado
+
+1800.1.1 = {
+	owner = APA
+	controller = APA
+	add_core = APA
+	} # Apache ally with neighboring tribes pushed west.

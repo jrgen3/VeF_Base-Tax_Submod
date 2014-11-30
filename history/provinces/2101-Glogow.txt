@@ -1,0 +1,43 @@
+# 2101 - Glogow
+owner = GLO
+controller = GLO
+culture = schlesian
+religion = catholic
+capital = "Hlohov"
+trade_goods = naval_supplies
+hre = no
+base_tax = 3
+citysize = 6500
+manpower = 3
+fort1 = yes
+add_core = GLO
+add_core = POL
+add_core = BOH
+discovered_by = eastern
+discovered_by = scandinavian_tech
+discovered_by = western
+discovered_by = byzantine
+
+1000.1.1   = { add_permanent_province_modifier = { name = "oder_river_basin" duration = -1 } }
+1335.1.1 = { add_core = BOH }
+1346.5.15 = { owner = BOH controller = BOH } # Bohemia inherits duchy on death of Henry I
+1349.1.1  = { owner = GLO controller = GLO remove_core = BOH } #Henry V granted the Duchy
+1419.1.1 = { owner = BOH controller = BOH add_core = BOH }
+1450.1.1   = { citysize = 22800 }
+1469.1.1 = { owner = HUN controller = HUN add_core = HUN }
+1490.4.6 = { 	owner = BOH controller = BOH add_core = BOH } 
+1500.1.1   = { citysize = 25000  }
+1526.8.30  = { owner = HAB controller = HAB add_core = HAB }
+1550.1.1   = { citysize = 35000 barracks = yes }
+1574.1.1   = { temple = yes }
+1600.1.1   = { citysize = 30000 }
+1618.1.1   = { unrest = 5 } # The beginning of religious struggles
+1648.1.1   = { unrest = 0 }
+1650.1.1   = { citysize = 21000 } # Lost big part of its population during the Thirty years war
+1694.1.1   = { unrest = 4 } # Religious oppositions
+1700.1.1   = { citysize = 35200 }
+1742.1.1   = { owner = PRU controller = PRU add_core = PRU }
+1750.1.1   = { citysize = 55000 tax_assessor = yes base_tax = 4 manpower = 2 }
+1763.1.1   = { remove_core = HAB } # End of 3rd Silesian war
+1800.1.1   = { citysize = 54000 }
+1806.7.12  = { hre = no } # The Holy Roman Empire is dissolved

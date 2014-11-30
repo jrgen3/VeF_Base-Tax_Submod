@@ -1,0 +1,31 @@
+# 2548 - Ningguo
+owner = YUN
+controller = YUN
+culture = wuhan
+religion = confucianism
+capital = "Ningguo"
+trade_goods = wine
+hre = no
+base_tax = 4
+manpower = 4
+citysize = 16000
+add_core = YUN
+fort1 = yes
+discovered_by = chinese
+discovered_by = niitaka
+
+1366.10.1 = { owner = MNG controller = MNG add_core = MNG remove_core = YUN add_core = CSH }
+1450.1.1 = { citysize = 16000 }
+1500.1.1 = { citysize = 16000 }
+1550.1.1 = { citysize = 16000 }
+1600.1.1 = { citysize = 16000 }
+1644.4.1 = { owner = CSH controller = CSH } # The Shun dynasty of Li Zicheng
+1645.7.1  = {	owner = QNG
+		controller = QNG
+		add_core = QNG
+	    } # The Qing Dynasty
+1650.1.1 = { citysize = 16000 }
+1662.1.1 = { remove_core = MNG }
+1700.1.1 = { citysize = 16000 }
+1750.1.1 = { citysize = 16000 }
+1800.1.1 = { citysize = 16000 }

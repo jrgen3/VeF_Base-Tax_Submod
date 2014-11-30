@@ -1,0 +1,16 @@
+# 2792 - Garzagamu
+
+capital = "Garzagamu"
+owner = KBO
+controller = KBO
+add_core = KBO
+citysize = 1000
+culture = fulani
+religion = yoruba
+base_tax = 2
+manpower = 1
+trade_goods = millet
+discovered_by = sudanese_tech 
+discovered_by = sub_saharan 
+hre = no
+

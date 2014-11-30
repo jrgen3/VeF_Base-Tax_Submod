@@ -1,0 +1,23 @@
+# 2332 - Kalpi
+
+owner = DLH
+controller = DLH
+culture = avadhi
+religion = hinduism
+capital = "Kalpi"
+trade_goods = grain
+hre = no
+base_tax = 2
+manpower = 1
+citysize = 1200
+add_core = DLH
+discovered_by = indian
+fort1 = yes
+
+
+1500.1.1 = { citysize = 1400 }
+1600.1.1 = { citysize = 1600 }
+1650.1.1 = { citysize = 1700 }
+1700.1.1 = { citysize = 1800 }
+1750.1.1 = { citysize = 1900 }
+1800.1.1 = { citysize = 2000 }

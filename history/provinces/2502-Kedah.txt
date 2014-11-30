@@ -1,0 +1,23 @@
+# 2502 - Kedah
+
+owner = KDH
+controller = KDH
+culture = malayan
+religion = buddhism
+capital = "Kedah"
+trade_goods = fish
+hre = no
+base_tax = 2
+manpower = 3
+fort1 = yes
+citysize = 7552
+add_core = KDH
+discovered_by = chinese
+
+1400.1.1   = { manpower = 3 }
+1500.1.1   = { manpower = 3.5 }
+1600.1.1   = { manpower = 4 }
+1650.1.1   = { manpower = 4.25 }
+1700.1.1   = { manpower = 4.5 }
+1750.1.1   = { manpower = 4.75 }
+1800.1.1   = { manpower = 5 }

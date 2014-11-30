@@ -1,0 +1,35 @@
+#622 - Palembang
+
+owner = PLM
+controller = PLM
+culture = malayan
+religion = buddhism
+capital = "Palembang"
+trade_goods = cloves
+hre = no
+base_tax = 2
+manpower = 2
+citysize = 3850
+add_core = PLM
+discovered_by = MKS
+discovered_by = MLC
+discovered_by = ATJ
+discovered_by = MAJ
+discovered_by = BEI
+discovered_by = AYU
+discovered_by = BLI
+
+1405.1.1 = { discovered_by = MNG }
+1450.1.1 = { citysize = 4000 }
+1500.1.1 = { citysize = 4520 }
+1509.1.1 = { discovered_by = POR }
+1550.1.1 = { citysize = 5100 }
+1600.1.1 = { citysize = 5642 }
+1650.1.1 = { citysize = 6010 }
+1658.1.1 = { owner = NED controller = NED } # The Dutch gradually gained control
+1683.1.1 = { add_core = NED }
+1700.1.1 = { citysize = 6340 }
+1750.1.1 = { citysize = 6980 }
+1795.1.1   = { owner = BTR controller = BTR add_core = BTR remove_core = NED }
+1800.1.1 = { citysize = 7580 }
+1806.6.5   = { owner = NED controller = NED add_core = NED remove_core = BTR }

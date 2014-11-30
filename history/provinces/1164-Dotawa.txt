@@ -1,0 +1,15 @@
+# 1164 : Dotawa
+
+capital = "Dotawa"
+owner = ALW
+controller = ALW
+add_core = ALW
+citysize = 1000
+culture = kongo
+religion = bantu
+base_tax = 2
+manpower = 2
+trade_goods = millet
+discovered_by = tribal_african_tech 
+hre = no
+

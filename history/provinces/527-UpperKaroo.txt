@@ -1,0 +1,12 @@
+# 527 - Upper Karoo
+
+capital = "Mossel"
+native_size =   5
+native_ferocity =   1
+native_hostileness =   1
+culture = xhosa
+religion = bantu
+base_tax = 1
+manpower = 1
+trade_goods = unknown
+hre = no

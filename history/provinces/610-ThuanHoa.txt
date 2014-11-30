@@ -1,0 +1,22 @@
+#610 - Thuan Hoa
+
+owner = DAI
+controller = DAI
+culture = vietnamese
+religion = buddhism
+capital = "Hue"
+trade_goods = fish
+hre = no
+base_tax = 3
+manpower = 2
+citysize = 3600
+add_core = DAI
+discovered_by = chinese
+
+1400.1.1 = { citysize = 3880 }
+1500.1.1 = { citysize = 4010 }
+1600.1.1 = { citysize = 6200 }
+1650.1.1 = { citysize = 7480 }
+1700.1.1 = { citysize = 8340 }
+1750.1.1 = { citysize = 9077 }
+1800.1.1 = { citysize = 9500 }

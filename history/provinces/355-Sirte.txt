@@ -1,0 +1,34 @@
+# 355 : Sirte - autobuid script by Africa team and Penguintopia
+# Manpower revision complete
+
+capital = "Sirte"
+owner = TUN
+controller = TUN
+add_core = TUN
+add_core = TRP
+citysize =   2034
+culture = bedouin_arabic
+religion = sunni
+base_tax = 1
+manpower = 0.2
+trade_goods = fish
+discovered_by = muslim 
+discovered_by = indopersian
+discovered_by = western 
+discovered_by = scandinavian_tech
+discovered_by = eastern 
+discovered_by = ottoman 
+discovered_by = byzantine 
+hre = no
+fort1 = yes
+
+1300.1.1   = { set_province_flag = vef_autonomy_100 }
+1349.1.1   = { set_province_flag = had_black_death } # Black Death was not severe in Libya
+1400.1.1   = { manpower = 0.25 }
+1500.1.1   = { manpower = 0.3 }
+1551.1.1   = { owner = TUR controller = TUR add_core = TUR } # Under Ottoman control
+1600.1.1   = { manpower = 0.3 }
+1650.1.1   = { manpower = 0.3 }
+1700.1.1   = { manpower = 0.3 marketplace = yes }
+1750.1.1   = { manpower = 0.3 }
+1800.1.1   = { manpower = 0.3 }

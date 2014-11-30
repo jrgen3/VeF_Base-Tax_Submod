@@ -1,0 +1,23 @@
+# 2444 - Midnapore
+
+owner = ORI
+controller = ORI
+culture = oriya
+religion = hinduism
+capital = "Midnapore"
+trade_goods = grain
+hre = no
+base_tax = 2
+manpower = 2
+citysize = 6000
+add_core = ORI
+fort1 = yes
+discovered_by = indian
+
+
+1500.1.1 = { citysize = 18240 }
+1600.1.1 = { citysize = 22895 }
+1650.1.1 = { citysize = 24244 }
+1700.1.1 = { citysize = 26240 }
+1750.1.1 = { citysize = 28955 }
+1800.1.1 = { citysize = 30600 }

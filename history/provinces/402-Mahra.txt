@@ -1,0 +1,38 @@
+#402 - Mahra
+
+owner = ADE
+controller = ADE
+add_core = ADE
+culture = bedouin_arabic
+religion = ibadi
+capital = "Mahra"
+trade_goods = fish
+hre = no
+base_tax = 2
+manpower = 1
+citysize = 1625
+discovered_by = muslim
+discovered_by = ZAN
+discovered_by = indopersian
+discovered_by = ILK
+discovered_by = AJU
+discovered_by = ADA
+discovered_by = byzantine
+fort1 = yes
+
+
+1450.1.1 = { citysize = 1980 }
+1488.1.1 = { discovered_by = POR } # Pêro da Covilhã
+1500.1.1 = { citysize = 2005 }
+1550.1.1 = { citysize = 2442 }
+1554.11.8 = {	owner = OMA
+		controller = OMA
+		add_core = OMA
+		remove_core = ADE
+	     } # In the wake of the crushing Mameluke defeat, the Sultan of Oman seized the major coastal territories of the Arabian peninsula and assumed leadership of the moslems in Arabia.
+1600.1.1 = { citysize = 2930 }
+1602.1.1 = { unrest = 0 }
+1650.1.1 = { citysize = 3270 }
+1700.1.1 = { citysize = 4087 }
+1750.1.1 = { citysize = 4520 }
+1800.1.1 = { citysize = 5170 }

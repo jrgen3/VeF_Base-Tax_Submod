@@ -1,0 +1,31 @@
+#732 - Hamgyeong
+# Manpower revision complete
+
+owner = KOR
+controller = KOR
+culture = korean
+religion = confucianism
+capital = "Hamheung"
+trade_goods = wine
+hre = no
+base_tax = 3
+manpower = 3.75
+citysize = 5688
+add_core = KOR
+fort1 = yes
+discovered_by = chinese
+discovered_by = niitaka
+
+1400.1.1   = { manpower = 4.5 }
+1500.1.1   = { manpower = 5 }
+1592.7.18  = { controller = JAP } # Japanese invasion - Battle of Haejungchang
+1593.2.22  = { controller = KOR } # Kato retreats to Seoul
+1600.1.1   = { manpower = 6.25 }
+1637.1.1   = { add_core = MNG } # Tributary of Qing China
+1644.1.1   = { add_core = MCH remove_core = MNG } # Part of the Manchu empire
+1645.7.1   = { add_core = QNG remove_core = MCH }
+1650.1.1   = { manpower = 6.25 }
+1653.1.1   = { discovered_by = NED } # Hendrick Hamel
+1700.1.1   = { manpower = 7.8 }
+1750.1.1   = { manpower = 8.75 }
+1800.1.1   = { manpower = 9.3 }

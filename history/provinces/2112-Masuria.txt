@@ -1,0 +1,47 @@
+# 2112 - Masuria
+owner = TEU
+controller = TEU
+add_core = TEU
+capital = "Marienwerder"
+culture = old_prussian
+religion = catholic
+trade_goods = grain
+hre = no
+base_tax = 2
+manpower = 1
+citysize = 17000
+fort1 = yes
+trading_post = yes
+discovered_by = eastern
+discovered_by = scandinavian_tech
+discovered_by = western
+discovered_by = byzantine
+
+1450.1.1   = { citysize = 17000 }
+1454.2.10  = { add_core = POL revolt = { type = revolutionary_rebels size = 0 } controller = REB }  # Thirteen Years War
+1466.10.19 = {	revolt = {} add_core = PRU controller = TEU } # Peace of Torun
+1500.1.1   = { citysize = 20000 }
+1523.1.25  = { unrest = 6 } # Iconoclast riots
+1525.1.1   = { unrest = 0 }
+1525.2.10  = { owner = PRU controller = PRU remove_core = TEU remove_core = POL religion = protestant } # Albert of Prussia became a protestant
+1529.1.1   = { citysize = 18000 } # Epidemic
+1550.1.1   = { citysize = 26000 religion = protestant }
+1572.1.1   = { unrest = 6 } # Sigismund II dies
+1575.1.1   = { army_base = yes }
+1580.1.1   = { sheriffs_office = yes }
+1600.1.1   = { fort2 = yes citysize = 50000 }
+1618.8.28  = {	owner = BRA controller = BRA add_core = BRA } # Prussia in a personal union with Brandenburg
+1650.1.1   = { courthouse = yes citysize = 77000 }
+1660.5.3   = { citysize = 70000 } # Oliwa incorporated into Danzig
+1701.1.18  = {	owner = PRU controller = PRU remove_core = BRA } # Kingdom of Prussia
+1703.1.1   = { citysize = 50400 }
+#1704.1.1   = { controller = SWE } # Under siege by Sweden
+1710.1.1   = { citysize = 40000 } # Plague
+1733.1.1   = { revolt = { type = revolutionary_rebels size = 0 } controller = REB } # The war of Polish succession
+1750.1.1   = { citysize = 46000 }
+1772.2.17  = { fort3 = yes }
+1794.11.16 = { unrest = 0 } # The end of the uprising
+1800.5.24  = { citysize = 51000 }
+1807.5.24  = { controller = RFR } # Occupied by French troops
+1807.7.9   = { controller = PRU } # The Second treaty of Tilsit
+

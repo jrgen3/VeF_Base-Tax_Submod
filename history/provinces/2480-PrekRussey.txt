@@ -1,0 +1,23 @@
+# 2480 - Prek Russey
+
+owner = KHM
+controller = KHM
+culture = khmer
+religion = buddhism
+capital = "Prek Russey"
+trade_goods = wool
+hre = no
+base_tax = 3
+manpower = 3
+citysize = 4400
+add_core = KHM
+fort1 = yes
+discovered_by = chinese
+
+1400.1.1  = { citysize = 4400 }
+1500.1.1  = { citysize = 4400 }
+1600.1.1  = { citysize = 4400 }
+1650.1.1  = { citysize = 4400 }
+1700.1.1  = { citysize = 4400 }
+1750.1.1  = { citysize = 4400 }
+1800.1.1  = { citysize = 4400 }

@@ -1,0 +1,23 @@
+# 2420 - Ulanhot
+
+owner = JAF
+controller = JAF
+culture = tamil
+religion = hinduism
+capital = "Yapapatuna"
+trade_goods = wool
+hre = no
+base_tax = 4
+manpower = 2
+citysize = 6400
+add_core = JAF
+fort1 = yes
+discovered_by = indian
+
+
+1500.1.1 = { citysize = 7124 }
+1600.1.1 = { citysize = 10986 }	   
+1650.1.1 = { citysize = 12487 }
+1700.1.1 = { citysize = 14855 }
+1750.1.1 = { citysize = 15388 }
+1800.1.1 = { citysize = 17040 }

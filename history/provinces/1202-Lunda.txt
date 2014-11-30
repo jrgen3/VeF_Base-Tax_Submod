@@ -1,0 +1,19 @@
+# 1202 : Lunda
+
+capital = "Lunda"
+owner = LOA
+controller = LOA
+add_core = LOA
+citysize =   9500
+culture = swahili
+religion = sunni
+base_tax = 3
+manpower = 0.5
+trade_goods = ivory
+discovered_by = sub_saharan
+hre = no
+fort1 = yes
+fort2 = yes
+trading_post = yes
+
+

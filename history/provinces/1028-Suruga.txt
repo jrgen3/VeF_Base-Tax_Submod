@@ -1,0 +1,31 @@
+# Author: Morkazar
+#1028 - Suruga
+# Manpower revision complete
+
+owner = IMG
+controller = IMG
+culture = japanese
+religion = shinto
+capital = "Yokohama"
+trade_goods = tea
+hre = no
+base_tax = 2
+manpower = 3
+citysize = 12000
+add_core = IMG
+fort1 = yes
+discovered_by = chinese
+discovered_by = niitaka
+
+1400.1.1	= { manpower = 3.5 }
+1500.1.1	= { manpower = 4.5 }
+1524.1.1	= { add_core = HJO }
+1542.1.1	= { discovered_by = POR }
+1546.5.19	= { owner = HJO controller = HJO }
+1590.8.10	= { remove_core = HJO add_core = TKG owner = TKG controller = TKG }
+1600.1.1	= { manpower = 6 }
+1603.3.24	= { owner = JAP controller = JAP add_core = JAP remove_core = TKG } # Tokugawa shogunate founded
+1650.1.1	= { manpower = 7 }
+1700.1.1	= { manpower = 8 }
+1750.1.1	= { manpower = 8 }
+1800.1.1	= { manpower = 7.5 }

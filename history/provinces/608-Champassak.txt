@@ -1,0 +1,38 @@
+#608 - Champassak
+
+owner = KHM
+controller = KHM
+culture = khmer
+religion = buddhism
+capital = "Champassak"
+trade_goods = rice
+hre = no
+base_tax = 2
+manpower = 2
+citysize = 4500
+add_core = LXA
+add_core = KHM
+discovered_by = chinese
+
+1354.1.1 = { owner = LXA controller = LXA remove_core = KHM }
+1450.1.1 = { citysize = 5100 }
+1483.1.1 = { add_core = DAI } # Vietnamese Invasion
+1500.1.1 = { citysize = 6310 }
+1550.1.1 = { citysize = 7122 }
+1600.1.1 = { citysize = 8975 }
+1650.1.1 = { citysize = 10500 }
+1694.1.1 = { add_core = ANN } # Vietnamese Intervention
+1707.1.1 = {	
+	citysize = 12580
+	owner = CHK
+	controller = CHK
+	add_core = CHK
+  	remove_core = LXA
+  	remove_core = DAI
+	remove_core = ANN
+} # Lan Xangs declared itself independent, partitioned into three kingdoms; Vientiane, Champasak & Luang Prabang
+1750.1.1 = { citysize = 14100 }
+1758.1.1 = { unrest = 5 } # Rebellion
+1759.1.1 = { unrest = 0 }
+1777.1.1 = { add_core = AYU } # Siamnese vassalization
+1800.1.1 = { citysize = 15899 }

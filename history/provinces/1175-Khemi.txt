@@ -1,0 +1,14 @@
+# 1175 : Khemi
+
+capital = "Khemi"
+owner = ZIM
+controller = ZIM
+add_core = ZIM
+citysize = 1000 
+culture = kongo
+religion = bantu
+base_tax = 1
+manpower = 0.5
+trade_goods = unknown
+hre = no
+

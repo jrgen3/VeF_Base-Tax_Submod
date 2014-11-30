@@ -1,0 +1,47 @@
+# 2103 - Opole
+owner = OPO
+controller = OPO
+culture = schlesian
+religion = catholic
+hre = no
+base_tax = 3
+capital = "Opole"
+citysize = 15000
+trade_goods = glassware
+manpower = 3
+fort1 = yes
+add_core = OPO
+add_core = BOH
+add_core = POL
+discovered_by = eastern
+discovered_by = scandinavian_tech
+discovered_by = western
+discovered_by = byzantine
+discovered_by = indopersian
+
+
+1335.1.1 = { remove_core = POL } # Treaty of Trentschin
+1380.1.1  = { owner = BOH controller = BOH }
+1450.1.1   = { citysize = 13000 }
+1469.1.1 = { owner = HUN controller = HUN add_core = HUN }
+1490.4.6 = { 	owner = BOH controller = BOH add_core = BOH } 
+1500.1.1   = { citysize = 17000 }
+1523.1.1   = { religion = reformed marketplace = yes }
+# Battle of Mohac where Lajos II dies -> Habsburg succession
+1526.8.30 = {	owner = HAB controller = HAB add_core = HAB remove_core = BOH }
+1550.1.1   = { citysize = 20000 }
+1600.1.1   = { citysize = 22000 }
+1618.1.1   = { unrest = 5 } # Religious struggles
+# Defenestration of Prague
+1618.5.23 = { owner = BOH controller = BOH add_core = BOH }
+# Tilly beats the Winterking. Deus Vult!
+1620.11.8  = {	owner = HAB controller = HAB remove_core = BOH } 
+1648.1.1   = { unrest = 0 }
+1650.1.1   = { citysize = 21000 marketplace = yes }
+1700.1.1   = { citysize = 23000 base_tax = 4}
+1740.1.1   = { add_core = PRU } # 1st Silesian war against Austria
+1742.1.1   = { owner = PRU controller = PRU add_core = PRU }
+1750.1.1   = { citysize = 25000  base_tax = 5 manpower = 3}
+1763.1.1   = { remove_core = HAB } # End of 3rd Silesian war
+1800.1.1   = { citysize = 30000 }
+1806.7.12  = { hre = no } # The Holy Roman Empire is dissolved

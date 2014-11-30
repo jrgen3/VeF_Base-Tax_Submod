@@ -1,0 +1,17 @@
+# 2788 : Zinder
+
+capital = "Zinder"
+owner = KAN
+controller = KAN
+add_core = KAN
+citysize = 2000
+culture = hausa
+religion = sunni
+base_tax = 3
+manpower = 1
+trade_goods = salt
+discovered_by = sudanese_tech
+hre = no
+trading_post = yes
+
+1419.7.30 = { owner = SON controller = SON add_core = SON remove_core = KAN }

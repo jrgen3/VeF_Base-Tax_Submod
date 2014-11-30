@@ -1,0 +1,32 @@
+#1074 - Sibir
+# Manpower revision complete
+
+owner = GOL
+controller = GOL
+culture = siberian
+religion = tengri
+capital = "Qashliq"
+trade_goods = fur
+hre = no
+base_tax = 1
+manpower = 0.25
+citysize = 2900
+add_core = SIB
+add_core = GOL
+discovered_by = nomad_group
+
+1400.1.1   = { manpower = 0.25 }
+1468.1.1   = { owner = SIB controller = SIB discovered_by = SIB citysize = 3150 } # Sibir Khanate formed from northern Uzbek lands
+1500.1.1   = { manpower = 0.25 }
+1582.10.23 = { discovered_by = RUS owner = RUS controller = RUS add_core = RUS citysize = 3411 } # Yermak Timofeevich
+1587.1.1   = { capital = "Tobolsk" religion = orthodox culture = russian }
+1600.1.1   = { manpower = 0.25 }
+1606.1.1   = { unrest = 3 } # Rebellions
+1608.1.1   = { unrest = 5 }
+1610.1.1   = { unrest = 2 }
+1616.1.1   = { unrest = 6 }
+1620.1.1   = { unrest = 0 remove_core = SIB }
+1650.1.1   = { manpower = 0.25 }
+1700.1.1   = { manpower = 0.35 }
+1750.1.1   = { manpower = 0.4 }
+1800.1.1   = { manpower = 0.5 }

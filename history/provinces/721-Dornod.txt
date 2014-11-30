@@ -1,0 +1,40 @@
+#721 - Dornod
+
+owner = YUN
+controller = YUN
+culture = mongol
+religion = tengri
+capital = "Dornod"
+trade_goods = wool
+hre = no
+base_tax = 2
+manpower = 1
+citysize = 5400
+add_core = YUN
+fort1 = yes
+discovered_by = chinese
+
+
+1368.4.1 = { owner = KHA controller = KHA add_core = KHA remove_core = YUN }
+1450.1.1 = { citysize = 5910 }
+1500.1.1 = { citysize = 6359 }
+1543.1.1 = { revolt = { type = revolutionary_rebels size = 0 } controller = REB } # Fighting broke out between the Mongols
+1550.1.1 = { citysize = 7285 }
+1552.1.1 = {	revolt = {}
+		controller = KHA
+	   } # The Oirads are defeated & Mongolia is reunited under Altan Khan
+1600.1.1 = { citysize = 8944 }
+1634.1.1 = {	owner = MCH
+		controller = MCH
+		add_core = MCH
+		remove_core = KHA
+	   } # Part of the Manchu empire
+1645.7.1  = {	owner = QNG
+		controller = QNG
+		add_core = QNG
+		remove_core = MCH
+	    } # The Qing Dynasty	   
+1650.1.1 = { citysize = 10465 }
+1700.1.1 = { citysize = 12487 }
+1750.1.1 = { citysize = 14000 }
+1800.1.1 = { citysize = 15231 }

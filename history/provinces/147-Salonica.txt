@@ -1,0 +1,31 @@
+#147 - Salonica
+owner = GVL
+controller = GVL
+culture = greek
+religion = orthodox
+capital = "Larissa"
+trade_goods = wool
+hre = no
+base_tax = 4
+manpower = 2
+citysize = 26887
+fort1 = yes
+add_core = GVL
+add_core = EPI
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = scandinavian_tech
+discovered_by = ottoman
+discovered_by = indopersian
+discovered_by = western
+discovered_by = byzantine
+
+1321.7.1	= { remove_core = EPI } # Epirus looses influence
+1333.1.1	= { owner = BYZ controller = BYZ add_core = EPI }
+1348.1.1	= { controller = SER }
+1349.1.1	= { owner = SER add_core = SER }
+1356.4.1	= { revolt = { type = nationalist_rebels size = 2 } controller = REB }
+1356.10.1	= { revolt = {} controller = EPI owner = EPI }
+1370.7.1	= { owner = GVL controller = GVL }
+1393.7.1	= { owner = TUR controller = TUR add_core = TUR }
+1750.1.1	= { remove_core = BYZ remove_core = EPI add_core = GRE }

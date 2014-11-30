@@ -1,0 +1,22 @@
+#593 - Ligore
+
+owner = PAT
+controller = PAT
+culture = malayan
+religion = buddhism
+capital = "Ligore"
+trade_goods = fish
+hre = no
+base_tax = 2
+manpower = 1
+citysize = 4200
+add_core = PAT
+discovered_by = chinese
+
+1400.1.1 = { citysize = 4850 }
+1500.1.1 = { citysize = 5155 }
+1600.1.1 = { citysize = 6530 }
+1650.1.1 = { citysize = 7254 }
+1700.1.1 = { citysize = 8226 }
+1750.1.1 = { citysize = 9100 }
+1800.1.1 = { citysize = 10500 }

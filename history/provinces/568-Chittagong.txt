@@ -1,0 +1,30 @@
+#568 - Chittagong
+owner = ARK
+controller = ARK
+culture = bengali
+religion = hinduism
+capital = "Chittagong"
+trade_goods = naval_supplies
+hre = no
+base_tax = 2
+manpower = 4
+fort1 = yes
+dock = yes	#Was one of (if not the) the biggest ports in the world at this time
+citysize = 30000
+add_core = ARK
+discovered_by = chinese
+discovered_by = indian
+
+1450.1.1 = { citysize = 39000 }
+1473.1.1 = {	owner = BNG controller = BNG }	#Order restored by Bengal
+1500.1.1 = { discovered_by = POR	citysize = 50000 }
+1538.1.1 = {	owner = ARK controller = ARK } # Fallout of the internal Bengal conflict being won by Sher Shah
+1550.1.1 = { citysize = 50000 }
+1600.1.1 = { citysize = 52000 }
+1650.1.1 = { citysize = 35000 }
+1666.1.1 = {	owner = MUG controller = MUG add_core = MUG } # Annexation by the Mughals
+1700.1.1 = { citysize = 25000 }
+1707.3.15 = {	owner = BNG controller = BNG remove_core = MUG }
+1750.1.1 = { citysize = 22000 }
+1760.1.1 = {	owner = GBR controller = GBR add_core = GBR } # Given to GBR by Mir Qasim
+1800.1.1 = { religion = sunni citysize = 20000 }

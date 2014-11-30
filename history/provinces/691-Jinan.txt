@@ -1,0 +1,36 @@
+#691 - Jinan
+owner = YUN
+controller = YUN
+culture = chihan
+religion = confucianism
+capital = "Jinan"
+trade_goods = salt
+hre = no
+base_tax = 5
+manpower = 5
+citysize = 105000
+add_core = YUN
+fort1 = yes
+temple = yes
+discovered_by = chinese
+
+discovered_by = niitaka
+
+1000.1.1   = {
+	add_permanent_province_modifier = { name = "huang_he_estuary_modifier" duration = -1 }
+	add_permanent_province_modifier = { name = "yellow_river_basin" duration = -1 }
+}
+1368.4.1 = { owner = MNG controller = MNG add_core = MNG remove_core = YUN add_core = CSH }
+1450.1.1 = { citysize = 110120}
+1500.1.1 = { citysize = 114000 }
+1506.1.1 = { trading_post = yes }
+1550.1.1 = { citysize = 118000 }
+1600.1.1 = { citysize = 122500 sheriffs_office = yes }
+1644.4.1 = { owner = CSH controller = CSH } # The Shun dynasty of Li Zicheng
+1645.7.1  = {	owner = QNG controller = QNG add_core = QNG } # The Qing Dynasty
+1650.1.1 = { citysize = 105580 }
+1662.1.1 = { remove_core = MNG }
+1700.1.1 = { citysize = 141540 }
+1735.1.1 = { tax_assessor = yes }
+1750.1.1 = { citysize = 149580 }
+1800.1.1 = { citysize = 152400 }

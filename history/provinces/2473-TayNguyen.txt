@@ -1,0 +1,25 @@
+# 2473 - Tay Nguyen
+
+owner = CHA
+controller = CHA
+culture = cham
+religion = hinduism
+capital = "Tay Nguyen"
+trade_goods = iron
+hre = no
+base_tax = 4
+manpower = 2
+citysize = 14500
+add_core = CHA
+fort1 = yes
+discovered_by = chinese
+
+
+1400.1.1 = { citysize = 92540 }
+1500.1.1 = { citysize = 104000 }
+1550.1.1 = { citysize = 106458 }
+1600.1.1 = { citysize = 108000 }
+1650.1.1 = { citysize = 100850 }
+1700.1.1 = { citysize = 111500 }
+1750.1.1 = { citysize = 113245 }
+1800.1.1 = { citysize = 116548 }

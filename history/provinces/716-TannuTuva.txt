@@ -1,0 +1,26 @@
+#716 - Tannu Tuva
+owner = YUN
+controller = YUN
+culture = mongol
+religion = tengri
+capital = "Tannu Tuva"
+trade_goods = livestock
+hre = no
+base_tax = 2
+manpower = 1
+citysize = 5988
+add_core = YUN
+discovered_by = chinese
+
+
+1450.1.1 = { citysize = 6500 }
+1500.1.1 = { citysize = 7140 }
+1550.1.1 = { citysize = 8564 }
+1552.1.1 = { revolt = {} owner = KHA controller = KHA add_core = KHA remove_core = YUN }
+1600.1.1 = { citysize = 10200 }
+1623.1.1 = { owner = OIR controller = OIR add_core = OIR remove_core = KHA }
+1650.1.1 = { citysize = 12155 }
+1691.1.1 = { owner = QNG controller = QNG add_core = QNG remove_core = OIR }
+1700.1.1 = { citysize = 14397 }
+1750.1.1 = { citysize = 16400 }
+1800.1.1 = { citysize = 17895 }

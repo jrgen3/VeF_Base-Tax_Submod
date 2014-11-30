@@ -1,0 +1,29 @@
+#603 - Nakhon Thung Yai
+
+owner = KHM
+controller = KHM
+culture = central_thai
+religion = buddhism
+capital = "Nakhon Thung Yai"
+trade_goods = rice
+hre = no
+base_tax = 2
+manpower = 2
+citysize = 6500
+add_core = AYU
+add_core = KHM
+discovered_by = chinese
+
+1351.1.1 = { owner = AYU controller = AYU remove_core = KHM }
+1450.1.1 = { citysize = 6900 }
+1500.1.1 = { citysize = 7670 }
+1550.1.1 = { citysize = 8890 }
+1564.2.1 = { add_core = TAU } # Burmese vassal
+1584.5.3 = { remove_core = TAU }
+1600.1.1 = { citysize = 10120 }
+1650.1.1 = { citysize = 12411 }
+1700.1.1 = { citysize = 13487 }
+1750.1.1 = { citysize = 15660 }
+1767.4.1 = { unrest = 7 } # The Ayutthaya kingdom began to crumble
+1774.1.1 = { unrest = 0 }
+1800.1.1 = { citysize = 16788 }

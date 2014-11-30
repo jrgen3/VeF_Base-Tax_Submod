@@ -1,0 +1,27 @@
+#1979 - Färöarna
+
+owner = NOR
+controller = NOR 
+culture = faroese
+religion = catholic
+hre = no
+base_tax = 1
+trade_goods = fish
+manpower = 0.1
+capital = "Torshavn"
+citysize = 1000 		# Estimated
+fort1 = yes
+add_core = NOR
+discovered_by = eastern
+discovered_by = scandinavian_tech
+discovered_by = western
+
+
+1400.1.1   = { manpower = 0.1 }
+1500.1.1   = { manpower = 0.1 }
+1536.1.1   = { owner = DAN controller = DAN add_core = DAN capital = "Thorshavn" religion = protestant  }
+1600.1.1   = { manpower = 0.1 }
+1650.1.1   = { manpower = 0.1 }
+1700.1.1   = { manpower = 0.1 }
+1750.1.1   = { manpower = 0.1 }
+1800.1.1   = { manpower = 0.1 }

@@ -1,0 +1,40 @@
+# 2498 - Uelzen
+
+owner = LUN
+controller = LUN
+add_core = LUN
+culture = lowersaxon
+religion = catholic
+capital = "Uelzen"
+trade_goods = grain
+hre = yes
+base_tax = 2
+manpower = 6
+citysize = 4000
+fort1 = yes
+
+discovered_by = eastern
+discovered_by = scandinavian_tech
+discovered_by = western
+discovered_by = byzantine
+
+1450.1.1 = { citysize = 10000 }
+1500.1.1 = { citysize = 12000 }
+1529.1.1 = { religion = protestant }
+1692.1.1 = {	
+	owner = BRU
+	controller = BRU
+	add_core = BRU
+} # Braunschweig-Wolfenbüttel remains independent upon formation of the Electorate of Hannover
+1806.7.12 = { hre = no } # The Holy Roman Empire is dissolved
+1807.7.9 = {
+	owner = WES
+	controller = WES
+	add_core = WES
+} # The Second Treaty of Tilsit, the kingdom of Westfalia
+1813.10.14 = {
+	owner = HAN
+	controller = HAN
+	add_core = HAN
+	remove_core = BRU
+} # Westfalia is dissolved after the Battle of Leipsig

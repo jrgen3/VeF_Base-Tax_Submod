@@ -1,0 +1,17 @@
+# 2816 - Kumasi
+
+capital = "Denkyira"
+owner = ASH
+controller = ASH
+add_core = ASH
+citysize =   18000
+culture = malinke
+religion = sunni
+base_tax = 2
+manpower = 2
+trade_goods = gold
+discovered_by = sudanese_tech 
+discovered_by = sub_saharan 
+hre = no
+
+

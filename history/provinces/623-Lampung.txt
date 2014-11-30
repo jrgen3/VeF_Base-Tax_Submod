@@ -1,0 +1,35 @@
+#623 - 	
+
+owner = PLM
+controller = PLM
+culture = malayan
+religion = buddhism
+capital = "Lampung"
+trade_goods = cloves
+hre = no
+base_tax = 3
+manpower = 2
+citysize = 3500
+add_core = PLM
+discovered_by = MKS
+discovered_by = MLC
+discovered_by = ATJ
+discovered_by = MAJ
+discovered_by = BEI
+discovered_by = AYU
+discovered_by = BLI
+
+1405.1.1 = { discovered_by = MNG }
+1450.1.1 = { citysize = 3900 }
+1500.1.1 = { citysize = 4210 }
+1509.1.1 = { discovered_by = POR }
+1550.1.1 = { citysize = 4655 }
+1600.1.1 = { citysize = 5130 }
+1650.1.1 = { citysize = 5780 }
+1658.1.1 = { owner = NED controller = NED } # The Dutch gradually gained control
+1683.1.1 = { add_core = NED }
+1700.1.1 = { citysize = 6200 }
+1750.1.1 = { citysize = 6870 }
+1795.1.1   = { owner = BTR controller = BTR add_core = BTR remove_core = NED } # Batavian Republic proclaimed when French troops occupy Netherlands
+1800.1.1 = { citysize = 7433 }
+1806.6.5   = { owner = NED controller = NED add_core = NED remove_core = BTR } # Kingdom of Holland established under Louis Bonaparte

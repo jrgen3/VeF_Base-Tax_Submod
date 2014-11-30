@@ -1,0 +1,73 @@
+#521 - Gujarat
+
+owner = DLH
+controller = DLH
+culture = gujarati
+religion = hinduism
+capital = "Diu"
+trade_goods = cotton
+hre = no
+base_tax = 2
+manpower = 4
+citysize = 22000
+add_core = GUJ
+add_core = DLH
+add_core = KAT
+fort1 = yes
+discovered_by = indopersian
+discovered_by = muslim
+discovered_by = indian
+discovered_by = byzantine
+
+1407.1.1 = {
+	owner = GUJ
+	controller = GUJ
+}
+1498.1.1 = { discovered_by = POR }
+1500.1.1 = { citysize = 27000 }
+1550.1.1 = { citysize = 31000 }
+1573.6.1 = {
+	owner = MUG
+	controller = MUG
+	add_core = MUG
+} # Conquered by Akbar
+1600.1.1 = { citysize = 35000 }
+1622.3.1 = {
+	controller = REB
+	revolt = { 
+	type = pretender_rebels 
+	size = 0 
+	name = "Khurrams Faction" 
+	leader = "Shah Jahan Timurid"
+	} 
+} #Should be named Khurram at this point
+1622.7.1 = { controller = MUG revolt = { } } #Retaken by Jahangir and Nur Jahan
+1650.1.1 = { citysize = 31000 }
+1657.9.14 = {
+	controller = REB
+	revolt = { 
+	type = pretender_rebels
+	size = 0
+	name = "Murad Bakhsh's Faction"
+	leader = "Murad Bakhsh Timurid" 
+	}
+} # Shah Jahan falls ill, his sons starts civil war
+1658.6.25 = {
+	controller = MUG
+	revolt = { }
+} # Aurangzeb imprison Murad
+1700.1.1 = { citysize = 37000 }
+1725.1.1 = {
+	owner = BDA
+	controller = BDA
+	add_core = BDA
+	remove_core = MUG	
+}
+1750.1.1 = { citysize = 39000 }
+1800.1.1 = { citysize = 41000 }
+1802.1.1 = {
+	owner = KAT
+	controller = KAT
+	remove_core = BDA	
+}
+

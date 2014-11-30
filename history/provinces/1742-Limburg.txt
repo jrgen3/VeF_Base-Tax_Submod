@@ -1,0 +1,45 @@
+# 1742 Limburg
+# Manpower revision complete
+
+owner = GEL
+controller = GEL
+capital = "Maastricht"
+citysize = 17000
+culture = flemish
+religion = catholic
+hre = yes
+base_tax = 4
+trade_goods = iron
+manpower = 0.75
+add_core = GEL
+trading_post = yes
+courthouse = yes
+fort1 = yes
+discovered_by = eastern
+discovered_by = scandinavian_tech
+discovered_by = western
+discovered_by = byzantine
+
+1349.1.1   = { manpower = 0.7 add_province_modifier = { name = "province_black_death" duration = 3650 } set_province_flag = had_black_death } # Black Death
+1360.1.1   = { remove_province_modifier = province_black_death }
+1400.1.1   = { manpower = 0.6 }
+1473.8.14  = { owner = BUR controller = BUR add_core = BUR }
+1477.1.5   = { owner = HAB controller = HAB add_core = HAB remove_core = BUR unrest = 4 } # Charles the Bold dies, Lowlands to Austria
+1492.7.12  = { unrest = 0 } # Peace of Cadzand, peace returns
+1500.1.1   = { manpower = 0.8 sheriffs_office = yes }
+1518.1.1   = { fort2 = yes }
+1519.1.12  = { owner = SPA controller = SPA add_core = SPA remove_core = HAB } # Charles V gets total control over his Burgundian inheritance
+1526.1.1   = { religion = anabaptist }
+1579.1.23  = { revolt = {} controller = NED add_core = NED unrest = 0 } # Union of Utrecht - Flanders joins
+1600.1.1   = { manpower = 1.25 }
+1630.1.1   = { blacksmith = yes }
+1650.1.1   = { manpower = 1.75 fort3 = yes }
+1700.1.1   = { manpower = 1.75 }
+1713.4.11  = { owner = HAB controller = HAB add_core = HAB remove_core = SPA } # Treaty of Utrecht
+1715.1.1   = { fort4 = yes }
+1750.1.1   = { manpower = 1.75 tax_assessor = yes }
+1797.12.26 = { owner = RFR controller = RFR add_core = RFR remove_core = HAB } # Treaty of Campo Formio
+1800.1.1   = { manpower = 1.75 }
+1806.6.5   = { owner = NED controller = NED add_core = NED remove_core = BTR } # Kingdom of Holland established under Louis Bonaparte
+1810.7.10  = { owner = RFR controller = RFR add_core = RFR } # Annexed by France
+1813.11.30 = { owner = NED controller = NED remove_core = RFR  } # William returns to the Netherlands

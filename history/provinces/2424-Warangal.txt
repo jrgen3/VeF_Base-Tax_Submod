@@ -1,0 +1,23 @@
+# 2424 - Warangal
+
+owner = GOC
+controller = GOC
+culture = telegu
+religion = hinduism
+capital = "Warangal"
+trade_goods = grain
+hre = no
+base_tax = 5
+manpower = 1
+citysize = 25900
+add_core = GOC
+fort1 = yes
+discovered_by = indian
+
+
+1500.1.1 = { citysize = 13240 }
+1600.1.1 = { citysize = 15654 }
+1650.1.1 = { citysize = 13570 }
+1700.1.1 = { citysize = 17140 }
+1750.1.1 = { citysize = 18852 }
+1800.1.1 = { citysize = 20170 }

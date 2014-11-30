@@ -1,0 +1,24 @@
+# 1234 : Jolof
+
+capital = "Jolof"
+owner = JOL
+controller = JOL
+add_core = JOL
+citysize =   12000
+culture = al_misr_arabic
+religion = sunni
+base_tax = 2
+manpower = 1
+trade_goods = grain
+discovered_by = sub_saharan
+hre = no
+temple = yes
+
+
+1400.1.1   = { manpower = 3 }
+1500.1.1   = { manpower = 3.5 }
+1600.1.1   = { manpower = 4 }
+1650.1.1   = { manpower = 3.5 }
+1700.1.1   = { manpower = 3.7 }
+1750.1.1   = { manpower = 3.5 }
+1800.1.1   = { manpower = 3 }

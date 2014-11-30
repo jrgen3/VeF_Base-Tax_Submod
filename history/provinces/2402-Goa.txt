@@ -1,0 +1,23 @@
+# 2402 - Goa
+
+owner = VIJ
+controller = VIJ
+culture = marathi
+religion = hinduism
+capital = "Goa"
+trade_goods = wool
+hre = no
+base_tax = 2
+manpower = 1
+add_core = VIJ
+citysize = 1100
+fort1 = yes
+discovered_by = indian
+
+
+1500.1.1 = { citysize = 4557 }
+1600.1.1 = { citysize = 5800 }
+1650.1.1 = { citysize = 6758 }
+1700.1.1 = { citysize = 7300 }
+1750.1.1 = { citysize = 8870 }
+1800.1.1 = { citysize = 9000 }

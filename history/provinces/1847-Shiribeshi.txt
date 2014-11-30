@@ -1,0 +1,30 @@
+#1847 - Shiribeshi
+# Manpower revision complete
+
+owner = ANU
+controller = ANU
+add_core = ANU
+culture = ainu
+religion = animism
+capital = "Shiribeshi"
+trade_goods = iron
+hre = no
+base_tax = 2
+manpower = 0.5
+citysize = 1000
+discovered_by = niitaka
+discovered_by = chinese
+
+1640.1.1	= { discovered_by = RUS } # Ivan Moskvitin
+1679.1.1	= {	
+		owner = JAP
+		controller = JAP
+		culture = japanese
+		religion = shinto
+	} # Russian & Japanese attemps at colonization
+1700.1.1	= { citysize = 1000 manpower = 1 }
+1704.1.1	= { add_core = JAP }
+1750.1.1	= { manpower = 1 }
+1767.1.1	= { add_core = RUS }
+1787.1.1	= { discovered_by = FRA } # Jean-Francois de La Pérouse
+1800.1.1	= { manpower = 1.5 }

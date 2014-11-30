@@ -1,0 +1,33 @@
+# 67 - Nürnberg
+
+owner = NUR
+controller = NUR
+add_core = NUR
+culture = eastfranconian
+religion = catholic
+base_tax = 5
+trade_goods = wine
+manpower = 3
+fort1 = yes
+capital = "Nürnberg"
+citysize = 34000
+hre = yes
+discovered_by = eastern
+discovered_by = scandinavian_tech
+discovered_by = indopersian
+discovered_by = western
+discovered_by = byzantine
+trading_post = yes
+courthouse = yes 	# Nurnberg is one of the central towns of the HRE
+
+1450.1.1  = { citysize = 37000 }
+1520.1.1  = { sheriffs_office = yes temple = yes }
+1533.1.1  = { religion = protestant } # Brandenburg-Nürnbergische Kirchenordnung
+1550.1.1  = { citysize = 42000 }
+#1580.1.1  = { customs_house = yes }
+1599.1.1  = { army_base = yes citysize = 50000 }
+1650.1.1  = { citysize = 30000 }
+1700.1.1  = { citysize = 41000 }
+1742.1.1  = { college = yes }
+1750.1.1  = { citysize = 32000 }
+1806.7.12 = { hre = no } # The Holy Roman Empire is dissolved

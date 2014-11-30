@@ -1,0 +1,31 @@
+#663 - Wenshan
+owner = YUN
+controller = YUN
+culture = cantonese
+religion = confucianism
+capital = "Gejiu"
+trade_goods = livestock
+hre = no
+base_tax = 2
+manpower = 5
+citysize = 10400
+add_core = YUN
+add_core = DLI
+fort1 = yes
+discovered_by = chinese
+
+
+1368.4.1 = { owner = MNG controller = MNG add_core = MNG remove_core = YUN add_core = CZH remove_core = DLI }
+1450.1.1 = { citysize = 11200 }
+1500.1.1 = { citysize = 12088 }
+1505.1.1 = { trading_post = yes }
+1550.1.1 = { citysize = 13150 }
+1600.1.1 = { citysize = 14805 }
+1650.1.1 = { citysize = 15999 }
+1661.6.1 = {	owner = CZH controller = CZH remove_core = MNG } # The Three Feudatories
+1680.1.1 = { trade_goods = iron } # Mining became the main focus during the Qing Dynasty.
+1681.10.1 = {	owner = QNG controller = QNG add_core = QNG }
+1700.1.1 = { citysize = 17120 }
+1740.1.1 = { tax_assessor = yes }
+1750.1.1 = { citysize = 18564 }
+1800.1.1 = { citysize = 19870 }

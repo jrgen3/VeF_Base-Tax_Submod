@@ -1,0 +1,40 @@
+#550 - Mahakoshal
+owner = DLH
+controller = DLH
+culture = gondi
+religion = hinduism
+capital = "Bhojpur"
+trade_goods = cloth
+hre = no
+base_tax = 2
+manpower = 4
+citysize = 10000
+add_core = GDW
+add_core = DLH
+fort1 = yes
+discovered_by = indopersian
+discovered_by = muslim
+discovered_by = indian
+
+1350.1.1 = { owner = GDW controller = GDW remove_core = DLH }
+1439.1.1  = { controller = MLW }
+1441.1.1  = { controller = GDW }
+1450.1.1 = { citysize = 14000 }
+1467.1.1 = {	owner = BAH controller = BAH } # Invaded by Bahmanis
+1468.1.1 = {	owner = MLW controller = MLW } # Invaded by Malwa
+1498.1.1 = { discovered_by = POR }
+1500.1.1 = { citysize = 17000 }
+1532.1.1 = {	owner = GDW controller = GDW } # Malwa conquered by Ahmad Shahis
+1550.1.1 = { citysize = 19000 }
+1564.2.1 = { controller = MUG } #Conquered by Mughals
+1564.7.1 = { owner = MUG add_core = MUG capital = "Jabalpur" } #Annexed by Mughals
+1600.1.1 = { citysize = 22000 }
+1650.1.1 = { citysize = 26000 }
+1690.1.1  = { discovered_by = GBR }
+1700.1.1 = { citysize = 20000 }
+1724.1.1 = { owner = NAG controller = NAG add_core = NAG remove_core = MUG capital = "Deogarh" }	#Forms kingdom of Nagpur
+1741.1.1 = { controller = MAR }	#Maratha expansion
+1743.1.1 = { controller = NAG } # Marathas take control over Nagpur kingdom
+1750.1.1 = { citysize = 25000 }
+1800.1.1 = { citysize = 40000 }
+1818.6.3 = {	owner = GBR controller = GBR add_core = GBR remove_core = NAG }

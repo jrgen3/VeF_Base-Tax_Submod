@@ -1,0 +1,17 @@
+# 1199 : Lamu
+
+capital = "Lamu"
+owner = MLI
+controller = MLI
+add_core = MLI
+citysize =   3500
+culture = swahili
+religion = bantu
+base_tax = 2
+manpower = 1
+trade_goods = palm
+discovered_by = sudanese_tech 
+discovered_by = tribal_african_tech 
+discovered_by = muslim 
+hre = no
+

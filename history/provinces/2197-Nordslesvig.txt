@@ -1,0 +1,38 @@
+# 2197 - Nordslesvig
+# Manpower revision complete
+
+add_core = DAN
+add_core = SHL
+owner = DAN
+controller = DAN
+culture = danish
+religion = catholic
+hre = no
+base_tax = 3
+trade_goods = grain
+manpower = 1
+capital = "Kolding"
+fort1 = yes
+citysize = 2800 # Estimated
+discovered_by = eastern
+discovered_by = scandinavian_tech
+discovered_by = western
+discovered_by = byzantine
+
+1350.1.1	= { manpower = 0.75 add_province_modifier = { name = "province_black_death" duration = 3650 } set_province_flag = had_black_death } # Black Death
+1360.1.1	= { remove_province_modifier = province_black_death }
+1400.1.1	= { manpower = 0.75 }
+1460.3.5	= { owner = DAN controller = DAN }
+1500.1.1	= { manpower = 1 trading_post = yes }
+1536.1.1	= { religion = protestant }
+1600.1.1	= { manpower = 1 }
+1644.1.12	= { controller = SWE } #Torstenssons War-Captured by Lennart Torstensson
+1645.8.13 	= { controller = SHL } #The Peace of Brömsebro
+1650.1.1	= { manpower = 1.25 }
+1657.10.23	= { controller = SWE } #Karl X Gustavs First Danish War-Captured by Wrangel
+1658.2.26 	= { owner = SHL controller = SHL } #The Peace of Roskilde
+1700.1.1	= { manpower = 1.5 }
+1710.1.1	= { tax_assessor = yes }
+1721.1.1	= { owner = DAN controller = DAN }
+1750.1.1	= { manpower = 1.75 }
+1800.1.1	= { manpower = 2 }

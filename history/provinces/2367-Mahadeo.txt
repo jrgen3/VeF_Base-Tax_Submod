@@ -1,0 +1,24 @@
+# 2367 -Mahadeo
+
+owner = DLH
+controller = DLH
+culture = gondi
+religion = hinduism
+capital = "Kherla"
+trade_goods = rice
+hre = no
+base_tax = 5
+manpower = 24
+citysize = 75000
+add_core = DLH
+fort1 = yes
+discovered_by = indian
+
+
+
+1500.1.1  = { citysize = 154122 }
+1600.1.1  = { citysize = 158245 }
+1650.1.1  = { citysize = 160253 }
+1700.1.1  = { citysize = 162300 }
+1750.1.1  = { citysize = 164115 }
+1800.1.1  = { citysize = 166388 }

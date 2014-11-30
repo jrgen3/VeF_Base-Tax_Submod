@@ -1,0 +1,39 @@
+#701 - Ordos
+
+owner = YUN
+controller = YUN 
+culture = mongol
+religion = confucianism
+capital = "Ordos"
+trade_goods = opium
+hre = no
+base_tax = 2
+manpower = 2
+citysize = 4070
+add_core = YUN
+fort1 = yes
+discovered_by = chinese
+
+
+1368.4.1 = { owner = KHA controller = KHA add_core = KHA remove_core = YUN }
+1450.1.1 = { citysize = 4500 }
+1500.1.1 = { citysize = 4987 }
+1543.1.1 = { unrest = 8 } # Fighting broke out between the Mongols
+1550.1.1 = { citysize = 5536 }
+1552.1.1 = { unrest = 0 } # The Oirads are defeated & Mongolia is reunited under Altan Khan
+1586.1.1 = { religion = buddhism } # State religion
+1600.1.1 = { citysize = 6800 }
+1634.1.1 = {	owner = MCH
+		controller = MCH
+		add_core = MCH
+		remove_core = KHA
+	   } # Part of the Manchu empire
+1645.7.1  = {	owner = QNG
+		controller = QNG
+		add_core = QNG
+		remove_core = MCH
+	    } # The Qing Dynasty
+1650.1.1 = { citysize = 7450 }
+1700.1.1 = { citysize = 8100 }
+1750.1.1 = { citysize = 8653 }
+1800.1.1 = { citysize = 9240 }

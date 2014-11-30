@@ -1,0 +1,42 @@
+# 2149 - Regensburg
+
+owner = REG
+controller = REG
+add_core = REG
+culture = bavarian
+religion = catholic
+base_tax = 4
+trade_goods = wine
+manpower = 4
+fort1 = yes
+capital	= "Regensburg" 
+citysize = 6000
+hre = yes
+discovered_by = eastern
+discovered_by = indopersian
+discovered_by = scandinavian_tech
+discovered_by = western
+discovered_by = byzantine
+
+1450.1.1  = { citysize = 6000 }
+1482.1.1 = {	
+	owner = BAV 
+	controller = BAV 
+	add_core = BAV
+	remove_core = PAL
+}
+1520.1.1  = { temple = yes }
+1542.1.1  = { religion = protestant }
+1550.1.1  = { marketplace = yes }
+1585.1.1  = { sheriffs_office = yes }
+1600.1.1  = { citysize = 8000 }
+1620.1.1  = { courthouse = yes }
+1634.1.1  = { citysize = 5000 } # 30 years war (Swedes) and plague kill large parts of the population
+1700.1.1  = { citysize = 9000 }
+1750.1.1  = { citysize = 12000 }
+1806.7.12 = { hre = no } # The Holy Roman Empire is dissolved
+1810.1.1 = {	
+	owner = BAV 
+	controller = BAV 
+	add_core = BAV
+}

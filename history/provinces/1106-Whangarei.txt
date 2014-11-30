@@ -1,0 +1,26 @@
+#1106 - Whangarei
+
+owner = NGH
+controller = NGH
+add_core = NGH
+culture = polynesian
+religion = animism
+hre = no
+trade_goods = livestock
+base_tax = 2
+manpower = 0.5
+capital = "Whangarei"
+citysize = 2000
+fort1 = yes
+discovered_by = pacific_islander
+
+1642.1.1 = { discovered_by = NED } # Abel Tasman
+# Treaty of Waitangi makes New Zealand British Protectorate
+1840.2.6 = {
+	owner = NWZ
+	controller = NWZ
+	add_core = NWZ
+	remove_core = MAO
+	capital = "Auckland"
+	change_province_name = "Auckland"
+}

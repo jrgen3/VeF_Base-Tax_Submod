@@ -1,0 +1,32 @@
+#366 - The Canarias
+culture = zenata
+religion = animism
+capital = "The Canarias"
+trade_goods = sugar
+hre = no
+base_tax = 2
+manpower = 0.2
+citysize = 0 
+native_size = 25 
+native_ferocity = 1 
+native_hostileness = 2
+discovered_by = muslim
+discovered_by = scandinavian_tech
+discovered_by = western
+discovered_by = byzantine
+
+1350.1.1   = { add_core = MJC owner = MJC controller = MJC citysize=100 religion = catholic } # Majorcan settlement and missionaries
+1400.1.1   = { manpower = 0.2 }
+1402.1.1   = { owner = CAS controller = CAS add_core = CAS citysize = 200 } # Occupied by Castille
+1478.1.1   = { capital = "Las Palmas" }
+1483.4.1   = { citysize = 500 religion = catholic culture = castillian } #After a successful campaign, indigenous king Majarteme converts to catholicism and adopts the name Fernando
+1493.1.1   = { citysize = 700 } # Conquest of the island of La Palma
+1496.1.1   = { citysize = 1000 } # Conquest of Tenerife, the archipelago is fully incorporated into the crown, some indigenous redoubts still wage war
+1500.1.1   = { manpower = 0.1 }
+1516.1.23  = { controller = SPA owner = SPA add_core = SPA } # King Fernando dies, Carlos inherits Aragon and becomes co-regent of Castille
+1600.1.1   = { manpower = 0.5 }
+1650.1.1   = { manpower = 0.7 }
+1700.1.1   = { manpower = 0.1 }
+1713.4.11  = { remove_core = CAS }
+1750.1.1   = { manpower = 1.4 }
+1800.1.1   = { manpower = 2 }

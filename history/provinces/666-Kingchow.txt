@@ -1,0 +1,37 @@
+#666 - Hainan
+
+owner = YUN
+controller = YUN
+culture = cantonese
+religion = confucianism
+capital = "Kingchow"
+trade_goods = fish
+hre = no
+base_tax = 5
+manpower = 3
+citysize = 3100
+add_core = YUN
+fort1 = yes
+discovered_by = chinese
+
+1368.4.1 = { owner = MNG controller = MNG add_core = MNG remove_core = YUN add_core = CZH }
+1450.1.1 = { citysize = 3500 }
+1490.1.1 = { trading_post = yes }
+1500.1.1 = { citysize = 3895 }
+1514.1.1 = { discovered_by = POR }
+1550.1.1 = { citysize = 4250 }
+1600.1.1 = { citysize = 4990 }
+1650.1.1 = { citysize = 5520 }
+1662.1.1 = {
+	owner = CZH
+	controller = CZH
+	remove_core = MNG
+} # The Three Feudatories
+1681.10.1 = {
+	owner = QNG
+	controller = QNG
+	add_core = QNG
+}
+1700.1.1 = { citysize = 6008 }
+1750.1.1 = { citysize = 6522 }
+1800.1.1 = { citysize = 7100 }

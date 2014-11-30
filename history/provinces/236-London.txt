@@ -1,0 +1,67 @@
+#236 - London
+
+owner = ENG
+controller = ENG
+culture = english
+religion = catholic
+hre = no
+base_tax = 6
+trade_goods = cloth
+manpower = 3
+capital = "London"
+citysize = 300000
+add_core = ENG
+fort1 = yes
+fort2 = yes
+temple = yes #Westminster Abbey
+granary = yes
+sheriffs_office = yes
+town_hall = yes
+courthouse = yes
+trading_post = yes
+dock = yes
+blacksmith = yes
+discovered_by = eastern
+discovered_by = scandinavian_tech
+discovered_by = western
+discovered_by = byzantine
+
+1000.1.1 = {
+	add_permanent_province_modifier = { name = "thames_estuary_modifier" duration = -1 }
+	add_permanent_province_modifier = { name = "center_of_trade_modifier" duration = -1 }
+   add_permanent_province_modifier = { name = "natural_harbor" duration = -1 }
+}
+1309.1.1   = { set_variable = { which = province_stability value = -40.0 }} # Scottish War for Independence
+1328.3.17  = { set_variable = { which = province_stability value = 0 }} # End of Scottish War for Independence
+1349.1.1	= { manpower = 2 base_tax = 4 add_province_modifier = { name = "province_black_death" duration = 3650 } set_province_flag = had_black_death } # Black Death
+1360.1.1	= { remove_province_modifier = province_black_death }
+1381.6.13	= { unrest = 5 revolt = { type = anti_tax_rebels size = 2 leader = "Wat Tyler" } } # Peasant's Rebellion
+1381.7.1	= { revolt = {} unrest = 0 } # Rebellion ends after the Battle of North Walsham
+1400.1.1	= { manpower = 2 base_tax = 4 }
+1450.1.1	= { manpower = 2 base_tax = 4 }
+1453.1.1	= { unrest = 5 } # Start of the War of the Roses (minor conflicts)
+1459.1.1	= { unrest = 7 } # War breaks out
+1460.8.1	= { controller = YOR } # York takes Henry VI prisoner at Northampton and occupies London
+1461.3.4	= { controller = ENG } # Edward IV proclaimed king
+1467.1.1	= { unrest = 5 } # Rivalry between Edward IV & Warwick
+1471.1.1	= { unrest = 8 } # Unpopularity of Warwick & War with Burgundy
+1471.5.4	= { unrest = 2 } # Murder of Henry VI & Restoration of Edward IV
+1483.6.26	= { unrest = 8 } # Revulsion at Supposed Murder of the Princes in the Tower
+1485.8.23	= { unrest = 0 } # Battle of Bosworth Field & the End of the War of the Roses
+1500.1.1	= { sheriffs_office = yes manpower = 3 base_tax = 5 }
+1520.1.1	= { citysize = 60000 }
+1525.1.1	= { courthouse = yes } # Estimated
+1534.1.1	= { religion = anglican }
+1550.1.1 	= { manpower = 4 base_tax = 7 }
+1575.1.1	= { army_base = yes } # Estimated
+1600.1.1	= { manpower = 7.5 base_tax = 10 }
+1603.3.24	= { owner = GBR controller = GBR add_core = GBR remove_core = ENG } # Union of the Crowns
+1640.1.1 	= { blacksmith = yes } # Estimated
+1642.8.22	= { revolt = { type = revolutionary_rebels size = 2 leader = "Oliver Cromwell" } controller = REB } # Start of First English Civil War
+1646.5.5 	= { revolt = {} controller = GBR } # End of First English Civil War
+1650.1.1	= { tax_assessor = yes fort3 = yes base_tax = 12 manpower = 10 }
+1666.1.1	= { manpower = 9 base_tax = 10 } # Great Plague of London
+1700.1.1	= { manpower = 14 fine_arts_academy = yes base_tax = 22 } # First Bequest to the British Museum
+1741.1.1	= { war_college = yes } # Royal Military Academy, Woolwich
+1750.1.1	= { manpower = 17 }
+1800.1.1	= { manpower = 20 }

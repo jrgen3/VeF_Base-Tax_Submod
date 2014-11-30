@@ -1,0 +1,27 @@
+#1832 - Yamato
+# Manpower revision complete
+
+owner = HTK
+controller = HTK
+culture = japanese
+religion = shinto
+capital = "Wakigami"
+trade_goods = naval_supplies
+hre = no
+base_tax = 2
+manpower = 2
+citysize = 8000
+add_core = HTK
+fort1 = yes
+discovered_by = chinese
+discovered_by = niitaka
+
+1400.1.1	= { manpower = 2.5 }
+1500.1.1	= { manpower = 3.5 }
+1568.9.1	= { add_core = ODA owner = ODA controller = ODA }
+1573.7.3	= { add_core = JAP owner = JAP controller = JAP remove_core = ODA remove_core = HTK }
+1600.1.1	= { manpower = 4.5 }
+1650.1.1	= { manpower = 5 }
+1700.1.1	= { manpower = 6 }
+1750.1.1	= { manpower = 6 }
+1800.1.1	= { manpower = 5.75 }

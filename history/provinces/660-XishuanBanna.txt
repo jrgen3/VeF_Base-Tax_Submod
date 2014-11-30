@@ -1,0 +1,25 @@
+#660 - Xishuan Banna
+owner = YUN
+controller = YUN
+culture = shan
+religion = buddhism
+capital = "Jinghong"
+trade_goods = livestock
+hre = no
+base_tax = 4
+manpower = 2
+citysize = 7907
+fort1 = yes
+discovered_by = chinese
+
+1368.4.1 = { owner = MNG controller = MNG add_core = MNG remove_core = YUN add_core = CZH remove_core = DLI }
+1450.1.1 = { citysize = 8000 }
+1500.1.1 = { citysize = 8604 }
+1550.1.1 = { citysize = 9985 }
+1600.1.1 = { citysize = 10458 }
+1650.1.1 = { citysize = 11860 }
+1661.6.1 = {	owner = CZH controller = CZH remove_core = MNG } # The Three Feudatories
+1681.10.1 = {	owner = QNG controller = QNG add_core = QNG }
+1700.1.1 = { citysize = 12900 }
+1750.1.1 = { citysize = 14240 }
+1800.1.1 = { citysize = 16700 }

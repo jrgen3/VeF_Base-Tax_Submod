@@ -1,0 +1,29 @@
+#674 - Guiyang
+
+owner = YUN
+controller = YUN
+culture = cantonese
+religion = confucianism
+capital = "Guiyang"
+trade_goods = silver
+hre = no
+base_tax = 4
+manpower = 2
+citysize = 39600
+add_core = YUN
+fort1 = yes
+discovered_by = chinese
+
+
+1368.4.1 = { owner = MNG controller = MNG add_core = MNG remove_core = YUN add_core = CXI }
+1450.1.1 = { citysize = 42000 }
+1500.1.1 = { citysize = 45322 }
+1550.1.1 = { citysize = 48705 }
+1600.1.1 = { citysize = 51100 }
+1650.1.1 = { citysize = 53120 }
+1661.6.1 = {	owner = QNG controller = QNG add_core = QNG remove_core = MNG } # The Qing Dynasty
+1674.1.1 = { controller = CZH }
+1680.1.1 = { controller = QNG }
+1700.1.1 = { citysize = 56254 }
+1750.1.1 = { citysize = 58700 }
+1800.1.1 = { citysize = 62314 }

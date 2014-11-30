@@ -1,0 +1,19 @@
+# 2288 - Mandsaur
+
+
+owner = DLH
+controller = DLH
+culture = marathi
+religion = hinduism
+capital = "Mandsaur"
+trade_goods = wool
+hre = no
+base_tax = 2
+manpower = 1
+citysize = 1200
+add_core = DLH
+discovered_by = nomad_group
+discovered_by = indian
+
+
+

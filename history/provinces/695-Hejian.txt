@@ -1,0 +1,42 @@
+#695 - Hebei
+
+owner = YUN
+controller = YUN
+culture = chihan
+religion = confucianism
+capital = "Tianjin"
+trade_goods = wine
+hre = no
+base_tax = 4
+manpower = 3
+citysize = 240000
+add_core = YUN
+fort1 = yes
+discovered_by = chinese
+
+discovered_by = niitaka
+
+1368.4.1 = { owner = MNG controller = MNG add_core = MNG remove_core = YUN add_core = CSH }
+1402.7.13 = { revolt = {} controller = MNG }
+1450.1.1  = { citysize = 256048 }
+1480.1.1  = { trading_post = yes }
+1500.1.1  = { citysize = 266576 }
+1519.1.1  = { discovered_by = POR } # Tome Pires
+1535.1.1  = { fort2 = yes }
+1542.1.1  = { unrest = 5 } # Assassination attemp on Shi Zong
+1543.1.1  = { unrest = 0 }
+1550.1.1  = { citysize = 286928 }
+1600.1.1  = { citysize = 307333 }
+1628.1.1  = { unrest = 6 } # Li Zicheng rebellion
+1644.3.1 = { unrest = 0 controller = CSH }
+1644.4.1 = { owner = CSH } # The Shun dynasty of Li Zicheng
+1644.6.4 = { controller = MCH } # The Qing Dynasty
+1645.7.1  = {	owner = QNG
+		controller = QNG
+		add_core = QNG
+	    } # The Qing Dynasty
+1650.1.1  = { citysize = 257714 }
+1662.1.1 = { remove_core = MNG }
+1700.1.1  = { citysize = 308030 }
+1750.1.1  = { citysize = 308400 }
+1800.1.1  = { citysize = 308640 }

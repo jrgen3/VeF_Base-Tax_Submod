@@ -1,0 +1,14 @@
+# 1169 - Gauteng
+
+capital = "Gauteng"
+native_size =   70
+native_ferocity =   2
+native_hostileness =   7 
+culture = kongo
+religion = bantu
+base_tax = 2
+manpower = 3
+trade_goods = unknown
+discovered_by = tribal_african_tech 
+hre = no
+

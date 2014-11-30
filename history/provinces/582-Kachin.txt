@@ -1,0 +1,26 @@
+#582 - Kachin
+
+owner = YUN
+controller = YUN
+culture = shan
+religion = buddhism
+capital = "Kachin"
+trade_goods = rice
+hre = no
+base_tax = 2
+manpower = 2
+citysize = 5400
+add_core = YUN
+discovered_by = chinese
+discovered_by = indian
+
+1368.4.1 = { owner = SST controller = SST add_core = SST remove_core = YUN }
+1450.1.1 = { citysize = 5950 }
+1500.1.1 = { citysize = 6800 }
+1510.1.1 = { owner = TAU controller = TAU add_core = TAU }
+1550.1.1 = { citysize = 7525 }
+1600.1.1 = { citysize = 8600 }
+1650.1.1 = { citysize = 9422 }
+1700.1.1 = { citysize = 10420 }
+1750.1.1 = { citysize = 11348 }
+1800.1.1 = { citysize = 12678 }

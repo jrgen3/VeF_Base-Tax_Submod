@@ -1,0 +1,36 @@
+# 1142 : Al Jaza'ir
+
+capital = "Al Jaza'ir"
+owner = TLM
+controller = TLM
+add_core = TLM
+citysize =   7000
+culture = zenata
+religion = sunni
+base_tax = 3
+manpower = 2
+trade_goods = iron
+discovered_by = muslim 
+discovered_by = western 
+discovered_by = scandinavian_tech
+discovered_by = eastern 
+discovered_by = byzantine 
+hre = no
+fort1 = yes
+trading_post = yes
+
+1349.1.1   = { manpower = 1.8 add_province_modifier = { name = "province_black_death" duration = 3650 } set_province_flag = had_black_death } # Black Death
+1360.1.1   = { remove_province_modifier = province_black_death }
+1400.1.1   = { manpower = 1.75 }
+1500.1.1   = { manpower = 1.5 }
+1516.1.23  = { owner = ALG	 controller = ALG add_core = ALG remove_core = TLM } # Oruc seizes Algiers
+1520.1.1   = { owner = SPA controller = SPA add_core = SPA } # Lack of support from the Sultan in Istanbul sees city lost
+1529.1.1   = { owner = ALG controller = ALG remove_core = SPA } # Capture of Algiers
+1530.1.1   = { fort2 = yes } # Re-fortified
+1600.1.1   = { manpower = 2.1 }
+1650.1.1   = { manpower = 2 }
+1700.1.1   = { manpower = 1.75 marketplace = yes }
+1750.1.1   = { manpower = 2 }
+1760.1.1   = { tax_assessor = yes }
+1800.1.1   = { manpower = 2.3 }
+1848.2.24  = { owner = RFR controller = RFR add_core = RFR } # Algeria formally annexed to France

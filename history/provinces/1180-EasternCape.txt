@@ -1,0 +1,13 @@
+# 1180 : Eastern Cape - autobuid script by Africa team and Penguintopia
+
+capital = "Umtata"
+native_size =   70
+native_ferocity =   4
+native_hostileness =   9 
+culture = xhosa
+religion = bantu
+base_tax = 1
+manpower = 0.5
+trade_goods = unknown
+hre = no
+

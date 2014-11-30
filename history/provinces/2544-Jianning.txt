@@ -1,0 +1,33 @@
+# 2544 - Jianning
+
+owner = YUN
+controller = YUN
+culture = ganyu
+religion = confucianism
+capital = "Jianning"
+trade_goods = grain
+hre = no
+base_tax = 2
+manpower = 4
+citysize = 8800
+add_core = YUN
+fort1 = yes
+discovered_by = chinese
+
+
+1366.10.1 = { owner = MNG controller = MNG add_core = MNG remove_core = YUN add_core = CSH }
+1450.1.1 = { citysize = 8800 }
+1500.1.1 = { citysize = 8800 }
+1550.1.1 = { citysize = 8800 }
+1600.1.1 = { citysize = 8800 }
+1637.1.1 = { revolt = { type = anti_tax_rebels size = 2 } controller = REB } # Zhang Xianzhong rebellion
+#1643.1.1 = { revolt = { } unrest = 0 owner = CXI controller = CXI } # The Xi dynasty of Zhang Xianzhong
+1647.1.2  = {	owner = QNG
+		controller = QNG
+		add_core = QNG
+	    } # The Qing Dynasty
+1650.1.1 = { citysize = 8800 }
+1662.1.1 = { remove_core = MNG }
+1700.1.1 = { citysize = 8800 }
+1750.1.1 = { citysize = 8800 }
+1800.1.1 = { citysize = 8800 }

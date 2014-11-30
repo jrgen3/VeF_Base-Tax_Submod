@@ -1,0 +1,32 @@
+# 2114 - Karlsbad
+owner = BOH
+controller = BOH
+add_core = BOH
+capital = "Cheb"
+base_tax = 3
+manpower = 2
+citysize = 4200
+culture = czech
+religion = catholic
+trade_goods = grain
+fort1 = yes
+hre = yes
+discovered_by = eastern
+discovered_by = indopersian
+discovered_by = scandinavian_tech
+discovered_by = western
+discovered_by = byzantine
+
+1421.1.1 = { religion = catholic }
+1450.1.1  = { citysize = 6000 }
+1516.1.1 = { trade_goods = silver }
+1526.8.30 = {	owner = HAB controller = HAB add_core = HAB remove_core = BOH }
+1550.1.1  = { citysize = 7000 marketplace = yes }
+1600.1.1  = { citysize = 9000 }
+# Defenestration of Prague
+1618.5.23 = { owner = BOH controller = BOH add_core = BOH }
+1620.11.8  = {	owner = HAB controller = HAB remove_core = BOH }
+1650.1.1  = { citysize = 10000 } 
+1700.1.1  = { citysize = 11000 courthouse = yes }
+1800.1.1  = { citysize = 12000 }
+1806.7.12 = { hre = no } # The Holy Roman Empire is dissolved

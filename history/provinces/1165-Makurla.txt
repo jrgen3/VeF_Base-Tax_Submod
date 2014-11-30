@@ -1,0 +1,15 @@
+# 1165 - Makurla
+
+capital = "Makurla"
+owner = ALW
+controller = ALW
+add_core = ALW
+citysize = 1000
+culture = kongo
+religion = bantu
+base_tax = 2
+manpower = 1
+trade_goods = unknown
+discovered_by = tribal_african_tech 
+hre = no
+

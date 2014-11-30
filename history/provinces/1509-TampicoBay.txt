@@ -1,0 +1,4 @@
+discovered_by = MAY
+discovered_by = ZAP
+discovered_by = AZT
+1519.3.13 = { discovered_by = SPA }

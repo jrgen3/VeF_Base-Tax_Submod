@@ -1,0 +1,32 @@
+#557 - Katmandu
+
+owner = NPL
+controller = NPL
+culture = nepali
+religion = hinduism
+capital = "Katmandu"
+trade_goods = sandalwood
+hre = no
+base_tax = 2
+manpower = 4
+citysize = 10000
+add_core = NPL
+fort1 = yes
+discovered_by = nomad_group
+discovered_by = chinese
+discovered_by = indian
+
+1000.1.1 = { add_permanent_province_modifier = { name = "himalayas" duration = -1 } }
+
+1450.1.1 = { citysize = 13000 }
+1482.1.1 = {  } # Kathmandu Valley is divided into three separate kingdoms
+1500.1.1 = { citysize = 15000 }
+1550.1.1 = { citysize = 17000 }
+1560.1.1 = { temple = yes }
+1600.1.1 = { citysize = 19000 }
+1650.1.1 = { citysize = 21000 }
+1690.1.1  = { discovered_by = ENG }
+1700.1.1 = { citysize = 25000 }
+1707.5.12 = { discovered_by = GBR }
+1750.1.1 = { citysize = 22000 }
+1800.1.1 = { citysize = 25000 }

@@ -1,0 +1,13 @@
+# 1119 : Pepper Coast - autobuid script by Africa team and Penguintopia
+
+capital = "Cape Mesurado"
+native_size =   50
+native_ferocity =   4
+native_hostileness =   9
+culture = juula
+religion = vodun
+base_tax = 2
+manpower = 0.5
+trade_goods = unknown
+hre = no
+

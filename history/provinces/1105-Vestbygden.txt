@@ -1,0 +1,25 @@
+#1105 - Vestbygden
+
+culture = inuit
+religion = shamanism
+capital = "Sandnæs"
+trade_goods = fish
+hre = no
+base_tax = 1
+manpower = 0.1
+native_size = 5
+native_ferocity = 2
+native_hostileness = 9
+discovered_by = NOR
+discovered_by = ICE
+1720.1.1 = { discovered_by = DAN }
+1721.1.1 = { 
+		owner = DAN
+		controller = DAN
+		culture = danish
+		religion = protestant
+		citysize = 100
+		manpower = 0.1
+	   }
+1746.1.1 = { add_core = DAN }
+1800.1.1 = { citysize = 450 manpower = 0.1 trade_goods = fur }

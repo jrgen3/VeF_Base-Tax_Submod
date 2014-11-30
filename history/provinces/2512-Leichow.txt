@@ -1,0 +1,23 @@
+# 2512 - Leichow
+
+owner = YUN
+controller = YUN
+culture = cantonese
+religion = confucianism
+capital = "Leichow"
+trade_goods = spices
+hre = no
+base_tax = 3
+manpower = 4
+citysize = 22000
+fort1 = yes
+add_core = YUN
+discovered_by = chinese
+
+1400.1.1   = { citysize = 22000 }
+1500.1.1   = { citysize = 22000 }
+1600.1.1   = { citysize = 22000 }
+1650.1.1   = { citysize = 22000 }
+1700.1.1   = { citysize = 22000 }
+1750.1.1   = { citysize = 22000 }
+1800.1.1   = { citysize = 22000 }

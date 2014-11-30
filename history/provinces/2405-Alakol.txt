@@ -1,0 +1,23 @@
+# 2405 - Alakol
+
+owner = MAB
+controller = MAB
+culture = malayalam
+religion = hinduism
+capital = "Alakol"
+trade_goods = wool
+hre = no
+base_tax = 2
+manpower = 1
+citysize = 1120
+add_core = MAB
+fort1 = yes
+discovered_by = indian
+
+
+1500.1.1 = { citysize = 1300 }
+1600.1.1 = { citysize = 1500 }
+1650.1.1 = { citysize = 1600 }
+1700.1.1 = { citysize = 1700 }
+1750.1.1 = { citysize = 1800 }
+1800.1.1 = { citysize = 1900 }

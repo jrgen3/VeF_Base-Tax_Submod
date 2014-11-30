@@ -1,0 +1,23 @@
+# 2595 - Kyongsong
+
+owner = KOR
+controller = KOR
+culture = korean
+religion = confucianism
+capital = "Kyongsong"
+trade_goods = grain
+hre = no
+base_tax = 3
+manpower = 4
+citysize = 45000
+add_core = KOR
+fort1 = yes
+discovered_by = chinese
+
+1400.1.1 = { citysize = 45000 }	
+1500.1.1 = { citysize = 45000 }
+1600.1.1 = { citysize = 45000 }
+1650.1.1 = { citysize = 45000 }
+1700.1.1 = { citysize = 45000 }
+1750.1.1 = { citysize = 45000 }
+1800.1.1 = { citysize = 45000 }

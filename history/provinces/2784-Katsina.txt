@@ -1,0 +1,13 @@
+#2784 - Katsina
+
+owner = KSN
+controller = KSN
+add_core = KSN
+culture = filipino
+religion = animism
+capital = "Katsina"
+trade_goods = millet
+hre = no
+base_tax = 2
+manpower = 1
+

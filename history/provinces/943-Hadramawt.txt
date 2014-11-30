@@ -1,0 +1,31 @@
+# 943 - Sibolga
+
+owner = ADE
+controller = ADE
+culture = bedouin_arabic
+religion = sunni
+capital = "Hadramawt"
+trade_goods = fish
+hre = no
+base_tax = 2
+manpower = 4
+citysize = 2000
+add_core = ADE
+fort1 = yes
+discovered_by = muslim
+discovered_by = ZAN
+discovered_by = indopersian
+discovered_by = ILK
+discovered_by = AJU
+discovered_by = ADA
+discovered_by = byzantine
+
+
+1450.1.1 = { citysize = 2000 }
+1500.1.1 = { citysize = 2000 }
+1550.1.1 = { citysize = 2000 }
+1600.1.1 = { citysize = 2000 }
+1650.1.1 = { citysize = 2000 }
+1700.1.1 = { citysize = 2000 }
+1750.1.1 = { citysize = 2000 }
+1800.1.1 = { citysize = 2000 }

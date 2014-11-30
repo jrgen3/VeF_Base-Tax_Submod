@@ -1,0 +1,29 @@
+#1815 - Ayeyarwady
+
+owner = PEG
+controller = PEG
+culture = mon
+religion = buddhism
+capital = "Ayeyarwady"
+trade_goods = rice
+hre = no
+base_tax = 3
+manpower = 2
+fort1 = yes
+citysize = 20000
+add_core = PEG
+discovered_by = chinese
+discovered_by = indian
+
+1450.1.1 = { citysize = 22000 }
+1500.1.1 = { citysize = 25000 discovered_by = POR }
+1539.1.1 = {	owner = TAU controller = TAU add_core = TAU } # Annexed to the Kingdom of Taungoo
+1550.1.1 = { citysize = 26000 }
+1600.1.1 = { citysize = 29000 }
+1650.1.1 = { citysize = 30000 }
+1700.1.1 = { citysize = 31000 }
+1740.11.1 = { owner = PEG controller = PEG } # Restored Pegu Dynasty
+1750.1.1 = { citysize = 34000 }
+1757.1.1 = { owner = TAU controller = TAU citysize = 30000 } # Pegu is sacked & returned to Burmese control
+1800.1.1 = { citysize = 32000 }
+1850.1.1 = { owner = GBR controller = GBR add_core = GBR } # East India Company Expansion

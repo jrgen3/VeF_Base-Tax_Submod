@@ -1,0 +1,31 @@
+#1819 - Tosa
+# Manpower revision complete
+
+owner = CSK
+controller = CSK
+culture = japanese
+religion = shinto
+capital = "Kōchi"
+trade_goods = naval_supplies
+hre = no
+base_tax = 2
+manpower = 2
+citysize = 5234
+add_core = CSK
+fort1 = yes
+discovered_by = chinese
+discovered_by = niitaka
+discovered_by = pacific_islander
+
+1400.1.1	= { manpower = 2.5 }
+1500.1.1	= { manpower = 3.5 }
+1549.5.9	= { capital = "Oko" }
+1591.1.1	= { capital = "Urado" }
+1600.1.1	= { manpower = 4.5 }
+1600.10.21	= { add_core = DTE owner = DTE controller = DTE remove_core = CSK }
+1603.3.24	= { owner = JAP controller = JAP add_core = JAP remove_core = TKG } # Tokugawa shogunate founded
+1614.1.1	= { capital = "Uwajima" }
+1650.1.1	= { manpower = 5 }
+1700.1.1	= { manpower = 6 }
+1750.1.1	= { manpower = 6 }
+1800.1.1	= { manpower = 5.75 }

@@ -1,0 +1,25 @@
+# 2440 - Bhagalpur
+
+owner = BNG
+controller = BNG
+culture = bihari
+religion = buddhism
+capital = "Bhagalpur"
+trade_goods = rice
+hre = no
+base_tax = 2
+manpower = 1
+citysize = 4000
+add_core = BNG
+fort1 = yes
+discovered_by = chinese
+discovered_by = indian
+
+
+1400.1.1 = { citysize = 4000 }
+1500.1.1 = { citysize = 4000 }
+1600.1.1 = { citysize = 4000 }
+1650.1.1 = { citysize = 4000 }
+1700.1.1 = { citysize = 4000 }
+1750.1.1 = { citysize = 4000 }
+1800.1.1 = { citysize = 4000 }

@@ -1,0 +1,23 @@
+#625 - Priangan
+
+owner = SUN
+controller = SUN
+add_core = SUN
+culture = sulawesi
+religion = hinduism
+capital = "Priangan"
+trade_goods = tea
+hre = no
+base_tax = 3
+manpower = 2
+discovered_by = chinese
+discovered_by = MAJ
+citysize = 1000
+
+1488.1.1 = { capital = "Bandung" }
+# The Sultanate of Mataram
+1602.1.1 = {	discovered_by = MTR owner = MTR controller = MTR add_core = MTR citysize = 52005 } 
+1650.1.1 = { citysize = 54000 }
+1700.1.1 = { citysize = 55454 }
+1750.1.1 = { citysize = 56980 }
+1800.1.1 = { citysize = 58100 }

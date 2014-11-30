@@ -1,0 +1,22 @@
+# 2370 - East Berar
+
+owner = ORI
+controller = ORI
+culture = marathi
+religion = hinduism
+capital = "Wairagarh"
+trade_goods = rice
+hre = no
+base_tax = 2
+manpower = 4
+citysize = 2500
+add_core = ORI
+fort1 = yes
+discovered_by = indian
+
+1500.1.1 = { citysize = 3700 }
+1600.1.1 = { citysize = 4860 }
+1650.1.1 = { citysize = 5550 }
+1700.1.1 = { citysize = 6200 }
+1750.1.1 = { citysize = 6980 }
+1800.1.1 = { citysize = 7542 }

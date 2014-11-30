@@ -1,0 +1,22 @@
+# 2453 - Phnom Penh
+
+owner = KAC
+controller = KAC
+culture = meitei
+religion = buddhism
+capital = "Imphal"
+trade_goods = ivory
+hre = no
+base_tax = 6
+manpower = 4
+citysize = 50000
+add_core = KAC
+discovered_by = chinese
+
+1400.1.1 = { citysize = 2750 }
+1500.1.1 = { citysize = 3300 }
+1600.1.1 = { citysize = 4726 }
+1650.1.1 = { citysize = 5540 }
+1700.1.1 = { citysize = 5980 }
+1750.1.1 = { citysize = 5740 }
+1800.1.1 = { citysize = 6800 }

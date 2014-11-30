@@ -1,0 +1,27 @@
+#717 - Selenge
+owner = YUN
+controller = YUN
+culture = mongol
+religion = tengri
+capital = "Selenge"
+trade_goods = livestock
+hre = no
+base_tax = 2
+manpower = 2
+citysize = 9400
+add_core = YUN
+fort1 = yes
+discovered_by = chinese
+
+
+1450.1.1 = { citysize = 10050 }
+1500.1.1 = { citysize = 11785 }
+1510.1.1 = { owner = KHA controller = KHA add_core = KHA remove_core = YUN }
+1550.1.1 = { citysize = 13399 }
+1600.1.1 = { citysize = 15974 }
+1623.1.1 = { owner = OIR controller = OIR add_core = OIR remove_core = KHA }
+1650.1.1 = { citysize = 17820 }
+1691.1.1 = { owner = QNG controller = QNG add_core = QNG remove_core = OIR }
+1700.1.1 = { citysize = 18940 }
+1750.1.1 = { citysize = 20154 }
+1800.1.1 = { citysize = 21338 }

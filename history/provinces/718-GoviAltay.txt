@@ -1,0 +1,27 @@
+#718 - Govi Altay
+owner = YUN
+controller = YUN
+culture = mongol
+religion = tengri
+capital = "Govi Altay"
+trade_goods = wool
+hre = no
+base_tax = 2
+manpower = 1
+citysize = 6480
+add_core = YUN
+fort1 = yes
+discovered_by = chinese
+
+
+1450.1.1 = { citysize = 7100 }
+1500.1.1 = { citysize = 8154 }
+1550.1.1 = { citysize = 9857 }
+1552.1.1 = { revolt = {} owner = KHA controller = KHA add_core = KHA remove_core = YUN }
+1600.1.1 = { citysize = 11280 }
+1623.1.1 = { owner = OIR controller = OIR add_core = OIR remove_core = KHA }
+1650.1.1 = { citysize = 13420 }
+1691.1.1 = { owner = QNG controller = QNG add_core = QNG remove_core = OIR }
+1700.1.1 = { citysize = 14898 }
+1750.1.1 = { citysize = 16355 }
+1800.1.1 = { citysize = 17890 }

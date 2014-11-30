@@ -1,0 +1,37 @@
+#1823 - Stung Treng
+
+owner = KHM
+controller = KHM
+culture = khmer
+religion = buddhism
+capital = "Stung Treng"
+trade_goods = rice
+hre = no
+base_tax = 2
+manpower = 1
+citysize = 1000
+add_core = LXA
+add_core = KHM
+discovered_by = chinese
+
+1354.1.1 = { owner = LXA controller = LXA }
+# Lan Xang occupied the province during the dark age of Cambodia
+1450.1.1 = { citysize = 1200 }
+1500.1.1 = { citysize = 1500 }
+1550.1.1 = { citysize = 2200}
+1600.1.1 = { citysize = 2500 }
+1650.1.1 = { citysize = 3000 }
+1694.1.1 = { add_core = ANN } # Vietnamese Intervention
+1707.1.1 = {	citysize = 4000
+		owner = CHK
+		controller = CHK
+		add_core = CHK
+	   	remove_core = LXA
+	   	remove_core = DAI
+		remove_core = ANN
+	   } # Lan Xangs declared itself independent, partitioned into three kingdoms; Vientiane, Champasak & Luang Prabang
+1750.1.1 = { citysize = 4500 }
+1777.1.1 = { add_core = AYU } # Siamnese vassalization
+1800.1.1 = { citysize = 5000 }
+1811.1.1 = { unrest = 5 } # The Siamese-Cambodian Rebellion
+1812.1.1 = { unrest = 0 }

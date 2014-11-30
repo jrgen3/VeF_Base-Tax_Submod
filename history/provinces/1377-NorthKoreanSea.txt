@@ -1,0 +1,3 @@
+discovered_by = chinese
+discovered_by = niitaka
+1542.1.1   = { discovered_by = POR }

@@ -1,0 +1,28 @@
+#369 - Orkney
+# Manpower revision complete
+
+owner = NOR
+controller = NOR
+culture = norn
+religion = catholic
+hre = no
+base_tax = 1
+trade_goods = fish
+manpower = 0.1
+capital = "Kirkvoe"
+citysize = 1000 # Estimated
+add_core = NOR
+fort1 = yes
+discovered_by = eastern
+discovered_by = scandinavian_tech
+discovered_by = western
+
+1450.1.1   = { manpower = 0.1 }
+1469.1.1   = {	owner = SCO culture = scottish controller = SCO add_core = SCO remove_core = NOR capital = "Kirkwall" } # Dowry of Margaret, Daughter of Christian I of Denmark and Norway and Wife of James III of Scotland
+1600.1.1   = { manpower = 0.1 }
+1603.3.24  = { owner = GBR controller = GBR add_core = GBR remove_core = ENG } # Union of the Crowns
+1609.1.1   = { religion = presbyterian } # First Protestant Minister Arrives in the Orkneys
+1650.3.1   = { controller = REB } # Landing of Montrose
+1650.4.27  = { controller = GBR } # Battle of Carbisdale
+1750.1.1   = { fort2 = yes manpower = 0.1 }
+1800.1.1   = { manpower = 0.25 }

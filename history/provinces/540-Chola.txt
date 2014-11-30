@@ -1,0 +1,92 @@
+#540 - Coromandel 
+
+owner = GOC
+controller = GOC
+culture = tamil
+religion = hinduism
+capital = "Gangaikonda Cholapuram"
+trade_goods = cloth
+hre = no
+base_tax = 3
+manpower = 4
+citysize = 26000
+add_core = GOC
+add_core = MAD
+fort1 = yes
+discovered_by = indian
+
+
+1336.1.1 = { owner = KRK controller = KRK add_core = KRK remove_core = GOC }
+1400.1.1 = { owner = VIJ controller = VIJ add_core = VIJ }
+1405.1.1 = { discovered_by = chinese }
+1450.1.1 = { citysize = 28000 }
+1498.1.1 = { discovered_by = POR }
+1500.1.1 = { citysize = 31000 }
+1543.1.1 = { controller = REB revolt = { size = 0 type = nationalist_rebels } }
+1548.1.1 = { controller = VIJ revolt = { } }
+1550.1.1 = { citysize = 34000 }
+1565.1.26 = {	owner = KRK
+		controller = KRK
+		add_core = KRK
+	   } # The Vijayanagar empire collapses
+1600.1.1 = { citysize = 38000 }
+1649.1.1 = {
+		controller = BIJ
+	   } # Conquered by Bijapur
+1649.12.1 = {	owner = BIJ
+		add_core = BIJ
+		remove_core = KRK
+	   } # Conquered by Bijapur
+1650.1.1 = { citysize = 32000 }
+#1670.1.1 #French Traders
+1700.1.1 = { citysize = 35000 }
+1710.1.1 = {	owner = KRK
+		controller = KRK
+		add_core = KRK
+	   } # Nawab of Arcot / Carnatic
+1740.5.1 = {
+		controller = MAR
+	   } # To the Marathas
+1743.3.1 = {
+		controller = KRK
+	   } # To the Nizam
+1749.8.1 = {	owner = FRA
+		controller = FRA
+		add_core = FRA
+		remove_core = KRK
+		capital = "Pondicherry"
+	   } # Given to France for help in succession war
+1750.1.1 = { citysize = 65000 }
+1761.1.16 = {
+		controller = GBR
+	   } # Third Carnatic War
+1763.2.10 = {
+		controller = FRA
+		fort1 = no	#France agrees to demilitarize it's possessions in India
+	   } # Returned to France
+1791.6.20  = {	owner = RFR
+		controller = RFR
+		add_core = RFR
+}
+1800.1.1 = { citysize = 25000 }
+1814.4.11  = {	owner = FRA
+		controller = FRA
+		add_core = FRA
+		remove_core = RFR
+	     } # Treaty of Fontainebleau, Napoleon abdicates unconditionally
+1815.3.20  = {	owner = RFR
+		controller = RFR
+		add_core = RFR
+		remove_core = FRA
+	     } # Napoleon enters Paris
+1815.7.8   = {	owner = FRA
+		controller = FRA
+		add_core = FRA
+		remove_core = RFR
+	     } # The French monarchy is restored
+1848.2.24 = {
+	owner = RFR
+	controller = RFR
+	add_core = RFR
+	remove_core = FRA
+} # Louis=Philippe I abdicates, ushering in the Second Republic

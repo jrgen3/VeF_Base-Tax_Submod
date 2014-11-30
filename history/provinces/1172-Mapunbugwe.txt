@@ -1,0 +1,15 @@
+# 1172 : Mapunbugwe
+
+capital = "Mapunbugwe"
+owner = ZIM
+controller = ZIM
+add_core = ZIM
+citysize = 1000 
+culture = kongo
+religion = bantu
+base_tax = 1
+manpower = 1
+trade_goods = unknown
+discovered_by = tribal_african_tech 
+hre = no
+

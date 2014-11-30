@@ -1,0 +1,32 @@
+#615 - Luang Prabang
+owner = VIE
+controller = VIE
+culture = lao
+religion = buddhism
+capital = "Xieng Tong"
+trade_goods = wool
+hre = no
+base_tax = 4
+manpower = 2
+fort1 = yes
+citysize = 4900
+add_core = VIE
+discovered_by = chinese
+
+1354.1.1 = { owner = LXA controller = LXA add_core = LXA remove_core = VIE }
+1450.1.1 = { citysize = 5200 }
+1500.1.1 = { citysize = 5680 }
+1550.1.1 = { citysize = 6900 }
+1560.1.1 = { capital = "Luang Prabang" }
+1574.1.1 = { add_core = TAU } # Burmese Vassal
+1579.1.1 = { unrest = 5 } # Revolt against vassalization
+1580.1.1 = { unrest = 0 }
+1593.1.1 = { unrest = 4 } # Revolt against Burmese vassalization
+1600.1.1 = { citysize = 7750 }
+1603.1.1 = { unrest = 0 remove_core = TAU }
+1650.1.1 = { citysize = 8670 }
+1694.1.1 = { add_core = AYU } # Siamnese Intervention
+1700.1.1 = { citysize = 9680 }
+1707.1.1 = {	owner = LUA controller = LUA add_core = LUA remove_core = LXA } # Declared independent, Lan Xang was partitioned into three kingdoms; Vientiane, Champasak & Luang Prabang
+1750.1.1 = { citysize = 11255 }
+1800.1.1 = { citysize = 13480 }

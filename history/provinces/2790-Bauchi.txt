@@ -1,0 +1,16 @@
+# 2525 : Gwari
+
+capital = "Gwari"
+owner = ZZZ
+controller = ZZZ
+add_core = ZZZ
+citysize =   1100
+culture = sanhaja
+religion = sunni
+base_tax = 1
+manpower = 0.75
+trade_goods = iron
+hre = no
+fort1 = yes
+
+

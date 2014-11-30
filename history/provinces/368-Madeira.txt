@@ -1,0 +1,39 @@
+#368 - Madeira
+# Manpower revision complete
+
+culture = zenata
+religion = animism
+capital = "Madeira"
+trade_goods = sugar
+hre = no
+base_tax = 4
+manpower = 0.1
+native_size = 0
+native_ferocity = 0
+native_hostileness = 0
+
+1419.1.1 = { 
+	discovered_by = western 
+	discovered_by = scandinavian_tech
+} # João Gonçalves Zarco
+1420.1.1 = { owner = POR
+	    controller = POR
+	    add_core = POR
+	    citysize = 500
+	    culture = portugese
+	    religion = catholic
+	    discovered_by = POR
+}
+1425.1.1  = {
+	discovered_by = muslim
+	citysize = 1000
+	trade_goods = sugar	
+}
+1497.1.1	= { capital = "Funchal" }
+1500.1.1	= { manpower = 0.2 }
+1600.1.1	= { manpower = 0.3 }
+1640.12.1	= { manpower = 0.3 }
+1650.1.1	= { manpower = 0.3  trading_post = yes }
+1700.1.1	= { manpower = 0.4 }
+1750.1.1	= { manpower = 0.5 }
+1800.1.1	= { manpower = 0.75 }

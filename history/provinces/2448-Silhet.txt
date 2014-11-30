@@ -1,0 +1,24 @@
+# 2448 - Silhet
+
+owner = AVA
+controller = AVA
+culture = bengali
+religion = buddhism
+capital = "Silhet"
+trade_goods = grain
+hre = no
+base_tax = 2
+manpower = 1
+citysize = 2000
+add_core = AVA
+fort1 = yes
+discovered_by = chinese
+discovered_by = indian
+
+1400.1.1 = { citysize = 16100 }
+1500.1.1 = { citysize = 18240 }
+1600.1.1 = { citysize = 22895 }
+1650.1.1 = { citysize = 24244 }
+1700.1.1 = { citysize = 26240 }
+1750.1.1 = { citysize = 28955 }
+1800.1.1 = { citysize = 30600 }

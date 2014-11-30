@@ -1,0 +1,15 @@
+# 1189 : Quiteve
+
+capital = "Quiteve"
+owner = ZIM
+controller = ZIM
+add_core = ZIM
+citysize =   6000
+culture = shona
+religion = bantu
+base_tax = 2
+manpower = 1
+trade_goods = gold
+discovered_by = tribal_african_tech 
+hre = no
+

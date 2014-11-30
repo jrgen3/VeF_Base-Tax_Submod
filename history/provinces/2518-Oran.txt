@@ -1,0 +1,16 @@
+#2518 : Meknes
+
+capital = "Meknes"
+owner = MOR
+controller = MOR
+add_core = MOR
+citysize = 1000
+culture = zenata
+religion = sunni
+base_tax = 2
+manpower = 1
+trade_goods = salt
+discovered_by = muslim 
+discovered_by = western 
+hre = no
+

@@ -1,0 +1,15 @@
+# 1198 : Malindi
+
+capital = "Malindi"
+owner = MLI
+controller = MLI
+add_core = MLI
+citysize = 3000
+culture = aka
+religion = akan
+base_tax = 2
+manpower = 2
+trade_goods = salt
+discovered_by = sub_saharan 
+hre = no
+

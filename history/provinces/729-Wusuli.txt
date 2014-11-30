@@ -1,0 +1,29 @@
+#729 - Wusuli
+# Manpower revision complete
+
+owner = YUN
+controller = YUN
+culture = manchu
+religion = confucianism
+capital = "Wusuli"
+trade_goods = fish
+hre = no
+base_tax = 2
+manpower = 0.4
+citysize = 5500
+add_core = YUN
+fort1 = yes
+discovered_by = chinese
+
+discovered_by = niitaka
+
+1368.4.1   = { owner = MCH controller = MCH add_core = MCH remove_core = YUN }
+1400.1.1   = { manpower = 0.4 }
+1500.1.1   = { manpower = 0.4 }
+1600.1.1   = { manpower = 0.5 }
+1645.7.1   = { owner = QNG controller = QNG add_core = QNG remove_core = MCH } # The Qing Dynasty
+1650.1.1   = { manpower = 0.6 }
+1700.1.1   = { manpower = 0.7 }
+1739.1.1   = { discovered_by = RUS } # Martin Spanberg
+1750.1.1   = { manpower = 0.8 }
+1800.1.1   = { manpower = 1 }

@@ -1,0 +1,14 @@
+# 1179 : Barotse
+
+capital = "Barotse"
+owner = LOA
+controller = LOA
+add_core = LOA
+citysize = 1000 
+culture = xhosa
+religion = bantu
+base_tax = 1
+manpower = 1
+trade_goods = millet
+hre = no
+

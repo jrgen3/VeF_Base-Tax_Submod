@@ -1,0 +1,44 @@
+#539 - Tondainadu
+owner = GOC
+controller = GOC
+culture = tamil
+religion = hinduism
+capital = "Agastheeswaram"
+trade_goods = spices
+hre = no
+base_tax = 2
+manpower = 4
+citysize = 20000
+add_core = GOC
+fort1 = yes
+trading_post = yes #The main import/export port for the huge city of Vijayanagar
+dock = yes	#The main import/export port for the huge city of Vijayanagar
+discovered_by = indopersian
+discovered_by = indian
+
+1336.1.1 = { owner = VIJ controller = VIJ add_core = VIJ remove_core = GOC }
+1405.1.1 = { discovered_by = chinese }
+1443.1.1 = { controller = ORI } # Conquered by Gajapatis
+1444.10.1 = {	owner = ORI } # Conquered by Gajapatis
+1450.1.1 = { citysize = 35000 }
+1462.1.1 = { controller = VIJ } # Reconquered by Vijayanagar
+1464.1.1 = { owner = VIJ } # Reconquered by Vijayanagar
+1482.5.1 = { controller = ORI }
+1489.1.1 = { controller = VIJ }
+1498.1.1 = { discovered_by = POR }
+1500.1.1 = { citysize = 38000 }
+1550.1.1 = { citysize = 38500 }
+1600.1.1 = { citysize = 36000 }
+#1610.1.1 #Dutch Trade
+1616.1.1 = {	owner = NED controller = NED add_core = NED remove_core = VIJ } # Dutch east india company's capital
+1639.1.1 = { owner = GBR controller = GBR add_core = GBR remove_core = NED capital = "Madras" fort2 = yes } # Ceded by Vijayanagara & Company Capital
+1640.1.1  = { citysize = 15000 } # Fort St George
+1700.1.1  = { citysize = 25000 }
+1746.9.1 = { controller = FRA }
+1748.10.18 = { controller = GBR } #Peace of Aachen
+1750.1.1  = { citysize = 55000 }
+1758.6.7 = { controller = FRA }
+1760.1.22 = {controller = GBR } #Battle of Wandiwash
+1800.1.1  = { citysize = 125000 }
+1806.7.10 = { revolt = { type = nationalist_rebels size = 3 } controller = REB } # The Vellore Mutiny
+1806.7.11 = { revolt = {} controller = GBR } # British control is restored

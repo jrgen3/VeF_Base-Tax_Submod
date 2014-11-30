@@ -1,0 +1,41 @@
+#591 - Thawai
+
+owner = SUK
+controller = SUK
+culture = mon
+religion = buddhism
+capital = "Tavoy"
+trade_goods = fish
+hre = no
+base_tax = 4
+manpower = 2
+citysize = 4000
+add_core = PEG
+discovered_by = chinese
+discovered_by = indian
+
+
+1351.1.1 = { owner = PEG controller = PEG remove_core = SUK }
+1450.1.1 = { citysize = 4800 }
+1500.1.1 = { citysize = 5740 }
+1535.1.1 = { discovered_by = POR }
+1539.1.1 = {	owner = TAU
+		controller = TAU
+		add_core = TAU
+	   } # Annexed to the Kingdom of Taungoo
+1550.1.1 = { citysize = 7351 }
+1594.1.1 = { add_core = AYU }
+1600.1.1 = { citysize = 8858 }
+1605.1.1 = { owner = AYU controller = AYU }
+1614.1.1 = { owner = TAU controller = TAU } # Taungu regained Tenasserim
+1650.1.1 = { citysize = 10450 }
+1700.1.1 = { citysize = 12230 }
+1740.11.1 = { owner = PEG controller = PEG } # Restored Pegu Dynasty
+1750.1.1 = { citysize = 14223 }
+1757.1.1 = { owner = TAU controller = TAU citysize = 72000 } # Pegu is sacked & returned to Burmese control
+1800.1.1 = { citysize = 16570 }
+1835.1.1 = {
+	owner = GBR
+	controller = GBR
+	add_core = GBR
+	} # East India Company Expansion

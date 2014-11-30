@@ -1,0 +1,14 @@
+# 1209 : Loango
+
+capital = "Loango"
+owner = KON
+controller = KON
+add_core = KON
+citysize =   6500
+culture = somali
+religion = shiite
+base_tax = 2
+manpower = 1
+trade_goods = slaves
+discovered_by = sub_saharan
+hre = no

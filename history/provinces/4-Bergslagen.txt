@@ -1,0 +1,51 @@
+#Bergslagen, contains Falun, Västerås etc.
+# Manpower revision complete
+
+add_core = SWE
+owner = SWE
+controller = SWE
+culture = swedish
+religion = catholic
+hre = no
+base_tax = 2
+trade_goods = iron
+manpower = 0.75
+fort1 = yes
+capital = "Västerås"
+citysize = 500 #estimate
+temple = yes #"Domkyrkan i Västerås"
+discovered_by = eastern
+discovered_by = scandinavian_tech
+discovered_by = western
+discovered_by = byzantine
+
+1353.1.1   = { manpower = 0.5 add_province_modifier = { name = "province_black_death" duration = 3650 } set_province_flag = had_black_death } # Black Death
+1360.1.1   = { remove_province_modifier = province_black_death }
+1400.1.1   = { manpower = 0.5 }
+1400.1.1   = { fort2 = yes }
+1434.6.1   = { revolt = { type = anti_tax_rebels size = 2 name = "Engelbrekt" } controller = REB } # Engelbrekt rebellion
+1436.4.27  = { revolt = {} controller = SWE } # Engelbrekt was murdered by Måns Bengtsson Natt och Dag
+1436.4.28  = { revolt = { type = anti_tax_rebels size = 1 } controller = REB } # Karl Knutsson Bonde elected leader
+1438.3.1   = { revolt = {} controller = SWE } # Unclear date
+1438.10.1  = { revolt = { type = anti_tax_rebels size = 1 } controller = REB } # Karl Knutsson Bonde, unclear date
+1440.9.1   = { revolt = {} controller = SWE } # Christopher III elected Union King
+1448.6.20  = { revolt = {} controller = SWE } # Karl VIII is elected king of Sweden
+1497.3.13  = { controller = DAN } # Danish loyalists at Danish DoW
+1497.10.6  = { controller = SWE } # Hans I become King and Sweden a Danish Vassal
+1500.1.1   = { manpower = 0.75 }
+1501.8.1   = { controller = DAN } # Danish loyalists at Swedish DoW and breaking of vassalage
+1503.6.1   = { controller = SWE } # Retaken by Sweden
+# 1520.3.6  = { owner = DAN controller = DAN } # The Council accept Christian II as King
+# 1521.5.20 = { owner = SWE controller = SWE } # Liberated by Gustav Eriksson Wasa
+1527.6.1   = { religion = protestant}
+1544.1.1   = { fort3 = yes } # Västerås Castle
+1560.1.1   = { trading_post = yes } # Controller of trade route from the Swedish Mine Region
+1600.1.1   = { manpower = 1 }
+1601.1.1   = { weapons = yes } # Several weapon factories in this region
+1625.1.1   = { army_base = yes } # Västmanlandsregemente
+1635.1.1   = { courthouse = yes } # Minor court belonging to Svea Hovrätt
+1650.1.1   = { manpower = 1.25 }
+1670.1.1   = { tax_assessor = yes } # Due to the "Staplepolicy act"
+1700.1.1   = { manpower = 1.1 }
+1750.1.1   = { manpower = 1.4 fort4 = yes } # Castle renovated after fire
+1800.1.1   = { manpower = 1.5 }

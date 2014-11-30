@@ -1,0 +1,24 @@
+# 2439 - Tirhut
+
+owner = BNG
+controller = BNG
+culture = bihari
+religion = buddhism
+capital = "Sagauna"
+trade_goods = silk
+hre = no
+base_tax = 3
+manpower = 1
+citysize = 4000
+add_core = BNG
+fort1 = yes
+discovered_by = chinese
+
+
+1400.1.1 = { citysize = 13000 }
+1500.1.1 = { citysize = 14000 }
+1600.1.1 = { citysize = 16000 }
+1650.1.1 = { citysize = 27700 }
+1700.1.1 = { citysize = 17000 }
+1750.1.1 = { citysize = 18000 }
+1800.1.1 = { citysize = 19000 }

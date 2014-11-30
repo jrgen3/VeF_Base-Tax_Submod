@@ -1,0 +1,25 @@
+#605 - Prey Nokor
+
+owner = CHA
+controller = CHA
+culture = cham
+religion = hinduism
+capital = "Prey Nokor"
+trade_goods = cloves
+hre = no
+base_tax = 3
+manpower = 4
+citysize = 10400
+add_core = CHA
+discovered_by = chinese
+
+
+1400.1.1 = { citysize = 12800 }
+1500.1.1 = { citysize = 14583 }
+1535.1.1 = { discovered_by = POR }
+1550.1.1 = { citysize = 16358 }
+1600.1.1 = { citysize = 18544 }
+1650.1.1 = { citysize = 20187 }
+1700.1.1 = { citysize = 22280 }
+1750.1.1 = { citysize = 24450 }
+1800.1.1 = { citysize = 26580 }

@@ -1,0 +1,31 @@
+#728 - Yichun
+
+owner = YUN
+controller = YUN
+culture = manchu
+religion = confucianism
+capital = "Yichun"
+trade_goods = fur
+hre = no
+base_tax = 2
+manpower = 3
+citysize = 9950
+add_core = YUN
+fort1 = yes
+discovered_by = chinese
+
+
+1368.4.1 = { owner = MCH controller = MCH add_core = MCH remove_core = YUN }
+1450.1.1 = { citysize = 10080 }
+1500.1.1 = { citysize = 12210 }
+1550.1.1 = { citysize = 14055 }
+1600.1.1 = { citysize = 15100 }
+1645.7.1  = {	owner = QNG
+		controller = QNG
+		add_core = QNG
+		remove_core = MCH
+	    } # The Qing Dynasty
+1650.1.1 = { citysize = 16806 }
+1700.1.1 = { citysize = 18200 }
+1750.1.1 = { citysize = 20055 }
+1800.1.1 = { citysize = 22800 }

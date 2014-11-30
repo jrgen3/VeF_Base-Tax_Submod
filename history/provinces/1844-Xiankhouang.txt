@@ -1,0 +1,42 @@
+#1844 - Xiankhouang
+
+owner = KHM
+controller = KHM
+culture = lao
+religion = buddhism
+capital = "Posavan"
+trade_goods = rice
+hre = no
+base_tax = 2
+manpower = 1
+citysize = 24300
+add_core = LXA
+add_core = KHM
+discovered_by = chinese
+
+1354.1.1 = { owner = LXA controller = LXA remove_core = KHM }
+1450.1.1 = { citysize = 28700 }
+1483.1.1 = { add_core = DAI } # Vietnamese Invasion
+1500.1.1 = { citysize = 32985 }
+1550.1.1 = { citysize = 37000 }
+1579.1.1 = { unrest = 5 } # Revolt against vassalization
+1580.1.1 = { unrest = 0 }
+1593.1.1 = { unrest = 4 } # Revolt against Burmese vassalization
+1600.1.1 = { citysize = 42888 }
+1603.1.1 = { unrest = 0 remove_core = TAU }
+1627.1.1 = { unrest = 6 }
+1633.1.1 = { unrest = 0 }
+1650.1.1 = { citysize = 48700 }
+1694.1.1 = { add_core = TOK } # Vietnamese Intervention
+1700.1.1 = { citysize = 50900 }
+1707.1.1 = {	owner = LUA
+		controller = LUA
+		add_core = LUA
+		remove_core = LXA
+	   	remove_core = DAI
+		remove_core = TOK
+	   } # Declared independent, Lan Xang was partitioned into three kingdoms; Vientiane, Champasak & Luang Prabang
+1750.1.1 = { citysize = 52250 }
+1778.1.1 = { add_core = AYU } # Siamnese vassalization
+1780.1.1 = { unrest = 4 }
+1800.1.1 = { citysize = 54570 }

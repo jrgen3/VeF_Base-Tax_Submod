@@ -1,0 +1,43 @@
+#266 - Bohemia
+owner = BOH
+controller = BOH
+add_core = BOH
+capital = "Praha"
+culture = czech
+religion = catholic
+trade_goods = silver
+hre = yes
+base_tax = 5
+manpower = 4
+citysize = 55000
+fort1 = yes
+discovered_by = eastern
+discovered_by = scandinavian_tech
+discovered_by = indopersian
+discovered_by = western
+discovered_by = byzantine
+college = yes
+trading_post = yes 
+temple = yes
+
+1348.1.1 = { college = yes } # University of Emperor Charles IV
+1419.7.30 = { religion = hussite }
+1450.1.1   = { citysize = 65000 }
+# George of Podiebrand had to secure recognition from the German and Catholic towns
+1457.1.1   = { unrest = 5 army_base = yes } 
+1464.1.1   = { unrest = 1 } # The Catholic nobility still undermines the crown.
+1471.1.1   = { unrest = 0 }
+# Battle of Mohac where Lajos II dies -> Habsburg succession
+1526.8.30  = {	owner = HAB controller = HAB add_core = HAB remove_core = BOH } 
+1550.1.1   = { citysize = 75000 trade_goods = grain } #customs_house = yes
+1576.1.1   = { religion = protestant }
+1600.1.1   = { citysize = 90000 sheriffs_office = yes }
+# Defenestration of Prague
+1618.5.23  = { owner = BOH controller = BOH add_core = BOH }
+# Tilly beats the Winterking. Deus Vult!
+1620.11.8  = {	owner = HAB controller = HAB remove_core = BOH } 
+# ... and let us start this session by executing the most inconvenient nobles....
+1621.1.1  = { courthouse = yes } 
+# Order from Ferdinand II to reconvert to Catholicism, many Protestant leave the country  
+1627.1.1  = { citysize = 80000 religion = catholic } 
+1806.7.12 = { hre = no } # The Holy Roman Empire is dissolved

@@ -1,0 +1,22 @@
+# 2699 - Pune
+
+owner = DLH
+controller = DLH
+culture = marathi
+religion = hinduism
+capital = "Pune"
+trade_goods = fish
+hre = no
+base_tax = 6
+manpower = 26
+citysize = 150000
+add_core = DLH
+fort1 = yes
+discovered_by = indian
+
+1500.1.1 = { citysize = 327000 }
+1600.1.1 = { citysize = 309000 }
+1650.1.1 = { citysize = 270000 }
+1700.1.1 = { citysize = 276000 }
+1750.1.1 = { citysize = 285000 }
+1800.1.1 = { citysize = 294000 }

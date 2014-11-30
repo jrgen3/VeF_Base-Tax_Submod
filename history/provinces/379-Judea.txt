@@ -1,0 +1,34 @@
+#379 - Judea
+# Manpower revision complete
+
+owner = MAM
+controller = MAM
+culture = al_suryah_arabic
+religion = sunni
+capital = "Jerusalem"
+trade_goods = grain
+hre = no
+base_tax = 2
+manpower = 1
+citysize = 170000
+fort1 = yes
+fort2 = yes
+temple = yes
+add_core = MAM
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = scandinavian_tech
+discovered_by = ottoman
+discovered_by = indopersian
+discovered_by = western
+discovered_by = byzantine
+
+
+1400.1.1   = { manpower = 1 }
+1500.1.1   = { manpower = 1 }
+1517.1.1   = { owner = TUR controller = TUR add_core = TUR fort2 = yes } # Part of the Ottoman empire
+1600.1.1   = { manpower = 1 }
+1650.1.1   = { manpower = 1 }
+1700.1.1   = { manpower = 1 }
+1750.1.1   = { manpower = 1 tax_assessor = yes }
+1800.1.1   = { manpower = 1 }

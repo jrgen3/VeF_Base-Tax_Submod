@@ -1,0 +1,44 @@
+#81 - Hessen
+
+owner = HES
+controller = HES
+add_core = HES
+capital = "Marburg"
+trade_goods = wool
+fort1 = yes
+culture = rhinefranconian
+religion = catholic
+base_tax = 4
+manpower = 2
+citysize = 12000
+trading_post = yes
+courthouse  = yes
+hre = yes
+discovered_by = eastern
+discovered_by = scandinavian_tech
+discovered_by = indopersian
+discovered_by = western
+discovered_by = byzantine
+
+1450.1.1   = { citysize = 14000 }
+1500.1.1   = { fort2 = yes citysize = 16000 temple = yes }
+1536.1.1   = { religion = protestant }
+1550.1.1   = { citysize = 18000 army_base = yes }
+1555.1.1   = { base_tax = 24 } # Full minting rights granted by the Emperor
+1585.1.1   = { blacksmith = yes citysize = 22000} 
+1620.1.1   = { army_base = yes sheriffs_office = yes citysize = 24000 fort3 = yes }
+1650.1.1   = { citysize = 25000 }
+1685.1.1   = { citysize = 26000 tax_assessor = yes } #customs_house = yes Reformed refugees find shelter in Kassel (-> Oberneustadt founded)
+1720.1.1   = { citysize = 36000 fort4 = yes }
+1800.1.1   = { citysize = 37000 }
+1806.7.12  = { hre = no } # The Holy Roman Empire is dissolved
+1807.7.9   = {	owner = WES
+		controller = WES
+		add_core = WES
+		fort3 = yes
+	     } # The Second Treaty of Tilsit, the kingdom of Westfalia
+1813.9.1   = { controller = RUS } # Occupied by Russian troops
+1813.10.14 = {	owner = HES
+		controller = HES
+		remove_core = WES
+	     } # Westfalia is dissolved after the Battle of Leipsig

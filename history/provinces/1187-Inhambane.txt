@@ -1,0 +1,15 @@
+# 1187 : Inhambane
+
+capital = "Inhambane"
+owner = ZAN
+controller = ZAN
+add_core = ZAN
+citysize =   5000
+culture = shona
+religion = bantu
+base_tax = 2
+manpower = 2
+trade_goods = ivory
+discovered_by = tribal_african_tech 
+hre = no
+

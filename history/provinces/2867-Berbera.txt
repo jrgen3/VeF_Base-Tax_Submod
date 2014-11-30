@@ -1,0 +1,15 @@
+# 2848 - Dankali
+
+capital = "Dankali"
+owner = ADA
+controller = ADA
+add_core = ADA
+citysize =   8000
+culture = somali
+religion = coptic
+base_tax = 2
+manpower = 1
+trade_goods = millet
+discovered_by = sudanese_tech
+hre = no
+fort1 = yes

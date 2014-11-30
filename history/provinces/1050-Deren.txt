@@ -1,0 +1,27 @@
+#1050 - Deren
+# Manpower revision complete
+
+culture = yakut
+religion = tengri
+capital = "Deren"
+trade_goods = unknown
+hre = no
+native_size = 10
+native_ferocity = 1
+native_hostileness = 3
+
+1643.1.1   = { discovered_by = RUS } # Vasily Poyarkov
+1689.8.27  = { discovered_by = QNG
+		owner = QNG
+		controller = QNG
+		add_core = QNG
+		citysize = 1150
+		manpower = 0.1
+		base_tax = 2
+		culture = manchu
+		religion = confucianism
+		trade_goods = fish
+	    } # Treaty of Nerchinsk
+1700.1.1   = { manpower = 0.1 }
+1750.1.1   = { manpower = 0.1 }
+1800.1.1   = { manpower = 0.1 }

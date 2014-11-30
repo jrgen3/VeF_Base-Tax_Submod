@@ -1,0 +1,2 @@
+# 1463 : Gulf of Kongo - autobuid script by Africa team and Penguintopia
+discovered_by = tribal_african_tech

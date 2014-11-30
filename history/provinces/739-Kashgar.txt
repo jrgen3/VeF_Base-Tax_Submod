@@ -1,0 +1,28 @@
+#739 - Kashgar
+
+owner = CHG
+controller = CHG
+culture = mongol
+religion = tengri
+capital = "Kashgar"
+trade_goods = wool
+hre = no
+base_tax = 2
+manpower = 1
+citysize = 6540
+add_core = CHG
+discovered_by = nomad_group
+fort1 = yes
+
+1360.1.1 = { owner = TIM controller = TIM add_core = TIM remove_core = CHG } #Tamerlane begins his campaigns
+1450.1.1 = { citysize = 6900 }
+1462.1.1 = {	owner = KSG controller = KSG add_core = KSG remove_core = TIM } # eastern CHG
+1500.1.1 = { citysize = 7222 }
+1550.1.1 = { citysize = 8354 }
+1600.1.1 = { citysize = 9500 }
+1650.1.1 = { citysize = 10100 }
+1669.1.1 = {	owner = OIR controller = OIR add_core = OIR remove_core = CHG } # The Oirads
+1700.1.1 = { citysize = 11578 }
+1750.1.1 = { citysize = 12300 }
+1757.1.1 = {	owner = QNG controller = QNG add_core = QNG} # Part of the Manchu empire
+1800.1.1 = { citysize = 13487 }

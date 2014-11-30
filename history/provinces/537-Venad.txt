@@ -1,0 +1,33 @@
+#537 - Venad
+owner = MAD
+controller = MAD
+culture = malayalam
+religion = hinduism
+capital = "Kollam"
+trade_goods = ebony
+hre = no
+base_tax = 2
+manpower = 4
+citysize = 90000
+add_core = MAD
+add_core = VND
+fort1 = yes
+discovered_by = indian
+discovered_by = indopersian
+discovered_by = byzantine
+
+1350.1.1 = { owner = VND controller = VND remove_core = MAD }
+1405.1.1 = { discovered_by = chinese }
+1450.1.1 = { citysize = 80000 }
+1498.1.1 = { discovered_by = POR }
+1500.1.1 = { citysize = 75000 }
+1550.1.1 = { citysize = 20000 capital = "Padmanabhapuram" }
+1600.1.1 = { citysize = 22000 }
+1650.1.1 = { citysize = 28000 }
+1662.1.1 = { controller = NED }
+1663.1.1 = { owner = NED }
+1700.1.1 = { citysize = 31000 }
+1729.1.1 = { owner = VND controller = VND }#Dutch traders
+1750.1.1 = { citysize = 35000 }
+1795.1.1 = { capital = "Thiruvananthapuram" } # Rama Varma moved the capital
+1800.1.1 = { citysize = 40000 }

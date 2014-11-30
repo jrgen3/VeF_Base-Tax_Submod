@@ -1,0 +1,23 @@
+# 2423 - Chanda
+
+owner = ORI
+controller = ORI
+culture = marathi
+religion = hinduism
+capital = "Ballarsah"
+trade_goods = wool
+hre = no
+base_tax = 3
+manpower = 1
+citysize = 11400
+add_core = ORI
+fort1 = yes
+discovered_by = indian
+
+
+1500.1.1 = { citysize = 14899 }
+1600.1.1 = { citysize = 17548 }
+1650.1.1 = { citysize = 14854 }
+1700.1.1 = { citysize = 21000 }
+1750.1.1 = { citysize = 23185 }
+1800.1.1 = { citysize = 25412 }

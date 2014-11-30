@@ -1,0 +1,24 @@
+# 2561 - Xiangyang
+
+owner = YUN
+controller = YUN
+culture = chihan
+religion = confucianism
+capital = "Xiangyang"
+trade_goods = rice
+hre = no
+base_tax = 2
+manpower = 4
+citysize = 2500
+add_core = YUN
+fort1 = yes
+discovered_by = chinese
+
+
+1400.1.1 = { citysize = 2500 }
+1500.1.1 = { citysize = 2500 }
+1600.1.1 = { citysize = 2500 }
+1650.1.1 = { citysize = 2500 }
+1700.1.1 = { citysize = 15000 }
+1750.1.1 = { citysize = 2500 }
+1800.1.1 = { citysize = 2500 }

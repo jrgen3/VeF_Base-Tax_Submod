@@ -1,0 +1,16 @@
+# 2530 : Zamfara
+
+capital = "Zamfara"
+owner = ZZZ
+controller = ZZZ
+add_core = ZZZ
+citysize =   2600
+culture = bedouin_arabic
+religion = ibadi
+base_tax = 2
+manpower = 0.75
+trade_goods = livestock
+hre = no
+fort1 = yes
+
+
