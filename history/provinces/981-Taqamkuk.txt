@@ -8,7 +8,7 @@ native_hostileness = 0
 citysize = 0
 trade_goods = naval_supplies
 hre = no
-base_tax = 2
+base_tax = 1
 manpower = 1
 
 1497.6.24 = { discovered_by = ENG } # John Cabot

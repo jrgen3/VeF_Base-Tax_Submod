@@ -3,7 +3,7 @@
 capital = "Bermuda"
 trade_goods = unknown
 hre = no
-base_tax = 2 
+base_tax = 1 
 manpower = 1
 religion = totemism
 native_size = 0
