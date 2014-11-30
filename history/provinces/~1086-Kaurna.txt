@@ -1,0 +1,24 @@
+#1086 - Kaurna
+
+culture = aboriginal
+religion = animism
+capital = "Kaurna"
+trade_goods = unknown
+hre = no
+base_tax = 3
+manpower = 1
+native_size = 10
+native_ferocity = 1
+native_hostileness = 9
+
+1836.12.28 = {	
+		discovered_by = GBR
+		owner = GBR
+		controller = GBR
+		culture = english
+		religion = anglican
+		citysize = 350
+		capital = "Adelaide"
+		trade_goods = naval_supplies
+	    }
+1840.1.1 = { citysize = 1200 add_core = GBR }
