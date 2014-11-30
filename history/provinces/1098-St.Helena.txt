@@ -3,7 +3,7 @@
 capital = "Jamestown"
 culture = kongo
 religion = animism
-base_tax = 2
+base_tax = 1
 manpower = 0.5
 trade_goods = unknown
 hre = no
